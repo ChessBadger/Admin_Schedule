@@ -2,6 +2,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const loginForm = document.getElementById('loginForm');
   const darkModeToggle = document.getElementById('darkModeToggle');
   const fileInput = document.getElementById('fileInput');
+  const fetchLocalJson = document.getElementById('fetchLocalJson');
   const searchForm = document.getElementById('searchForm');
 
   // Handle login form submission
@@ -47,6 +48,22 @@ document.addEventListener('DOMContentLoaded', function () {
       } else {
         document.getElementById('jsonOutput').textContent = 'Please upload a valid JSON file.';
       }
+    });
+  }
+
+  // Handle fetch local JSON
+  if (fetchLocalJson) {
+    fetchLocalJson.addEventListener('click', function () {
+      fetch('store_runs.json')
+        .then((response) => response.json())
+        .then((json) => {
+          localStorage.setItem('jsonData', JSON.stringify(json));
+          document.getElementById('searchSection').style.display = 'block';
+        })
+        .catch((error) => {
+          console.error('Error fetching local JSON:', error);
+          document.getElementById('jsonOutput').textContent = 'Error fetching local JSON file.';
+        });
     });
   }
 

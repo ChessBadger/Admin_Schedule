@@ -5,34 +5,119 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Admin Login</title>
     <link rel="stylesheet" href="styles.css" />
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        margin: 0;
+        padding: 0;
+      }
+
+      .container {
+        max-width: 600px;
+        margin: 50px auto;
+        padding: 20px;
+        background-color: #fff;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+
+      h1 {
+        text-align: center;
+        margin-bottom: 20px;
+      }
+
+      .button {
+        display: block;
+        width: 100%;
+        padding: 10px;
+        margin: 10px 0;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        text-align: center;
+      }
+
+      .button:hover {
+        background-color: #0056b3;
+      }
+
+      input[type='file'] {
+        display: block;
+        margin: 0 auto 10px auto;
+      }
+
+      .form-group {
+        margin-bottom: 15px;
+      }
+
+      label {
+        display: block;
+        margin-bottom: 5px;
+      }
+
+      input[type='text'],
+      input[type='password'] {
+        width: 100%;
+        padding: 8px;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+      }
+
+      .error {
+        color: red;
+        text-align: center;
+      }
+
+      .dark-mode {
+        background-color: #333;
+        color: #fff;
+      }
+
+      .dark-mode input[type='text'],
+      .dark-mode input[type='password'] {
+        background-color: #555;
+        color: #fff;
+        border: 1px solid #777;
+      }
+    </style>
   </head>
   <body>
-    <div id="loginSection">
+    <div class="container" id="loginSection">
       <h1>Admin Login</h1>
-      <button id="darkModeToggle">Dark Mode</button>
+      <button id="darkModeToggle" class="button">Dark Mode</button>
       <form id="loginForm">
-        <label for="username">Username:</label>
-        <input type="text" id="username" required />
-        <label for="password">Password:</label>
-        <input type="password" id="password" required />
-        <button type="submit">Login</button>
+        <div class="form-group">
+          <label for="username">Username:</label>
+          <input type="text" id="username" required />
+        </div>
+        <div class="form-group">
+          <label for="password">Password:</label>
+          <input type="password" id="password" required />
+        </div>
+        <button type="submit" class="button">Login</button>
       </form>
       <p id="loginError" class="error"></p>
     </div>
 
-    <div id="uploadSection" style="display: none">
+    <div class="container" id="uploadSection" style="display: none">
       <h1>Upload and Read JSON File</h1>
       <input type="file" id="fileInput" accept=".json" />
+      <button id="fetchLocalJson" class="button">Fetch Local JSON</button>
       <p id="jsonOutput" class="error"></p>
     </div>
 
-    <div id="searchSection" style="display: none">
+    <div class="container" id="searchSection" style="display: none">
       <h1>Search Employee Runs</h1>
       <h2 id="employeeNameHeader"></h2>
       <form id="searchForm">
-        <label for="employeeName">Employee Name:</label>
-        <input type="text" id="employeeName" required />
-        <button type="submit">Search</button>
+        <div class="form-group">
+          <label for="employeeName">Employee Name:</label>
+          <input type="text" id="employeeName" required />
+        </div>
+        <button type="submit" class="button">Search</button>
       </form>
       <div id="resultsContainer"></div>
     </div>
