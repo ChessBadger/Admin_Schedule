@@ -36,6 +36,7 @@ document.addEventListener('DOMContentLoaded', function () {
       localStorage.removeItem('username'); // Clear username from localStorage
       document.getElementById('loginSection').style.display = 'block';
       document.getElementById('uploadSection').style.display = 'none';
+      document.getElementById('searchSection').style.display = 'none';
     });
   }
 

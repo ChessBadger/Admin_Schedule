@@ -259,6 +259,7 @@ body.dark-mode .card {
   background: #252525;
   border-color: white;
   color: #f0f0f0;
+  box-shadow: 0 0 8px 1px white;
 }
 
 body.dark-mode .store-card {
