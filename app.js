@@ -74,6 +74,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             location.reload(); // Refresh the screen after login
+            location.reload(); // Refresh the screen after login
           } else {
             document.getElementById('loginError').textContent = 'Invalid username or password';
           }
