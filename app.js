@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function () {
   if (searchForm) {
     searchForm.addEventListener('submit', function (event) {
       event.preventDefault();
-      const employeeName = document.getElementById('employeeName').value.trim();
+      const employeeName = document.getElementById('employeeName').value.trim().toLowerCase();
       if (employeeName) {
         const jsonData = JSON.parse(localStorage.getItem('jsonData'));
         const results = searchEmployeeRuns(jsonData, employeeName);
@@ -89,212 +89,224 @@ document.addEventListener('DOMContentLoaded', function () {
       }
     });
   }
-});
 
-// Search for employee runs
-function searchEmployeeRuns(json, employeeName) {
-  return json.filter((run) => {
-    return Object.keys(run.employee_list).some((employee) => employee.toLowerCase().includes(employeeName.toLowerCase()));
-  });
-}
-
-// Display search results
-function displaySearchResults(results, employeeName) {
-  const resultsContainer = document.getElementById('resultsContainer');
-  resultsContainer.innerHTML = '';
-
-  if (results.length === 0) {
-    resultsContainer.textContent = 'No runs found for the specified employee.';
-    return;
+  // Search for employee runs
+  function searchEmployeeRuns(json, employeeName) {
+    const regex = new RegExp(`\\b${employeeName}\\b`);
+    return json.filter((run) => {
+      return Object.keys(run.employee_list).some((employee) => regex.test(employee.toLowerCase()));
+    });
   }
 
-  // Group runs by date
-  const groupedByDate = results.reduce((acc, run) => {
-    (acc[run.date] = acc[run.date] || []).push(run);
-    return acc;
-  }, {});
+  // Display search results
+  function displaySearchResults(results, employeeName) {
+    const resultsContainer = document.getElementById('resultsContainer');
+    resultsContainer.innerHTML = '';
 
-  // Create a card for each date
-  Object.keys(groupedByDate).forEach((date) => {
-    const dateCard = document.createElement('div');
-    dateCard.classList.add('card');
+    const jsonData = JSON.parse(localStorage.getItem('jsonData'));
 
-    const dateHeader = document.createElement('h3');
-    dateHeader.textContent = date;
-    dateCard.appendChild(dateHeader);
+    // Create a set of dates from the JSON data
+    const allDates = new Set(jsonData.map((run) => run.date));
 
-    // Add runs of the date to the card
-    groupedByDate[date].forEach((run) => {
-      const runElement = document.createElement('div');
-      runElement.classList.add('run-details');
+    const groupedByDate = results.reduce((acc, run) => {
+      (acc[run.date] = acc[run.date] || []).push(run);
+      return acc;
+    }, {});
 
-      if (run.meet_time) {
-        const meetTime = document.createElement('p');
-        meetTime.innerHTML = `<strong>Meet Time:</strong> ${run.meet_time}`;
-        runElement.appendChild(meetTime);
-      }
+    // Create date cards for all dates
+    allDates.forEach((date) => {
+      const dateCard = document.createElement('div');
+      dateCard.classList.add('card');
 
-      if (run.start_time) {
-        const startTime = document.createElement('p');
-        startTime.innerHTML = `<strong>Start Time:</strong> ${run.start_time}`;
-        runElement.appendChild(startTime);
-      }
+      const dateHeader = document.createElement('h3');
+      dateHeader.textContent = date;
+      dateCard.appendChild(dateHeader);
 
-      let supervisor = '';
-      let drivers = [];
-      let searchNameNote = '';
-      Object.keys(run.employee_list).forEach((employee) => {
-        const [number, note] = run.employee_list[employee];
-        if (employee.toLowerCase().includes(employeeName.toLowerCase())) {
-          searchNameNote = note; // Capture the note of the search name
-        }
-        if (number === '1)') {
-          supervisor = employee;
-        }
-        if (note.toLowerCase().includes('driver')) {
-          drivers.push(employee);
-        }
-      });
+      const runsForDate = groupedByDate[date] || [];
 
-      if (supervisor) {
-        const supervisorElement = document.createElement('p');
-        supervisorElement.innerHTML = `<strong>Supervisor:</strong> ${supervisor}`;
-        runElement.appendChild(supervisorElement);
-      }
+      let foundEmployee = false;
+      runsForDate.forEach((run) => {
+        const runElement = document.createElement('div');
+        runElement.classList.add('run-details');
 
-      if (run.meet_time && drivers.length > 0) {
-        const driversElement = document.createElement('p');
-        driversElement.innerHTML = `<strong>Drivers:</strong> ${drivers.join(' | ')}`;
-        runElement.appendChild(driversElement);
-      }
-
-      // Replace the store note location with the note of the search name
-      if (searchNameNote) {
-        const searchNameNoteElement = document.createElement('p');
-        searchNameNoteElement.innerHTML = `<strong>Note</strong>: ${searchNameNote}`;
-        runElement.appendChild(searchNameNoteElement);
-      }
-
-      const storeCardContainer = document.createElement('div');
-      storeCardContainer.classList.add('store-card-container');
-      if (run.store_name.length > 1) {
-        storeCardContainer.classList.add('hidden');
-      }
-
-      run.store_name.forEach((store, index) => {
-        const storeCard = document.createElement('div');
-        storeCard.classList.add('store-card');
-
-        const storeName = document.createElement('p');
-        storeName.innerHTML = `<strong>${store}</strong>`;
-        storeCard.appendChild(storeName);
-
-        // Move the current store note into the run card section
-        if (run.store_note) {
-          const storeNote = document.createElement('p');
-          storeNote.innerHTML = `${run.store_note}`;
-          storeNote.style.color = 'red'; // Set store note text color to red
-          storeCard.appendChild(storeNote);
+        // Populate runElement with run details
+        if (run.meet_time) {
+          const meetTime = document.createElement('p');
+          meetTime.innerHTML = `<strong>Meet Time:</strong> ${run.meet_time}`;
+          runElement.appendChild(meetTime);
         }
 
-        if (run.inv_type[index] !== undefined) {
-          const invType = document.createElement('p');
-          invType.innerHTML = `${run.inv_type[index]}`;
-          storeCard.appendChild(invType);
+        if (run.start_time) {
+          const startTime = document.createElement('p');
+          startTime.innerHTML = `<strong>Start Time:</strong> ${run.start_time}`;
+          runElement.appendChild(startTime);
         }
 
-        const link = document.createElement('a');
-        link.href = run.link[index];
-        link.textContent = run.address[index];
-        storeCard.appendChild(link);
-
-        storeCardContainer.appendChild(storeCard);
-      });
-
-      if (run.store_name.length > 1) {
-        const toggleStoreButton = document.createElement('button');
-        toggleStoreButton.textContent = 'Toggle Stores';
-        toggleStoreButton.classList.add('show-all');
-        toggleStoreButton.addEventListener('click', () => {
-          storeCardContainer.classList.toggle('hidden');
-        });
-        runElement.appendChild(toggleStoreButton);
-      }
-
-      runElement.appendChild(storeCardContainer);
-
-      const employeeList = document.createElement('ul');
-      employeeList.classList.add('employee-list', 'hidden');
-      const isSpecialEmployee = Object.keys(run.employee_list).some((employee) => {
-        if (employee.toLowerCase().includes(employeeName.toLowerCase())) {
-          const [number, note] = run.employee_list[employee];
-          return number === '1)' || (note.toLowerCase().includes('driver') && !note.toLowerCase().includes('@ store'));
-        }
-        return false;
-      });
-
-      if (isSpecialEmployee) {
+        let supervisor = '';
+        let drivers = [];
+        let searchNameNote = '';
         Object.keys(run.employee_list).forEach((employee) => {
           const [number, note] = run.employee_list[employee];
-          if (employee.toLowerCase() !== employeeName.toLowerCase() && !note.toLowerCase().includes('@ store')) {
-            const listItem = document.createElement('li');
-            listItem.innerHTML = `<strong>${employee}</strong>`;
-            employeeList.appendChild(listItem);
-            // CAR LOGO
-            const carLogoLight = document.createElement('img');
-            carLogoLight.src = 'car_logo_light.png'; // Update with actual path
-            carLogoLight.classList.add('car-logo', 'car-logo-light');
-            dateCard.appendChild(carLogoLight);
-
-            const carLogoDark = document.createElement('img');
-            carLogoDark.src = 'car_logo_dark.png'; // Update with actual path
-            carLogoDark.classList.add('car-logo', 'car-logo-dark');
-            dateCard.appendChild(carLogoDark);
+          if (employee.toLowerCase() === employeeName.toLowerCase()) {
+            searchNameNote = note; // Capture the note of the search name
+            foundEmployee = true;
+          }
+          if (number === '1)') {
+            supervisor = employee;
+          }
+          if (note.toLowerCase().includes('driver')) {
+            drivers.push(employee);
           }
         });
-      }
 
-      let isSupervisor = false;
-      Object.keys(run.employee_list).forEach((employee) => {
-        const [number] = run.employee_list[employee];
-        if (employee.toLowerCase().includes(employeeName.toLowerCase()) && number === '1)') {
-          isSupervisor = true;
+        if (supervisor) {
+          const supervisorElement = document.createElement('p');
+          supervisorElement.innerHTML = `<strong>Supervisor:</strong> ${supervisor}`;
+          runElement.appendChild(supervisorElement);
         }
-      });
 
-      if (isSupervisor) {
-        employeeList.innerHTML = '';
-        Object.keys(run.employee_list).forEach((employee) => {
-          const [number, note] = run.employee_list[employee];
-          if (employee.toLowerCase() !== employeeName.toLowerCase()) {
-            const listItem = document.createElement('li');
-            if (note != '') {
-              listItem.innerHTML = `<strong>${employee}</strong> - ${note}`;
-            } else {
+        if (run.meet_time && drivers.length > 0) {
+          const driversElement = document.createElement('p');
+          driversElement.innerHTML = `<strong>Drivers:</strong> ${drivers.join(' | ')}`;
+          runElement.appendChild(driversElement);
+        }
+
+        if (searchNameNote) {
+          const searchNameNoteElement = document.createElement('p');
+          searchNameNoteElement.innerHTML = `<strong>Note</strong>: ${searchNameNote}`;
+          runElement.appendChild(searchNameNoteElement);
+        }
+
+        const storeCardContainer = document.createElement('div');
+        storeCardContainer.classList.add('store-card-container');
+        if (run.store_name.length > 1) {
+          storeCardContainer.classList.add('hidden');
+        }
+
+        run.store_name.forEach((store, index) => {
+          const storeCard = document.createElement('div');
+          storeCard.classList.add('store-card');
+
+          const storeName = document.createElement('p');
+          storeName.innerHTML = `<strong>${store}</strong>`;
+          storeCard.appendChild(storeName);
+
+          if (run.store_note) {
+            const storeNote = document.createElement('p');
+            storeNote.innerHTML = `${run.store_note}`;
+            storeNote.style.color = 'red';
+            storeCard.appendChild(storeNote);
+          }
+
+          if (run.inv_type[index] !== undefined) {
+            const invType = document.createElement('p');
+            invType.innerHTML = `${run.inv_type[index]}`;
+            storeCard.appendChild(invType);
+          }
+
+          const link = document.createElement('a');
+          link.href = run.link[index];
+          link.textContent = run.address[index];
+          storeCard.appendChild(link);
+
+          storeCardContainer.appendChild(storeCard);
+        });
+
+        if (run.store_name.length > 1) {
+          const toggleStoreButton = document.createElement('button');
+          toggleStoreButton.textContent = 'Toggle Stores';
+          toggleStoreButton.classList.add('show-all');
+          toggleStoreButton.addEventListener('click', () => {
+            storeCardContainer.classList.toggle('hidden');
+          });
+          runElement.appendChild(toggleStoreButton);
+        }
+
+        runElement.appendChild(storeCardContainer);
+
+        const employeeList = document.createElement('ul');
+        employeeList.classList.add('employee-list', 'hidden');
+        const isSpecialEmployee = Object.keys(run.employee_list).some((employee) => {
+          if (employee.toLowerCase() === employeeName.toLowerCase()) {
+            const [number, note] = run.employee_list[employee];
+            return number === '1)' || (note.toLowerCase().includes('driver') && !note.toLowerCase().includes('@ store'));
+          }
+          return false;
+        });
+
+        if (isSpecialEmployee) {
+          Object.keys(run.employee_list).forEach((employee) => {
+            const [number, note] = run.employee_list[employee];
+            if (employee.toLowerCase() !== employeeName.toLowerCase() && !note.toLowerCase().includes('@ store')) {
+              const listItem = document.createElement('li');
               listItem.innerHTML = `<strong>${employee}</strong>`;
+              employeeList.appendChild(listItem);
+              const carLogoLight = document.createElement('img');
+              carLogoLight.src = 'car_logo_light.png';
+              carLogoLight.classList.add('car-logo', 'car-logo-light');
+              dateCard.appendChild(carLogoLight);
+
+              const carLogoDark = document.createElement('img');
+              carLogoDark.src = 'car_logo_dark.png';
+              carLogoDark.classList.add('car-logo', 'car-logo-dark');
+              dateCard.appendChild(carLogoDark);
             }
-            employeeList.appendChild(listItem);
+          });
+        }
+
+        let isSupervisor = false;
+        Object.keys(run.employee_list).forEach((employee) => {
+          const [number] = run.employee_list[employee];
+          if (employee.toLowerCase() === employeeName.toLowerCase() && number === '1)') {
+            isSupervisor = true;
           }
         });
+
+        if (isSupervisor) {
+          employeeList.innerHTML = '';
+          Object.keys(run.employee_list).forEach((employee) => {
+            const [number, note] = run.employee_list[employee];
+            if (employee.toLowerCase() !== employeeName.toLowerCase()) {
+              const listItem = document.createElement('li');
+              if (note !== '') {
+                listItem.innerHTML = `<strong>${employee}</strong> - ${note}`;
+              } else {
+                listItem.innerHTML = `<strong>${employee}</strong>`;
+              }
+              employeeList.appendChild(listItem);
+            }
+          });
+        }
+
+        if (employeeList.childElementCount > 0) {
+          const toggleEmployeeButton = document.createElement('button');
+          toggleEmployeeButton.textContent = 'Toggle Employees';
+          toggleEmployeeButton.addEventListener('click', () => {
+            employeeList.classList.toggle('hidden');
+          });
+          runElement.appendChild(toggleEmployeeButton);
+        }
+
+        runElement.appendChild(employeeList);
+        dateCard.appendChild(runElement);
+
+        const separator = document.createElement('hr');
+        dateCard.appendChild(separator);
+      });
+
+      if (runsForDate.length === 0 || !foundEmployee) {
+        const noRunsMessage = document.createElement('p');
+        dateCard.appendChild(noRunsMessage);
       }
 
-      if (employeeList.childElementCount > 0) {
-        const toggleEmployeeButton = document.createElement('button');
-        toggleEmployeeButton.textContent = 'Toggle Employees';
-        toggleEmployeeButton.addEventListener('click', () => {
-          employeeList.classList.toggle('hidden');
-        });
-        runElement.appendChild(toggleEmployeeButton);
-      }
-
-      runElement.appendChild(employeeList);
-      dateCard.appendChild(runElement);
-
-      // Add a separation line or space between different runs on the same date
-      const separator = document.createElement('hr');
-      dateCard.appendChild(separator);
+      resultsContainer.appendChild(dateCard);
     });
 
-    resultsContainer.appendChild(dateCard);
-  });
-}
+    // Sort the date cards
+    const dateCards = Array.from(resultsContainer.getElementsByClassName('card'));
+    dateCards.sort((a, b) => new Date(a.querySelector('h3').textContent) - new Date(b.querySelector('h3').textContent));
+
+    resultsContainer.innerHTML = '';
+    dateCards.forEach((card) => resultsContainer.appendChild(card));
+  }
+});
