@@ -1158,61 +1158,65 @@
         "meet_time": "6:30 AM MEET OFFICE",
         "start_time": "7:00 AM START",
         "inv_type": [
+            "DC5-FINANCIAL",
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "GAUGERT'S BUSS STOP, SULLIVAN"
+            "GAUGERT'S BUSS STOP, SULLIVAN",
+            "RON'S MARKET, HELENVILLE"
         ],
         "address": [
-            "141 MAIN ST"
+            "141 MAIN ST",
+            "W3094 HWY 18"
         ],
         "link": [
-            "https://goo.gl/maps/TEUfEX2J1AE2"
+            "https://goo.gl/maps/TEUfEX2J1AE2",
+            "https://goo.gl/maps/pyYX7wkpwom"
         ],
-        "store_note": "APPROX 9:30/10:30 AM START",
+        "store_note": null,
         "employee_list": {
-            "RON'S MARKET, HELENVILLE": [
-                "",
-                ""
+            "DJ": [
+                "1)",
+                "Driver,\nAltima, Equip"
             ],
-            "W3094 HWY 18": [
-                "",
-                ""
-            ],
-            "https://goo.gl/maps/pyYX7wkpwom": [
-                "",
+            "Mai": [
+                "2)",
                 ""
             ]
         }
     },
     {
         "date": "Mon, Jun 24",
-        "meet_time": null,
-        "start_time": "DJ",
+        "meet_time": "5:00 AM MEET WATERTOWN PLANK",
+        "start_time": "6:00 AM START",
         "inv_type": [
-            "Mai"
+            "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            ""
+            "DHILLON'S BP, FOND DU LAC-PROSPECT"
         ],
         "address": [
-            ""
+            "330 PROSPECT AVE"
         ],
         "link": [
-            "5:00 AM MEET WATERTOWN PLANK"
+            "https://goo.gl/maps/fpFifzkM3ePQqS786"
         ],
-        "store_note": "6:00 AM START",
+        "store_note": null,
         "employee_list": {
-            "DHILLON'S BP, FOND DU LAC-PROSPECT": [
-                "",
+            "Lashaun": [
+                "1)",
+                "Driver,\nTan Camry, Equip"
+            ],
+            "Casey": [
+                "2)",
                 ""
             ],
-            "330 PROSPECT AVE": [
-                "",
+            "Jerry D": [
+                "3)",
                 ""
             ],
-            "https://goo.gl/maps/fpFifzkM3ePQqS786": [
-                "",
+            "Stephanie": [
+                "4)",
                 ""
             ]
         }
@@ -1314,129 +1318,73 @@
         "meet_time": "6:30 AM MEET OFFICE",
         "start_time": "7:00 AM START",
         "inv_type": [
-            "EXCEL FINANCIAL"
+            "EXCEL FINANCIAL",
+            "DC5-FINANCIAL"
         ],
         "store_name": [
-            "CONCORD GENERAL STORE, OCONOMOWOC"
+            "CONCORD GENERAL STORE, OCONOMOWOC",
+            "CONDON OIL #195, THERESA"
         ],
         "address": [
-            "N6485 COUNTY RD F"
+            "N6485 COUNTY RD F",
+            "213 N MILWAUKEE"
         ],
         "link": [
-            "https://goo.gl/maps/X4xEoL3zCRA2"
-        ],
-        "store_note": "APPROX 10:30/11:30 AM",
-        "employee_list": {
-            "CONDON OIL #195, THERESA": [
-                "",
-                ""
-            ],
-            "213 N MILWAUKEE": [
-                "",
-                ""
-            ],
-            "https://goo.gl/maps/dBrycqMgUwF2": [
-                "",
-                ""
-            ]
-        }
-    },
-    {
-        "date": "Tue, Jun 25",
-        "meet_time": null,
-        "start_time": "Ian",
-        "inv_type": [
-            "Paul"
-        ],
-        "store_name": [
-            ""
-        ],
-        "address": [
-            ""
-        ],
-        "link": [
-            "5:30 AM START"
-        ],
-        "store_note": "DC5-FINANCIAL",
-        "employee_list": {
-            "1306 HWY 175": [
-                "",
-                ""
-            ],
-            "https://goo.gl/maps/SZRuQ4FHA1cX2ZmC8": [
-                "",
-                ""
-            ],
-            "TO FOLLOW": [
-                "",
-                ""
-            ],
-            "DC5-FINANCIAL": [
-                "",
-                ""
-            ],
-            "ROTE OIL #7 MILWAUKEE": [
-                "",
-                ""
-            ],
-            "5931 N 91ST ST": [
-                "",
-                ""
-            ],
-            "https://goo.gl/maps/cw58s7atAhTAGHNd7": [
-                "",
-                ""
-            ],
-            "EXCEL FINANCIAL": [
-                "",
-                ""
-            ],
-            "ROTE OIL #8 ELM GROVE": [
-                "",
-                ""
-            ],
-            "13395 WATERTOWN PLANK RD": [
-                "",
-                ""
-            ],
-            "https://goo.gl/maps/5zXAKpcRHDmA17UK9": [
-                "",
-                ""
-            ],
-            "ROTE OIL #09 GREENFIELD": [
-                "",
-                ""
-            ],
-            "12345 W LAYTON AVE": [
-                "",
-                ""
-            ],
-            "https://goo.gl/maps/TSgMUriHbJPX9hGE7": [
-                "",
-                ""
-            ]
-        }
-    },
-    {
-        "date": "Tue, Jun 25",
-        "meet_time": null,
-        "start_time": "Katherine",
-        "inv_type": [
-            "Casey"
-        ],
-        "store_name": [
-            "Lashaun"
-        ],
-        "address": [
-            ""
-        ],
-        "link": [
-            ""
+            "https://goo.gl/maps/X4xEoL3zCRA2",
+            "https://goo.gl/maps/dBrycqMgUwF2"
         ],
         "store_note": null,
         "employee_list": {
-            "": [
-                "",
+            "Ian": [
+                "1)",
+                "Driver,\nTan Camry, Equip"
+            ],
+            "Paul": [
+                "2)",
+                ""
+            ]
+        }
+    },
+    {
+        "date": "Tue, Jun 25",
+        "meet_time": null,
+        "start_time": "5:30 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL",
+            "EXCEL FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "ROTE OIL #6 HUBERTUS",
+            "ROTE OIL #7 MILWAUKEE",
+            "ROTE OIL #8 ELM GROVE",
+            "ROTE OIL #09 GREENFIELD"
+        ],
+        "address": [
+            "1306 HWY 175",
+            "5931 N 91ST ST",
+            "13395 WATERTOWN PLANK RD",
+            "12345 W LAYTON AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/SZRuQ4FHA1cX2ZmC8",
+            "https://goo.gl/maps/cw58s7atAhTAGHNd7",
+            "https://goo.gl/maps/5zXAKpcRHDmA17UK9",
+            "https://goo.gl/maps/TSgMUriHbJPX9hGE7"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "White Camry available, Equip"
+            ],
+            "Casey": [
+                "2)",
+                ""
+            ],
+            "Lashaun": [
+                "3)",
                 ""
             ]
         }

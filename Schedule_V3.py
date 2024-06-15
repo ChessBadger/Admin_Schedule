@@ -144,7 +144,7 @@ if folders:
                 header_value = sheet.cell(row=1, column=process_col - 1).value
 
                 # Iterate through the rows starting from min_row and process_col
-                for row in sheet.iter_rows(min_row=min_row, min_col=process_col, max_col=process_col):
+                for row in sheet.iter_rows(min_row=min_row, max_row=163, min_col=process_col, max_col=process_col):
                     if break_outer_loop:
                         break
                     for cell in row:
@@ -225,6 +225,8 @@ if folders:
                         elif current_state == 'found_store_link':
                             if value == 'TO FOLLOW':
                                 current_state = 'to_follow'
+                            elif value and 'APPROX' in value:
+                                current_state = 'to_follow'
                             elif value:
                                 store_run.store_note = value
                                 current_state = 'found_store_note'
@@ -248,7 +250,6 @@ if folders:
                                 current_state = 'found_employee'
                                 store_run.add_employee(
                                     value, number_value, note_value)
-
                         # If the current state is 'found_employee', continue capturing employees
                         elif current_state == "found_employee":
                             if value:
@@ -257,7 +258,12 @@ if folders:
                             elif next_store:
                                 current_state = 'searching'
                                 save_store_runs_to_json()
+                            # elif value is None or value == '':
+                            #     if header_value == 'Mon, Jun 24':
+                            #         print("kill me")
                             else:
+                                if header_value == 'Mon, Jun 24':
+                                    print("don't kill me")
                                 save_store_runs_to_json()
                                 break_outer_loop = True
 
