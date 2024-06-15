@@ -4,7 +4,7 @@ from googleapiclient.discovery import build
 import json
 import openpyxl
 import os
-import re
+import subprocess
 
 json_file_path = 'store_runs.json'
 
@@ -264,3 +264,16 @@ if folders:
 
 else:
     print(f"No folder found with the name {folder_name}")
+
+
+# Add all changes to the staging area
+subprocess.run(['git', 'add', '.'], check=True)
+
+# Commit changes with a message that includes the current date and time
+commit_message = subprocess.check_output(
+    ['date', '+%Y-%m-%d %H:%M:%S']).decode('utf-8').strip()
+subprocess.run(
+    ['git', 'commit', '-m', f"Automated commit. Updated: {commit_message}"], check=True)
+
+# Push changes to the 'main' branch of the 'origin' remote repository
+subprocess.run(['git', 'push', 'origin', 'g2excel'], check=True)
