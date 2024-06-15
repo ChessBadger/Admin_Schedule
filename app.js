@@ -1,8 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
   const loginForm = document.getElementById('loginForm');
   const darkModeToggle = document.getElementById('darkModeToggle');
-  const fileInput = document.getElementById('fileInput');
-  const fetchLocalJson = document.getElementById('fetchLocalJson');
   const searchForm = document.getElementById('searchForm');
   const signOutButton = document.getElementById('signOutButton'); // Sign Out button
 
@@ -15,7 +13,8 @@ document.addEventListener('DOMContentLoaded', function () {
   const savedUsername = localStorage.getItem('username');
   if (savedUsername) {
     document.getElementById('loginSection').style.display = 'none';
-    document.getElementById('uploadSection').style.display = 'block';
+    fetchLocalJson(); // Fetch local JSON automatically
+    document.getElementById('signOutButton').style.display = 'block';
   } else {
     document.getElementById('signOutButton').style.display = 'none';
   }
@@ -30,7 +29,7 @@ document.addEventListener('DOMContentLoaded', function () {
       if (username === 'admin' && password === 'admin') {
         localStorage.setItem('username', username); // Save username to localStorage
         document.getElementById('loginSection').style.display = 'none';
-        document.getElementById('uploadSection').style.display = 'block';
+        fetchLocalJson(); // Fetch local JSON automatically
         document.getElementById('signOutButton').style.display = 'block';
       } else {
         document.getElementById('loginError').textContent = 'Invalid username or password';
@@ -43,7 +42,6 @@ document.addEventListener('DOMContentLoaded', function () {
     signOutButton.addEventListener('click', function () {
       localStorage.removeItem('username'); // Clear username from localStorage
       document.getElementById('loginSection').style.display = 'block';
-      document.getElementById('uploadSection').style.display = 'none';
       document.getElementById('searchSection').style.display = 'none';
       document.getElementById('signOutButton').style.display = 'none';
       document.getElementById('username').value = '';
@@ -63,43 +61,18 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
-  // Handle file input change
-  if (fileInput) {
-    fileInput.addEventListener('change', function (event) {
-      const file = event.target.files[0];
-      if (file && file.type === 'application/json') {
-        const reader = new FileReader();
-        reader.onload = function (e) {
-          try {
-            const json = JSON.parse(e.target.result);
-            localStorage.setItem('jsonData', JSON.stringify(json));
-            document.getElementById('searchSection').style.display = 'block';
-          } catch (error) {
-            console.error('Error parsing JSON:', error);
-            document.getElementById('jsonOutput').textContent = 'Error parsing JSON file.';
-          }
-        };
-        reader.readAsText(file);
-      } else {
-        document.getElementById('jsonOutput').textContent = 'Please upload a valid JSON file.';
-      }
-    });
-  }
-
-  // Handle fetch local JSON
-  if (fetchLocalJson) {
-    fetchLocalJson.addEventListener('click', function () {
-      fetch('store_runs.json')
-        .then((response) => response.json())
-        .then((json) => {
-          localStorage.setItem('jsonData', JSON.stringify(json));
-          document.getElementById('searchSection').style.display = 'block';
-        })
-        .catch((error) => {
-          console.error('Error fetching local JSON:', error);
-          document.getElementById('jsonOutput').textContent = 'Error fetching local JSON file.';
-        });
-    });
+  // Fetch local JSON
+  function fetchLocalJson() {
+    fetch('store_runs.json')
+      .then((response) => response.json())
+      .then((json) => {
+        localStorage.setItem('jsonData', JSON.stringify(json));
+        document.getElementById('searchSection').style.display = 'block';
+      })
+      .catch((error) => {
+        console.error('Error fetching local JSON:', error);
+        document.getElementById('jsonOutput').textContent = 'Error fetching local JSON file.';
+      });
   }
 
   // Handle search form submission
