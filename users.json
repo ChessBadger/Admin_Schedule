@@ -11,10 +11,40 @@
       "displayName": "lashaun"
     },
     {
-      "username": "user2",
-      "password": "password2",
+      "username": "kimtest",
+      "password": "1234",
       "type": "user",
-      "displayName": "Jane Smith"
-    }
+      "displayName": "kim"
+    },
+    {
+        "username": "djtest",
+        "password": "1234",
+        "type": "user",
+        "displayName": "dj"
+      },
+      {
+        "username": "iantest",
+        "password": "1234",
+        "type": "user",
+        "displayName": "ian"
+      },
+      {
+        "username": "maitest",
+        "password": "1234",
+        "type": "user",
+        "displayName": "mai"
+      },
+      {
+        "username": "mom",
+        "password": "mom",
+        "type": "user",
+        "displayName": "lashaun"
+      },
+      {
+        "username": "aivy",
+        "password": "aivy",
+        "type": "user",
+        "displayName": "lashaun"
+      }
   ]
   
