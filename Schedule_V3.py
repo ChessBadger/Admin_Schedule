@@ -247,7 +247,7 @@ if folders:
                                 save_store_runs_to_json()
                                 current_state = 'searching'
                                 next_cell = sheet.cell(
-                                    row=cell.row + 2, column=cell.column).value
+                                    row=cell.row + 1, column=cell.column).value
                                 if next_cell:
                                     store_run.add_employee(
                                         value, number_value, note_value)
@@ -267,8 +267,6 @@ if folders:
                             #     if header_value == 'Mon, Jun 24':
                             #         print("kill me")
                             else:
-                                if header_value == 'Mon, Jun 24':
-                                    print("don't kill me")
                                 save_store_runs_to_json()
                                 break_outer_loop = True
 
