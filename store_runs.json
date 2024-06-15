@@ -1565,10 +1565,14 @@
             "https://goo.gl/maps/ejQSLoz2D8EmzKVq6",
             ""
         ],
-        "store_note": "Katherine",
+        "store_note": null,
         "employee_list": {
-            "": [
-                "",
+            "Katherine": [
+                "1)",
+                "White Camry available, Equip"
+            ],
+            "Ian": [
+                "2)",
                 ""
             ]
         }
@@ -1693,148 +1697,118 @@
     },
     {
         "date": "Thu, Jun 27",
-        "meet_time": null,
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [
-            "5:15 AM OFFICE"
-        ],
-        "address": [],
-        "link": [],
-        "store_note": null,
-        "employee_list": {
-            "6:00 AM START": [
-                "",
-                ""
-            ],
-            "DC5-ITEM LEVEL": [
-                "",
-                ""
-            ],
-            "DHILLON'S BP, ASHIPPUN": [
-                "",
-                ""
-            ],
-            "N649 STATE RD 67": [
-                "",
-                ""
-            ],
-            "https://goo.gl/maps/ma91pJMETDK2": [
-                "",
-                ""
-            ]
-        }
-    },
-    {
-        "date": "Thu, Jun 27",
-        "meet_time": null,
-        "start_time": "Kim",
+        "meet_time": "5:15 AM OFFICE MEET",
+        "start_time": "6:00 AM START",
         "inv_type": [
-            "Cynthia"
+            "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "Paul"
+            "DHILLON'S BP, ASHIPPUN"
         ],
         "address": [
-            "Sonia"
+            "N649 STATE RD 67"
         ],
         "link": [
-            ""
+            "https://goo.gl/maps/ma91pJMETDK2"
         ],
         "store_note": null,
         "employee_list": {
-            "5:00 AM MEET AT OFFICE": [
-                "",
+            "Kim": [
+                "1)",
+                "Driver,\nSante Fe, Equip"
+            ],
+            "Cynthia": [
+                "2)",
                 ""
             ],
-            "6:00 AM START": [
-                "",
+            "Paul": [
+                "3)",
                 ""
             ],
-            "DC5-FINANCIAL": [
-                "",
-                ""
-            ],
-            "ROTE OIL #1 PADDOCK LAKE- BRASS BALL": [
-                "",
-                ""
-            ],
-            "25406 75TH ST": [
-                "",
-                ""
-            ],
-            "https://goo.gl/maps/LTa4ckcczx5qc8269": [
-                "",
-                ""
-            ],
-            "TO FOLLOW": [
-                "",
-                ""
-            ],
-            "ROTE OIL #2 PADDOCK LAKE- 75TH ST": [
-                "",
-                ""
-            ],
-            "25555 75TH ST": [
-                "",
-                ""
-            ],
-            "https://goo.gl/maps/5UyWWXXbzXMaVnv99": [
-                "",
+            "Sonia": [
+                "4)",
                 ""
             ]
         }
     },
     {
         "date": "Thu, Jun 27",
-        "meet_time": null,
-        "start_time": "Katherine",
+        "meet_time": "5:00 AM MEET AT OFFICE",
+        "start_time": "6:00 AM START",
         "inv_type": [
-            "Ian"
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
         ],
         "store_name": [
-            ""
+            "ROTE OIL #1 PADDOCK LAKE- BRASS BALL",
+            "ROTE OIL #2 PADDOCK LAKE- 75TH ST"
         ],
         "address": [
-            ""
+            "25406 75TH ST",
+            "25555 75TH ST"
         ],
         "link": [
-            "4:30 AM OFFICE MEET"
+            "https://goo.gl/maps/LTa4ckcczx5qc8269",
+            "https://goo.gl/maps/5UyWWXXbzXMaVnv99"
         ],
-        "store_note": "6:00 AM START",
+        "store_note": null,
         "employee_list": {
-            "WILLY STREET COOP, MIDDLETON": [
-                "",
-                ""
+            "Katherine": [
+                "1)",
+                "Equip"
             ],
-            "6825 UNIVERSITY AVE": [
-                "",
-                ""
-            ],
-            "https://goo.gl/maps/in4JiZtePA62": [
-                "",
-                ""
+            "Ian": [
+                "2)",
+                "Driver,\nWhite Camry"
             ]
         }
     },
     {
         "date": "Thu, Jun 27",
-        "meet_time": null,
-        "start_time": "Nate",
+        "meet_time": "4:30 AM OFFICE MEET",
+        "start_time": "6:00 AM START",
         "inv_type": [
-            "Curt"
+            "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "Jerry D"
+            "WILLY STREET COOP, MIDDLETON"
         ],
         "address": [
-            "Robyn"
+            "6825 UNIVERSITY AVE"
         ],
         "link": [
-            "Sue"
+            "https://goo.gl/maps/in4JiZtePA62"
         ],
-        "store_note": "Evelin",
+        "store_note": null,
         "employee_list": {
+            "Nate": [
+                "1)",
+                "@ Store, Equip"
+            ],
+            "Curt": [
+                "2)",
+                ""
+            ],
+            "Jerry D": [
+                "3)",
+                ""
+            ],
+            "Robyn": [
+                "4)",
+                ""
+            ],
+            "Sue": [
+                "5)",
+                "Driver,\nRed Van"
+            ],
+            "Evelin": [
+                "6)",
+                "@ Store"
+            ],
+            "Jeri": [
+                "7)",
+                "@ Store"
+            ],
             "Justin": [
                 "8)",
                 "@ Store"
@@ -2007,60 +1981,32 @@
     },
     {
         "date": "Fri, Jun 28",
-        "meet_time": null,
-        "start_time": "5:15 AM METT COLLEGE (SOUTHWEST)",
+        "meet_time": "5:15 AM MEET COLLEGE (SOUTHWEST)",
+        "start_time": "6:00 AM START",
         "inv_type": [
-            "6:00 AM START"
-        ],
-        "store_name": [
+            "DC5-FINANCIAL",
             "DC5-FINANCIAL"
         ],
-        "address": [
-            "ROTE OIL #14 TREVOR (CITGO)"
-        ],
-        "link": [
-            "12617 ANTIOCH RD"
-        ],
-        "store_note": "https://goo.gl/maps/xA9YMzPGc6Vhxi5r8",
-        "employee_list": {
-            "DC5-FINANCIAL": [
-                "",
-                ""
-            ],
-            "ROTE OIL #13 TREVOR (BP)": [
-                "",
-                ""
-            ],
-            "12511 ANTIOCH RD": [
-                "",
-                ""
-            ],
-            "https://goo.gl/maps/iu3xzNwgJ32esP5RA": [
-                "",
-                ""
-            ]
-        }
-    },
-    {
-        "date": "Fri, Jun 28",
-        "meet_time": null,
-        "start_time": "Ian",
-        "inv_type": [
-            "Paul"
-        ],
         "store_name": [
-            ""
+            "ROTE OIL #14 TREVOR (CITGO)",
+            "ROTE OIL #13 TREVOR (BP)"
         ],
         "address": [
-            ""
+            "12617 ANTIOCH RD",
+            "12511 ANTIOCH RD"
         ],
         "link": [
-            ""
+            "https://goo.gl/maps/xA9YMzPGc6Vhxi5r8",
+            "https://goo.gl/maps/iu3xzNwgJ32esP5RA"
         ],
         "store_note": null,
         "employee_list": {
-            "": [
-                "",
+            "Ian": [
+                "1)",
+                "Driver,\nRed Van, Equip"
+            ],
+            "Paul": [
+                "2)",
                 ""
             ]
         }
