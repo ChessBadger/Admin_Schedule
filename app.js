@@ -80,7 +80,6 @@ document.addEventListener('DOMContentLoaded', function () {
           console.error('Error fetching users data:', error);
           document.getElementById('loginError').textContent = 'Error fetching users data';
         });
-      location.reload();
     });
   }
 
@@ -140,10 +139,19 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   function performSearch(employeeName) {
-    const jsonData = JSON.parse(localStorage.getItem('jsonData'));
-    const results = searchEmployeeRuns(jsonData, employeeName);
-    displaySearchResults(results, employeeName);
-    document.getElementById('employeeName').value = ''; // Clear the textbox
+    let jsonData = localStorage.getItem('jsonData');
+    if (!jsonData) {
+      fetchLocalJson(); // Fetch the JSON data again if it's null
+      jsonData = localStorage.getItem('jsonData');
+    }
+
+    if (jsonData) {
+      const results = searchEmployeeRuns(JSON.parse(jsonData), employeeName);
+      displaySearchResults(results, employeeName);
+      document.getElementById('employeeName').value = ''; // Clear the textbox
+    } else {
+      document.getElementById('resultsContainer').textContent = 'No data available for search.';
+    }
   }
 
   // Search for employee runs
