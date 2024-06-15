@@ -298,24 +298,27 @@ body.dark-mode h3 {
 }
 
 #darkModeToggle {
-  position: absolute;
+  position: fixed;
   top: 20px;
-  right: 20px;
+  left: 50%;
+  transform: translateX(-50%);
   z-index: 1000;
-  background-color: #ffffff;
-  color: #1f1f1f;
-  padding: 8px 16px;
-  font-size: 14px;
+  background-color: transparent;
+  border: none;
   cursor: pointer;
+  padding: 0;
+  width: fit-content;
+  height: fit-content;
 }
 
-#darkModeToggle:hover {
-  color: #1f1f1f;
+#darkModeToggle img {
+  width: 50px; /* Adjust size as needed */
+  height: 50px; /* Adjust size as needed */
+  border-radius: 25px;
 }
 
-body.dark-mode #darkModeToggle {
-  background-color: #1f1f1f;
-  color: #ffffff;
+body.dark-mode #darkModeToggle img {
+  filter: invert(1);
 }
 
 @media (max-width: 900px) {

@@ -5,13 +5,19 @@ document.addEventListener('DOMContentLoaded', function () {
   const fetchLocalJson = document.getElementById('fetchLocalJson');
   const searchForm = document.getElementById('searchForm');
   const signOutButton = document.getElementById('signOutButton'); // Sign Out button
-  document.getElementById('signOutButton').style.display = 'none';
+
+  // Check for saved dark mode preference
+  if (localStorage.getItem('darkMode') === 'enabled') {
+    document.body.classList.add('dark-mode');
+  }
 
   // Check for saved login
   const savedUsername = localStorage.getItem('username');
   if (savedUsername) {
     document.getElementById('loginSection').style.display = 'none';
     document.getElementById('uploadSection').style.display = 'block';
+  } else {
+    document.getElementById('signOutButton').style.display = 'none';
   }
 
   // Handle login form submission
@@ -49,6 +55,11 @@ document.addEventListener('DOMContentLoaded', function () {
   if (darkModeToggle) {
     darkModeToggle.addEventListener('click', function () {
       document.body.classList.toggle('dark-mode');
+      if (document.body.classList.contains('dark-mode')) {
+        localStorage.setItem('darkMode', 'enabled');
+      } else {
+        localStorage.setItem('darkMode', 'disabled');
+      }
     });
   }
 
