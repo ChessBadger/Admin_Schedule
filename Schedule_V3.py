@@ -108,6 +108,7 @@ if folders:
     query = f"mimeType='application/vnd.google-apps.spreadsheet' and '{folder_id}' in parents"
     file_response = drive_service.files().list(q=query).execute()
     files = file_response.get('files', [])
+    files = sorted(files, key=lambda x: x['name'])
     process_columns = [2, 6, 10, 14, 18, 22, 26]
 
     for file in files:
@@ -160,7 +161,22 @@ if folders:
                         next_store = sheet.cell(
                             row=cell.row + 2, column=cell.column).value
 
-                        # Check if the current state is 'searching' and the cell contains 'meet'
+                        if cell.row == 8 and cell.value is None:
+                            store_run = StoreRun(
+                                date=None, meet_time=None, start_time=None)
+                            store_run.date = header_value
+                            save_store_runs_to_json()
+                            break_outer_loop = True
+                            break
+                        elif cell.row == 8 and cell.value == '':
+                            store_run = StoreRun(
+                                date=None, meet_time=None, start_time=None)
+                            store_run.date = header_value
+                            save_store_runs_to_json()
+                            break_outer_loop = True
+                            break
+
+                            # Check if the current state is 'searching' and the cell contains 'meet'
                         if value and current_state == 'searching' and 'meet' in value.lower():
                             store_run = StoreRun(
                                 date=None, meet_time=None, start_time=None)
@@ -244,7 +260,6 @@ if folders:
                             else:
                                 save_store_runs_to_json()
                                 break_outer_loop = True
-                                break
 
 
 else:

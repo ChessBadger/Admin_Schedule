@@ -1126,28 +1126,26 @@
         }
     },
     {
+        "date": "Sat, Jun 15",
+        "meet_time": null,
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [],
+        "address": [],
+        "link": [],
+        "store_note": null,
+        "employee_list": {}
+    },
+    {
         "date": "Sun, Jun 16",
         "meet_time": null,
-        "start_time": "FATHER'S DAY",
-        "inv_type": [
-            ""
-        ],
-        "store_name": [
-            ""
-        ],
-        "address": [
-            ""
-        ],
-        "link": [
-            ""
-        ],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [],
+        "address": [],
+        "link": [],
         "store_note": null,
-        "employee_list": {
-            "": [
-                "",
-                ""
-            ]
-        }
+        "employee_list": {}
     },
     {
         "date": "Mon, Jun 17",
@@ -2128,5 +2126,16 @@
                 "After Metro"
             ]
         }
+    },
+    {
+        "date": "Sat, Jun 22",
+        "meet_time": null,
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [],
+        "address": [],
+        "link": [],
+        "store_note": null,
+        "employee_list": {}
     }
 ]
