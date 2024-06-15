@@ -72,6 +72,8 @@ document.addEventListener('DOMContentLoaded', function () {
               employeeNameHeader.textContent = `Results for: ${user.displayName.toUpperCase()}`;
               performSearch(user.displayName); // Perform search for the logged-in user
             }
+
+            location.reload(); // Refresh the screen after login
           } else {
             document.getElementById('loginError').textContent = 'Invalid username or password';
           }
