@@ -2,7 +2,9 @@ document.addEventListener('DOMContentLoaded', function () {
   const loginForm = document.getElementById('loginForm');
   const darkModeToggle = document.getElementById('darkModeToggle');
   const searchForm = document.getElementById('searchForm');
-  const signOutButton = document.getElementById('signOutButton'); // Sign Out button
+  const signOutButton = document.getElementById('signOutButton');
+  const searchInputGroup = document.getElementById('searchInputGroup');
+  const backgroundName = document.getElementById('backgroundName');
 
   // Check for saved dark mode preference
   if (localStorage.getItem('darkMode') === 'enabled') {
@@ -11,10 +13,25 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // Check for saved login
   const savedUsername = localStorage.getItem('username');
+  const savedUserType = localStorage.getItem('userType');
+  const savedUserDisplayName = localStorage.getItem('userDisplayName');
+
   if (savedUsername) {
     document.getElementById('loginSection').style.display = 'none';
-    fetchLocalJson(); // Fetch local JSON automatically
     document.getElementById('signOutButton').style.display = 'block';
+    fetchLocalJson(); // Fetch local JSON automatically
+
+    if (savedUserType === 'admin') {
+      document.getElementById('searchSection').style.display = 'block';
+    } else {
+      document.getElementById('searchSection').style.display = 'block';
+      document.getElementById('searchTitle').style.display = 'none';
+      document.getElementById('searchButton').style.display = 'none';
+      searchInputGroup.style.display = 'none';
+      const employeeNameHeader = document.getElementById('employeeNameHeader');
+      employeeNameHeader.textContent = `${savedUserDisplayName.toUpperCase()}`;
+      performSearch(savedUserDisplayName); // Perform search for the logged-in user
+    }
   } else {
     document.getElementById('signOutButton').style.display = 'none';
   }
@@ -26,26 +43,56 @@ document.addEventListener('DOMContentLoaded', function () {
       const username = document.getElementById('username').value.toLowerCase();
       const password = document.getElementById('password').value;
 
-      if (username === 'admin' && password === 'admin') {
-        localStorage.setItem('username', username); // Save username to localStorage
-        document.getElementById('loginSection').style.display = 'none';
-        fetchLocalJson(); // Fetch local JSON automatically
-        document.getElementById('signOutButton').style.display = 'block';
-      } else {
-        document.getElementById('loginError').textContent = 'Invalid username or password';
-      }
+      // Load user data from external file
+      fetch('users.json')
+        .then((response) => response.json())
+        .then((users) => {
+          const user = users.find((user) => user.username === username && user.password === password);
+
+          if (user) {
+            localStorage.setItem('username', username);
+            localStorage.setItem('userType', user.type);
+            localStorage.setItem('userDisplayName', user.displayName || username);
+            document.getElementById('loginSection').style.display = 'none';
+            document.getElementById('signOutButton').style.display = 'block';
+            fetchLocalJson(); // Fetch local JSON automatically
+
+            if (user.type === 'admin') {
+              document.getElementById('searchSection').style.display = 'block';
+            } else {
+              document.getElementById('searchSection').style.display = 'block';
+              searchInputGroup.style.display = 'none';
+              const employeeNameHeader = document.getElementById('employeeNameHeader');
+              employeeNameHeader.textContent = `Results for: ${user.displayName.toUpperCase()}`;
+              performSearch(user.displayName); // Perform search for the logged-in user
+            }
+          } else {
+            document.getElementById('loginError').textContent = 'Invalid username or password';
+          }
+        })
+        .catch((error) => {
+          console.error('Error fetching users data:', error);
+          document.getElementById('loginError').textContent = 'Error fetching users data';
+        });
+      location.reload();
     });
   }
 
   // Handle sign out
   if (signOutButton) {
     signOutButton.addEventListener('click', function () {
-      localStorage.removeItem('username'); // Clear username from localStorage
+      localStorage.removeItem('username');
+      localStorage.removeItem('userType');
+      localStorage.removeItem('userDisplayName');
       document.getElementById('loginSection').style.display = 'block';
       document.getElementById('searchSection').style.display = 'none';
       document.getElementById('signOutButton').style.display = 'none';
       document.getElementById('username').value = '';
       document.getElementById('password').value = '';
+      backgroundName.style.display = 'none';
+
+      // Clear login error message
+      document.getElementById('loginError').textContent = '';
     });
   }
 
@@ -67,7 +114,6 @@ document.addEventListener('DOMContentLoaded', function () {
       .then((response) => response.json())
       .then((json) => {
         localStorage.setItem('jsonData', JSON.stringify(json));
-        document.getElementById('searchSection').style.display = 'block';
       })
       .catch((error) => {
         console.error('Error fetching local JSON:', error);
@@ -81,13 +127,16 @@ document.addEventListener('DOMContentLoaded', function () {
       event.preventDefault();
       const employeeName = document.getElementById('employeeName').value.trim().toLowerCase();
       if (employeeName) {
-        const jsonData = JSON.parse(localStorage.getItem('jsonData'));
-        const results = searchEmployeeRuns(jsonData, employeeName);
-        displaySearchResults(results, employeeName);
-        employeeNameHeader.textContent = `Results for: ${employeeName.toUpperCase()}`; // Set the h2 text
-        document.getElementById('employeeName').value = ''; // Clear the textbox
+        performSearch(employeeName);
       }
     });
+  }
+
+  function performSearch(employeeName) {
+    const jsonData = JSON.parse(localStorage.getItem('jsonData'));
+    const results = searchEmployeeRuns(jsonData, employeeName);
+    displaySearchResults(results, employeeName);
+    document.getElementById('employeeName').value = ''; // Clear the textbox
   }
 
   // Search for employee runs

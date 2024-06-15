@@ -82,6 +82,16 @@
         color: #fff;
         border: 1px solid #777;
       }
+
+      .background-name {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 4em;
+        color: rgba(0, 0, 0, 0.1);
+        pointer-events: none;
+      }
     </style>
   </head>
   <body>
@@ -89,10 +99,10 @@
       <img src="dark_light_mode-removebg.png" alt="Toggle Dark Mode" id="darkModeIcon" />
     </button>
     <div id="topBar">
-      <button id="signOutButton">Sign Out</button>
+      <button id="signOutButton" style="display: none">Sign Out</button>
     </div>
     <div class="container" id="loginSection">
-      <h1>Admin Login</h1>
+      <h1>Login</h1>
       <form id="loginForm">
         <div class="form-group">
           <label for="username">Username:</label>
@@ -108,17 +118,19 @@
     </div>
 
     <div class="container" id="searchSection" style="display: none">
-      <h1>Search Employee</h1>
+      <h1 id="searchTitle">Search Employee</h1>
       <h2 id="employeeNameHeader"></h2>
       <form id="searchForm">
-        <div class="form-group">
+        <div class="form-group" id="searchInputGroup">
           <label for="employeeName">Employee Name:</label>
           <input type="text" id="employeeName" required />
         </div>
-        <button type="submit" class="button">Search</button>
+        <button type="submit" class="button" id="searchButton">Search</button>
       </form>
       <div id="resultsContainer"></div>
     </div>
+
+    <div id="backgroundName" class="background-name" style="display: none"></div>
 
     <script src="app.js"></script>
   </body>
