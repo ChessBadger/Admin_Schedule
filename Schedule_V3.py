@@ -244,13 +244,15 @@ if folders:
                             if 'Office' in store_run.store_name:
                                 store_run.add_employee(
                                     value, number_value, note_value)
-                                save_store_runs_to_json()
                                 current_state = 'searching'
                                 next_cell = sheet.cell(
                                     row=cell.row + 1, column=cell.column).value
                                 if next_cell:
                                     store_run.add_employee(
-                                        value, number_value, note_value)
+                                        next_cell, number_value, note_value)
+                                    save_store_runs_to_json()
+                                else:
+                                    save_store_runs_to_json()
                             else:
                                 current_state = 'found_employee'
                                 store_run.add_employee(
