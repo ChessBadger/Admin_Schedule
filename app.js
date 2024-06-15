@@ -134,6 +134,7 @@ document.addEventListener('DOMContentLoaded', function () {
       const employeeName = document.getElementById('employeeName').value.trim().toLowerCase();
       if (employeeName) {
         performSearch(employeeName);
+        employeeNameHeader.textContent = `${employeeName.toUpperCase()}`;
       }
     });
   }
