@@ -188,25 +188,16 @@ button.show-all {
   margin-top: 20px; /* Additional margin for the button that follows another button */
 }
 
-/* Add the CSS for the logos */
 .car-logo {
   position: absolute;
   top: 10px;
   right: 10px;
-  width: 30px;
-  height: 30px;
-}
-
-.car-logo-light {
-  display: none;
+  width: 42px;
+  height: 42px;
 }
 
 .car-logo-dark {
   display: none;
-}
-
-body.light-mode .car-logo-light {
-  display: block;
 }
 
 body.dark-mode .car-logo-dark {

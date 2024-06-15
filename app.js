@@ -5,6 +5,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const fetchLocalJson = document.getElementById('fetchLocalJson');
   const searchForm = document.getElementById('searchForm');
   const signOutButton = document.getElementById('signOutButton'); // Sign Out button
+  document.getElementById('signOutButton').style.display = 'none';
 
   // Check for saved login
   const savedUsername = localStorage.getItem('username');
@@ -24,6 +25,7 @@ document.addEventListener('DOMContentLoaded', function () {
         localStorage.setItem('username', username); // Save username to localStorage
         document.getElementById('loginSection').style.display = 'none';
         document.getElementById('uploadSection').style.display = 'block';
+        document.getElementById('signOutButton').style.display = 'block';
       } else {
         document.getElementById('loginError').textContent = 'Invalid username or password';
       }
@@ -37,6 +39,9 @@ document.addEventListener('DOMContentLoaded', function () {
       document.getElementById('loginSection').style.display = 'block';
       document.getElementById('uploadSection').style.display = 'none';
       document.getElementById('searchSection').style.display = 'none';
+      document.getElementById('signOutButton').style.display = 'none';
+      document.getElementById('username').value = '';
+      document.getElementById('password').value = '';
     });
   }
 
@@ -251,6 +256,16 @@ function displaySearchResults(results, employeeName) {
             const listItem = document.createElement('li');
             listItem.innerHTML = `<strong>${employee}</strong>`;
             employeeList.appendChild(listItem);
+            // CAR LOGO
+            const carLogoLight = document.createElement('img');
+            carLogoLight.src = 'car_logo_light.png'; // Update with actual path
+            carLogoLight.classList.add('car-logo', 'car-logo-light');
+            dateCard.appendChild(carLogoLight);
+
+            const carLogoDark = document.createElement('img');
+            carLogoDark.src = 'car_logo_dark.png'; // Update with actual path
+            carLogoDark.classList.add('car-logo', 'car-logo-dark');
+            dateCard.appendChild(carLogoDark);
           }
         });
       }
