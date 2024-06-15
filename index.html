@@ -85,6 +85,9 @@
     </style>
   </head>
   <body>
+    <div id="topBar">
+      <button id="signOutButton">Sign Out</button>
+    </div>
     <div class="container" id="loginSection">
       <h1>Admin Login</h1>
       <button id="darkModeToggle" class="button">Dark Mode</button>
@@ -107,9 +110,7 @@
       <input type="file" id="fileInput" accept=".json" />
       <button id="fetchLocalJson" class="button">Fetch Local JSON</button>
       <p id="jsonOutput" class="error"></p>
-      <button id="signOutButton">Sign Out</button>
     </div>
-
     <div class="container" id="searchSection" style="display: none">
       <h1>Search Employee</h1>
       <h2 id="employeeNameHeader"></h2>
