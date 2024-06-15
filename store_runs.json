@@ -1,0 +1,2132 @@
+[
+    {
+        "date": "Sun, Jun 9",
+        "meet_time": null,
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "PIGGLY WIGGLY #220, MUSKEGO"
+        ],
+        "address": [
+            "W189 S7847 RACINE AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/3aRXzfmExPr"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "Sante Fe available, Equip"
+            ],
+            "Katherine": [
+                "2)",
+                ""
+            ],
+            "Mai": [
+                "3)",
+                ""
+            ],
+            "Paul": [
+                "4)",
+                ""
+            ],
+            "Brianna": [
+                "5)",
+                "@ Store"
+            ],
+            "Nate": [
+                "6)",
+                "@ Store"
+            ],
+            "Qiana": [
+                "7)",
+                "@ Store"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Jun 10",
+        "meet_time": null,
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "PIGGLY WIGGLY #070, WEST ALLIS"
+        ],
+        "address": [
+            "10282 W NATIONAL"
+        ],
+        "link": [
+            "https://goo.gl/maps/zGMZZJVxurK2"
+        ],
+        "store_note": "5:30 am meet for Carlie/Trevor at Grafton Park n Ride",
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Equip"
+            ],
+            "Carlie": [
+                "2)",
+                "(Driver)"
+            ],
+            "Cynthia": [
+                "3)",
+                ""
+            ],
+            "Monica": [
+                "4)",
+                ""
+            ],
+            "Nick": [
+                "5)",
+                ""
+            ],
+            "Stephanie": [
+                "6)",
+                ""
+            ],
+            "Trevor": [
+                "7)",
+                "(w/ Carlie)"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Jun 10",
+        "meet_time": "4:30 AM MEET AT THE OFFICE",
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "PIGGLY WIGGLY #406, LANCASTER"
+        ],
+        "address": [
+            "158 N WASHINGTON"
+        ],
+        "link": [
+            "https://goo.gl/maps/jFeseMTzfS32"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "Driver,\nSante Fe, Equip"
+            ],
+            "Casey": [
+                "2)",
+                ""
+            ],
+            "Ian": [
+                "3)",
+                "Driver,\nRed Van"
+            ],
+            "Jerry D": [
+                "4)",
+                ""
+            ],
+            "Katherine": [
+                "5)",
+                ""
+            ],
+            "Lashaun": [
+                "6)",
+                ""
+            ],
+            "Mai": [
+                "7)",
+                ""
+            ],
+            "Paul": [
+                "8)",
+                ""
+            ],
+            "Sonia": [
+                "9)",
+                ""
+            ],
+            "Sue": [
+                "10)",
+                ""
+            ]
+        }
+    },
+    {
+        "date": "Mon, Jun 10",
+        "meet_time": null,
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "LAKHBIR WG MOBIL #8, MADISON",
+            "LAKHBIR CP SYENE #16, FITCHBURG",
+            "LAKHBIR CP MART SOUTH #1, MADISON"
+        ],
+        "address": [
+            "699 S WHITNEY WAY",
+            "2770 S SYENE RD",
+            "2570 RIMROCK RD"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/dDkZaUKMLA3ANdv96",
+            "https://maps.app.goo.gl/BGAVED5UHCh9zoeo8",
+            "https://maps.app.goo.gl/AeMqZ4iM1Pf323zs8"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip"
+            ],
+            "Palmer": [
+                "2)",
+                "@ Store"
+            ],
+            "Qiana": [
+                "3)",
+                "@ Store"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Jun 11",
+        "meet_time": "4:30 AM MEET COLLEGE (SOUTHWEST)",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "MARIANO'S #513 +RX, WHEATON"
+        ],
+        "address": [
+            "625 S MAIN ST"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/vYhjkFWiTisqXoRN9"
+        ],
+        "store_note": "SET UP ON REG #1",
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip"
+            ],
+            "Casey": [
+                "2)",
+                "Driver,\nSante Fe"
+            ],
+            "Ian": [
+                "3)",
+                "Driver,\nGold Camry"
+            ],
+            "Jerry D": [
+                "4)",
+                ""
+            ],
+            "Lashaun": [
+                "5)",
+                "Supv Rx"
+            ],
+            "Paul": [
+                "6)",
+                ""
+            ],
+            "Sonia": [
+                "7)",
+                ""
+            ],
+            "Sue": [
+                "8)",
+                ""
+            ],
+            "Angela": [
+                "9)",
+                "@ Store,\nRx\n(Train w/ Lashaun)"
+            ],
+            "Anisha": [
+                "10)",
+                "@ Store"
+            ],
+            "Ashley P": [
+                "11)",
+                "@ Store"
+            ],
+            "Elijah": [
+                "12)",
+                "@ Store"
+            ],
+            "Evelin": [
+                "13)",
+                "@ Store"
+            ],
+            "Joseph": [
+                "14)",
+                "@ Store"
+            ],
+            "Nate": [
+                "15)",
+                "@ Store"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Jun 11",
+        "meet_time": null,
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "PICK #357 +RX, GERMANTOWN"
+        ],
+        "address": [
+            "N112 W16200 MEQUON RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/EHNPxYdtCp82"
+        ],
+        "store_note": "SET UP ON REG CLOSEST TOWARDS SERVICE COUNTER",
+        "employee_list": {
+            "": [
+                "",
+                ""
+            ],
+            "DJ": [
+                "1)",
+                "Equip"
+            ],
+            "Carlie": [
+                "2)",
+                "(Driver),\nTrainer"
+            ],
+            "Curt": [
+                "3)",
+                ""
+            ],
+            "Cynthia": [
+                "4)",
+                ""
+            ],
+            "Greg": [
+                "5)",
+                "1st Day (work w/ Carlie)"
+            ],
+            "Kim": [
+                "6)",
+                "Supv Rx"
+            ],
+            "Mai": [
+                "7)",
+                "Rx"
+            ],
+            "Monica": [
+                "8)",
+                ""
+            ],
+            "Nick": [
+                "9)",
+                ""
+            ],
+            "Robyn": [
+                "10)",
+                "1st Day (work w/ Michael)"
+            ],
+            "Stephanie": [
+                "11)",
+                ""
+            ],
+            "Trevor": [
+                "12)",
+                "(w/ Carlie)"
+            ],
+            "Eva": [
+                "13)",
+                "@ Store"
+            ],
+            "Michael N": [
+                "14)",
+                "@ Store,\nTrainer"
+            ],
+            "Taylor": [
+                "15)",
+                "@ Store"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Jun 11",
+        "meet_time": null,
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "FOX BROS PIGGLY WIGGLY #089, HUBERTUS"
+        ],
+        "address": [
+            "1234 HWY 175"
+        ],
+        "link": [
+            "https://goo.gl/maps/k8v61779c9p"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Jeremiah": [
+                "1)",
+                "@ Store, Equip"
+            ],
+            "David": [
+                "2)",
+                "@ Store  "
+            ],
+            "Heather": [
+                "3)",
+                "@ Store  "
+            ],
+            "Jerry S": [
+                "4)",
+                "@ Store  "
+            ],
+            "Katie": [
+                "5)",
+                "@ Store  "
+            ],
+            "Kirsten": [
+                "6)",
+                "@ Store  "
+            ],
+            "Marcia": [
+                "7)",
+                "@ Store  "
+            ],
+            "Michelle": [
+                "8)",
+                "@ Store, Until 10:30"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Jun 11",
+        "meet_time": "4:45 AM OFFICE LEAVE TIME",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "LAKHBIR NP MOBIL #9, MADISON",
+            "LAKHBIR CP MART NE #15, MADISON"
+        ],
+        "address": [
+            "3101 N SHERMAN AVE",
+            "4901 COMMERCIAL AVE"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/SNnQrwGgZvMobqnQ9",
+            "https://maps.app.goo.gl/iYBAaHXs8ZRaWucF9"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "White Camry\nEquip"
+            ],
+            "Palmer": [
+                "2)",
+                "@ Store"
+            ],
+            "Ron": [
+                "3)",
+                "@ Store"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Jun 12",
+        "meet_time": "5:00 AM MEET COLLEGE (SOUTHWEST)",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "MARIANO'S #502 +RX, \nVERNON HILLS"
+        ],
+        "address": [
+            "1720 N MILWAUKEE AVENUE"
+        ],
+        "link": [
+            "https://goo.gl/maps/ynVVx558fS22"
+        ],
+        "store_note": "SET UP ON LAST REG",
+        "employee_list": {
+            "": [
+                "",
+                ""
+            ],
+            "Nate": [
+                "1)",
+                "@ Store, Equip"
+            ],
+            "Carlie": [
+                "2)",
+                "Driver,\nOptima,\nTrainer"
+            ],
+            "Casey": [
+                "3)",
+                ""
+            ],
+            "DJ": [
+                "4)",
+                "Driver,\nAltima"
+            ],
+            "Greg": [
+                "5)",
+                "2nd Day (work w/ Carlie)"
+            ],
+            "Ian": [
+                "6)",
+                "Driver,\nRed Van"
+            ],
+            "Kim": [
+                "7)",
+                ""
+            ],
+            "Lashaun": [
+                "8)",
+                "Supv Rx"
+            ],
+            "Monica": [
+                "9)",
+                ""
+            ],
+            "Paul": [
+                "10)",
+                ""
+            ],
+            "Robyn": [
+                "11)",
+                "2nd Day (work w/ Michael)"
+            ],
+            "Sonia": [
+                "12)",
+                ""
+            ],
+            "Stephanie": [
+                "13)",
+                ""
+            ],
+            "Sue": [
+                "14)",
+                ""
+            ],
+            "Trevor": [
+                "15)",
+                "(w/ Carlie)"
+            ],
+            "Anisha": [
+                "16)",
+                "@ Store"
+            ],
+            "Eva": [
+                "17)",
+                "@ Store,\nRx\n(Train w/ Lashaun)"
+            ],
+            "Evelin": [
+                "18)",
+                "@ Store"
+            ],
+            "Joseph": [
+                "19)",
+                "@ Store"
+            ],
+            "Michael N": [
+                "20)",
+                "@ Store,\nTrainer"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Jun 12",
+        "meet_time": null,
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "PIGGLY WIGGLY #170, WATERLOO"
+        ],
+        "address": [
+            "810 N MONROE ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/nBV5CGccWtE2"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Sarah": [
+                "1)",
+                "@ Store, Equip"
+            ],
+            "Jeri": [
+                "2)",
+                "@ Store"
+            ],
+            "Lori": [
+                "3)",
+                "@ Store"
+            ],
+            "Nick": [
+                "4)",
+                "@ Store"
+            ],
+            "Ron": [
+                "5)",
+                "@ Store"
+            ],
+            "Savannah": [
+                "6)",
+                "@ Store"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Jun 12",
+        "meet_time": "4:45 AM OFFICE LEAVE TIME",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "LAKHBIR BP MOHAWK #7, MADISON",
+            "LAKHBIR CG MOBIL #5, MADISON",
+            "LAKHBIR CP MART AW #14, MADISON"
+        ],
+        "address": [
+            "4325 MOHAWK DR",
+            "605 COTTAGE GROVE RD",
+            "4601 COTTAGE GROVE RD"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/PLqtoJ6NWQs5uGjt6",
+            "https://maps.app.goo.gl/bmHVowFwiUmQqnQ86",
+            "https://maps.app.goo.gl/bjwT7M9WA23hoXd88"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "White Camry\nEquip"
+            ],
+            "Ashley P": [
+                "2)",
+                "@ Store"
+            ],
+            "Brianna": [
+                "3)",
+                "@ Store"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Jun 13",
+        "meet_time": "5:00 AM MEET COLLEGE (SOUTHWEST)",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "MARIANO'S #518 +RX, GLENVIEW"
+        ],
+        "address": [
+            "25 WAUKEGAN RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/E7YkRP2q2272"
+        ],
+        "store_note": "4:15 am meet for Carlie/Trevor at Grafton Park n Ride",
+        "employee_list": {
+            "": [
+                "",
+                ""
+            ],
+            "DJ": [
+                "1)",
+                "@ Store, Equip"
+            ],
+            "Carlie": [
+                "2)",
+                "Trainer"
+            ],
+            "Cynthia": [
+                "3)",
+                ""
+            ],
+            "Ian": [
+                "4)",
+                "Driver,\nRed Van,\nSupv Rx"
+            ],
+            "Jerry D": [
+                "5)",
+                ""
+            ],
+            "Katherine": [
+                "6)",
+                ""
+            ],
+            "Lashaun": [
+                "7)",
+                "Driver,\nGold Camry"
+            ],
+            "Mai": [
+                "8)",
+                ""
+            ],
+            "Monica": [
+                "9)",
+                ""
+            ],
+            "Paul": [
+                "10)",
+                ""
+            ],
+            "Robyn": [
+                "11)",
+                "3rd Day (work w/ Carlie)"
+            ],
+            "Sonia": [
+                "12)",
+                ""
+            ],
+            "Stephanie": [
+                "13)",
+                ""
+            ],
+            "Sue": [
+                "14)",
+                "Driver,\nWhite Camry"
+            ],
+            "Trevor": [
+                "15)",
+                "(w/ Carlie)"
+            ],
+            "Elijah": [
+                "16)",
+                "@ Store"
+            ],
+            "Evelin": [
+                "17)",
+                "@ Store,\nRx"
+            ],
+            "Nate": [
+                "18)",
+                "@ Store"
+            ],
+            "Taylor": [
+                "19)",
+                "@ Store"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Jun 13",
+        "meet_time": null,
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "FOX BROS PIGGLY WIGGLY #087, HARTFORD"
+        ],
+        "address": [
+            "1566 E SUMNER ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/aDpuMeDEHSz"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Jeremiah": [
+                "1)",
+                "@ Store, Equip"
+            ],
+            "Annette": [
+                "2)",
+                "@ Store  "
+            ],
+            "David": [
+                "3)",
+                "@ Store  "
+            ],
+            "Jerry S": [
+                "4)",
+                "@ Store, after Condon"
+            ],
+            "Katie": [
+                "5)",
+                "@ Store  "
+            ],
+            "Marcia": [
+                "6)",
+                "@ Store  "
+            ],
+            "Michelle": [
+                "7)",
+                "@ Store, after Condon"
+            ],
+            "Ron": [
+                "8)",
+                "@ Store"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Jun 13",
+        "meet_time": null,
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "PIGGLY WIGGLY #168, EDGERTON"
+        ],
+        "address": [
+            "1211 N MAIN ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/9YbLUf3aGUH2"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Sarah": [
+                "1)",
+                "@ Store, Equip"
+            ],
+            "Anisha": [
+                "2)",
+                "@ Store"
+            ],
+            "Eva": [
+                "3)",
+                "@ Store"
+            ],
+            "Jeri": [
+                "4)",
+                "@ Store"
+            ],
+            "Joseph": [
+                "5)",
+                "@ Store"
+            ],
+            "Lori": [
+                "6)",
+                "@ Store"
+            ],
+            "Michael N": [
+                "7)",
+                "@ Store"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Jun 13",
+        "meet_time": "4:30 AM OFFICE LEAVE TIME",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "LAKHBIR CP WEST #11, MADISON",
+            "LAKHBIR GAMMON BP #12, MADISON",
+            "LAKHBIR VR MOBIL #6, MADISON"
+        ],
+        "address": [
+            "6702 MINERAL POINT RD",
+            "699 S GAMMON RD",
+            "4601 VERONA RD"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/u6JziHHvPAFDhbCTA",
+            "https://maps.app.goo.gl/xn9rk4qzwpnZm3Jj9",
+            "https://maps.app.goo.gl/R5BjsCpnN3fE746N9"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip"
+            ],
+            "Ashley P": [
+                "2)",
+                "@ Store"
+            ],
+            "Kim": [
+                "3)",
+                "Sante Fe"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Jun 14",
+        "meet_time": "5:30 AM MEET AT S RACINE COURT",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1145 ELKHORN"
+        ],
+        "address": [
+            "W3985 COUNTY ROAD NN"
+        ],
+        "link": [
+            "https://goo.gl/maps/DNeRzd2PfnuGBCUo6"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Ian": [
+                "1)",
+                "Driver,\nSante Fe,\nEquip"
+            ],
+            "Monica": [
+                "2)",
+                ""
+            ]
+        }
+    },
+    {
+        "date": "Fri, Jun 14",
+        "meet_time": "4:30 AM OFFICE LEAVE TIME",
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1157, STURGEON BAY"
+        ],
+        "address": [
+            "1910 ALABAMA ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/PT62tX3aqSWcCC5G6"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Equip"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Jun 14",
+        "meet_time": "5:00 AM MEET AT THE OFFICE",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "PIGGLY WIGGLY #169, COTTAGE GROVE"
+        ],
+        "address": [
+            "421 W COTTAGE GROVE RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/ysP4kdWtU542"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Sarah": [
+                "1)",
+                "@ Store, Equip"
+            ],
+            "Aaron": [
+                "2)",
+                "@ Store, Until 12:00"
+            ],
+            "Carlie": [
+                "3)",
+                "Driver,\nOptima"
+            ],
+            "Cynthia": [
+                "4)",
+                ""
+            ],
+            "Kim": [
+                "5)",
+                ""
+            ],
+            "Jeri": [
+                "6)",
+                "@ Store"
+            ],
+            "Nick": [
+                "7)",
+                "@ Store"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Jun 14",
+        "meet_time": "4:30 AM MEET AT S RACINE COURT",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "SULLIVAN'S FOODS #295 +ACE, WINNEBAGO"
+        ],
+        "address": [
+            "703 N ELIDA STREET"
+        ],
+        "link": [
+            "https://goo.gl/maps/XJm8iLALryeWSpAZ6"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip,\n(Groc Supv)"
+            ],
+            "Casey": [
+                "2)",
+                "Driver,\nRed Van"
+            ],
+            "Greg": [
+                "3)",
+                "1st Financial\nwork w/ Angela"
+            ],
+            "Mai": [
+                "4)",
+                ""
+            ],
+            "Paul": [
+                "5)",
+                "Ace Side"
+            ],
+            "Sonia": [
+                "6)",
+                ""
+            ],
+            "Stephanie": [
+                "7)",
+                ""
+            ],
+            "Angela": [
+                "8)",
+                "@ Store,\nTrainer"
+            ],
+            "Anisha": [
+                "9)",
+                "@ Store"
+            ],
+            "Ashley P": [
+                "10)",
+                "@ Store"
+            ],
+            "Elijah": [
+                "11)",
+                "@ Store"
+            ],
+            "Eva": [
+                "12)",
+                "@ Store,\nAce Side"
+            ],
+            "Evelin": [
+                "13)",
+                "@ Store,\nAce Side"
+            ],
+            "Joseph": [
+                "14)",
+                "@ Store"
+            ],
+            "Justin": [
+                "15)",
+                "@ Store,\nAce Side"
+            ],
+            "Nate": [
+                "16)",
+                "@ Store,\nAce Supv"
+            ],
+            "Taylor": [
+                "17)",
+                "@ Store,\nAce Side"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Jun 14",
+        "meet_time": "4:45 AM MEET AT THE OFFICE",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "LAKHBIR MS MOBIL #4, MADISON",
+            "LAKHBIR BP EAST #2, MADISON",
+            "LAKHBIR CP MART SOUTH #1, MADISON"
+        ],
+        "address": [
+            "3019 E WASHINGTON AVE",
+            "2702 E WASHINGTON AVE",
+            "2570 RIMROCK RD"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/Kpi5RsNj91eBCKx88",
+            "https://maps.app.goo.gl/eD1oEYfBoN2jg6bP8",
+            "https://maps.app.goo.gl/AeMqZ4iM1Pf323zs8"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Equip"
+            ],
+            "Curt": [
+                "2)",
+                ""
+            ],
+            "Lashaun": [
+                "3)",
+                "Driver,\nTan Camry"
+            ],
+            "Lori": [
+                "4)",
+                "@ Store (After c-store if needed)"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Jun 14",
+        "meet_time": null,
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [
+            "Office"
+        ],
+        "address": [],
+        "link": [],
+        "store_note": null,
+        "employee_list": {
+            "Nick": [
+                "",
+                ""
+            ]
+        }
+    },
+    {
+        "date": "Sun, Jun 16",
+        "meet_time": null,
+        "start_time": "FATHER'S DAY",
+        "inv_type": [
+            ""
+        ],
+        "store_name": [
+            ""
+        ],
+        "address": [
+            ""
+        ],
+        "link": [
+            ""
+        ],
+        "store_note": null,
+        "employee_list": {
+            "": [
+                "",
+                ""
+            ]
+        }
+    },
+    {
+        "date": "Mon, Jun 17",
+        "meet_time": "5:30 AM MEET COLLEGE (SOUTHWEST)",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "PIGGLY WIGGLY #037, RACINE"
+        ],
+        "address": [
+            "5600 SPRING ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/vkH7vLz9Zrx"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "@ Store,\nEquip"
+            ],
+            "Aaron": [
+                "2)",
+                "@ Store"
+            ],
+            "Casey": [
+                "3)",
+                "Driver,\nRed Van"
+            ],
+            "Cynthia": [
+                "4)",
+                ""
+            ],
+            "Greg": [
+                "5)",
+                "2nd DC5 Financial"
+            ],
+            "Jerry D": [
+                "6)",
+                ""
+            ],
+            "Mai": [
+                "7)",
+                "Trainer"
+            ],
+            "Monica": [
+                "8)",
+                ""
+            ]
+        }
+    },
+    {
+        "date": "Mon, Jun 17",
+        "meet_time": "5:00 AM OFFICE LEAVE TIME",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "DHILLON'S BP, MAYVILLE"
+        ],
+        "address": [
+            "1400 HORICON ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/UAmrX3SR6jD2"
+        ],
+        "store_note": "5:00 am meet for Carlie/Trevor at Grafton Park n Ride",
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "@ Store,\nSante Fe, Equip"
+            ],
+            "Carlie": [
+                "2)",
+                "@ Store\n(w/ Trevor)"
+            ],
+            "Trevor": [
+                "3)",
+                "@ Store\n(w/ Carlie)"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Jun 17",
+        "meet_time": "5:00 AM MEET OFFICE",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "DHILLON'S STATION HUSTIS"
+        ],
+        "address": [
+            "326 W JUNEAU ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/2MvPuCPioicrHiKc6"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Equip"
+            ],
+            "Stephanie": [
+                "2)",
+                ""
+            ],
+            "Sue": [
+                "3)",
+                "Driver,\nWhite Camry"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Jun 17",
+        "meet_time": "4:15 AM MEET SOUTH RACINE COURT (HWY 43 & Y)",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "SULLIVAN'S FOODS #225, FREEPORT"
+        ],
+        "address": [
+            "2002 W GALENA AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/YcFP9FTjTEs94iQh7"
+        ],
+        "store_note": "WE SET UP IN THE BACKROOM BY END OF FROZEN AISLES",
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip"
+            ],
+            "Ian": [
+                "2)",
+                "Driver,\nTan Camry"
+            ],
+            "Paul": [
+                "3)",
+                ""
+            ],
+            "Sonia": [
+                "4)",
+                ""
+            ],
+            "Anisha": [
+                "5)",
+                "@ Store"
+            ],
+            "Ashley P": [
+                "6)",
+                "@ Store"
+            ],
+            "Elijah": [
+                "7)",
+                "@ Store"
+            ],
+            "Joseph": [
+                "8)",
+                "@ Store"
+            ],
+            "Michael N": [
+                "9)",
+                "@ Store"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Jun 18",
+        "meet_time": "4:15 AM MEET COLLEGE (SOUTHWEST)",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "MARIANO'S #538 +RX, BROADWAY"
+        ],
+        "address": [
+            "3030 N BROADWAY #100"
+        ],
+        "link": [
+            "https://goo.gl/maps/bMv5fDgQsNT2"
+        ],
+        "store_note": "SET UP ON SECOND FLOOR REG #4",
+        "employee_list": {
+            "Nate": [
+                "1)",
+                "@ Store, Equip"
+            ],
+            "DJ": [
+                "2)",
+                "Driver,\nAltima"
+            ],
+            "Greg": [
+                "3)",
+                "2nd week"
+            ],
+            "Jerry D": [
+                "4)",
+                ""
+            ],
+            "Mai": [
+                "5)",
+                ""
+            ],
+            "Angela": [
+                "6)",
+                "@ Store"
+            ],
+            "Anisha": [
+                "7)",
+                "@ Store"
+            ],
+            "Ashley P": [
+                "8)",
+                "@ Store,\nSupv Rx"
+            ],
+            "Brianna": [
+                "9)",
+                "@ Store"
+            ],
+            "Elijah": [
+                "10)",
+                "@ Store"
+            ],
+            "Eva": [
+                "11)",
+                "@ Store,\nRx"
+            ],
+            "Evelin": [
+                "12)",
+                "@ Store"
+            ],
+            "Joseph": [
+                "13)",
+                "@ Store"
+            ],
+            "Michael N": [
+                "14)",
+                "@ Store,\nTrainer"
+            ],
+            "Taylor": [
+                "15)",
+                "@ Store"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Jun 18",
+        "meet_time": null,
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "METRO #892 +RX, MENOMONEE FALLS - \nCOUNTY LINE RD"
+        ],
+        "address": [
+            "N95 W18351 COUNTY LINE RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/KutaqrX9XEx"
+        ],
+        "store_note": "SET UP LAST REG BY SELF C/O",
+        "employee_list": {
+            "": [
+                "",
+                ""
+            ],
+            "Kim": [
+                "1)",
+                "Sante Fe available, Equip"
+            ],
+            "Aaron": [
+                "2)",
+                ""
+            ],
+            "Carlie": [
+                "3)",
+                "(w/ Trevor)"
+            ],
+            "Curt": [
+                "4)",
+                ""
+            ],
+            "Cynthia": [
+                "5)",
+                ""
+            ],
+            "Ian": [
+                "6)",
+                "Supv Rx"
+            ],
+            "Monica": [
+                "7)",
+                ""
+            ],
+            "Paul": [
+                "8)",
+                ""
+            ],
+            "Robyn": [
+                "9)",
+                "2nd week"
+            ],
+            "Sonia": [
+                "10)",
+                ""
+            ],
+            "Stephanie": [
+                "11)",
+                ""
+            ],
+            "Sue": [
+                "12)",
+                "Rx"
+            ],
+            "Trevor": [
+                "13)",
+                "(w/ Carlie)"
+            ],
+            "Annette": [
+                "14)",
+                "@ Store"
+            ],
+            "Jeremiah": [
+                "15)",
+                "@ Store"
+            ],
+            "Marcia": [
+                "16)",
+                "@ Store"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Jun 18",
+        "meet_time": null,
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "EXCEL FINANCIAL",
+            "EXCEL FINANCIAL",
+            "EXCEL FINANCIAL"
+        ],
+        "store_name": [
+            "OPEN PANTRY #605, BAYSIDE",
+            "OPEN PANTRY #612, BROOKFIELD",
+            "OPEN PANTRY #614, MILWAUKEE"
+        ],
+        "address": [
+            "501 W BROWN DEER RD",
+            "17235 W BLUEMOUND RD",
+            "3100 S 76TH ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/pQaSRAn88Vh6DAQ58",
+            "https://goo.gl/maps/awRYbmypZ4H2",
+            "https://goo.gl/maps/fpg1rAd58h22"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "White Camry available, Equip"
+            ],
+            "Casey": [
+                "2)",
+                ""
+            ],
+            "Lashaun": [
+                "3)",
+                ""
+            ]
+        }
+    },
+    {
+        "date": "Wed, Jun 19",
+        "meet_time": "4:45 AM MEET COLLEGE (SOUTHWEST)",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "MARIANO'S #525 +RX, PARK RIDGE"
+        ],
+        "address": [
+            "1900 S CUMBERLAND DR"
+        ],
+        "link": [
+            "https://goo.gl/maps/39qeNV6tuWU2"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip"
+            ],
+            "Greg": [
+                "2)",
+                "2nd week"
+            ],
+            "Ian": [
+                "3)",
+                "Driver,\nRed Van"
+            ],
+            "Mai": [
+                "4)",
+                ""
+            ],
+            "Paul": [
+                "5)",
+                ""
+            ],
+            "Robyn": [
+                "6)",
+                "2nd week"
+            ],
+            "Stephanie": [
+                "7)",
+                "Trainer"
+            ],
+            "Anisha": [
+                "8)",
+                "@ Store"
+            ],
+            "Ashley P": [
+                "9)",
+                "@ Store"
+            ],
+            "Eva": [
+                "10)",
+                "@ Store,\nRx"
+            ],
+            "Evelin": [
+                "11)",
+                "@ Store"
+            ],
+            "Joseph": [
+                "12)",
+                "@ Store"
+            ],
+            "Justin": [
+                "13)",
+                "@ Store"
+            ],
+            "Michael N": [
+                "14)",
+                "@ Store,\nTrainer"
+            ],
+            "Nate": [
+                "15)",
+                "@ Store,\nSupv Rx"
+            ],
+            "Taylor": [
+                "16)",
+                "@ Store"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Jun 19",
+        "meet_time": "6:15 AM MEET AT THE OFFICE",
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "EXCEL FINANCIAL",
+            "EXCEL FINANCIAL"
+        ],
+        "store_name": [
+            "OPEN PANTRY #493, RACINE",
+            "OPEN PANTRY #9570, RACINE"
+        ],
+        "address": [
+            "3441 SPRING ST",
+            "2731 DURAND AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/8i7XHemjTpL2",
+            "https://goo.gl/maps/boUkpED44a62"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Equip"
+            ],
+            "Sue": [
+                "2)",
+                "Driver,\nWhite Camry"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Jun 19",
+        "meet_time": "4:30 AM OFFICE LEAVE TIME",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "DHILLON'S BP, MARKESAN"
+        ],
+        "address": [
+            "N1894 WI-44 (HWY 44 & 73)"
+        ],
+        "link": [
+            "https://goo.gl/maps/uRQ5w6AXAun5KEMW7"
+        ],
+        "store_note": "4:30 am meet for Carlie/Trevor at Grafton Park n Ride",
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "@ Store, Equip"
+            ],
+            "Carlie": [
+                "2)",
+                "@ Store\n(w/ Trevor)"
+            ],
+            "Trevor": [
+                "3)",
+                "@ Store\n(w/ Carlie)"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Jun 19",
+        "meet_time": "5:15 AM MEET OFFICE",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "DHILLON'S BP, NEOSHO"
+        ],
+        "address": [
+            "446 S SCHUYER ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/cqKUT41W2wM2"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "Driver,\nSante Fe, Equip"
+            ],
+            "Cynthia": [
+                "2)",
+                ""
+            ],
+            "Monica": [
+                "3)",
+                ""
+            ]
+        }
+    },
+    {
+        "date": "Wed, Jun 19",
+        "meet_time": "5:15 AM MEET WATERTOWN PLANK",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "DHILLON'S STATION HWY 33, HARTFORD"
+        ],
+        "address": [
+            "W346 LUEDTKE LANE"
+        ],
+        "link": [
+            "https://goo.gl/maps/sBbGZTSeFYGcwxAe7"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Lashaun": [
+                "1)",
+                "Driver,\nTan Camry, Equip"
+            ],
+            "Casey": [
+                "2)",
+                ""
+            ],
+            "Sonia": [
+                "3)",
+                ""
+            ]
+        }
+    },
+    {
+        "date": "Wed, Jun 19",
+        "meet_time": null,
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [
+            "Office"
+        ],
+        "address": [],
+        "link": [],
+        "store_note": null,
+        "employee_list": {
+            "Kim": [
+                "",
+                "After Dhillons"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Jun 20",
+        "meet_time": "5:00 AM MEET COLLEGE (SOUTHWEST)",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "MARIANO'S #542 +RX, BANNOCKBURN"
+        ],
+        "address": [
+            "2999 WAUKEGAN RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/iQpQKzHwQVT2"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Nate": [
+                "1)",
+                "@ Store, Equip"
+            ],
+            "Ian": [
+                "2)",
+                "Driver,\nRed Van"
+            ],
+            "Mai": [
+                "3)",
+                ""
+            ],
+            "Paul": [
+                "4)",
+                ""
+            ],
+            "Sonia": [
+                "5)",
+                ""
+            ],
+            "Stephanie": [
+                "6)",
+                ""
+            ],
+            "Angela": [
+                "7)",
+                "@ Store,\nRx"
+            ],
+            "Anisha": [
+                "8)",
+                "@ Store"
+            ],
+            "Ashley P": [
+                "9)",
+                "@ Store,\nSupv Rx"
+            ],
+            "Elijah": [
+                "10)",
+                "@ Store"
+            ],
+            "Eva": [
+                "11)",
+                "@ Store"
+            ],
+            "Evelin": [
+                "12)",
+                "@ Store"
+            ],
+            "Joseph": [
+                "13)",
+                "@ Store"
+            ],
+            "Michael N": [
+                "14)",
+                "@ Store"
+            ],
+            "Taylor": [
+                "15)",
+                "@ Store"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Jun 20",
+        "meet_time": null,
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "PIGGLY WIGGLY #092, HARTLAND"
+        ],
+        "address": [
+            "505 SOUTH COTTONWOOD"
+        ],
+        "link": [
+            "https://goo.gl/maps/3fKEhu9Q6Q52"
+        ],
+        "store_note": "RESETS-REMAPPED",
+        "employee_list": {
+            "Jeremiah": [
+                "1)",
+                "@ Store, Equip"
+            ],
+            "David": [
+                "2)",
+                "@ Store  "
+            ],
+            "Jerry S": [
+                "3)",
+                "@ Store  "
+            ],
+            "Katie": [
+                "4)",
+                "@ Store  "
+            ],
+            "Kirsten": [
+                "5)",
+                "@ Store  "
+            ],
+            "Marcia": [
+                "6)",
+                "@ Store  "
+            ],
+            "Nick": [
+                "7)",
+                "@ Store"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Jun 20",
+        "meet_time": null,
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1067, HARTLAND"
+        ],
+        "address": [
+            "600 WALNUT RIDGE DR"
+        ],
+        "link": [
+            "https://goo.gl/maps/sZu3Qrsu6zC2"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Equip"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Jun 20",
+        "meet_time": null,
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "DHILLON'S HARTLAND VILLAGE MART"
+        ],
+        "address": [
+            "301 E CAPITOL DR"
+        ],
+        "link": [
+            "https://goo.gl/maps/D7P2Btvsg3y"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Lashaun": [
+                "1)",
+                "Tan Camry available, Equip"
+            ],
+            "Casey": [
+                "2)",
+                ""
+            ],
+            "DJ": [
+                "3)",
+                "@ Store,\nAfter Aurora"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Jun 20",
+        "meet_time": "4:45 AM MEET AT THE OFFICE",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "DHILLON'S STATION 51 LLC, JANESVILLE"
+        ],
+        "address": [
+            "1620 W US HWY 14"
+        ],
+        "link": [
+            "https://goo.gl/maps/AMes3hiS3DN1CYZx6"
+        ],
+        "store_note": "4:15 am meet for Carlie/Trevor at Grafton Park n Ride - Go straight to the store",
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Equip"
+            ],
+            "Carlie": [
+                "2)",
+                "@ Store\n(w/ Trevor)"
+            ],
+            "Cynthia": [
+                "3)",
+                ""
+            ],
+            "Monica": [
+                "4)",
+                ""
+            ],
+            "Sue": [
+                "5)",
+                "Driver,\nWhite Camry"
+            ],
+            "Trevor": [
+                "6)",
+                "@ Store\n(w/ Carlie)"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Jun 21",
+        "meet_time": null,
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "METRO #301 +RX, BROOKFIELD"
+        ],
+        "address": [
+            "17630 W BLUEMOUND"
+        ],
+        "link": [
+            "https://goo.gl/maps/Uv69q4HmCNQ2"
+        ],
+        "store_note": "SET UP ON REG #1",
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "Sante Fe available, Equip"
+            ],
+            "Aaron": [
+                "2)",
+                ""
+            ],
+            "Curt": [
+                "3)",
+                ""
+            ],
+            "Cynthia": [
+                "4)",
+                ""
+            ],
+            "DJ": [
+                "5)",
+                ""
+            ],
+            "Greg": [
+                "6)",
+                "2nd week"
+            ],
+            "Ian": [
+                "7)",
+                ""
+            ],
+            "Jerry D": [
+                "8)",
+                ""
+            ],
+            "Katherine": [
+                "9)",
+                "Supv Rx"
+            ],
+            "Lashaun": [
+                "10)",
+                "Until 9:00"
+            ],
+            "Mai": [
+                "11)",
+                "Rx"
+            ],
+            "Paul": [
+                "12)",
+                ""
+            ],
+            "Robyn": [
+                "13)",
+                "2nd week"
+            ],
+            "Sonia": [
+                "14)",
+                ""
+            ],
+            "Stephanie": [
+                "15)",
+                "Trainer"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Jun 21",
+        "meet_time": null,
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "2 SISTERS PIGGLY WIGGLY #266, MARKESAN"
+        ],
+        "address": [
+            "450 N MARGARET ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/nVgmJAwKdEjhqQAt6"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Jerry S": [
+                "1)",
+                "@ Store, Equip"
+            ],
+            "Carlie": [
+                "2)",
+                "@ Store,\nOptima"
+            ],
+            "Annette": [
+                "3)",
+                "@ Store"
+            ],
+            "Kirsten": [
+                "4)",
+                "@ Store"
+            ],
+            "Lori": [
+                "5)",
+                "@ Store"
+            ],
+            "Sarah": [
+                "6)",
+                "@ Store"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Jun 21",
+        "meet_time": null,
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [
+            "Office"
+        ],
+        "address": [],
+        "link": [],
+        "store_note": null,
+        "employee_list": {
+            "Lashaun": [
+                "",
+                "After Metro"
+            ]
+        }
+    }
+]
