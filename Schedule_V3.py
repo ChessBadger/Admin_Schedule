@@ -276,4 +276,4 @@ subprocess.run(
     ['git', 'commit', '-m', f"Automated commit. Updated: {commit_message}"], check=True)
 
 # Push changes to the 'main' branch of the 'origin' remote repository
-subprocess.run(['git', 'push', 'origin', 'g2excel'], check=True)
+subprocess.run(['git', 'push', 'origin', 'main'], check=True)
