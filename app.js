@@ -4,6 +4,14 @@ document.addEventListener('DOMContentLoaded', function () {
   const fileInput = document.getElementById('fileInput');
   const fetchLocalJson = document.getElementById('fetchLocalJson');
   const searchForm = document.getElementById('searchForm');
+  const signOutButton = document.getElementById('signOutButton'); // Sign Out button
+
+  // Check for saved login
+  const savedUsername = localStorage.getItem('username');
+  if (savedUsername) {
+    document.getElementById('loginSection').style.display = 'none';
+    document.getElementById('uploadSection').style.display = 'block';
+  }
 
   // Handle login form submission
   if (loginForm) {
@@ -13,11 +21,21 @@ document.addEventListener('DOMContentLoaded', function () {
       const password = document.getElementById('password').value;
 
       if (username === 'admin' && password === 'admin') {
+        localStorage.setItem('username', username); // Save username to localStorage
         document.getElementById('loginSection').style.display = 'none';
         document.getElementById('uploadSection').style.display = 'block';
       } else {
         document.getElementById('loginError').textContent = 'Invalid username or password';
       }
+    });
+  }
+
+  // Handle sign out
+  if (signOutButton) {
+    signOutButton.addEventListener('click', function () {
+      localStorage.removeItem('username'); // Clear username from localStorage
+      document.getElementById('loginSection').style.display = 'block';
+      document.getElementById('uploadSection').style.display = 'none';
     });
   }
 
