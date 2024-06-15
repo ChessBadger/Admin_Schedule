@@ -298,9 +298,9 @@ body.dark-mode h3 {
 }
 
 #darkModeToggle {
-  position: fixed;
-  top: 20px;
-  left: 50%;
+  position: absolute;
+  top: 10px;
+  left: 50px;
   transform: translateX(-50%);
   z-index: 1000;
   background-color: transparent;
