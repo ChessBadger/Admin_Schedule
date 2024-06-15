@@ -391,3 +391,7 @@ body.dark-mode #uploadSection {
 #signOutButton:hover {
   background-color: #0056b3;
 }
+
+#topRow {
+  margin-bottom: 70px;
+}

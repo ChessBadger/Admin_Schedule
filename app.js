@@ -45,8 +45,14 @@ document.addEventListener('DOMContentLoaded', function () {
 
       // Load user data from external file
       fetch('users.json')
-        .then((response) => response.json())
+        .then((response) => {
+          if (!response.ok) {
+            throw new Error('Network response was not ok');
+          }
+          return response.json();
+        })
         .then((users) => {
+          console.log(users); // Log users data for debugging
           const user = users.find((user) => user.username === username && user.password === password);
 
           if (user) {
