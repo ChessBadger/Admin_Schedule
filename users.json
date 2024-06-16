@@ -50,6 +50,13 @@
         "type": "user",
         "displayName": "stephanie",
       "office": "milwaukee"
+      },
+      {
+        "username": "amoua",
+        "password": "3735",
+        "type": "user",
+        "displayName": "aaron",
+        "office": "milwaukee"
       }
   ]
   

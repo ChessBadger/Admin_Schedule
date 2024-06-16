@@ -22,7 +22,7 @@ for line in lines[1:]:
 for line in lines[1:]:
     # Split the line by tab to extract individual fields
     fields = line.strip().split('\t')
-    first_name = fields[0].capitalize()
+    first_name = fields[0].lower()
     last_name = fields[1].capitalize()
     emp_num = fields[2]
 
