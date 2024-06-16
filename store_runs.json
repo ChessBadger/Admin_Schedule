@@ -1008,28 +1008,6 @@
         }
     },
     {
-        "date": "Sat, Jun 22",
-        "meet_time": null,
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [],
-        "address": [],
-        "link": [],
-        "store_note": null,
-        "employee_list": {}
-    },
-    {
-        "date": "Sun, Jun 23",
-        "meet_time": null,
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [],
-        "address": [],
-        "link": [],
-        "store_note": null,
-        "employee_list": {}
-    },
-    {
         "date": "Mon, Jun 24",
         "meet_time": "5:30 AM MEET COLLEGE (SOUTHWEST)",
         "start_time": "6:00 AM START",
@@ -1279,26 +1257,22 @@
     },
     {
         "date": "Tue, Jun 25",
-        "meet_time": null,
-        "start_time": "6:30 AM SOUTH RACINE COURT (HWY 43 & Y)",
+        "meet_time": "6:30 AM MEET SOUTH RACINE COURT (HWY 43 & Y)",
+        "start_time": "7:00 AM START",
         "inv_type": [
-            "7:00 AM START"
-        ],
-        "store_name": [
             "DC5-ITEM LEVEL"
         ],
-        "address": [
+        "store_name": [
             "MILLGATE GENERAL STORE, BURLINGTON"
         ],
-        "link": [
+        "address": [
             "151 MILLGATE DR"
         ],
-        "store_note": "https://goo.gl/maps/JmyTfGd26bD2FKyR8",
+        "link": [
+            "https://goo.gl/maps/JmyTfGd26bD2FKyR8"
+        ],
+        "store_note": "EXPORT NEEDS TO BE LEFT ON COMPUTER AT STORE",
         "employee_list": {
-            "": [
-                "",
-                ""
-            ],
             "Kim": [
                 "1)",
                 "Driver,\nSante Fe, Equip"
@@ -1513,14 +1487,10 @@
             "https://goo.gl/maps/ejQSLoz2D8EmzKVq6",
             ""
         ],
-        "store_note": null,
+        "store_note": "Katherine",
         "employee_list": {
-            "Katherine": [
-                "1)",
-                "White Camry available, Equip"
-            ],
-            "Ian": [
-                "2)",
+            "": [
+                "",
                 ""
             ]
         }
@@ -1649,7 +1619,7 @@
     },
     {
         "date": "Thu, Jun 27",
-        "meet_time": "5:15 AM OFFICE MEET",
+        "meet_time": "5:15 AM MEET OFFICE",
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -1962,16 +1932,5 @@
                 ""
             ]
         }
-    },
-    {
-        "date": "Sat, Jun 29",
-        "meet_time": null,
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [],
-        "address": [],
-        "link": [],
-        "store_note": null,
-        "employee_list": {}
     }
 ]
