@@ -59,7 +59,13 @@
         "type": "user",
         "displayName": "lashaun",
       "office": "milwaukee"
-
+      },
+      {
+        "username": "sgull",
+        "password": "3739",
+        "type": "user",
+        "displayName": "stephanie",
+      "office": "milwaukee"
       }
   ]
   
