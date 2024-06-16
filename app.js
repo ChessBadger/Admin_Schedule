@@ -386,5 +386,12 @@ document.addEventListener('DOMContentLoaded', function () {
 
     resultsContainer.innerHTML = '';
     dateCards.forEach((card) => resultsContainer.appendChild(card));
+
+    // Add event listeners to employee names
+    document.querySelectorAll('.employee-list li').forEach((li) => {
+      li.addEventListener('click', function () {
+        li.classList.toggle('strikethrough');
+      });
+    });
   }
 });
