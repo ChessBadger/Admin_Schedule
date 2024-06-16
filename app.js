@@ -231,6 +231,16 @@ document.addEventListener('DOMContentLoaded', function () {
             if (note.toLowerCase().includes('driver')) {
               if (employee.toLowerCase() !== employeeName.toLowerCase()) {
                 drivers.push(employee);
+              } else {
+                const carLogoLight = document.createElement('img');
+                carLogoLight.src = 'car_logo_light.png';
+                carLogoLight.classList.add('car-logo', 'car-logo-light');
+                dateCard.appendChild(carLogoLight);
+
+                const carLogoDark = document.createElement('img');
+                carLogoDark.src = 'car_logo_dark.png';
+                carLogoDark.classList.add('car-logo', 'car-logo-dark');
+                dateCard.appendChild(carLogoDark);
               }
             }
           });
@@ -318,15 +328,6 @@ document.addEventListener('DOMContentLoaded', function () {
                 const listItem = document.createElement('li');
                 listItem.innerHTML = `<strong>${employee}</strong>`;
                 employeeList.appendChild(listItem);
-                const carLogoLight = document.createElement('img');
-                carLogoLight.src = 'car_logo_light.png';
-                carLogoLight.classList.add('car-logo', 'car-logo-light');
-                dateCard.appendChild(carLogoLight);
-
-                const carLogoDark = document.createElement('img');
-                carLogoDark.src = 'car_logo_dark.png';
-                carLogoDark.classList.add('car-logo', 'car-logo-dark');
-                dateCard.appendChild(carLogoDark);
               }
             });
           }
