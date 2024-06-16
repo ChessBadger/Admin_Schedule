@@ -12,6 +12,20 @@ json_file_path = 'store_runs.json'
 if os.path.exists(json_file_path):
     os.remove(json_file_path)
 
+    # Define the current directory
+directory = '.'
+
+# List all files in the directory
+files_in_directory = os.listdir(directory)
+
+# Filter out Excel files
+excel_files = [file for file in files_in_directory if file.endswith(
+    '.xlsx') or file.endswith('.xls')]
+
+# Delete each Excel file
+for file in excel_files:
+    os.remove(os.path.join(directory, file))
+
 
 class StoreRun:
     def __init__(self, date, meet_time, start_time, store_note=None, employee_list=None):
