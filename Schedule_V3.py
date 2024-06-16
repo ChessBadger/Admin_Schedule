@@ -25,8 +25,8 @@ class StoreRun:
         self.store_note = store_note
         self.employee_list = {}
 
-    def add_employee(self, name, number, note):
-        self.employee_list[name] = [number, note]
+    def add_employee(self, name, number, note, office):
+        self.employee_list[name] = [number, note, office]
 
     def add_inv_type(self, inv_type):
         self.inv_type.append(inv_type)
@@ -259,25 +259,25 @@ if folders:
                         elif current_state == 'empty_value':
                             if 'Office' in store_run.store_name:
                                 store_run.add_employee(
-                                    value, number_value, note_value)
+                                    value, number_value, note_value, 'none')
                                 current_state = 'searching'
                                 next_cell = sheet.cell(
                                     row=cell.row + 1, column=cell.column).value
                                 if next_cell:
                                     store_run.add_employee(
-                                        next_cell, number_value, note_value)
+                                        next_cell, number_value, note_value, 'none')
                                     save_store_runs_to_json()
                                 else:
                                     save_store_runs_to_json()
                             else:
                                 current_state = 'found_employee'
                                 store_run.add_employee(
-                                    value, number_value, note_value)
+                                    value, number_value, note_value, 'none')
                         # If the current state is 'found_employee', continue capturing employees
                         elif current_state == "found_employee":
                             if value:
                                 store_run.add_employee(
-                                    value, number_value, note_value)
+                                    value, number_value, note_value, 'none')
                             elif next_store:
                                 current_state = 'searching'
                                 save_store_runs_to_json()

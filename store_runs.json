@@ -19,7 +19,8 @@
         "employee_list": {
             "": [
                 "",
-                ""
+                "",
+                "none"
             ]
         }
     },
@@ -43,35 +44,43 @@
         "employee_list": {
             "DJ": [
                 "1)",
-                "@ Store,\nEquip"
+                "@ Store,\nEquip",
+                "none"
             ],
             "Aaron": [
                 "2)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Casey": [
                 "3)",
-                "Driver,\nRed Van"
+                "Driver,\nRed Van",
+                "none"
             ],
             "Cynthia": [
                 "4)",
-                ""
+                "",
+                "none"
             ],
             "Greg": [
                 "5)",
-                "2nd DC5 Financial"
+                "2nd DC5 Financial",
+                "none"
             ],
             "Jerry D": [
                 "6)",
-                ""
+                "",
+                "none"
             ],
             "Mai": [
                 "7)",
-                "Trainer"
+                "Trainer",
+                "none"
             ],
             "Monica": [
                 "8)",
-                ""
+                "",
+                "none"
             ]
         }
     },
@@ -95,19 +104,23 @@
         "employee_list": {
             "": [
                 "",
-                ""
+                "",
+                "none"
             ],
             "Kim": [
                 "1)",
-                "Meet in Slinger\nEquip"
+                "Meet in Slinger\nEquip",
+                "none"
             ],
             "Carlie": [
                 "2)",
-                "Driver"
+                "Driver",
+                "none"
             ],
             "Trevor": [
                 "3)",
-                "(w/ Carlie)"
+                "(w/ Carlie)",
+                "none"
             ]
         }
     },
@@ -131,15 +144,18 @@
         "employee_list": {
             "Katherine": [
                 "1)",
-                "Equip"
+                "Equip",
+                "none"
             ],
             "Stephanie": [
                 "2)",
-                ""
+                "",
+                "none"
             ],
             "Sue": [
                 "3)",
-                "Driver,\nSante Fe"
+                "Driver,\nSante Fe",
+                "none"
             ]
         }
     },
@@ -163,39 +179,48 @@
         "employee_list": {
             "Brianna": [
                 "1)",
-                "@ Store, Equip"
+                "@ Store, Equip",
+                "none"
             ],
             "Ian": [
                 "2)",
-                "Driver,\nTan Camry"
+                "Driver,\nTan Camry",
+                "none"
             ],
             "Paul": [
                 "3)",
-                ""
+                "",
+                "none"
             ],
             "Sonia": [
                 "4)",
-                ""
+                "",
+                "none"
             ],
             "Anisha": [
                 "5)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Ashley P": [
                 "6)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Elijah": [
                 "7)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Joseph": [
                 "8)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Michael N": [
                 "9)",
-                "@ Store"
+                "@ Store",
+                "none"
             ]
         }
     },
@@ -219,63 +244,78 @@
         "employee_list": {
             "Nate": [
                 "1)",
-                "@ Store, Equip"
+                "@ Store, Equip",
+                "none"
             ],
             "DJ": [
                 "2)",
-                "Driver,\nAltima"
+                "Driver,\nAltima",
+                "none"
             ],
             "Greg": [
                 "3)",
-                "2nd week"
+                "2nd week",
+                "none"
             ],
             "Jerry D": [
                 "4)",
-                ""
+                "",
+                "none"
             ],
             "Mai": [
                 "5)",
-                ""
+                "",
+                "none"
             ],
             "Angela": [
                 "6)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Anisha": [
                 "7)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Ashley P": [
                 "8)",
-                "@ Store,\nSupv Rx"
+                "@ Store,\nSupv Rx",
+                "none"
             ],
             "Brianna": [
                 "9)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Elijah": [
                 "10)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Eva": [
                 "11)",
-                "@ Store,\nRx"
+                "@ Store,\nRx",
+                "none"
             ],
             "Evelin": [
                 "12)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Joseph": [
                 "13)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Michael N": [
                 "14)",
-                "@ Store,\nTrainer"
+                "@ Store,\nTrainer",
+                "none"
             ],
             "Taylor": [
                 "15)",
-                "@ Store"
+                "@ Store",
+                "none"
             ]
         }
     },
@@ -299,71 +339,88 @@
         "employee_list": {
             "": [
                 "",
-                ""
+                "",
+                "none"
             ],
             "Kim": [
                 "1)",
-                "Sante Fe available, Equip"
+                "Sante Fe available, Equip",
+                "none"
             ],
             "Aaron": [
                 "2)",
-                ""
+                "",
+                "none"
             ],
             "Carlie": [
                 "3)",
-                "(w/ Trevor)"
+                "(w/ Trevor)",
+                "none"
             ],
             "Curt": [
                 "4)",
-                ""
+                "",
+                "none"
             ],
             "Cynthia": [
                 "5)",
-                ""
+                "",
+                "none"
             ],
             "Ian": [
                 "6)",
-                "Supv Rx"
+                "Supv Rx",
+                "none"
             ],
             "Monica": [
                 "7)",
-                ""
+                "",
+                "none"
             ],
             "Paul": [
                 "8)",
-                ""
+                "",
+                "none"
             ],
             "Robyn": [
                 "9)",
-                "2nd week"
+                "2nd week",
+                "none"
             ],
             "Sonia": [
                 "10)",
-                ""
+                "",
+                "none"
             ],
             "Stephanie": [
                 "11)",
-                ""
+                "",
+                "none"
             ],
             "Sue": [
                 "12)",
-                "Rx"
+                "Rx",
+                "none"
             ],
             "Trevor": [
                 "13)",
-                "(w/ Carlie)"
+                "(w/ Carlie)",
+                "none"
             ],
             "Annette": [
                 "14)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Jeremiah": [
                 "15)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Marcia": [
                 "16)",
-                "@ Store"
+                "@ Store",
+                "none"
             ]
         }
     },
@@ -395,15 +452,18 @@
         "employee_list": {
             "Katherine": [
                 "1)",
-                "Optima available, Equip"
+                "Optima available, Equip",
+                "none"
             ],
             "Casey": [
                 "2)",
-                ""
+                "",
+                "none"
             ],
             "Lashaun": [
                 "3)",
-                ""
+                "",
+                "none"
             ]
         }
     },
@@ -427,67 +487,83 @@
         "employee_list": {
             "Brianna": [
                 "1)",
-                "@ Store, Equip"
+                "@ Store, Equip",
+                "none"
             ],
             "Greg": [
                 "2)",
-                "2nd week"
+                "2nd week",
+                "none"
             ],
             "Ian": [
                 "3)",
-                "Driver,\nRed Van"
+                "Driver,\nRed Van",
+                "none"
             ],
             "Mai": [
                 "4)",
-                ""
+                "",
+                "none"
             ],
             "Paul": [
                 "5)",
-                ""
+                "",
+                "none"
             ],
             "Robyn": [
                 "6)",
-                "2nd week"
+                "2nd week",
+                "none"
             ],
             "Stephanie": [
                 "7)",
-                "Trainer"
+                "Trainer",
+                "none"
             ],
             "Anisha": [
                 "8)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Ashley P": [
                 "9)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Eva": [
                 "10)",
-                "@ Store,\nRx"
+                "@ Store,\nRx",
+                "none"
             ],
             "Evelin": [
                 "11)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Joseph": [
                 "12)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Justin": [
                 "13)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Michael N": [
                 "14)",
-                "@ Store,\nTrainer"
+                "@ Store,\nTrainer",
+                "none"
             ],
             "Nate": [
                 "15)",
-                "@ Store,\nSupv Rx"
+                "@ Store,\nSupv Rx",
+                "none"
             ],
             "Taylor": [
                 "16)",
-                "@ Store"
+                "@ Store",
+                "none"
             ]
         }
     },
@@ -515,11 +591,13 @@
         "employee_list": {
             "Katherine": [
                 "1)",
-                "Equip"
+                "Equip",
+                "none"
             ],
             "Sue": [
                 "2)",
-                "Driver,\nOptima"
+                "Driver,\nOptima",
+                "none"
             ]
         }
     },
@@ -543,15 +621,18 @@
         "employee_list": {
             "DJ": [
                 "1)",
-                "@ Store, Equip"
+                "@ Store, Equip",
+                "none"
             ],
             "Carlie": [
                 "2)",
-                "@ Store\n(w/ Trevor)"
+                "@ Store\n(w/ Trevor)",
+                "none"
             ],
             "Trevor": [
                 "3)",
-                "@ Store\n(w/ Carlie)"
+                "@ Store\n(w/ Carlie)",
+                "none"
             ]
         }
     },
@@ -575,15 +656,18 @@
         "employee_list": {
             "Kim": [
                 "1)",
-                "Driver,\nSante Fe, Equip"
+                "Driver,\nSante Fe, Equip",
+                "none"
             ],
             "Cynthia": [
                 "2)",
-                ""
+                "",
+                "none"
             ],
             "Monica": [
                 "3)",
-                ""
+                "",
+                "none"
             ]
         }
     },
@@ -607,15 +691,18 @@
         "employee_list": {
             "Lashaun": [
                 "1)",
-                "Driver,\nTan Camry, Equip"
+                "Driver,\nTan Camry, Equip",
+                "none"
             ],
             "Casey": [
                 "2)",
-                ""
+                "",
+                "none"
             ],
             "Sonia": [
                 "3)",
-                ""
+                "",
+                "none"
             ]
         }
     },
@@ -633,7 +720,8 @@
         "employee_list": {
             "Kim": [
                 "",
-                "After Dhillons"
+                "After Dhillons",
+                "none"
             ]
         }
     },
@@ -657,63 +745,78 @@
         "employee_list": {
             "Nate": [
                 "1)",
-                "@ Store, Equip"
+                "@ Store, Equip",
+                "none"
             ],
             "Ian": [
                 "2)",
-                "Driver,\nRed Van"
+                "Driver,\nRed Van",
+                "none"
             ],
             "Mai": [
                 "3)",
-                ""
+                "",
+                "none"
             ],
             "Paul": [
                 "4)",
-                ""
+                "",
+                "none"
             ],
             "Sonia": [
                 "5)",
-                ""
+                "",
+                "none"
             ],
             "Stephanie": [
                 "6)",
-                ""
+                "",
+                "none"
             ],
             "Angela": [
                 "7)",
-                "@ Store,\nRx"
+                "@ Store,\nRx",
+                "none"
             ],
             "Anisha": [
                 "8)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Ashley P": [
                 "9)",
-                "@ Store,\nSupv Rx"
+                "@ Store,\nSupv Rx",
+                "none"
             ],
             "Elijah": [
                 "10)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Eva": [
                 "11)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Evelin": [
                 "12)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Joseph": [
                 "13)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Michael N": [
                 "14)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Taylor": [
                 "15)",
-                "@ Store"
+                "@ Store",
+                "none"
             ]
         }
     },
@@ -737,31 +840,38 @@
         "employee_list": {
             "Jeremiah": [
                 "1)",
-                "@ Store, Equip"
+                "@ Store, Equip",
+                "none"
             ],
             "David": [
                 "2)",
-                "@ Store  "
+                "@ Store  ",
+                "none"
             ],
             "Jerry S": [
                 "3)",
-                "@ Store  "
+                "@ Store  ",
+                "none"
             ],
             "Katie": [
                 "4)",
-                "@ Store  "
+                "@ Store  ",
+                "none"
             ],
             "Kirsten": [
                 "5)",
-                "@ Store  "
+                "@ Store  ",
+                "none"
             ],
             "Marcia": [
                 "6)",
-                "@ Store  "
+                "@ Store  ",
+                "none"
             ],
             "Nick": [
                 "7)",
-                "@ Store"
+                "@ Store",
+                "none"
             ]
         }
     },
@@ -785,7 +895,8 @@
         "employee_list": {
             "DJ": [
                 "1)",
-                "Equip"
+                "Equip",
+                "none"
             ]
         }
     },
@@ -809,15 +920,18 @@
         "employee_list": {
             "Lashaun": [
                 "1)",
-                "Tan Camry available, Equip"
+                "Tan Camry available, Equip",
+                "none"
             ],
             "Casey": [
                 "2)",
-                ""
+                "",
+                "none"
             ],
             "DJ": [
                 "3)",
-                "@ Store,\nAfter Aurora"
+                "@ Store,\nAfter Aurora",
+                "none"
             ]
         }
     },
@@ -841,27 +955,33 @@
         "employee_list": {
             "Katherine": [
                 "1)",
-                "Equip"
+                "Equip",
+                "none"
             ],
             "Carlie": [
                 "2)",
-                "@ Store\n(w/ Trevor)"
+                "@ Store\n(w/ Trevor)",
+                "none"
             ],
             "Cynthia": [
                 "3)",
-                ""
+                "",
+                "none"
             ],
             "Monica": [
                 "4)",
-                ""
+                "",
+                "none"
             ],
             "Sue": [
                 "5)",
-                "Driver,\nOptima"
+                "Driver,\nOptima",
+                "none"
             ],
             "Trevor": [
                 "6)",
-                "@ Store\n(w/ Carlie)"
+                "@ Store\n(w/ Carlie)",
+                "none"
             ]
         }
     },
@@ -885,63 +1005,78 @@
         "employee_list": {
             "Kim": [
                 "1)",
-                "Sante Fe available, Equip"
+                "Sante Fe available, Equip",
+                "none"
             ],
             "Aaron": [
                 "2)",
-                ""
+                "",
+                "none"
             ],
             "Curt": [
                 "3)",
-                ""
+                "",
+                "none"
             ],
             "Cynthia": [
                 "4)",
-                ""
+                "",
+                "none"
             ],
             "DJ": [
                 "5)",
-                ""
+                "",
+                "none"
             ],
             "Greg": [
                 "6)",
-                "2nd week"
+                "2nd week",
+                "none"
             ],
             "Ian": [
                 "7)",
-                ""
+                "",
+                "none"
             ],
             "Jerry D": [
                 "8)",
-                ""
+                "",
+                "none"
             ],
             "Katherine": [
                 "9)",
-                "Supv Rx"
+                "Supv Rx",
+                "none"
             ],
             "Lashaun": [
                 "10)",
-                "Until 9:00"
+                "Until 9:00",
+                "none"
             ],
             "Mai": [
                 "11)",
-                "Rx"
+                "Rx",
+                "none"
             ],
             "Paul": [
                 "12)",
-                ""
+                "",
+                "none"
             ],
             "Robyn": [
                 "13)",
-                "2nd week"
+                "2nd week",
+                "none"
             ],
             "Sonia": [
                 "14)",
-                ""
+                "",
+                "none"
             ],
             "Stephanie": [
                 "15)",
-                "Trainer"
+                "Trainer",
+                "none"
             ]
         }
     },
@@ -965,27 +1100,33 @@
         "employee_list": {
             "Jerry S": [
                 "1)",
-                "@ Store, Equip"
+                "@ Store, Equip",
+                "none"
             ],
             "Carlie": [
                 "2)",
-                "@ Store,\nOptima"
+                "@ Store,\nOptima",
+                "none"
             ],
             "Annette": [
                 "3)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Kirsten": [
                 "4)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Lori": [
                 "5)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Sarah": [
                 "6)",
-                "@ Store"
+                "@ Store",
+                "none"
             ]
         }
     },
@@ -1003,7 +1144,8 @@
         "employee_list": {
             "Lashaun": [
                 "",
-                "After Metro"
+                "After Metro",
+                "none"
             ]
         }
     },
@@ -1049,39 +1191,48 @@
         "employee_list": {
             "": [
                 "",
-                ""
+                "",
+                "none"
             ],
             "Kim": [
                 "1)",
-                "Driver,\nRed Van, Equip"
+                "Driver,\nRed Van, Equip",
+                "none"
             ],
             "Carlie": [
                 "2)",
-                "@ Store\n(w/ Trevor)"
+                "@ Store\n(w/ Trevor)",
+                "none"
             ],
             "Curt": [
                 "3)",
-                ""
+                "",
+                "none"
             ],
             "Cynthia": [
                 "4)",
-                ""
+                "",
+                "none"
             ],
             "Greg": [
                 "5)",
-                ""
+                "",
+                "none"
             ],
             "Robyn": [
                 "6)",
-                ""
+                "",
+                "none"
             ],
             "Sonia": [
                 "7)",
-                ""
+                "",
+                "none"
             ],
             "Trevor": [
                 "8)",
-                "@ Store\n(w/ Carlie)"
+                "@ Store\n(w/ Carlie)",
+                "none"
             ]
         }
     },
@@ -1109,11 +1260,13 @@
         "employee_list": {
             "Ian": [
                 "1)",
-                "Driver,\nSante Fe, Equip"
+                "Driver,\nSante Fe, Equip",
+                "none"
             ],
             "Paul": [
                 "2)",
-                ""
+                "",
+                "none"
             ]
         }
     },
@@ -1145,11 +1298,13 @@
         "employee_list": {
             "Katherine": [
                 "1)",
-                "Equip"
+                "Equip",
+                "none"
             ],
             "Sue": [
                 "2)",
-                "Driver,\nWhite Camry"
+                "Driver,\nWhite Camry",
+                "none"
             ]
         }
     },
@@ -1177,11 +1332,13 @@
         "employee_list": {
             "DJ": [
                 "1)",
-                "Driver,\nAltima, Equip"
+                "Driver,\nAltima, Equip",
+                "none"
             ],
             "Mai": [
                 "2)",
-                ""
+                "",
+                "none"
             ]
         }
     },
@@ -1205,19 +1362,23 @@
         "employee_list": {
             "Lashaun": [
                 "1)",
-                "Driver,\nTan Camry, Equip"
+                "Driver,\nTan Camry, Equip",
+                "none"
             ],
             "Casey": [
                 "2)",
-                ""
+                "",
+                "none"
             ],
             "Jerry D": [
                 "3)",
-                ""
+                "",
+                "none"
             ],
             "Stephanie": [
                 "4)",
-                ""
+                "",
+                "none"
             ]
         }
     },
@@ -1241,39 +1402,48 @@
         "employee_list": {
             "Brianna": [
                 "1)",
-                "@ Store, Equip"
+                "@ Store, Equip",
+                "none"
             ],
             "Carlie": [
                 "2)",
-                "@ Store\n(w/ Trevor)"
+                "@ Store\n(w/ Trevor)",
+                "none"
             ],
             "Greg": [
                 "3)",
-                ""
+                "",
+                "none"
             ],
             "Monica": [
                 "4)",
-                ""
+                "",
+                "none"
             ],
             "Robyn": [
                 "5)",
-                ""
+                "",
+                "none"
             ],
             "Sonia": [
                 "6)",
-                ""
+                "",
+                "none"
             ],
             "Stephanie": [
                 "7)",
-                ""
+                "",
+                "none"
             ],
             "Sue": [
                 "8)",
-                ""
+                "",
+                "none"
             ],
             "Trevor": [
                 "9)",
-                "@ Store\n(w/ Carlie)"
+                "@ Store\n(w/ Carlie)",
+                "none"
             ]
         }
     },
@@ -1297,15 +1467,18 @@
         "employee_list": {
             "Kim": [
                 "1)",
-                "Driver,\nSante Fe, Equip"
+                "Driver,\nSante Fe, Equip",
+                "none"
             ],
             "Cynthia": [
                 "2)",
-                ""
+                "",
+                "none"
             ],
             "Mai": [
                 "3)",
-                ""
+                "",
+                "none"
             ]
         }
     },
@@ -1333,11 +1506,13 @@
         "employee_list": {
             "Ian": [
                 "1)",
-                "Driver,\nTan Camry, Equip"
+                "Driver,\nTan Camry, Equip",
+                "none"
             ],
             "Paul": [
                 "2)",
-                ""
+                "",
+                "none"
             ]
         }
     },
@@ -1373,15 +1548,18 @@
         "employee_list": {
             "Katherine": [
                 "1)",
-                "White Camry available, Equip"
+                "White Camry available, Equip",
+                "none"
             ],
             "Casey": [
                 "2)",
-                ""
+                "",
+                "none"
             ],
             "Lashaun": [
                 "3)",
-                ""
+                "",
+                "none"
             ]
         }
     },
@@ -1405,83 +1583,103 @@
         "employee_list": {
             "": [
                 "",
-                ""
+                "",
+                "none"
             ],
             "Nate": [
                 "1)",
-                "@ Store, Equip"
+                "@ Store, Equip",
+                "none"
             ],
             "Carlie": [
                 "2)",
-                "@ Store\n(w/ Trevor)"
+                "@ Store\n(w/ Trevor)",
+                "none"
             ],
             "Cynthia": [
                 "3)",
-                ""
+                "",
+                "none"
             ],
             "Greg": [
                 "4)",
-                ""
+                "",
+                "none"
             ],
             "Mai": [
                 "5)",
-                ""
+                "",
+                "none"
             ],
             "Monica": [
                 "6)",
-                ""
+                "",
+                "none"
             ],
             "Paul": [
                 "7)",
-                ""
+                "",
+                "none"
             ],
             "Sonia": [
                 "8)",
-                ""
+                "",
+                "none"
             ],
             "Stephanie": [
                 "9)",
-                ""
+                "",
+                "none"
             ],
             "Trevor": [
                 "10)",
-                "@ Store\n(w/ Carlie)"
+                "@ Store\n(w/ Carlie)",
+                "none"
             ],
             "Angela": [
                 "11)",
-                "@ Store,\nRx"
+                "@ Store,\nRx",
+                "none"
             ],
             "Anisha": [
                 "12)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Brianna": [
                 "13)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Evelin": [
                 "14)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Joseph": [
                 "15)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Justin": [
                 "16)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Michael N": [
                 "17)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Qiana": [
                 "18)",
-                "@ Store,\nSupv Rx"
+                "@ Store,\nSupv Rx",
+                "none"
             ],
             "Taylor": [
                 "19)",
-                "@ Store"
+                "@ Store",
+                "none"
             ]
         }
     },
@@ -1513,7 +1711,8 @@
         "employee_list": {
             "": [
                 "",
-                ""
+                "",
+                "none"
             ]
         }
     },
@@ -1531,11 +1730,13 @@
         "employee_list": {
             "Kim": [
                 "",
-                ""
+                "",
+                "none"
             ],
             "Lashaun": [
                 "",
-                ""
+                "",
+                "none"
             ]
         }
     },
@@ -1559,7 +1760,8 @@
         "employee_list": {
             "": [
                 "",
-                ""
+                "",
+                "none"
             ]
         }
     },
@@ -1583,23 +1785,28 @@
         "employee_list": {
             "DJ": [
                 "1)",
-                "Driver,\nAltima, Equip"
+                "Driver,\nAltima, Equip",
+                "none"
             ],
             "Carlie": [
                 "2)",
-                "@ Store\n(w/ Trevor)"
+                "@ Store\n(w/ Trevor)",
+                "none"
             ],
             "Monica": [
                 "3)",
-                ""
+                "",
+                "none"
             ],
             "Stephanie": [
                 "4)",
-                ""
+                "",
+                "none"
             ],
             "Trevor": [
                 "5)",
-                "@ Store\n(w/ Carlie)"
+                "@ Store\n(w/ Carlie)",
+                "none"
             ]
         }
     },
@@ -1623,19 +1830,23 @@
         "employee_list": {
             "Brianna": [
                 "1)",
-                "@ Store, Equip"
+                "@ Store, Equip",
+                "none"
             ],
             "Casey": [
                 "2)",
-                ""
+                "",
+                "none"
             ],
             "Lashaun": [
                 "3)",
-                "Driver,\nTan Camry"
+                "Driver,\nTan Camry",
+                "none"
             ],
             "Lori": [
                 "4)",
-                "@ Store"
+                "@ Store",
+                "none"
             ]
         }
     },
@@ -1659,19 +1870,23 @@
         "employee_list": {
             "Kim": [
                 "1)",
-                "Driver,\nSante Fe, Equip"
+                "Driver,\nSante Fe, Equip",
+                "none"
             ],
             "Cynthia": [
                 "2)",
-                ""
+                "",
+                "none"
             ],
             "Paul": [
                 "3)",
-                ""
+                "",
+                "none"
             ],
             "Sonia": [
                 "4)",
-                ""
+                "",
+                "none"
             ]
         }
     },
@@ -1699,11 +1914,13 @@
         "employee_list": {
             "Katherine": [
                 "1)",
-                "Equip"
+                "Equip",
+                "none"
             ],
             "Ian": [
                 "2)",
-                "Driver,\nWhite Camry"
+                "Driver,\nWhite Camry",
+                "none"
             ]
         }
     },
@@ -1727,43 +1944,53 @@
         "employee_list": {
             "Nate": [
                 "1)",
-                "@ Store, Equip"
+                "@ Store, Equip",
+                "none"
             ],
             "Curt": [
                 "2)",
-                ""
+                "",
+                "none"
             ],
             "Jerry D": [
                 "3)",
-                ""
+                "",
+                "none"
             ],
             "Robyn": [
                 "4)",
-                ""
+                "",
+                "none"
             ],
             "Sue": [
                 "5)",
-                "Driver,\nRed Van"
+                "Driver,\nRed Van",
+                "none"
             ],
             "Evelin": [
                 "6)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Jeri": [
                 "7)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Justin": [
                 "8)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Palmer": [
                 "9)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Taylor": [
                 "10)",
-                "@ Store"
+                "@ Store",
+                "none"
             ]
         }
     },
@@ -1787,35 +2014,43 @@
         "employee_list": {
             "DJ": [
                 "1)",
-                "Equip"
+                "Equip",
+                "none"
             ],
             "Aaron": [
                 "2)",
-                ""
+                "",
+                "none"
             ],
             "Greg": [
                 "3)",
-                ""
+                "",
+                "none"
             ],
             "Jerry D": [
                 "4)",
-                ""
+                "",
+                "none"
             ],
             "Sonia": [
                 "5)",
-                ""
+                "",
+                "none"
             ],
             "Ashley P": [
                 "6)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Evelin": [
                 "7)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Qiana": [
                 "8)",
-                "@ Store"
+                "@ Store",
+                "none"
             ]
         }
     },
@@ -1839,15 +2074,18 @@
         "employee_list": {
             "Nate": [
                 "1)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Kim": [
                 "2)",
-                "Sante Fe,\nUntil 11:30"
+                "Sante Fe,\nUntil 11:30",
+                "none"
             ],
             "Lori": [
                 "3)",
-                "@ Store"
+                "@ Store",
+                "none"
             ]
         }
     },
@@ -1871,19 +2109,23 @@
         "employee_list": {
             "Lashaun": [
                 "1)",
-                "Driver,\nTan Camry,\nEquip"
+                "Driver,\nTan Camry,\nEquip",
+                "none"
             ],
             "Carlie": [
                 "2)",
-                "@ Store"
+                "@ Store",
+                "none"
             ],
             "Casey": [
                 "3)",
-                ""
+                "",
+                "none"
             ],
             "Stephanie": [
                 "4)",
-                ""
+                "",
+                "none"
             ]
         }
     },
@@ -1907,19 +2149,23 @@
         "employee_list": {
             "Katherine": [
                 "1)",
-                "White Camry available, Equip"
+                "White Camry available, Equip",
+                "none"
             ],
             "Cynthia": [
                 "2)",
-                ""
+                "",
+                "none"
             ],
             "Mai": [
                 "3)",
-                ""
+                "",
+                "none"
             ],
             "Monica": [
                 "4)",
-                ""
+                "",
+                "none"
             ]
         }
     },
@@ -1947,11 +2193,13 @@
         "employee_list": {
             "Ian": [
                 "1)",
-                "Driver,\nRed Van, Equip"
+                "Driver,\nRed Van, Equip",
+                "none"
             ],
             "Paul": [
                 "2)",
-                ""
+                "",
+                "none"
             ]
         }
     },
