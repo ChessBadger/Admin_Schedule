@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', function () {
       const password = document.getElementById('password').value;
 
       // Load user data from external file
-      fetch('users.json')
+      fetch('formatted_users.json')
         .then((response) => {
           if (!response.ok) {
             throw new Error('Network response was not ok');
