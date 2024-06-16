@@ -77,8 +77,11 @@ def save_store_runs_to_json():
             json.dump([store_run.to_dict()], file, indent=4)
 
 
+script_dir = os.path.dirname(__file__)
+config_path = os.path.join(script_dir, 'config.json')
+
 # Load credentials from a JSON file
-with open('config.json') as config_file:
+with open(config_path) as config_file:
     credentials = json.load(config_file)
 
 # Set up the credentials for Google Sheets and Drive API
@@ -277,14 +280,17 @@ else:
     print(f"No folder found with the name {folder_name}")
 
 
+# Specify the full path to the Git executable
+git_executable = r"C:\Program Files\Git\bin\git.exe"
+
 # Add all changes to the staging area
-subprocess.run(['git', 'add', '.'], check=True)
+subprocess.run([git_executable, 'add', '.'], check=True)
 
 # Commit changes with a message that includes the current date and time
 commit_message = subprocess.check_output(
     ['date', '+%Y-%m-%d %H:%M:%S']).decode('utf-8').strip()
 subprocess.run(
-    ['git', 'commit', '-m', f"Automated commit. Updated: {commit_message}"], check=True)
+    [git_executable, 'commit', '-m', f"Automated commit. Updated: {commit_message}"], check=True)
 
 # Push changes to the 'main' branch of the 'origin' remote repository
-subprocess.run(['git', 'push', 'origin', 'main'], check=True)
+subprocess.run([git_executable, 'push', 'origin', 'main'], check=True)
