@@ -396,3 +396,74 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 });
+
+document.addEventListener('DOMContentLoaded', function () {
+  const searchInput = document.getElementById('employeeName');
+  const suggestionsContainer = document.getElementById('suggestions');
+
+  searchInput.addEventListener('input', function () {
+    const query = searchInput.value.toLowerCase();
+    if (query.length > 0) {
+      showSuggestions(query);
+    } else {
+      suggestionsContainer.innerHTML = '';
+    }
+  });
+
+  function showSuggestions(query) {
+    let jsonData = localStorage.getItem('jsonData');
+    if (!jsonData) {
+      fetchLocalJson();
+      jsonData = localStorage.getItem('jsonData');
+    }
+
+    if (jsonData) {
+      const data = JSON.parse(jsonData);
+      const employeeNames = new Set();
+      data.forEach((run) => {
+        Object.keys(run.employee_list).forEach((name) => {
+          if (name.toLowerCase().includes(query)) {
+            employeeNames.add(name);
+          }
+        });
+      });
+
+      displaySuggestions(Array.from(employeeNames));
+    }
+  }
+
+  function displaySuggestions(names) {
+    suggestionsContainer.innerHTML = '';
+    names.forEach((name, index) => {
+      const suggestion = document.createElement('div');
+      suggestion.classList.add('suggestion');
+      suggestion.textContent = name;
+      suggestion.addEventListener('click', () => {
+        searchInput.value = name;
+        suggestionsContainer.innerHTML = '';
+      });
+      suggestionsContainer.appendChild(suggestion);
+
+      if (index < names.length - 1) {
+        const separator = document.createElement('hr');
+        separator.classList.add('suggestion-separator');
+        suggestionsContainer.appendChild(separator);
+      }
+    });
+  }
+
+  // Fetch local JSON
+  function fetchLocalJson() {
+    fetch('store_runs.json')
+      .then((response) => response.json())
+      .then((json) => {
+        localStorage.setItem('jsonData', JSON.stringify(json));
+      })
+      .catch((error) => {
+        console.error('Error fetching local JSON:', error);
+      });
+  }
+
+  // Initial data fetch
+  fetchLocalJson();
+});

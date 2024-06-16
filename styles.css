@@ -409,3 +409,45 @@ body.dark-mode #searchNameNote {
   text-decoration: line-through;
   text-decoration-style: double;
 }
+
+.form-group {
+  margin-bottom: 15px;
+  position: relative; /* Ensure the suggestions box is positioned relative to this container */
+}
+
+.suggestions {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  max-height: 150px;
+  overflow-y: auto;
+  position: absolute;
+  background-color: #fff;
+  width: calc(100% + 20px);
+  /* top: calc(100% + 5px);  */
+  z-index: 1000;
+  scrollbar-width: none; /* For Firefox */
+  -ms-overflow-style: none; /* For Internet Explorer and Edge */
+}
+
+.suggestions::-webkit-scrollbar {
+  display: none; /* For Chrome, Safari, and Opera */
+}
+
+.suggestion {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.suggestion:hover {
+  background-color: #f0f0f0;
+}
+
+.suggestion-separator {
+  margin: 0;
+  border: 0;
+  border-top: 1px solid lightgray;
+}
+
+body.dark-mode .suggestion {
+  background-color: #161414;
+}
