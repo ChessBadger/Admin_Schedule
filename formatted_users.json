@@ -87,18 +87,11 @@
     "office": "milwaukee"
   },
   {
-    "username": "abisek",
-    "password": "3774",
-    "type": "user",
-    "displayName": "angela b",
-    "office": "milwaukee"
-  },
-  {
     "username": "asmith",
     "password": "1300",
     "type": "user",
-    "displayName": "angela s",
-    "office": "other"
+    "displayName": "angela",
+    "office": "rockford"
   },
   {
     "username": "avance",
