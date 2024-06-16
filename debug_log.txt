@@ -2,7 +2,7 @@
 "Changing to repository directory: "C:\Users\clark\OneDrive\Desktop\Master_Schedule"" 
 "Changed to repository directory: "C:\Users\clark\OneDrive\Desktop\Master_Schedule"" 
 "Running Schedule_V3.py" 
-Processing sheet: Copy of 06-16-24 to 06-22-24 Milwaukee Schedule
-Processing sheet: Copy of 06-23-24 to 06-29-24 Milwaukee Schedule
+Processing sheet: 06-16-24 to 06-22-24 Milwaukee Schedule Copy
+Processing sheet: 06-23-24 to 06-29-24 Milwaukee Schedule Copy
 "Schedule_V3.py ran successfully" 
 "Running git add" 

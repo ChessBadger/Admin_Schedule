@@ -164,9 +164,14 @@ if folders:
                         next_store = sheet.cell(
                             row=cell.row + 2, column=cell.column).value
 
+                        # Handle empty days (weekends)
                         if cell.row == 8 and cell.value is None:
-                            if cell.row == 9 and cell.value is None:
-                                if cell.row == 10 and cell.value is None:
+                            next_cell = sheet.cell(
+                                row=cell.row + 1, column=cell.column).value
+                            if next_cell is None:
+                                next_cell = sheet.cell(
+                                    row=cell.row + 1, column=cell.column).value
+                                if next_cell is None:
                                     store_run = StoreRun(
                                         date=None, meet_time=None, start_time=None)
                                     store_run.date = header_value
@@ -174,8 +179,12 @@ if folders:
                                     break_outer_loop = True
                                     break
                         elif cell.row == 8 and cell.value == '':
-                            if cell.row == 9 and cell.value is None:
-                                if cell.row == 10 and cell.value is None:
+                            next_cell = sheet.cell(
+                                row=cell.row + 1, column=cell.column).value
+                            if next_cell == '':
+                                next_cell = sheet.cell(
+                                    row=cell.row + 1, column=cell.column).value
+                                if next_cell == '':
                                     store_run = StoreRun(
                                         date=None, meet_time=None, start_time=None)
                                     store_run.date = header_value

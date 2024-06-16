@@ -1008,6 +1008,28 @@
         }
     },
     {
+        "date": "Sat, Jun 22",
+        "meet_time": null,
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [],
+        "address": [],
+        "link": [],
+        "store_note": null,
+        "employee_list": {}
+    },
+    {
+        "date": "Sun, Jun 23",
+        "meet_time": null,
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [],
+        "address": [],
+        "link": [],
+        "store_note": null,
+        "employee_list": {}
+    },
+    {
         "date": "Mon, Jun 24",
         "meet_time": "5:30 AM MEET COLLEGE (SOUTHWEST)",
         "start_time": "6:00 AM START",
@@ -1932,5 +1954,16 @@
                 ""
             ]
         }
+    },
+    {
+        "date": "Sat, Jun 29",
+        "meet_time": null,
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [],
+        "address": [],
+        "link": [],
+        "store_note": null,
+        "employee_list": {}
     }
 ]
