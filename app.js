@@ -346,7 +346,7 @@ document.addEventListener('DOMContentLoaded', function () {
               if (employee.toLowerCase() !== employeeName.toLowerCase()) {
                 const listItem = document.createElement('li');
                 if (note !== '') {
-                  listItem.innerHTML = `<strong>${employee}</strong> - ${note}`;
+                  listItem.innerHTML = `<strong>${employee}</strong> - <small style="color: green;">${note}</small>`;
                 } else {
                   listItem.innerHTML = `<strong>${employee}</strong>`;
                 }
