@@ -75,7 +75,6 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             location.reload(); // Refresh the screen after login
-            location.reload(); // Refresh the screen after login
           } else {
             document.getElementById('loginError').textContent = 'Invalid username or password';
           }
@@ -160,7 +159,7 @@ document.addEventListener('DOMContentLoaded', function () {
         localStorage.setItem('userOffice', office);
       }
 
-      displaySearchResults(results, employeeName);
+      displaySearchResults(results, employeeName, office);
 
       document.getElementById('employeeName').value = ''; // Clear the textbox
       suggestionsContainer.innerHTML = '';
@@ -188,7 +187,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
-  function displaySearchResults(results, employeeName) {
+  function displaySearchResults(results, employeeName, office) {
     const resultsContainer = document.getElementById('resultsContainer');
     resultsContainer.innerHTML = '';
 
@@ -229,9 +228,12 @@ document.addEventListener('DOMContentLoaded', function () {
 
           // Populate runElement with run details
           if (run.meet_time) {
-            const meetTime = document.createElement('p');
-            meetTime.innerHTML = `<strong>Meet Time:</strong> ${run.meet_time}`;
-            runElement.appendChild(meetTime);
+            const filteredMeetTimes = filterMeetTimes(run.meet_time, searchNameOffice);
+            if (filteredMeetTimes.length > 0) {
+              const meetTime = document.createElement('p');
+              meetTime.innerHTML = `<strong>Meet Time:</strong> ${filteredMeetTimes.join(', ')}`;
+              runElement.appendChild(meetTime);
+            }
           }
 
           if (run.start_time) {
@@ -252,8 +254,8 @@ document.addEventListener('DOMContentLoaded', function () {
             if (number === '1)') {
               supervisor = employee;
             }
-            if (note.toLowerCase().includes('driver')) {
-              if (employee.toLowerCase() !== employeeName.toLowerCase() && searchNameOffice === office) {
+            if (note.toLowerCase().includes('driver') && searchNameOffice === office) {
+              if (employee.toLowerCase() !== employeeName.toLowerCase()) {
                 drivers.push(employee);
               } else {
                 const carLogoLight = document.createElement('img');
@@ -419,6 +421,16 @@ document.addEventListener('DOMContentLoaded', function () {
       li.addEventListener('click', function () {
         li.classList.toggle('strikethrough');
       });
+    });
+  }
+
+  function filterMeetTimes(meetTimes, office) {
+    return meetTimes.filter((time) => {
+      if (time.includes('M:') && office === 'milwaukee') return true;
+      if (time.includes('IL:') && office === 'rockford') return true;
+      if (time.includes('FV:') && office === 'other') return true;
+      if (!time.includes('M:') && !time.includes('IL:') && !time.includes('FV:')) return true;
+      return false;
     });
   }
 });
