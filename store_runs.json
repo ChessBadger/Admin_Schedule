@@ -233,9 +233,9 @@
     {
         "date": "Tue, Jun 18",
         "meet_time": [
-            "4:15 AM MEET COLLEGE (SOUTHWEST)",
-            "5:00 AM AT IL OFFICE",
-            "4:45 AM BALLARD"
+            "M: 4:15 AM MEET COLLEGE (SOUTHWEST)",
+            "IL: 5:00 AM AT IL OFFICE ",
+            "FV: 4:45 AM BALLARD"
         ],
         "start_time": "6:00 AM START",
         "inv_type": [

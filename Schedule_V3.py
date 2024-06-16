@@ -219,14 +219,11 @@ if folders:
                             # Iterate over each line to find meet times
                             for line in lines:
                                 if line.startswith('M:'):
-                                    meet_times_dict['M:'] = line[len(
-                                        'M:'):].strip()
+                                    meet_times_dict['M:'] = line
                                 elif line.startswith('IL:'):
-                                    meet_times_dict['IL:'] = line[len(
-                                        'IL:'):].strip()
+                                    meet_times_dict['IL:'] = line
                                 elif line.startswith('FV:'):
-                                    meet_times_dict['FV:'] = line[len(
-                                        'FV:'):].strip()
+                                    meet_times_dict['FV:'] = line
                                 else:
                                     default_value = line.strip()
                             # Add meet times to the list in the specified order
