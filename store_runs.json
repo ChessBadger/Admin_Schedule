@@ -1,7 +1,7 @@
 [
     {
         "date": "Sun, Jun 16",
-        "meet_time": null,
+        "meet_time": [],
         "start_time": "FATHER'S DAY",
         "inv_type": [
             ""
@@ -26,7 +26,9 @@
     },
     {
         "date": "Mon, Jun 17",
-        "meet_time": "5:30 AM MEET COLLEGE (SOUTHWEST)",
+        "meet_time": [
+            "5:30 AM MEET COLLEGE (SOUTHWEST)"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL"
@@ -44,12 +46,12 @@
         "employee_list": {
             "DJ": [
                 "1)",
-                "@ Store,\nEquip",
+                "\nEquip",
                 "milwaukee"
             ],
             "Aaron": [
                 "2)",
-                "@ Store",
+                "",
                 "milwaukee"
             ],
             "Casey": [
@@ -86,7 +88,7 @@
     },
     {
         "date": "Mon, Jun 17",
-        "meet_time": null,
+        "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -126,7 +128,9 @@
     },
     {
         "date": "Mon, Jun 17",
-        "meet_time": "5:00 AM MEET OFFICE",
+        "meet_time": [
+            "5:00 AM MEET OFFICE"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -161,7 +165,9 @@
     },
     {
         "date": "Mon, Jun 17",
-        "meet_time": "4:15 AM MEET SOUTH RACINE COURT (HWY 43 & Y)",
+        "meet_time": [
+            "4:15 AM MEET SOUTH RACINE COURT (HWY 43 & Y)"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL"
@@ -179,7 +185,7 @@
         "employee_list": {
             "Brianna": [
                 "1)",
-                "@ Store, Equip",
+                " Equip",
                 "other"
             ],
             "Ian": [
@@ -199,34 +205,38 @@
             ],
             "Anisha": [
                 "5)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Ashley P": [
                 "6)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Elijah": [
                 "7)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Joseph": [
                 "8)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Michael N": [
                 "9)",
-                "@ Store",
+                "",
                 "other"
             ]
         }
     },
     {
         "date": "Tue, Jun 18",
-        "meet_time": "4:15 AM MEET COLLEGE (SOUTHWEST)",
+        "meet_time": [
+            "4:15 AM MEET COLLEGE (SOUTHWEST)",
+            "5:00 AM AT IL OFFICE",
+            "4:45 AM BALLARD"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -244,7 +254,7 @@
         "employee_list": {
             "Nate": [
                 "1)",
-                "@ Store, Equip",
+                " Equip",
                 "other"
             ],
             "DJ": [
@@ -269,59 +279,59 @@
             ],
             "Angela": [
                 "6)",
-                "@ Store",
+                "",
                 "none"
             ],
             "Anisha": [
                 "7)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Ashley P": [
                 "8)",
-                "@ Store,\nSupv Rx",
+                "\nSupv Rx",
                 "other"
             ],
             "Brianna": [
                 "9)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Elijah": [
                 "10)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Eva": [
                 "11)",
-                "@ Store,\nRx",
+                "\nRx",
                 "other"
             ],
             "Evelin": [
                 "12)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Joseph": [
                 "13)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Michael N": [
                 "14)",
-                "@ Store,\nTrainer",
+                "\nTrainer",
                 "other"
             ],
             "Taylor": [
                 "15)",
-                "@ Store",
+                "",
                 "other"
             ]
         }
     },
     {
         "date": "Tue, Jun 18",
-        "meet_time": null,
+        "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -409,24 +419,24 @@
             ],
             "Annette": [
                 "14)",
-                "@ Store",
+                "",
                 "milwaukee"
             ],
             "Jeremiah": [
                 "15)",
-                "@ Store",
+                "",
                 "milwaukee"
             ],
             "Marcia": [
                 "16)",
-                "@ Store",
+                "",
                 "milwaukee"
             ]
         }
     },
     {
         "date": "Tue, Jun 18",
-        "meet_time": null,
+        "meet_time": [],
         "start_time": "7:00 AM START",
         "inv_type": [
             "EXCEL FINANCIAL",
@@ -469,7 +479,9 @@
     },
     {
         "date": "Wed, Jun 19",
-        "meet_time": "4:45 AM MEET COLLEGE (SOUTHWEST)",
+        "meet_time": [
+            "4:45 AM MEET COLLEGE (SOUTHWEST)"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -487,7 +499,7 @@
         "employee_list": {
             "Brianna": [
                 "1)",
-                "@ Store, Equip",
+                " Equip",
                 "other"
             ],
             "Greg": [
@@ -522,54 +534,56 @@
             ],
             "Anisha": [
                 "8)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Ashley P": [
                 "9)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Eva": [
                 "10)",
-                "@ Store,\nRx",
+                "\nRx",
                 "other"
             ],
             "Evelin": [
                 "11)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Joseph": [
                 "12)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Justin": [
                 "13)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Michael N": [
                 "14)",
-                "@ Store,\nTrainer",
+                "\nTrainer",
                 "other"
             ],
             "Nate": [
                 "15)",
-                "@ Store,\nSupv Rx",
+                "\nSupv Rx",
                 "other"
             ],
             "Taylor": [
                 "16)",
-                "@ Store",
+                "",
                 "other"
             ]
         }
     },
     {
         "date": "Wed, Jun 19",
-        "meet_time": "6:15 AM MEET AT THE OFFICE",
+        "meet_time": [
+            "6:15 AM MEET AT THE OFFICE"
+        ],
         "start_time": "7:00 AM START",
         "inv_type": [
             "EXCEL FINANCIAL",
@@ -621,24 +635,26 @@
         "employee_list": {
             "DJ": [
                 "1)",
-                "@ Store, Equip",
+                " Equip",
                 "milwaukee"
             ],
             "Carlie": [
                 "2)",
-                "@ Store\n(w/ Trevor)",
+                "\n(w/ Trevor)",
                 "other"
             ],
             "Trevor": [
                 "3)",
-                "@ Store\n(w/ Carlie)",
+                "\n(w/ Carlie)",
                 "milwaukee"
             ]
         }
     },
     {
         "date": "Wed, Jun 19",
-        "meet_time": "5:15 AM MEET OFFICE",
+        "meet_time": [
+            "5:15 AM MEET OFFICE"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -673,7 +689,9 @@
     },
     {
         "date": "Wed, Jun 19",
-        "meet_time": "5:15 AM MEET WATERTOWN PLANK",
+        "meet_time": [
+            "5:15 AM MEET WATERTOWN PLANK"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -708,7 +726,7 @@
     },
     {
         "date": "Wed, Jun 19",
-        "meet_time": null,
+        "meet_time": [],
         "start_time": null,
         "inv_type": [],
         "store_name": [
@@ -727,7 +745,9 @@
     },
     {
         "date": "Thu, Jun 20",
-        "meet_time": "5:00 AM MEET COLLEGE (SOUTHWEST)",
+        "meet_time": [
+            "5:00 AM MEET COLLEGE (SOUTHWEST)"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -745,7 +765,7 @@
         "employee_list": {
             "Nate": [
                 "1)",
-                "@ Store, Equip",
+                " Equip",
                 "other"
             ],
             "Ian": [
@@ -775,54 +795,54 @@
             ],
             "Angela": [
                 "7)",
-                "@ Store,\nRx",
+                "\nRx",
                 "none"
             ],
             "Anisha": [
                 "8)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Ashley P": [
                 "9)",
-                "@ Store,\nSupv Rx",
+                "\nSupv Rx",
                 "other"
             ],
             "Elijah": [
                 "10)",
-                "@ Store",
+                "Driver, Gray Van",
                 "other"
             ],
             "Eva": [
                 "11)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Evelin": [
                 "12)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Joseph": [
                 "13)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Michael N": [
                 "14)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Taylor": [
                 "15)",
-                "@ Store",
+                "",
                 "other"
             ]
         }
     },
     {
         "date": "Thu, Jun 20",
-        "meet_time": null,
+        "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL"
@@ -840,44 +860,44 @@
         "employee_list": {
             "Jeremiah": [
                 "1)",
-                "@ Store, Equip",
+                " Equip",
                 "milwaukee"
             ],
             "David": [
                 "2)",
-                "@ Store  ",
+                "  ",
                 "none"
             ],
             "Jerry S": [
                 "3)",
-                "@ Store  ",
+                "  ",
                 "milwaukee"
             ],
             "Katie": [
                 "4)",
-                "@ Store  ",
+                "  ",
                 "none"
             ],
             "Kirsten": [
                 "5)",
-                "@ Store  ",
+                "  ",
                 "milwaukee"
             ],
             "Marcia": [
                 "6)",
-                "@ Store  ",
+                "  ",
                 "milwaukee"
             ],
             "Nick": [
                 "7)",
-                "@ Store",
+                "",
                 "milwaukee"
             ]
         }
     },
     {
         "date": "Thu, Jun 20",
-        "meet_time": null,
+        "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -902,7 +922,7 @@
     },
     {
         "date": "Thu, Jun 20",
-        "meet_time": null,
+        "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -930,14 +950,16 @@
             ],
             "DJ": [
                 "3)",
-                "@ Store,\nAfter Aurora",
+                "\nAfter Aurora",
                 "milwaukee"
             ]
         }
     },
     {
         "date": "Thu, Jun 20",
-        "meet_time": "4:45 AM MEET AT THE OFFICE",
+        "meet_time": [
+            "4:45 AM MEET AT THE OFFICE"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -960,7 +982,7 @@
             ],
             "Carlie": [
                 "2)",
-                "@ Store\n(w/ Trevor)",
+                "\n(w/ Trevor)",
                 "other"
             ],
             "Cynthia": [
@@ -980,14 +1002,14 @@
             ],
             "Trevor": [
                 "6)",
-                "@ Store\n(w/ Carlie)",
+                "\n(w/ Carlie)",
                 "milwaukee"
             ]
         }
     },
     {
         "date": "Fri, Jun 21",
-        "meet_time": null,
+        "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -1082,7 +1104,7 @@
     },
     {
         "date": "Fri, Jun 21",
-        "meet_time": null,
+        "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL"
@@ -1100,39 +1122,39 @@
         "employee_list": {
             "Jerry S": [
                 "1)",
-                "@ Store, Equip",
+                " Equip",
                 "milwaukee"
             ],
             "Carlie": [
                 "2)",
-                "@ Store,\nOptima",
+                "\nOptima",
                 "other"
             ],
             "Annette": [
                 "3)",
-                "@ Store",
+                "",
                 "milwaukee"
             ],
             "Kirsten": [
                 "4)",
-                "@ Store",
+                "",
                 "milwaukee"
             ],
             "Lori": [
                 "5)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Sarah": [
                 "6)",
-                "@ Store",
+                "",
                 "other"
             ]
         }
     },
     {
         "date": "Fri, Jun 21",
-        "meet_time": null,
+        "meet_time": [],
         "start_time": null,
         "inv_type": [],
         "store_name": [
@@ -1151,7 +1173,7 @@
     },
     {
         "date": "Sat, Jun 22",
-        "meet_time": null,
+        "meet_time": [],
         "start_time": null,
         "inv_type": [],
         "store_name": [],
@@ -1162,7 +1184,7 @@
     },
     {
         "date": "Sun, Jun 23",
-        "meet_time": null,
+        "meet_time": [],
         "start_time": null,
         "inv_type": [],
         "store_name": [],
@@ -1173,7 +1195,9 @@
     },
     {
         "date": "Mon, Jun 24",
-        "meet_time": "5:30 AM MEET COLLEGE (SOUTHWEST)",
+        "meet_time": [
+            "5:30 AM MEET COLLEGE (SOUTHWEST)"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL"
@@ -1201,7 +1225,7 @@
             ],
             "Carlie": [
                 "2)",
-                "@ Store\n(w/ Trevor)",
+                "\n(w/ Trevor)",
                 "other"
             ],
             "Curt": [
@@ -1231,14 +1255,16 @@
             ],
             "Trevor": [
                 "8)",
-                "@ Store\n(w/ Carlie)",
+                "\n(w/ Carlie)",
                 "milwaukee"
             ]
         }
     },
     {
         "date": "Mon, Jun 24",
-        "meet_time": "5:30 AM MEET WATERTOWN PLANK",
+        "meet_time": [
+            "5:30 AM MEET WATERTOWN PLANK"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "EXCEL FINANCIAL",
@@ -1272,7 +1298,9 @@
     },
     {
         "date": "Mon, Jun 24",
-        "meet_time": "5:00 AM MEET AT THE OFFICE",
+        "meet_time": [
+            "5:00 AM MEET AT THE OFFICE"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL",
@@ -1310,7 +1338,9 @@
     },
     {
         "date": "Mon, Jun 24",
-        "meet_time": "6:30 AM MEET OFFICE",
+        "meet_time": [
+            "6:30 AM MEET OFFICE"
+        ],
         "start_time": "7:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL",
@@ -1344,7 +1374,9 @@
     },
     {
         "date": "Mon, Jun 24",
-        "meet_time": "5:00 AM MEET WATERTOWN PLANK",
+        "meet_time": [
+            "5:00 AM MEET WATERTOWN PLANK"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -1384,7 +1416,7 @@
     },
     {
         "date": "Tue, Jun 25",
-        "meet_time": null,
+        "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -1402,12 +1434,12 @@
         "employee_list": {
             "Brianna": [
                 "1)",
-                "@ Store, Equip",
+                " Equip",
                 "other"
             ],
             "Carlie": [
                 "2)",
-                "@ Store\n(w/ Trevor)",
+                "\n(w/ Trevor)",
                 "other"
             ],
             "Greg": [
@@ -1442,14 +1474,16 @@
             ],
             "Trevor": [
                 "9)",
-                "@ Store\n(w/ Carlie)",
+                "\n(w/ Carlie)",
                 "milwaukee"
             ]
         }
     },
     {
         "date": "Tue, Jun 25",
-        "meet_time": "6:30 AM MEET SOUTH RACINE COURT (HWY 43 & Y)",
+        "meet_time": [
+            "6:30 AM MEET SOUTH RACINE COURT (HWY 43 & Y)"
+        ],
         "start_time": "7:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -1484,7 +1518,9 @@
     },
     {
         "date": "Tue, Jun 25",
-        "meet_time": "6:30 AM MEET OFFICE",
+        "meet_time": [
+            "6:30 AM MEET OFFICE"
+        ],
         "start_time": "7:00 AM START",
         "inv_type": [
             "EXCEL FINANCIAL",
@@ -1518,7 +1554,7 @@
     },
     {
         "date": "Tue, Jun 25",
-        "meet_time": null,
+        "meet_time": [],
         "start_time": "5:30 AM START",
         "inv_type": [
             "DC5-FINANCIAL",
@@ -1565,7 +1601,7 @@
     },
     {
         "date": "Wed, Jun 26",
-        "meet_time": null,
+        "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -1588,12 +1624,12 @@
             ],
             "Nate": [
                 "1)",
-                "@ Store, Equip",
+                " Equip",
                 "other"
             ],
             "Carlie": [
                 "2)",
-                "@ Store\n(w/ Trevor)",
+                "\n(w/ Trevor)",
                 "other"
             ],
             "Cynthia": [
@@ -1633,59 +1669,59 @@
             ],
             "Trevor": [
                 "10)",
-                "@ Store\n(w/ Carlie)",
+                "\n(w/ Carlie)",
                 "milwaukee"
             ],
             "Angela": [
                 "11)",
-                "@ Store,\nRx",
+                "\nRx",
                 "none"
             ],
             "Anisha": [
                 "12)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Brianna": [
                 "13)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Evelin": [
                 "14)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Joseph": [
                 "15)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Justin": [
                 "16)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Michael N": [
                 "17)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Qiana": [
                 "18)",
-                "@ Store,\nSupv Rx",
+                "\nSupv Rx",
                 "other"
             ],
             "Taylor": [
                 "19)",
-                "@ Store",
+                "",
                 "other"
             ]
         }
     },
     {
         "date": "Wed, Jun 26",
-        "meet_time": null,
+        "meet_time": [],
         "start_time": "5:30 AM START",
         "inv_type": [
             "DC5-FINANCIAL",
@@ -1718,7 +1754,7 @@
     },
     {
         "date": "Wed, Jun 26",
-        "meet_time": null,
+        "meet_time": [],
         "start_time": null,
         "inv_type": [],
         "store_name": [
@@ -1742,7 +1778,7 @@
     },
     {
         "date": "Wed, Jun 26",
-        "meet_time": null,
+        "meet_time": [],
         "start_time": "Lashaun",
         "inv_type": [
             ""
@@ -1767,7 +1803,9 @@
     },
     {
         "date": "Thu, Jun 27",
-        "meet_time": "5:15 AM MEET OFFICE",
+        "meet_time": [
+            "5:15 AM MEET OFFICE"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -1790,7 +1828,7 @@
             ],
             "Carlie": [
                 "2)",
-                "@ Store\n(w/ Trevor)",
+                "\n(w/ Trevor)",
                 "other"
             ],
             "Monica": [
@@ -1805,14 +1843,16 @@
             ],
             "Trevor": [
                 "5)",
-                "@ Store\n(w/ Carlie)",
+                "\n(w/ Carlie)",
                 "milwaukee"
             ]
         }
     },
     {
         "date": "Thu, Jun 27",
-        "meet_time": "5:00 AM MEET OFFICE",
+        "meet_time": [
+            "5:00 AM MEET OFFICE"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -1830,7 +1870,7 @@
         "employee_list": {
             "Brianna": [
                 "1)",
-                "@ Store, Equip",
+                " Equip",
                 "other"
             ],
             "Casey": [
@@ -1845,14 +1885,16 @@
             ],
             "Lori": [
                 "4)",
-                "@ Store",
+                "",
                 "other"
             ]
         }
     },
     {
         "date": "Thu, Jun 27",
-        "meet_time": "5:15 AM MEET OFFICE",
+        "meet_time": [
+            "5:15 AM MEET OFFICE"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -1892,7 +1934,9 @@
     },
     {
         "date": "Thu, Jun 27",
-        "meet_time": "5:00 AM MEET AT OFFICE",
+        "meet_time": [
+            "5:00 AM MEET AT OFFICE"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL",
@@ -1926,7 +1970,9 @@
     },
     {
         "date": "Thu, Jun 27",
-        "meet_time": "4:30 AM OFFICE MEET",
+        "meet_time": [
+            "4:30 AM OFFICE MEET"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -1944,7 +1990,7 @@
         "employee_list": {
             "Nate": [
                 "1)",
-                "@ Store, Equip",
+                " Equip",
                 "other"
             ],
             "Curt": [
@@ -1969,34 +2015,34 @@
             ],
             "Evelin": [
                 "6)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Jeri": [
                 "7)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Justin": [
                 "8)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Palmer": [
                 "9)",
-                "@ Store",
+                "",
                 "none"
             ],
             "Taylor": [
                 "10)",
-                "@ Store",
+                "",
                 "other"
             ]
         }
     },
     {
         "date": "Fri, Jun 28",
-        "meet_time": null,
+        "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL"
@@ -2039,17 +2085,17 @@
             ],
             "Ashley P": [
                 "6)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Evelin": [
                 "7)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Qiana": [
                 "8)",
-                "@ Store",
+                "",
                 "other"
             ]
         }
@@ -2074,7 +2120,7 @@
         "employee_list": {
             "Nate": [
                 "1)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Kim": [
@@ -2084,14 +2130,16 @@
             ],
             "Lori": [
                 "3)",
-                "@ Store",
+                "",
                 "other"
             ]
         }
     },
     {
         "date": "Fri, Jun 28",
-        "meet_time": "5:00 AM MEET WATERTOWN PLANK",
+        "meet_time": [
+            "5:00 AM MEET WATERTOWN PLANK"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -2114,7 +2162,7 @@
             ],
             "Carlie": [
                 "2)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Casey": [
@@ -2131,7 +2179,7 @@
     },
     {
         "date": "Fri, Jun 28",
-        "meet_time": null,
+        "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -2171,7 +2219,9 @@
     },
     {
         "date": "Fri, Jun 28",
-        "meet_time": "5:15 AM MEET COLLEGE (SOUTHWEST)",
+        "meet_time": [
+            "5:15 AM MEET COLLEGE (SOUTHWEST)"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL",
@@ -2205,7 +2255,7 @@
     },
     {
         "date": "Sat, Jun 29",
-        "meet_time": null,
+        "meet_time": [],
         "start_time": null,
         "inv_type": [],
         "store_name": [],

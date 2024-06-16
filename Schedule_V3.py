@@ -28,9 +28,9 @@ for file in excel_files:
 
 
 class StoreRun:
-    def __init__(self, date, meet_time, start_time, store_note=None, employee_list=None):
+    def __init__(self, date, start_time, store_note=None, employee_list=None):
         self.date = date
-        self.meet_time = meet_time
+        self.meet_time = []
         self.start_time = start_time
         self.inv_type = []
         self.store_name = []
@@ -187,7 +187,7 @@ if folders:
                                     row=cell.row + 1, column=cell.column).value
                                 if next_cell is None:
                                     store_run = StoreRun(
-                                        date=None, meet_time=None, start_time=None)
+                                        date=None, start_time=None)
                                     store_run.date = header_value
                                     save_store_runs_to_json()
                                     break_outer_loop = True
@@ -200,21 +200,48 @@ if folders:
                                     row=cell.row + 1, column=cell.column).value
                                 if next_cell == '':
                                     store_run = StoreRun(
-                                        date=None, meet_time=None, start_time=None)
+                                        date=None, start_time=None)
                                     store_run.date = header_value
                                     save_store_runs_to_json()
                                     break_outer_loop = True
                                     break
 
-                            # Check if the current state is 'searching' and the cell contains 'meet'
+                        # Assuming value is the string containing the meet times
                         if value and current_state == 'searching' and 'meet' in value.lower():
                             store_run = StoreRun(
-                                date=None, meet_time=None, start_time=None)
-                            store_run.meet_time = value
+                                date=None, start_time=None)
+                            # Split the value by lines
+                            lines = value.split('\n')
+                            # Initialize a dictionary to hold meet times
+                            meet_times_dict = {'M:': None,
+                                               'IL:': None, 'FV:': None}
+                            default_value = None
+                            # Iterate over each line to find meet times
+                            for line in lines:
+                                if line.startswith('M:'):
+                                    meet_times_dict['M:'] = line[len(
+                                        'M:'):].strip()
+                                elif line.startswith('IL:'):
+                                    meet_times_dict['IL:'] = line[len(
+                                        'IL:'):].strip()
+                                elif line.startswith('FV:'):
+                                    meet_times_dict['FV:'] = line[len(
+                                        'FV:'):].strip()
+                                else:
+                                    default_value = line.strip()
+                            # Add meet times to the list in the specified order
+                            store_run.meet_time = [
+                                meet_times_dict['M:'] or default_value,
+                                meet_times_dict['IL:'],
+                                meet_times_dict['FV:']
+                            ]
+                            # Remove any None values from the list
+                            store_run.meet_time = [
+                                time for time in store_run.meet_time if time is not None]
                             current_state = 'found_meet'
                         elif value and current_state == 'searching' and 'leave time' in value.lower():
                             store_run = StoreRun(
-                                date=None, meet_time=None, start_time=None)
+                                date=None,  start_time=None)
                             store_run.meet_time = value
                             current_state = 'found_meet'
                         elif value and current_state == 'found_meet':
@@ -224,14 +251,14 @@ if folders:
                         # Check for anyone scheduled in the office
                         elif value and current_state == 'searching' and 'office' in value.lower() and 'leave' not in value.lower():
                             store_run = StoreRun(
-                                date=None, meet_time=None, start_time=None)
+                                date=None, start_time=None)
                             store_run.date = header_value
                             store_run.add_store_name(value)
                             current_state = 'empty_value'
                         # If the current state is 'searching' or 'found_meet', capture the start time
                         elif value and current_state == 'searching':
                             store_run = StoreRun(
-                                date=None, meet_time=None, start_time=None)
+                                date=None, start_time=None)
                             store_run.start_time = value
                             store_run.date = header_value
                             current_state = 'found_start'
