@@ -252,8 +252,8 @@ document.addEventListener('DOMContentLoaded', function () {
             if (number === '1)') {
               supervisor = employee;
             }
-            if (note.toLowerCase().includes('driver')) {
-              if (employee.toLowerCase() !== employeeName.toLowerCase() && searchNameOffice === office) {
+            if (note.toLowerCase().includes('driver') && searchNameOffice === office) {
+              if (employee.toLowerCase() !== employeeName.toLowerCase()) {
                 drivers.push(employee);
               } else {
                 const carLogoLight = document.createElement('img');
