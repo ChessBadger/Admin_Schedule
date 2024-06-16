@@ -339,7 +339,7 @@ document.addEventListener('DOMContentLoaded', function () {
             if (employee.toLowerCase() === employeeName.toLowerCase()) {
               const [number, note, office] = run.employee_list[employee];
               const searchNameOffice = localStorage.getItem('userOffice');
-              return number === '1)' || (note.toLowerCase().includes('driver') && searchNameOffice === office);
+              return number === '1)' || (note.toLowerCase().includes('driver') && searchNameOffice === office && !note.toLowerCase().includes('@ store'));
             }
             return false;
           });
@@ -348,7 +348,7 @@ document.addEventListener('DOMContentLoaded', function () {
             Object.keys(run.employee_list).forEach((employee) => {
               const [number, note, office] = run.employee_list[employee];
               const searchNameOffice = localStorage.getItem('userOffice');
-              if (employee.toLowerCase() !== employeeName.toLowerCase() && searchNameOffice === office) {
+              if (employee.toLowerCase() !== employeeName.toLowerCase() && searchNameOffice === office && !note.toLowerCase().includes('@ store')) {
                 const listItem = document.createElement('li');
                 listItem.innerHTML = `<strong>${employee}</strong>`;
                 employeeList.appendChild(listItem);
