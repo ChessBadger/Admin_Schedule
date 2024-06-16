@@ -1,0 +1,1017 @@
+[
+  {
+    "username": "admin",
+    "password": "badgerscan#",
+    "type": "admin",
+    "displayName": "admin",
+    "office": "other"
+  },
+  {
+    "username": "gtest",
+    "password": "1234",
+    "type": "user",
+    "displayName": "Greg",
+    "office": "milwaukee"
+  },
+  {
+    "username": "rtest",
+    "password": "1234",
+    "type": "user",
+    "displayName": "Robyn",
+    "office": "milwaukee"
+  },
+  {
+    "username": "amoua",
+    "password": "3735",
+    "type": "user",
+    "displayName": "Aaron",
+    "office": "milwaukee"
+  },
+  {
+    "username": "aguerrero",
+    "password": "6008",
+    "type": "user",
+    "displayName": "Adam",
+    "office": "other"
+  },
+  {
+    "username": "ahours",
+    "password": "8101",
+    "type": "user",
+    "displayName": "Adjustment",
+    "office": "other"
+  },
+  {
+    "username": "alopez",
+    "password": "6044",
+    "type": "user",
+    "displayName": "Alejandro",
+    "office": "other"
+  },
+  {
+    "username": "aarmbruster",
+    "password": "6001",
+    "type": "user",
+    "displayName": "Alexis",
+    "office": "other"
+  },
+  {
+    "username": "amanson",
+    "password": "6040",
+    "type": "user",
+    "displayName": "Alin",
+    "office": "other"
+  },
+  {
+    "username": "aschuessler",
+    "password": "1340",
+    "type": "user",
+    "displayName": "Ally",
+    "office": "other"
+  },
+  {
+    "username": "aroot",
+    "password": "3776",
+    "type": "user",
+    "displayName": "Alyssa R",
+    "office": "milwaukee"
+  },
+  {
+    "username": "ahietpas",
+    "password": "3705",
+    "type": "user",
+    "displayName": "Alyssa H",
+    "office": "milwaukee"
+  },
+  {
+    "username": "aatkinson",
+    "password": "3757",
+    "type": "user",
+    "displayName": "Andrea",
+    "office": "milwaukee"
+  },
+  {
+    "username": "abisek",
+    "password": "3774",
+    "type": "user",
+    "displayName": "Angela B",
+    "office": "milwaukee"
+  },
+  {
+    "username": "asmith",
+    "password": "1300",
+    "type": "user",
+    "displayName": "Angela S",
+    "office": "other"
+  },
+  {
+    "username": "avance",
+    "password": "1311",
+    "type": "user",
+    "displayName": "Anisha",
+    "office": "other"
+  },
+  {
+    "username": "apieper",
+    "password": "3754",
+    "type": "user",
+    "displayName": "Annette",
+    "office": "milwaukee"
+  },
+  {
+    "username": "agraf",
+    "password": "1348",
+    "type": "user",
+    "displayName": "Arkaya",
+    "office": "other"
+  },
+  {
+    "username": "agrant",
+    "password": "6048",
+    "type": "user",
+    "displayName": "Ashley G",
+    "office": "other"
+  },
+  {
+    "username": "aporter",
+    "password": "1252",
+    "type": "user",
+    "displayName": "Ashley P",
+    "office": "other"
+  },
+  {
+    "username": "bvazquez",
+    "password": "6045",
+    "type": "user",
+    "displayName": "Belen",
+    "office": "other"
+  },
+  {
+    "username": "bramirez",
+    "password": "1346",
+    "type": "user",
+    "displayName": "Bella",
+    "office": "other"
+  },
+  {
+    "username": "bhon",
+    "password": "6011",
+    "type": "user",
+    "displayName": "Bret",
+    "office": "other"
+  },
+  {
+    "username": "bhenthorn",
+    "password": "1097",
+    "type": "user",
+    "displayName": "Brianna",
+    "office": "other"
+  },
+  {
+    "username": "bhemerley",
+    "password": "1203",
+    "type": "user",
+    "displayName": "Brittany",
+    "office": "other"
+  },
+  {
+    "username": "cklotz",
+    "password": "1165",
+    "type": "user",
+    "displayName": "Carlie",
+    "office": "other"
+  },
+  {
+    "username": "cwalker",
+    "password": "1332",
+    "type": "user",
+    "displayName": "Carolyn",
+    "office": "other"
+  },
+  {
+    "username": "cvanselow",
+    "password": "3782",
+    "type": "user",
+    "displayName": "Casey",
+    "office": "milwaukee"
+  },
+  {
+    "username": "cstewart",
+    "password": "6047",
+    "type": "user",
+    "displayName": "Chamari",
+    "office": "other"
+  },
+  {
+    "username": "cmoore",
+    "password": "6017",
+    "type": "user",
+    "displayName": "Charlton",
+    "office": "other"
+  },
+  {
+    "username": "cowen",
+    "password": "6020",
+    "type": "user",
+    "displayName": "Chris O",
+    "office": "other"
+  },
+  {
+    "username": "cwilliams",
+    "password": "6046",
+    "type": "user",
+    "displayName": "Chris W",
+    "office": "other"
+  },
+  {
+    "username": "cjensen",
+    "password": "1188",
+    "type": "user",
+    "displayName": "Courtney",
+    "office": "other"
+  },
+  {
+    "username": "cbrzezinski",
+    "password": "3513",
+    "type": "user",
+    "displayName": "Curt",
+    "office": "milwaukee"
+  },
+  {
+    "username": "cmontero",
+    "password": "3626",
+    "type": "user",
+    "displayName": "Cynthia",
+    "office": "milwaukee"
+  },
+  {
+    "username": "drozak",
+    "password": "1316",
+    "type": "user",
+    "displayName": "Dan",
+    "office": "other"
+  },
+  {
+    "username": "dchampion",
+    "password": "1341",
+    "type": "user",
+    "displayName": "Danielle",
+    "office": "other"
+  },
+  {
+    "username": "drossi mclain",
+    "password": "1302",
+    "type": "user",
+    "displayName": "Davan",
+    "office": "other"
+  },
+  {
+    "username": "dgrossheider",
+    "password": "6006",
+    "type": "user",
+    "displayName": "Derek",
+    "office": "other"
+  },
+  {
+    "username": "dgiometti",
+    "password": "6005",
+    "type": "user",
+    "displayName": "Dina",
+    "office": "other"
+  },
+  {
+    "username": "dcrume",
+    "password": "6003",
+    "type": "user",
+    "displayName": "Dionne",
+    "office": "other"
+  },
+  {
+    "username": "dskaufle",
+    "password": "3674",
+    "type": "user",
+    "displayName": "Dj",
+    "office": "milwaukee"
+  },
+  {
+    "username": "djohnson",
+    "password": "6013",
+    "type": "user",
+    "displayName": "Donna",
+    "office": "other"
+  },
+  {
+    "username": "eevans",
+    "password": "1344",
+    "type": "user",
+    "displayName": "Elijah",
+    "office": "other"
+  },
+  {
+    "username": "elykken",
+    "password": "1312",
+    "type": "user",
+    "displayName": "Emily L",
+    "office": "other"
+  },
+  {
+    "username": "emadey",
+    "password": "1293",
+    "type": "user",
+    "displayName": "Emily M",
+    "office": "other"
+  },
+  {
+    "username": "ebandi",
+    "password": "3783",
+    "type": "user",
+    "displayName": "Ethan",
+    "office": "milwaukee"
+  },
+  {
+    "username": "emurillo-rico",
+    "password": "1295",
+    "type": "user",
+    "displayName": "Eva",
+    "office": "other"
+  },
+  {
+    "username": "eaguado",
+    "password": "1135",
+    "type": "user",
+    "displayName": "Evelin",
+    "office": "other"
+  },
+  {
+    "username": "fquinones",
+    "password": "6022",
+    "type": "user",
+    "displayName": "Felicia",
+    "office": "other"
+  },
+  {
+    "username": "gsineni",
+    "password": "6036",
+    "type": "user",
+    "displayName": "Gabrielle",
+    "office": "other"
+  },
+  {
+    "username": "gsims",
+    "password": "6039",
+    "type": "user",
+    "displayName": "Genean",
+    "office": "other"
+  },
+  {
+    "username": "hvolkman",
+    "password": "3772",
+    "type": "user",
+    "displayName": "Heather",
+    "office": "milwaukee"
+  },
+  {
+    "username": "hkraemer",
+    "password": "1001",
+    "type": "user",
+    "displayName": "Heidi",
+    "office": "other"
+  },
+  {
+    "username": "ikontowicz",
+    "password": "3704",
+    "type": "user",
+    "displayName": "Ian",
+    "office": "milwaukee"
+  },
+  {
+    "username": "iegwaoje",
+    "password": "6043",
+    "type": "user",
+    "displayName": "Iman",
+    "office": "other"
+  },
+  {
+    "username": "ivelasquez",
+    "password": "6031",
+    "type": "user",
+    "displayName": "Isaac",
+    "office": "other"
+  },
+  {
+    "username": "jreeve",
+    "password": "1176",
+    "type": "user",
+    "displayName": "Jacqui",
+    "office": "other"
+  },
+  {
+    "username": "jswanson",
+    "password": "1036",
+    "type": "user",
+    "displayName": "Jake",
+    "office": "other"
+  },
+  {
+    "username": "juitermarkt",
+    "password": "6028",
+    "type": "user",
+    "displayName": "James",
+    "office": "other"
+  },
+  {
+    "username": "jfalck",
+    "password": "3502",
+    "type": "user",
+    "displayName": "Jeremiah",
+    "office": "milwaukee"
+  },
+  {
+    "username": "jhuizenga",
+    "password": "1350",
+    "type": "user",
+    "displayName": "Jeri",
+    "office": "other"
+  },
+  {
+    "username": "jstastny",
+    "password": "3549",
+    "type": "user",
+    "displayName": "Jerry S",
+    "office": "milwaukee"
+  },
+  {
+    "username": "jdelaluz",
+    "password": "3785",
+    "type": "user",
+    "displayName": "Jerry D",
+    "office": "milwaukee"
+  },
+  {
+    "username": "jneal",
+    "password": "6034",
+    "type": "user",
+    "displayName": "Jessica N",
+    "office": "other"
+  },
+  {
+    "username": "jturk",
+    "password": "6051",
+    "type": "user",
+    "displayName": "Jessica T",
+    "office": "other"
+  },
+  {
+    "username": "jhicks",
+    "password": "6010",
+    "type": "user",
+    "displayName": "Johnnie",
+    "office": "other"
+  },
+  {
+    "username": "jsmith",
+    "password": "1334",
+    "type": "user",
+    "displayName": "Joseph",
+    "office": "other"
+  },
+  {
+    "username": "jwilson",
+    "password": "6025",
+    "type": "user",
+    "displayName": "Josh",
+    "office": "other"
+  },
+  {
+    "username": "jnussbaum",
+    "password": "1349",
+    "type": "user",
+    "displayName": "Josie",
+    "office": "other"
+  },
+  {
+    "username": "jmercer",
+    "password": "6029",
+    "type": "user",
+    "displayName": "Julius",
+    "office": "other"
+  },
+  {
+    "username": "jlee",
+    "password": "1089",
+    "type": "user",
+    "displayName": "Justin",
+    "office": "other"
+  },
+  {
+    "username": "kevans",
+    "password": "3789",
+    "type": "user",
+    "displayName": "Kailee",
+    "office": "milwaukee"
+  },
+  {
+    "username": "kzierk",
+    "password": "3784",
+    "type": "user",
+    "displayName": "Kaitlyn",
+    "office": "milwaukee"
+  },
+  {
+    "username": "kkopczynski",
+    "password": "3507",
+    "type": "user",
+    "displayName": "Karen",
+    "office": "milwaukee"
+  },
+  {
+    "username": "kgraczyk",
+    "password": "3503",
+    "type": "user",
+    "displayName": "Katherine",
+    "office": "milwaukee"
+  },
+  {
+    "username": "kretzlaff",
+    "password": "3741",
+    "type": "user",
+    "displayName": "Katie R",
+    "office": "milwaukee"
+  },
+  {
+    "username": "kcrook",
+    "password": "3781",
+    "type": "user",
+    "displayName": "Katie C",
+    "office": "milwaukee"
+  },
+  {
+    "username": "ksondalle",
+    "password": "1011",
+    "type": "user",
+    "displayName": "Kay",
+    "office": "other"
+  },
+  {
+    "username": "kcasey",
+    "password": "3786",
+    "type": "user",
+    "displayName": "Kim C",
+    "office": "milwaukee"
+  },
+  {
+    "username": "kgrohall",
+    "password": "3584",
+    "type": "user",
+    "displayName": "Kim G",
+    "office": "milwaukee"
+  },
+  {
+    "username": "kengel",
+    "password": "3791",
+    "type": "user",
+    "displayName": "Kirsten",
+    "office": "milwaukee"
+  },
+  {
+    "username": "knavarro",
+    "password": "6019",
+    "type": "user",
+    "displayName": "Kurtis",
+    "office": "other"
+  },
+  {
+    "username": "kgrossheider",
+    "password": "6007",
+    "type": "user",
+    "displayName": "Kyle G",
+    "office": "other"
+  },
+  {
+    "username": "kkaluza",
+    "password": "6035",
+    "type": "user",
+    "displayName": "Kyle K",
+    "office": "other"
+  },
+  {
+    "username": "lclark",
+    "password": "3684",
+    "type": "user",
+    "displayName": "Lashaun",
+    "office": "milwaukee"
+  },
+  {
+    "username": "lgarcia",
+    "password": "3637",
+    "type": "user",
+    "displayName": "Laura",
+    "office": "milwaukee"
+  },
+  {
+    "username": "lthein",
+    "password": "3780",
+    "type": "user",
+    "displayName": "Laurie",
+    "office": "milwaukee"
+  },
+  {
+    "username": "lpresley",
+    "password": "6021",
+    "type": "user",
+    "displayName": "Leah",
+    "office": "other"
+  },
+  {
+    "username": "lwaschbisch",
+    "password": "3732",
+    "type": "user",
+    "displayName": "Leanna",
+    "office": "milwaukee"
+  },
+  {
+    "username": "lbentley",
+    "password": "6002",
+    "type": "user",
+    "displayName": "Leroy",
+    "office": "other"
+  },
+  {
+    "username": "lroberts",
+    "password": "3745",
+    "type": "user",
+    "displayName": "Lincoln",
+    "office": "milwaukee"
+  },
+  {
+    "username": "ljurgenson",
+    "password": "6014",
+    "type": "user",
+    "displayName": "Lisa",
+    "office": "other"
+  },
+  {
+    "username": "lramirez",
+    "password": "1098",
+    "type": "user",
+    "displayName": "Liz",
+    "office": "other"
+  },
+  {
+    "username": "lsmith",
+    "password": "6023",
+    "type": "user",
+    "displayName": "Lonnell",
+    "office": "other"
+  },
+  {
+    "username": "lnussbaum",
+    "password": "1019",
+    "type": "user",
+    "displayName": "Lori",
+    "office": "other"
+  },
+  {
+    "username": "mwoods",
+    "password": "6032",
+    "type": "user",
+    "displayName": "Maelynn",
+    "office": "other"
+  },
+  {
+    "username": "mmoua",
+    "password": "3742",
+    "type": "user",
+    "displayName": "Mai",
+    "office": "milwaukee"
+  },
+  {
+    "username": "mburns",
+    "password": "1351",
+    "type": "user",
+    "displayName": "Makeda",
+    "office": "other"
+  },
+  {
+    "username": "mleite",
+    "password": "3765",
+    "type": "user",
+    "displayName": "Marcia",
+    "office": "milwaukee"
+  },
+  {
+    "username": "mkubash",
+    "password": "3528",
+    "type": "user",
+    "displayName": "Marty",
+    "office": "milwaukee"
+  },
+  {
+    "username": "mlewis",
+    "password": "6027",
+    "type": "user",
+    "displayName": "Matt",
+    "office": "other"
+  },
+  {
+    "username": "mnevels",
+    "password": "1153",
+    "type": "user",
+    "displayName": "Michael N",
+    "office": "other"
+  },
+  {
+    "username": "mcarey-brown",
+    "password": "1269",
+    "type": "user",
+    "displayName": "Michelle",
+    "office": "other"
+  },
+  {
+    "username": "mnasella",
+    "password": "6018",
+    "type": "user",
+    "displayName": "Mike N",
+    "office": "other"
+  },
+  {
+    "username": "mgoddard",
+    "password": "1067",
+    "type": "user",
+    "displayName": "Mike G",
+    "office": "other"
+  },
+  {
+    "username": "mgarcia-avina",
+    "password": "3652",
+    "type": "user",
+    "displayName": "Monica",
+    "office": "milwaukee"
+  },
+  {
+    "username": "nyano",
+    "password": "3779",
+    "type": "user",
+    "displayName": "Nagui",
+    "office": "milwaukee"
+  },
+  {
+    "username": "ncarlson",
+    "password": "1060",
+    "type": "user",
+    "displayName": "Nate",
+    "office": "other"
+  },
+  {
+    "username": "nbrock",
+    "password": "3501",
+    "type": "user",
+    "displayName": "Nick",
+    "office": "milwaukee"
+  },
+  {
+    "username": "ohours",
+    "password": "8100",
+    "type": "user",
+    "displayName": "Office",
+    "office": "other"
+  },
+  {
+    "username": "pvang",
+    "password": "3790",
+    "type": "user",
+    "displayName": "Pang",
+    "office": "milwaukee"
+  },
+  {
+    "username": "pturk",
+    "password": "6041",
+    "type": "user",
+    "displayName": "Patty",
+    "office": "other"
+  },
+  {
+    "username": "pthusius",
+    "password": "3550",
+    "type": "user",
+    "displayName": "Paul",
+    "office": "milwaukee"
+  },
+  {
+    "username": "qbatton",
+    "password": "1170",
+    "type": "user",
+    "displayName": "Qiana",
+    "office": "other"
+  },
+  {
+    "username": "rcotter",
+    "password": "6037",
+    "type": "user",
+    "displayName": "Rachel C",
+    "office": "other"
+  },
+  {
+    "username": "rirvin",
+    "password": "6012",
+    "type": "user",
+    "displayName": "Rachel I",
+    "office": "other"
+  },
+  {
+    "username": "rjordan",
+    "password": "6033",
+    "type": "user",
+    "displayName": "Reggai",
+    "office": "other"
+  },
+  {
+    "username": "rgagliardo",
+    "password": "6049",
+    "type": "user",
+    "displayName": "Rickeyta",
+    "office": "other"
+  },
+  {
+    "username": "rris",
+    "password": "8001",
+    "type": "user",
+    "displayName": "Ris",
+    "office": "other"
+  },
+  {
+    "username": "rmercer",
+    "password": "6016",
+    "type": "user",
+    "displayName": "Robin",
+    "office": "other"
+  },
+  {
+    "username": "rbrock",
+    "password": "3504",
+    "type": "user",
+    "displayName": "Ron",
+    "office": "milwaukee"
+  },
+  {
+    "username": "rkavanaugh",
+    "password": "6015",
+    "type": "user",
+    "displayName": "Rose",
+    "office": "other"
+  },
+  {
+    "username": "rstewart",
+    "password": "6024",
+    "type": "user",
+    "displayName": "Ross",
+    "office": "other"
+  },
+  {
+    "username": "shardy",
+    "password": "1114",
+    "type": "user",
+    "displayName": "Sarah",
+    "office": "other"
+  },
+  {
+    "username": "sryan",
+    "password": "1297",
+    "type": "user",
+    "displayName": "Savannah",
+    "office": "other"
+  },
+  {
+    "username": "snarjes",
+    "password": "6030",
+    "type": "user",
+    "displayName": "Scott",
+    "office": "other"
+  },
+  {
+    "username": "senge",
+    "password": "6026",
+    "type": "user",
+    "displayName": "Sharon",
+    "office": "other"
+  },
+  {
+    "username": "stu",
+    "password": "3668",
+    "type": "user",
+    "displayName": "Sonia",
+    "office": "milwaukee"
+  },
+  {
+    "username": "sjackson",
+    "password": "1338",
+    "type": "user",
+    "displayName": "Spencer J",
+    "office": "other"
+  },
+  {
+    "username": "spierson",
+    "password": "1322",
+    "type": "user",
+    "displayName": "Spencer P",
+    "office": "other"
+  },
+  {
+    "username": "sgull",
+    "password": "3739",
+    "type": "user",
+    "displayName": "Stephanie",
+    "office": "milwaukee"
+  },
+  {
+    "username": "ssimer",
+    "password": "1004",
+    "type": "user",
+    "displayName": "Steve S",
+    "office": "other"
+  },
+  {
+    "username": "spalmer",
+    "password": "1023",
+    "type": "user",
+    "displayName": "Steve P",
+    "office": "other"
+  },
+  {
+    "username": "sgavrilovic",
+    "password": "6004",
+    "type": "user",
+    "displayName": "Steve G",
+    "office": "other"
+  },
+  {
+    "username": "smaahs",
+    "password": "3530",
+    "type": "user",
+    "displayName": "Sue",
+    "office": "milwaukee"
+  },
+  {
+    "username": "tmarien",
+    "password": "3768",
+    "type": "user",
+    "displayName": "Tanner",
+    "office": "milwaukee"
+  },
+  {
+    "username": "tgordon",
+    "password": "1347",
+    "type": "user",
+    "displayName": "Taylor",
+    "office": "other"
+  },
+  {
+    "username": "tevans",
+    "password": "1031",
+    "type": "user",
+    "displayName": "Tina",
+    "office": "other"
+  },
+  {
+    "username": "twill",
+    "password": "6038",
+    "type": "user",
+    "displayName": "Tony",
+    "office": "other"
+  },
+  {
+    "username": "tpuente",
+    "password": "6042",
+    "type": "user",
+    "displayName": "Tori",
+    "office": "other"
+  },
+  {
+    "username": "tmartin",
+    "password": "6050",
+    "type": "user",
+    "displayName": "Tre",
+    "office": "other"
+  },
+  {
+    "username": "tmarien",
+    "password": "3787",
+    "type": "user",
+    "displayName": "Trevor",
+    "office": "milwaukee"
+  },
+  {
+    "username": "vcarrier",
+    "password": "1352",
+    "type": "user",
+    "displayName": "Victoria",
+    "office": "other"
+  },
+  {
+    "username": "xkelnosky",
+    "password": "3788",
+    "type": "user",
+    "displayName": "Xenia",
+    "office": "milwaukee"
+  }
+]
