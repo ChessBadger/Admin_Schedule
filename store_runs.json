@@ -44,12 +44,12 @@
         "employee_list": {
             "DJ": [
                 "1)",
-                "@ Store,\nEquip",
+                "\nEquip",
                 "milwaukee"
             ],
             "Aaron": [
                 "2)",
-                "@ Store",
+                "",
                 "milwaukee"
             ],
             "Casey": [
@@ -179,7 +179,7 @@
         "employee_list": {
             "Brianna": [
                 "1)",
-                "@ Store, Equip",
+                " Equip",
                 "other"
             ],
             "Ian": [
@@ -199,27 +199,27 @@
             ],
             "Anisha": [
                 "5)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Ashley P": [
                 "6)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Elijah": [
                 "7)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Joseph": [
                 "8)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Michael N": [
                 "9)",
-                "@ Store",
+                "",
                 "other"
             ]
         }
@@ -244,7 +244,7 @@
         "employee_list": {
             "Nate": [
                 "1)",
-                "@ Store, Equip",
+                " Equip",
                 "other"
             ],
             "DJ": [
@@ -269,52 +269,52 @@
             ],
             "Angela": [
                 "6)",
-                "@ Store",
+                "",
                 "none"
             ],
             "Anisha": [
                 "7)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Ashley P": [
                 "8)",
-                "@ Store,\nSupv Rx",
+                "\nSupv Rx",
                 "other"
             ],
             "Brianna": [
                 "9)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Elijah": [
                 "10)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Eva": [
                 "11)",
-                "@ Store,\nRx",
+                "\nRx",
                 "other"
             ],
             "Evelin": [
                 "12)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Joseph": [
                 "13)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Michael N": [
                 "14)",
-                "@ Store,\nTrainer",
+                "\nTrainer",
                 "other"
             ],
             "Taylor": [
                 "15)",
-                "@ Store",
+                "",
                 "other"
             ]
         }
@@ -409,17 +409,17 @@
             ],
             "Annette": [
                 "14)",
-                "@ Store",
+                "",
                 "milwaukee"
             ],
             "Jeremiah": [
                 "15)",
-                "@ Store",
+                "",
                 "milwaukee"
             ],
             "Marcia": [
                 "16)",
-                "@ Store",
+                "",
                 "milwaukee"
             ]
         }
@@ -487,7 +487,7 @@
         "employee_list": {
             "Brianna": [
                 "1)",
-                "@ Store, Equip",
+                " Equip",
                 "other"
             ],
             "Greg": [
@@ -522,47 +522,47 @@
             ],
             "Anisha": [
                 "8)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Ashley P": [
                 "9)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Eva": [
                 "10)",
-                "@ Store,\nRx",
+                "\nRx",
                 "other"
             ],
             "Evelin": [
                 "11)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Joseph": [
                 "12)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Justin": [
                 "13)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Michael N": [
                 "14)",
-                "@ Store,\nTrainer",
+                "\nTrainer",
                 "other"
             ],
             "Nate": [
                 "15)",
-                "@ Store,\nSupv Rx",
+                "\nSupv Rx",
                 "other"
             ],
             "Taylor": [
                 "16)",
-                "@ Store",
+                "",
                 "other"
             ]
         }
@@ -621,17 +621,17 @@
         "employee_list": {
             "DJ": [
                 "1)",
-                "@ Store, Equip",
+                " Equip",
                 "milwaukee"
             ],
             "Carlie": [
                 "2)",
-                "@ Store\n(w/ Trevor)",
+                "\n(w/ Trevor)",
                 "other"
             ],
             "Trevor": [
                 "3)",
-                "@ Store\n(w/ Carlie)",
+                "\n(w/ Carlie)",
                 "milwaukee"
             ]
         }
@@ -745,7 +745,7 @@
         "employee_list": {
             "Nate": [
                 "1)",
-                "@ Store, Equip",
+                " Equip",
                 "other"
             ],
             "Ian": [
@@ -775,47 +775,47 @@
             ],
             "Angela": [
                 "7)",
-                "@ Store,\nRx",
+                "\nRx",
                 "none"
             ],
             "Anisha": [
                 "8)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Ashley P": [
                 "9)",
-                "@ Store,\nSupv Rx",
+                "\nSupv Rx",
                 "other"
             ],
             "Elijah": [
                 "10)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Eva": [
                 "11)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Evelin": [
                 "12)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Joseph": [
                 "13)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Michael N": [
                 "14)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Taylor": [
                 "15)",
-                "@ Store",
+                "",
                 "other"
             ]
         }
@@ -840,37 +840,37 @@
         "employee_list": {
             "Jeremiah": [
                 "1)",
-                "@ Store, Equip",
+                " Equip",
                 "milwaukee"
             ],
             "David": [
                 "2)",
-                "@ Store  ",
+                "  ",
                 "none"
             ],
             "Jerry S": [
                 "3)",
-                "@ Store  ",
+                "  ",
                 "milwaukee"
             ],
             "Katie": [
                 "4)",
-                "@ Store  ",
+                "  ",
                 "none"
             ],
             "Kirsten": [
                 "5)",
-                "@ Store  ",
+                "  ",
                 "milwaukee"
             ],
             "Marcia": [
                 "6)",
-                "@ Store  ",
+                "  ",
                 "milwaukee"
             ],
             "Nick": [
                 "7)",
-                "@ Store",
+                "",
                 "milwaukee"
             ]
         }
@@ -930,7 +930,7 @@
             ],
             "DJ": [
                 "3)",
-                "@ Store,\nAfter Aurora",
+                "\nAfter Aurora",
                 "milwaukee"
             ]
         }
@@ -960,7 +960,7 @@
             ],
             "Carlie": [
                 "2)",
-                "@ Store\n(w/ Trevor)",
+                "\n(w/ Trevor)",
                 "other"
             ],
             "Cynthia": [
@@ -980,7 +980,7 @@
             ],
             "Trevor": [
                 "6)",
-                "@ Store\n(w/ Carlie)",
+                "\n(w/ Carlie)",
                 "milwaukee"
             ]
         }
@@ -1100,32 +1100,32 @@
         "employee_list": {
             "Jerry S": [
                 "1)",
-                "@ Store, Equip",
+                " Equip",
                 "milwaukee"
             ],
             "Carlie": [
                 "2)",
-                "@ Store,\nOptima",
+                "\nOptima",
                 "other"
             ],
             "Annette": [
                 "3)",
-                "@ Store",
+                "",
                 "milwaukee"
             ],
             "Kirsten": [
                 "4)",
-                "@ Store",
+                "",
                 "milwaukee"
             ],
             "Lori": [
                 "5)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Sarah": [
                 "6)",
-                "@ Store",
+                "",
                 "other"
             ]
         }
@@ -1201,7 +1201,7 @@
             ],
             "Carlie": [
                 "2)",
-                "@ Store\n(w/ Trevor)",
+                "\n(w/ Trevor)",
                 "other"
             ],
             "Curt": [
@@ -1231,7 +1231,7 @@
             ],
             "Trevor": [
                 "8)",
-                "@ Store\n(w/ Carlie)",
+                "\n(w/ Carlie)",
                 "milwaukee"
             ]
         }
@@ -1402,12 +1402,12 @@
         "employee_list": {
             "Brianna": [
                 "1)",
-                "@ Store, Equip",
+                " Equip",
                 "other"
             ],
             "Carlie": [
                 "2)",
-                "@ Store\n(w/ Trevor)",
+                "\n(w/ Trevor)",
                 "other"
             ],
             "Greg": [
@@ -1442,7 +1442,7 @@
             ],
             "Trevor": [
                 "9)",
-                "@ Store\n(w/ Carlie)",
+                "\n(w/ Carlie)",
                 "milwaukee"
             ]
         }
@@ -1588,12 +1588,12 @@
             ],
             "Nate": [
                 "1)",
-                "@ Store, Equip",
+                " Equip",
                 "other"
             ],
             "Carlie": [
                 "2)",
-                "@ Store\n(w/ Trevor)",
+                "\n(w/ Trevor)",
                 "other"
             ],
             "Cynthia": [
@@ -1633,52 +1633,52 @@
             ],
             "Trevor": [
                 "10)",
-                "@ Store\n(w/ Carlie)",
+                "\n(w/ Carlie)",
                 "milwaukee"
             ],
             "Angela": [
                 "11)",
-                "@ Store,\nRx",
+                "\nRx",
                 "none"
             ],
             "Anisha": [
                 "12)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Brianna": [
                 "13)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Evelin": [
                 "14)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Joseph": [
                 "15)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Justin": [
                 "16)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Michael N": [
                 "17)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Qiana": [
                 "18)",
-                "@ Store,\nSupv Rx",
+                "\nSupv Rx",
                 "other"
             ],
             "Taylor": [
                 "19)",
-                "@ Store",
+                "",
                 "other"
             ]
         }
@@ -1790,7 +1790,7 @@
             ],
             "Carlie": [
                 "2)",
-                "@ Store\n(w/ Trevor)",
+                "\n(w/ Trevor)",
                 "other"
             ],
             "Monica": [
@@ -1805,7 +1805,7 @@
             ],
             "Trevor": [
                 "5)",
-                "@ Store\n(w/ Carlie)",
+                "\n(w/ Carlie)",
                 "milwaukee"
             ]
         }
@@ -1830,7 +1830,7 @@
         "employee_list": {
             "Brianna": [
                 "1)",
-                "@ Store, Equip",
+                " Equip",
                 "other"
             ],
             "Casey": [
@@ -1845,7 +1845,7 @@
             ],
             "Lori": [
                 "4)",
-                "@ Store",
+                "",
                 "other"
             ]
         }
@@ -1944,7 +1944,7 @@
         "employee_list": {
             "Nate": [
                 "1)",
-                "@ Store, Equip",
+                " Equip",
                 "other"
             ],
             "Curt": [
@@ -1969,27 +1969,27 @@
             ],
             "Evelin": [
                 "6)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Jeri": [
                 "7)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Justin": [
                 "8)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Palmer": [
                 "9)",
-                "@ Store",
+                "",
                 "none"
             ],
             "Taylor": [
                 "10)",
-                "@ Store",
+                "",
                 "other"
             ]
         }
@@ -2039,17 +2039,17 @@
             ],
             "Ashley P": [
                 "6)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Evelin": [
                 "7)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Qiana": [
                 "8)",
-                "@ Store",
+                "",
                 "other"
             ]
         }
@@ -2074,7 +2074,7 @@
         "employee_list": {
             "Nate": [
                 "1)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Kim": [
@@ -2084,7 +2084,7 @@
             ],
             "Lori": [
                 "3)",
-                "@ Store",
+                "",
                 "other"
             ]
         }
@@ -2114,7 +2114,7 @@
             ],
             "Carlie": [
                 "2)",
-                "@ Store",
+                "",
                 "other"
             ],
             "Casey": [
