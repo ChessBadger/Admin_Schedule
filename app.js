@@ -59,6 +59,7 @@ document.addEventListener('DOMContentLoaded', function () {
             localStorage.setItem('username', username);
             localStorage.setItem('userType', user.type);
             localStorage.setItem('userDisplayName', user.displayName || username);
+            localStorage.setItem('userOffice', user.office);
             document.getElementById('loginSection').style.display = 'none';
             document.getElementById('signOutButton').style.display = 'block';
             fetchLocalJson(); // Fetch local JSON automatically
@@ -92,6 +93,7 @@ document.addEventListener('DOMContentLoaded', function () {
       localStorage.removeItem('username');
       localStorage.removeItem('userType');
       localStorage.removeItem('userDisplayName');
+      localStorage.removeItem('userOffice');
       document.getElementById('loginSection').style.display = 'block';
       document.getElementById('searchSection').style.display = 'none';
       document.getElementById('signOutButton').style.display = 'none';
@@ -152,11 +154,29 @@ document.addEventListener('DOMContentLoaded', function () {
       const results = searchEmployeeRuns(JSON.parse(jsonData), employeeName);
       const suggestionsContainer = document.getElementById('suggestions');
       displaySearchResults(results, employeeName);
+
+      // Extract office information
+      const office = extractOfficeInfo(results, employeeName);
+      if (office) {
+        localStorage.setItem('userOffice', office);
+      }
+
       document.getElementById('employeeName').value = ''; // Clear the textbox
       suggestionsContainer.innerHTML = '';
     } else {
       document.getElementById('resultsContainer').textContent = 'No data available for search.';
     }
+  }
+
+  function extractOfficeInfo(results, employeeName) {
+    for (let run of results) {
+      for (let employee in run.employee_list) {
+        if (employee.toLowerCase() === employeeName.toLowerCase()) {
+          return run.employee_list[employee][2]; // Assuming the office information is at index 2
+        }
+      }
+    }
+    return null;
   }
 
   // Search for employee runs
@@ -317,16 +337,18 @@ document.addEventListener('DOMContentLoaded', function () {
           employeeList.classList.add('employee-list', 'hidden');
           const isSpecialEmployee = Object.keys(run.employee_list).some((employee) => {
             if (employee.toLowerCase() === employeeName.toLowerCase()) {
-              const [number, note] = run.employee_list[employee];
-              return number === '1)' || (note.toLowerCase().includes('driver') && !note.toLowerCase().includes('@ store'));
+              const [number, note, office] = run.employee_list[employee];
+              const searchNameOffice = localStorage.getItem('userOffice');
+              return number === '1)' || (note.toLowerCase().includes('driver') && searchNameOffice === office);
             }
             return false;
           });
 
           if (isSpecialEmployee) {
             Object.keys(run.employee_list).forEach((employee) => {
-              const [number, note] = run.employee_list[employee];
-              if (employee.toLowerCase() !== employeeName.toLowerCase() && !note.toLowerCase().includes('@ store')) {
+              const [number, note, office] = run.employee_list[employee];
+              const searchNameOffice = localStorage.getItem('userOffice');
+              if (employee.toLowerCase() !== employeeName.toLowerCase() && searchNameOffice === office) {
                 const listItem = document.createElement('li');
                 listItem.innerHTML = `<strong>${employee}</strong>`;
                 employeeList.appendChild(listItem);
