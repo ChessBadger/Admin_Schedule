@@ -2,49 +2,64 @@
     {
       "username": "admin",
       "password": "badgerscan#",
-      "type": "admin"
+      "type": "admin",
+      "office": "admin"
     },
     {
       "username": "lclark@badgerinventory.com",
       "password": "3684",
       "type": "user",
-      "displayName": "lashaun"
+      "displayName": "lashaun",
+      "office": "milwaukee"
+
     },
     {
       "username": "kimtest",
       "password": "1234",
       "type": "user",
-      "displayName": "kim"
+      "displayName": "kim",
+      "office": "milwaukee"
+
     },
     {
         "username": "djtest",
         "password": "1234",
         "type": "user",
-        "displayName": "dj"
+        "displayName": "dj",
+      "office": "milwaukee"
+
       },
       {
         "username": "iantest",
         "password": "1234",
         "type": "user",
-        "displayName": "ian"
+        "displayName": "ian",
+      "office": "milwaukee"
+
       },
       {
         "username": "maitest",
         "password": "1234",
         "type": "user",
-        "displayName": "mai"
+        "displayName": "mai",
+      "office": "milwaukee"
+
       },
       {
         "username": "mom",
         "password": "mom",
         "type": "user",
-        "displayName": "lashaun"
+        "displayName": "lashaun",
+      "office": "milwaukee"
+
       },
       {
         "username": "aivy",
         "password": "aivy",
         "type": "user",
-        "displayName": "lashaun"
+        "displayName": "lashaun",
+      "office": "milwaukee"
+
       }
   ]
   
