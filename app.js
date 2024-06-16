@@ -229,7 +229,9 @@ document.addEventListener('DOMContentLoaded', function () {
               supervisor = employee;
             }
             if (note.toLowerCase().includes('driver')) {
-              drivers.push(employee);
+              if (employee.toLowerCase() !== employeeName.toLowerCase()) {
+                drivers.push(employee);
+              }
             }
           });
 
@@ -247,7 +249,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
           if (searchNameNote) {
             const searchNameNoteElement = document.createElement('p');
-            searchNameNoteElement.innerHTML = `<strong>Note</strong>: ${searchNameNote}`;
+            searchNameNoteElement.id = 'searchNameNote';
+            searchNameNoteElement.innerHTML = `${searchNameNote}`;
             runElement.appendChild(searchNameNoteElement);
           }
 

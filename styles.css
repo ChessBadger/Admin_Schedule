@@ -394,3 +394,17 @@ body.dark-mode #uploadSection {
 #topRow {
   margin-bottom: 70px;
 }
+
+#searchNameNote {
+  color: #ff0000;
+  font-weight: bold;
+}
+
+body.dark-mode #searchNameNote {
+  color: #0fc8e8;
+  font-weight: bold;
+}
+
+.strikethrough {
+  text-decoration: line-through;
+}
