@@ -166,7 +166,9 @@
     {
         "date": "Mon, Jun 17",
         "meet_time": [
-            "4:15 AM MEET SOUTH RACINE COURT (HWY 43 & Y)"
+            "M: 4:15 AM MEET SOUTH RACINE COURT (HWY 43 & Y)",
+            "IL: 5:00 MEET AT IL OFFICE",
+            "FV: 12:00 MEET"
         ],
         "start_time": "6:00 AM START",
         "inv_type": [
@@ -206,11 +208,11 @@
             "Anisha": [
                 "5)",
                 "",
-                "other"
+                "rockford"
             ],
             "Ashley P": [
                 "6)",
-                "",
+                "Driver, 1/2\nSilver Van",
                 "other"
             ],
             "Elijah": [
@@ -225,6 +227,196 @@
             ],
             "Michael N": [
                 "9)",
+                "Driver, 1/2\nSilver Van",
+                "other"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Jun 17",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1300 WAUTOMA"
+        ],
+        "address": [
+            "900 E DIVISION ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/JhUR6bvog6YmBrm48"
+        ],
+        "store_note": "NEED SCANNER HOODS FOR THIS RX",
+        "employee_list": {
+            "Sarah": [
+                "1)",
+                "@ Store. Equip, \nhelp at Pig after",
+                "other"
+            ],
+            "Lori": [
+                "2)",
+                "@ Store. help at Pig after",
+                "other"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Jun 17",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "PIGGLY WIGGLY #311, WAUPACA"
+        ],
+        "address": [
+            "810 W FULTON"
+        ],
+        "link": [
+            "https://goo.gl/maps/vay5nnowsSN2"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Jerry S": [
+                "1)",
+                "@ Store, Equip",
+                "milwaukee"
+            ],
+            "Lori": [
+                "2)",
+                "@ Store, help after Aurora",
+                "other"
+            ],
+            "Sarah": [
+                "3)",
+                "@ Store, help after Aurora",
+                "other"
+            ],
+            "Heather": [
+                "4)",
+                "@ Store",
+                "milwaukee"
+            ],
+            "Katie": [
+                "5)",
+                "@ Store, work w/ Serena",
+                "none"
+            ],
+            "Kirsten": [
+                "6)",
+                "@ Store",
+                "milwaukee"
+            ],
+            "Marcia": [
+                "7)",
+                "@ Store",
+                "milwaukee"
+            ],
+            "Michelle": [
+                "8)",
+                "@ Store",
+                "other"
+            ],
+            "Serena": [
+                "9)",
+                "@ Store, 1st Day, work w/ Katie",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Jun 17",
+        "meet_time": [],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "KELLEY #63, SUN PRAIRIE MOBIL"
+        ],
+        "address": [
+            "1010 DAVISON DR"
+        ],
+        "link": [
+            "https://goo.gl/maps/AcJV9qEV2xQ2"
+        ],
+        "store_note": "*IL Meet is 5:15 am at IL Office",
+        "employee_list": {
+            "Qiana": [
+                "1)",
+                "@ Store,\nCamry, Equip",
+                "other"
+            ],
+            "Eva": [
+                "2)",
+                "",
+                "other"
+            ],
+            "Evelin": [
+                "3)",
+                "",
+                "other"
+            ],
+            "Josie": [
+                "4)",
+                "@ Store",
+                "other"
+            ],
+            "Nate": [
+                "5)",
+                "Driver, Optima",
+                "other"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Jun 17",
+        "meet_time": [],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "MODAS"
+        ],
+        "store_name": [
+            "KELLEY #58, TYLER CREEK MOBIL, HAMPSHIRE"
+        ],
+        "address": [
+            "15N341 RTE 47"
+        ],
+        "link": [
+            "https://goo.gl/maps/SW6S8XqhdGcLz6W2A"
+        ],
+        "store_note": "*IL Meet is 5:45 am at IL Office",
+        "employee_list": {
+            "Mike G": [
+                "1)",
+                "@ Store",
+                "other"
+            ],
+            "Angela": [
+                "2)",
+                "",
+                "rockford"
+            ],
+            "Emily L": [
+                "3)",
+                "",
+                "other"
+            ],
+            "Justin": [
+                "4)",
+                "Driver,\nGray Van",
+                "other"
+            ],
+            "Krystin": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Taylor": [
+                "6)",
                 "",
                 "other"
             ]
@@ -234,8 +426,7 @@
         "date": "Tue, Jun 18",
         "meet_time": [
             "M: 4:15 AM MEET COLLEGE (SOUTHWEST)",
-            "IL: 5:00 AM AT IL OFFICE ",
-            "FV: 4:45 AM BALLARD"
+            "IL: 5:00 AM AT IL OFFICE"
         ],
         "start_time": "6:00 AM START",
         "inv_type": [
@@ -285,7 +476,7 @@
             "Anisha": [
                 "7)",
                 "",
-                "other"
+                "rockford"
             ],
             "Ashley P": [
                 "8)",
@@ -535,7 +726,7 @@
             "Anisha": [
                 "8)",
                 "",
-                "other"
+                "rockford"
             ],
             "Ashley P": [
                 "9)",
@@ -801,7 +992,7 @@
             "Anisha": [
                 "8)",
                 "",
-                "other"
+                "rockford"
             ],
             "Ashley P": [
                 "9)",
@@ -1680,7 +1871,7 @@
             "Anisha": [
                 "12)",
                 "",
-                "other"
+                "rockford"
             ],
             "Brianna": [
                 "13)",
