@@ -153,13 +153,14 @@ document.addEventListener('DOMContentLoaded', function () {
     if (jsonData) {
       const results = searchEmployeeRuns(JSON.parse(jsonData), employeeName);
       const suggestionsContainer = document.getElementById('suggestions');
-      displaySearchResults(results, employeeName);
 
-      // Extract office information
+      // Extract office information and update local storage
       const office = extractOfficeInfo(results, employeeName);
       if (office) {
         localStorage.setItem('userOffice', office);
       }
+
+      displaySearchResults(results, employeeName);
 
       document.getElementById('employeeName').value = ''; // Clear the textbox
       suggestionsContainer.innerHTML = '';
@@ -203,6 +204,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Get current date for comparison
     const currentDate = new Date();
+    const searchNameOffice = localStorage.getItem('userOffice');
 
     // Create date cards for all dates
     allDates.forEach((date) => {
@@ -242,7 +244,7 @@ document.addEventListener('DOMContentLoaded', function () {
           let drivers = [];
           let searchNameNote = '';
           Object.keys(run.employee_list).forEach((employee) => {
-            const [number, note] = run.employee_list[employee];
+            const [number, note, office] = run.employee_list[employee];
             if (employee.toLowerCase() === employeeName.toLowerCase()) {
               searchNameNote = note; // Capture the note of the search name
               foundEmployee = true;
@@ -251,7 +253,7 @@ document.addEventListener('DOMContentLoaded', function () {
               supervisor = employee;
             }
             if (note.toLowerCase().includes('driver')) {
-              if (employee.toLowerCase() !== employeeName.toLowerCase()) {
+              if (employee.toLowerCase() !== employeeName.toLowerCase() && searchNameOffice === office) {
                 drivers.push(employee);
               } else {
                 const carLogoLight = document.createElement('img');
