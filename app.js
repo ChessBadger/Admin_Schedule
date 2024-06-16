@@ -150,8 +150,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
     if (jsonData) {
       const results = searchEmployeeRuns(JSON.parse(jsonData), employeeName);
+      const suggestionsContainer = document.getElementById('suggestions');
       displaySearchResults(results, employeeName);
       document.getElementById('employeeName').value = ''; // Clear the textbox
+      suggestionsContainer.innerHTML = '';
     } else {
       document.getElementById('resultsContainer').textContent = 'No data available for search.';
     }
