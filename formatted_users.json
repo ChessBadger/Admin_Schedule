@@ -1002,5 +1002,17 @@
     "type": "user",
     "displayName": "xenia",
     "office": "milwaukee"
+  },{
+    "username": "mom",
+    "password": "mom",
+    "type": "user",
+    "displayName": "lashaun",
+    "office": "milwaukee"
+  },{
+    "username": "aivy",
+    "password": "aivy",
+    "type": "user",
+    "displayName": "lashaun",
+    "office": "milwaukee"
   }
 ]
