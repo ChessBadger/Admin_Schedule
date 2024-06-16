@@ -14,34 +14,18 @@
 
     },
     {
-      "username": "kimtest",
-      "password": "1234",
+      "username": "kgrohall",
+      "password": "3584",
       "type": "user",
       "displayName": "kim",
       "office": "milwaukee"
 
     },
     {
-        "username": "djtest",
-        "password": "1234",
+        "username": "dskaufle",
+        "password": "3674",
         "type": "user",
         "displayName": "dj",
-      "office": "milwaukee"
-
-      },
-      {
-        "username": "iantest",
-        "password": "1234",
-        "type": "user",
-        "displayName": "ian",
-      "office": "milwaukee"
-
-      },
-      {
-        "username": "maitest",
-        "password": "1234",
-        "type": "user",
-        "displayName": "mai",
       "office": "milwaukee"
 
       },
