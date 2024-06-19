@@ -2,8 +2,7 @@
 "Changing to repository directory: "C:\Users\clark\OneDrive\Desktop\Master_Schedule"" 
 "Changed to repository directory: "C:\Users\clark\OneDrive\Desktop\Master_Schedule"" 
 "Running Schedule_V3.py" 
-Processing sheet: Full Schedule Test
-Processing sheet: Full Schedule Test 2
+Processing sheet: Copy of 06-23-24 to 06-29-24 Full Shedule
 Updated file saved to store_runs.json
 "Schedule_V3.py ran successfully" 
 "Running git add" 
