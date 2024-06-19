@@ -1,38 +1,45 @@
+import pandas as pd
 import json
-from collections import defaultdict
+import os
 
-# Read the text file and parse the data
-with open('teset.txt', 'r') as file:
-    lines = file.readlines()
+# File paths
+excel_file_path = 'EmployeeListSchedule.xlsx'
+json_file_path = 'formatted_users.json'
 
-# Extract the headers
-headers = lines[0].strip().split('\t')
+# Read the Excel file
+df = pd.read_excel(excel_file_path)
 
-# Initialize an empty list to store formatted user data
-formatted_users = []
-first_name_count = defaultdict(int)
+# Load existing JSON data
+if os.path.exists(json_file_path):
+    with open(json_file_path, 'r') as json_file:
+        formatted_users = json.load(json_file)
+else:
+    formatted_users = []
 
-# First pass to count first names
-for line in lines[1:]:
-    fields = line.strip().split('\t')
-    first_name = fields[0].capitalize()
-    first_name_count[first_name] += 1
+# Create a dictionary for existing users
+existing_users = {user['username']: user for user in formatted_users}
 
-# Second pass to create user data
-for line in lines[1:]:
-    # Split the line by tab to extract individual fields
-    fields = line.strip().split('\t')
-    first_name = fields[0].capitalize()
-    last_name = fields[1].capitalize()
-    emp_num = fields[2]
+# Office mapping
+office_mapping = {
+    "Grafton": "Milwaukee",
+    "Baraboo": "Madison",
+    "Florida": "Rockford",
+    "Stevens Point": "Fox Valley"
+}
+
+# Process each row in the DataFrame
+for index, row in df.iterrows():
+    first_name = row['FirstName'].capitalize()
+    last_name = row['LastName'].capitalize()
+    emp_num = row['EmployeeNumber']
+    office = row['OfficeName']
+
+    # Apply office mapping
+    office = office_mapping.get(office, office)
 
     # Create the username, display name, and determine office location
     username = first_name[0].lower() + last_name.lower()
-    if first_name_count[first_name] > 1:
-        display_name = first_name.lower() + " " + last_name[0].lower()
-    else:
-        display_name = first_name.lower()
-    office = "milwaukee" if emp_num.startswith('3') else "other"
+    display_name = f"{first_name} {last_name[0].lower()}"
 
     # Create a dictionary for the formatted user data
     user_data = {
@@ -40,14 +47,19 @@ for line in lines[1:]:
         "password": emp_num,
         "type": "user",
         "displayName": display_name,
-        "office": office
+        "office": office,
+        "firstName": first_name,
+        "lastName": last_name
     }
 
-    # Append the formatted user data to the list
-    formatted_users.append(user_data)
+    # Update existing user or add new user
+    existing_users[username] = user_data
 
-# Write the formatted user data to a new JSON file
-with open('formatted_users.json', 'w') as json_file:
-    json.dump(formatted_users, json_file, indent=2)
+# Convert the dictionary back to a list
+updated_users = list(existing_users.values())
+
+# Write the updated user data to the JSON file
+with open(json_file_path, 'w') as json_file:
+    json.dump(updated_users, json_file, indent=2)
 
 print("Formatted user data has been saved to formatted_users.json")
