@@ -427,14 +427,15 @@ document.addEventListener('DOMContentLoaded', function () {
   function filterMeetTimes(meetTimes, office) {
     return meetTimes
       .filter((time) => {
-        if (time.includes('M:') && office === 'milwaukee') return true;
-        if (time.includes('IL:') && office === 'rockford') return true;
-        if (time.includes('FV:') && office === 'other') return true;
-        if (!time.includes('M:') && !time.includes('IL:') && !time.includes('FV:')) return true;
+        if (time.includes('M:') && office === 'Milwaukee') return true;
+        if (time.includes('IL:') && office === 'Rockford') return true;
+        if (time.includes('FV:') && office === 'Fox Valley') return true;
+        if (time.includes('MD:') && office === 'Madison') return true;
+        if (!time.includes('M:') && !time.includes('IL:') && !time.includes('FV:') && !time.includes('MD:')) return true;
         return false;
       })
       .map((time) => {
-        return time.replace('M:', '').replace('IL:', '').replace('FV:', '').trim();
+        return time.replace('M:', '').replace('IL:', '').replace('FV:', '').replace('MD:', '').trim();
       });
   }
 });
