@@ -226,8 +226,8 @@ document.addEventListener('DOMContentLoaded', function () {
           const runElement = document.createElement('div');
           runElement.classList.add('run-details');
 
-          // Populate runElement with run details
-          if (run.meet_time) {
+          // Ensure meet_time is an array
+          if (Array.isArray(run.meet_time)) {
             const filteredMeetTimes = filterMeetTimes(run.meet_time, searchNameOffice);
             if (filteredMeetTimes.length > 0) {
               const meetTime = document.createElement('p');

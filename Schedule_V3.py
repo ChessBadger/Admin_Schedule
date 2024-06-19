@@ -161,7 +161,7 @@ if folders:
                 header_value = sheet.cell(row=1, column=process_col - 1).value
 
                 # Iterate through the rows starting from min_row and process_col
-                for row in sheet.iter_rows(min_row=min_row, max_row=163, min_col=process_col, max_col=process_col):
+                for row in sheet.iter_rows(min_row=min_row, max_row=500, min_col=process_col, max_col=process_col):
                     if break_outer_loop:
                         break
                     for cell in row:

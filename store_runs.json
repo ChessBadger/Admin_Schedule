@@ -13,7 +13,7 @@
     {
         "date": "Mon, Jun 24",
         "meet_time": [
-            "5:30 AM MEET COLLEGE (SOUTHWEST)"
+            "M: 5:30 AM MEET COLLEGE (SOUTHWEST)"
         ],
         "start_time": "6:00 AM START",
         "inv_type": [
@@ -28,59 +28,54 @@
         "link": [
             "https://goo.gl/maps/pSDNmBRxXrQ2"
         ],
-        "store_note": "SMALL CHANGES-RESET",
+        "store_note": "SMALL CHANGES-RESET\n4:45 am meet for Carlie/Trevor at Grafton Park n Ride",
         "employee_list": {
-            "": [
-                "",
-                "",
-                "none"
-            ],
             "Kim": [
                 "1)",
                 "Driver,\nRed Van, Equip",
-                "milwaukee"
+                "none"
             ],
             "Carlie": [
                 "2)",
                 "@ Store\n(w/ Trevor)",
-                "other"
+                "none"
             ],
             "Curt": [
                 "3)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Cynthia": [
                 "4)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Greg": [
                 "5)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Robyn": [
                 "6)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Sonia": [
                 "7)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Trevor": [
                 "8)",
                 "@ Store\n(w/ Carlie)",
-                "milwaukee"
+                "none"
             ]
         }
     },
     {
         "date": "Mon, Jun 24",
         "meet_time": [
-            "5:30 AM MEET WATERTOWN PLANK"
+            "M: 5:30 AM MEET WATERTOWN PLANK"
         ],
         "start_time": "6:00 AM START",
         "inv_type": [
@@ -104,19 +99,19 @@
             "Ian": [
                 "1)",
                 "Driver,\nSante Fe, Equip",
-                "milwaukee"
+                "none"
             ],
             "Paul": [
                 "2)",
                 "",
-                "milwaukee"
+                "none"
             ]
         }
     },
     {
         "date": "Mon, Jun 24",
         "meet_time": [
-            "5:00 AM MEET AT THE OFFICE"
+            "M: 5:00 AM MEET AT THE OFFICE"
         ],
         "start_time": "6:00 AM START",
         "inv_type": [
@@ -144,19 +139,19 @@
             "Katherine": [
                 "1)",
                 "Equip",
-                "milwaukee"
+                "none"
             ],
             "Sue": [
                 "2)",
                 "Driver,\nOptima",
-                "milwaukee"
+                "none"
             ]
         }
     },
     {
         "date": "Mon, Jun 24",
         "meet_time": [
-            "6:30 AM MEET OFFICE"
+            "M: 6:30 AM MEET OFFICE"
         ],
         "start_time": "7:00 AM START",
         "inv_type": [
@@ -180,19 +175,65 @@
             "DJ": [
                 "1)",
                 "Driver,\nAltima, Equip",
-                "milwaukee"
+                "none"
             ],
             "Mai": [
                 "2)",
                 "",
-                "milwaukee"
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Jun 24",
+        "meet_time": [
+            "IL: 4:40 MEET AT JANESVILLE PARK N RIDE"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "BWP LIQUOR EXPO, LAKE DELTON",
+            "PIERCE'S WEST EXPRESS, BARABOO"
+        ],
+        "address": [
+            "21 WISCONSIN DELLS PARKWAY",
+            "527 LINN ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/34cUYxex6oP2",
+            "https://goo.gl/maps/efhcEzsX18sU7KcN9"
+        ],
+        "store_note": "Janesville park n ride address:\n550 Midland Ct, Janesville",
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "Driver,\nPrius",
+                "none"
+            ],
+            "Josie": [
+                "2)",
+                "Until Noon",
+                "none"
+            ],
+            "Lori": [
+                "3)",
+                "Until Noon",
+                "none"
+            ],
+            "Qiana": [
+                "4)",
+                "Camry 3 to meet",
+                "none"
             ]
         }
     },
     {
         "date": "Tue, Jun 25",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "M: 6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
         ],
@@ -210,59 +251,59 @@
             "Brianna": [
                 "1)",
                 "@ Store, Equip",
-                "other"
+                "none"
             ],
             "Aaron": [
                 "2)",
                 "Until 12:00",
-                "milwaukee"
+                "none"
             ],
             "Carlie": [
                 "3)",
                 "@ Store\n(w/ Trevor)",
-                "other"
+                "none"
             ],
             "Greg": [
                 "4)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Monica": [
                 "5)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Robyn": [
                 "6)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Sonia": [
                 "7)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Stephanie": [
                 "8)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Sue": [
                 "9)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Trevor": [
                 "10)",
                 "@ Store\n(w/ Carlie)",
-                "milwaukee"
+                "none"
             ]
         }
     },
     {
         "date": "Tue, Jun 25",
         "meet_time": [
-            "6:30 AM MEET SOUTH RACINE COURT (HWY 43 & Y)"
+            "M: 6:30 AM MEET SOUTH RACINE COURT (HWY 43 & Y)"
         ],
         "start_time": "7:00 AM START",
         "inv_type": [
@@ -282,24 +323,24 @@
             "Kim": [
                 "1)",
                 "Driver,\nSante Fe, Equip",
-                "milwaukee"
+                "none"
             ],
             "Cynthia": [
                 "2)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Mai": [
                 "3)",
                 "",
-                "milwaukee"
+                "none"
             ]
         }
     },
     {
         "date": "Tue, Jun 25",
         "meet_time": [
-            "6:30 AM MEET OFFICE"
+            "M: 6:30 AM MEET OFFICE"
         ],
         "start_time": "7:00 AM START",
         "inv_type": [
@@ -323,12 +364,12 @@
             "Ian": [
                 "1)",
                 "Driver,\nGold Camry, Equip",
-                "milwaukee"
+                "none"
             ],
             "Paul": [
                 "2)",
                 "",
-                "milwaukee"
+                "none"
             ]
         }
     },
@@ -365,23 +406,25 @@
             "Katherine": [
                 "1)",
                 "Optima available, Equip",
-                "milwaukee"
+                "none"
             ],
             "Casey": [
                 "2)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Lashaun": [
                 "3)",
                 "",
-                "milwaukee"
+                "none"
             ]
         }
     },
     {
         "date": "Tue, Jun 25",
-        "meet_time": [],
+        "meet_time": [
+            "IL: 5:00 AM MEET AT OFFICE"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL"
@@ -395,107 +438,50 @@
         "link": [
             "https://goo.gl/maps/82qhta5RyXsUSC2u9"
         ],
-        "store_note": "*IL Meet is 5:00 am at IL Office",
+        "store_note": null,
         "employee_list": {
             "Nate": [
                 "1)",
                 "Driver,\nOptima,\nEquip",
-                "other"
+                "none"
             ],
             "Angela": [
                 "2)",
                 "",
-                "rockford"
+                "none"
             ],
             "Anisha": [
                 "3)",
                 "",
-                "rockford"
+                "none"
             ],
             "Elijah": [
                 "4)",
                 "",
-                "other"
+                "none"
             ],
             "Evelin": [
                 "5)",
                 "Driver,\nCorolla",
-                "other"
+                "none"
             ],
             "Joseph": [
                 "6)",
                 "",
-                "other"
+                "none"
             ],
             "Taylor": [
                 "7)",
                 "",
-                "other"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Jun 25",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL",
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "SOUTHWEST HEALTH HOSPITAL-INPATIENT, PLATTEVILLE",
-            "SOUTHWEST HEALTH HOSPITAL-OUTPATIENT, PLATTEVILLE"
-        ],
-        "address": [
-            "1400 EASTSIDE RD",
-            "1400 EASTSIDE RD"
-        ],
-        "link": [
-            "https://goo.gl/maps/tENERhYm35H2",
-            "https://goo.gl/maps/ueV1odVEdtxrmE3m7"
-        ],
-        "store_note": "*IL Meet is 4:00 am at IL Office",
-        "employee_list": {
-            "": [
-                "",
-                "",
                 "none"
-            ],
-            "Sarah": [
-                "1)",
-                "@ Store,\nEquip",
-                "other"
-            ],
-            "Ashley P": [
-                "2)",
-                "Driver, 1/2\nSilver Van",
-                "other"
-            ],
-            "Eva": [
-                "3)",
-                "",
-                "other"
-            ],
-            "Josie": [
-                "4)",
-                "w/ Sarah",
-                "other"
-            ],
-            "Lori": [
-                "5)",
-                "w/ Sarah",
-                "other"
-            ],
-            "Michael N": [
-                "6)",
-                "Driver, 1/2\nSilver Van",
-                "other"
             ]
         }
     },
     {
         "date": "Wed, Jun 26",
-        "meet_time": [],
+        "meet_time": [
+            "IL: 4:15 AM MEET AT OFFICE"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -509,112 +495,107 @@
         "link": [
             "https://goo.gl/maps/Ya5hSzVYqX42"
         ],
-        "store_note": "SET UP ON REG FAR RIGHT BY OFFICE",
+        "store_note": "SET UP ON REG FAR RIGHT BY OFFICE\n5:15 am meet for Carlie/Trevor at Grafton Park n Ride",
         "employee_list": {
-            "": [
-                "",
-                "",
-                "none"
-            ],
             "Nate": [
                 "1)",
                 "@ Store, Equip",
-                "other"
+                "none"
             ],
             "Aaron": [
                 "2)",
                 "Until 12:00",
-                "milwaukee"
+                "none"
             ],
             "Carlie": [
                 "3)",
                 "@ Store\n(w/ Trevor)",
-                "other"
+                "none"
             ],
             "Cynthia": [
                 "4)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Greg": [
                 "5)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Mai": [
                 "6)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Monica": [
                 "7)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Paul": [
                 "8)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Sonia": [
                 "9)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Stephanie": [
                 "10)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Trevor": [
                 "11)",
                 "@ Store\n(w/ Carlie)",
-                "milwaukee"
+                "none"
             ],
             "Angela": [
                 "12)",
-                "@ Store,\nRx",
-                "rockford"
+                "Driver, 1/2\nSilver Van,\nRx",
+                "none"
             ],
             "Anisha": [
                 "13)",
-                "@ Store",
-                "rockford"
+                "",
+                "none"
             ],
             "Brianna": [
                 "14)",
-                "@ Store",
-                "other"
+                "",
+                "none"
             ],
             "Evelin": [
                 "15)",
-                "@ Store",
-                "other"
+                "Driver, 1/2\nSilver Van",
+                "none"
             ],
             "Joseph": [
                 "16)",
-                "@ Store",
-                "other"
+                "",
+                "none"
             ],
             "Justin": [
                 "17)",
-                "@ Store",
-                "other"
+                "",
+                "none"
             ],
             "Michael N": [
                 "18)",
-                "@ Store",
-                "other"
+                "Driver, 1/2\nGray Van",
+                "Rockford"
             ],
             "Qiana": [
                 "19)",
-                "@ Store,\nSupv Rx",
-                "other"
+                "Driver, 1/2\nGray Van,\nSupv Rx",
+                "none"
             ],
             "Taylor": [
                 "20)",
-                "@ Store",
-                "other"
+                "",
+                "none"
             ]
         }
     },
@@ -653,6 +634,56 @@
     },
     {
         "date": "Wed, Jun 26",
+        "meet_time": [
+            "IL: 5:45 MEET AT OFFICE"
+        ],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL",
+            "DC5-ITEM LEVEL",
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "GROUP HEALTH RX, CAPITOL",
+            "GROUP HEALTH RX, SAUK TRAILS",
+            "GROUP HEALTH RX, HATCHERY HILLS"
+        ],
+        "address": [
+            "675 W WASHINGTON AVE",
+            "8202 EXCELSIOR DR",
+            "3051 CAHILL MAIN"
+        ],
+        "link": [
+            "https://goo.gl/maps/uSFXx2q34bs",
+            "https://goo.gl/maps/SvuibWN5b3H2",
+            "https://goo.gl/maps/BVziRjp8bAS2"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Sarah": [
+                "1)",
+                "@ Store,\nEquip",
+                "none"
+            ],
+            "Ashley P": [
+                "2)",
+                "Driver,\nCamry 3",
+                "Rockford"
+            ],
+            "Eva": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Lori": [
+                "4)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Jun 26",
         "meet_time": [],
         "start_time": null,
         "inv_type": [],
@@ -666,12 +697,12 @@
             "Kim": [
                 "",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Lashaun": [
                 "",
                 "",
-                "milwaukee"
+                "none"
             ]
         }
     },
@@ -686,77 +717,7 @@
             ""
         ],
         "address": [
-            "7:00 AM START"
-        ],
-        "link": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_note": "GROUP HEALTH RX, CAPITOL",
-        "employee_list": {
-            "https://goo.gl/maps/uSFXx2q34bs": [
-                "",
-                "",
-                "none"
-            ],
-            "TO FOLLOW": [
-                "",
-                "",
-                "none"
-            ],
-            "DC5-ITEM LEVEL": [
-                "",
-                "",
-                "none"
-            ],
-            "GROUP HEALTH RX, SAUK TRAILS": [
-                "",
-                "",
-                "none"
-            ],
-            "8202 EXCELSIOR DR": [
-                "",
-                "",
-                "none"
-            ],
-            "https://goo.gl/maps/SvuibWN5b3H2": [
-                "",
-                "",
-                "none"
-            ],
-            "GROUP HEALTH RX, HATCHERY HILLS": [
-                "",
-                "",
-                "none"
-            ],
-            "3051 CAHILL MAIN": [
-                "",
-                "",
-                "none"
-            ],
-            "https://goo.gl/maps/BVziRjp8bAS2": [
-                "",
-                "",
-                "none"
-            ],
-            "*IL Meet is 5:45 am at IL Office": [
-                "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, Jun 26",
-        "meet_time": [],
-        "start_time": "Sarah",
-        "inv_type": [
-            "Ashley P"
-        ],
-        "store_name": [
-            "Eva"
-        ],
-        "address": [
-            "Lori"
+            ""
         ],
         "link": [
             ""
@@ -773,7 +734,7 @@
     {
         "date": "Thu, Jun 27",
         "meet_time": [
-            "5:15 AM MEET OFFICE"
+            "M: 5:15 AM MEET OFFICE"
         ],
         "start_time": "6:00 AM START",
         "inv_type": [
@@ -793,34 +754,34 @@
             "DJ": [
                 "1)",
                 "Driver,\nAltima, Equip",
-                "milwaukee"
+                "none"
             ],
             "Carlie": [
                 "2)",
                 "@ Store\n(w/ Trevor)",
-                "other"
+                "none"
             ],
             "Monica": [
                 "3)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Stephanie": [
                 "4)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Trevor": [
                 "5)",
                 "@ Store\n(w/ Carlie)",
-                "milwaukee"
+                "none"
             ]
         }
     },
     {
         "date": "Thu, Jun 27",
         "meet_time": [
-            "5:00 AM MEET OFFICE"
+            "M: 5:00 AM MEET OFFICE"
         ],
         "start_time": "6:00 AM START",
         "inv_type": [
@@ -840,29 +801,29 @@
             "Brianna": [
                 "1)",
                 "@ Store, Equip",
-                "other"
+                "none"
             ],
             "Casey": [
                 "2)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Lashaun": [
                 "3)",
                 "Driver,\nGold Camry",
-                "milwaukee"
+                "none"
             ],
             "Lori": [
                 "4)",
-                "@ Store",
-                "other"
+                "",
+                "none"
             ]
         }
     },
     {
         "date": "Thu, Jun 27",
         "meet_time": [
-            "5:15 AM MEET OFFICE"
+            "M: 5:15 AM MEET OFFICE"
         ],
         "start_time": "6:00 AM START",
         "inv_type": [
@@ -882,29 +843,29 @@
             "Kim": [
                 "1)",
                 "Driver,\nSante Fe, Equip",
-                "milwaukee"
+                "none"
             ],
             "Cynthia": [
                 "2)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Paul": [
                 "3)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Sonia": [
                 "4)",
                 "",
-                "milwaukee"
+                "none"
             ]
         }
     },
     {
         "date": "Thu, Jun 27",
         "meet_time": [
-            "5:00 AM MEET AT OFFICE"
+            "M: 5:00 AM MEET AT OFFICE"
         ],
         "start_time": "6:00 AM START",
         "inv_type": [
@@ -928,19 +889,20 @@
             "Katherine": [
                 "1)",
                 "Equip",
-                "milwaukee"
+                "none"
             ],
             "Ian": [
                 "2)",
                 "Driver,\nOptima",
-                "milwaukee"
+                "none"
             ]
         }
     },
     {
         "date": "Thu, Jun 27",
         "meet_time": [
-            "4:30 AM OFFICE MEET"
+            "M: 4:30 AM OFFICE MEET",
+            "IL: 4:30 AM MEET AT OFFICE"
         ],
         "start_time": "6:00 AM START",
         "inv_type": [
@@ -960,42 +922,42 @@
             "Nate": [
                 "1)",
                 "@ Store, Equip",
-                "other"
+                "none"
             ],
             "Curt": [
                 "2)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Jerry D": [
                 "3)",
                 "",
-                "milwaukee"
+                "Milwaukee"
             ],
             "Robyn": [
                 "4)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Sue": [
                 "5)",
                 "Driver,\nRed Van",
-                "milwaukee"
+                "none"
             ],
             "Evelin": [
                 "6)",
-                "@ Store",
-                "other"
+                "Driver, 1/2\nCamry 3",
+                "none"
             ],
             "Jeri": [
                 "7)",
                 "@ Store",
-                "other"
+                "none"
             ],
             "Justin": [
                 "8)",
-                "@ Store",
-                "other"
+                "Driver, 1/2\nCamry 3",
+                "none"
             ],
             "Palmer": [
                 "9)",
@@ -1004,14 +966,16 @@
             ],
             "Taylor": [
                 "10)",
-                "@ Store",
-                "other"
+                "",
+                "none"
             ]
         }
     },
     {
         "date": "Thu, Jun 27",
-        "meet_time": [],
+        "meet_time": [
+            "IL: 5:00 MEET AT OFFICE"
+        ],
         "start_time": "7:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL"
@@ -1025,58 +989,60 @@
         "link": [
             "https://goo.gl/maps/CXVPLJR1DyH2"
         ],
-        "store_note": "*IL Meet is 5:00 am at IL Office",
+        "store_note": null,
         "employee_list": {
             "Sarah": [
                 "1)",
                 "@ Store, Equip",
-                "other"
+                "none"
             ],
             "Angela": [
                 "2)",
                 "Driver, 1/2\nSilver Van",
-                "rockford"
+                "none"
             ],
             "Anisha": [
                 "3)",
                 "",
-                "rockford"
+                "none"
             ],
             "Ashley P": [
                 "4)",
                 "Driver, 1/2\nSilver Van",
-                "other"
+                "Rockford"
             ],
             "Elijah": [
                 "5)",
                 "",
-                "other"
+                "none"
             ],
             "Eva": [
                 "6)",
                 "",
-                "other"
+                "none"
             ],
             "Joseph": [
                 "7)",
                 "",
-                "other"
+                "none"
             ],
             "Michael N": [
                 "8)",
                 "Driver, 1/2\nGray Van",
-                "other"
+                "Rockford"
             ],
             "Qiana": [
                 "9)",
                 "Driver, 1/2\nGray Van",
-                "other"
+                "none"
             ]
         }
     },
     {
         "date": "Fri, Jun 28",
-        "meet_time": [],
+        "meet_time": [
+            "IL: 4:15 MEET AT OFFICE"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL"
@@ -1095,48 +1061,48 @@
             "DJ": [
                 "1)",
                 "Equip",
-                "milwaukee"
+                "none"
             ],
             "Aaron": [
                 "2)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Greg": [
                 "3)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Jerry D": [
                 "4)",
                 "",
-                "milwaukee"
+                "Milwaukee"
             ],
             "Sonia": [
                 "5)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Ashley P": [
                 "6)",
-                "@ Store",
-                "other"
+                "Driver, 1/2\nSilver Van",
+                "Rockford"
             ],
             "Evelin": [
                 "7)",
-                "@ Store",
-                "other"
+                "Driver, 1/2\nSilver Van",
+                "none"
             ],
             "Qiana": [
                 "8)",
-                "@ Store",
-                "other"
+                "",
+                "none"
             ]
         }
     },
     {
         "date": "Fri, Jun 28",
-        "meet_time": "5:30 AM OFFICE LEAVE TIME",
+        "meet_time": "M: 5:30 AM OFFICE LEAVE TIME",
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -1155,24 +1121,24 @@
             "Nate": [
                 "1)",
                 "@ Store",
-                "other"
+                "none"
             ],
             "Kim": [
                 "2)",
                 "Sante Fe,\nUntil 11:30",
-                "milwaukee"
+                "none"
             ],
             "Lori": [
                 "3)",
-                "@ Store",
-                "other"
+                "",
+                "none"
             ]
         }
     },
     {
         "date": "Fri, Jun 28",
         "meet_time": [
-            "5:00 AM MEET WATERTOWN PLANK"
+            "M: 5:00 AM MEET WATERTOWN PLANK"
         ],
         "start_time": "6:00 AM START",
         "inv_type": [
@@ -1192,22 +1158,22 @@
             "Lashaun": [
                 "1)",
                 "Driver,\nGold Camry, Equip",
-                "milwaukee"
+                "none"
             ],
             "Carlie": [
                 "2)",
                 "@ Store",
-                "other"
+                "none"
             ],
             "Casey": [
                 "3)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Stephanie": [
                 "4)",
                 "",
-                "milwaukee"
+                "none"
             ]
         }
     },
@@ -1232,29 +1198,29 @@
             "Katherine": [
                 "1)",
                 "Optima available, Equip",
-                "milwaukee"
+                "none"
             ],
             "Cynthia": [
                 "2)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Mai": [
                 "3)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Monica": [
                 "4)",
                 "",
-                "milwaukee"
+                "none"
             ]
         }
     },
     {
         "date": "Fri, Jun 28",
         "meet_time": [
-            "5:15 AM MEET COLLEGE (SOUTHWEST)"
+            "M: 5:15 AM MEET COLLEGE (SOUTHWEST)"
         ],
         "start_time": "6:00 AM START",
         "inv_type": [
@@ -1278,12 +1244,12 @@
             "Ian": [
                 "1)",
                 "Driver,\nRed Van, Equip",
-                "milwaukee"
+                "none"
             ],
             "Paul": [
                 "2)",
                 "",
-                "milwaukee"
+                "none"
             ]
         }
     },
@@ -1292,62 +1258,31 @@
         "meet_time": [],
         "start_time": "7:00 AM START",
         "inv_type": [
-            "SALE INVENTORIES"
+            "EXCEL FINANCIAL",
+            "BP, MADISON-VERONA RD"
         ],
         "store_name": [
-            "CONTACT IS ROBBY"
+            "AMOCO, MADISON-VERONA RD",
+            "4501 VERONA RD"
         ],
         "address": [
-            "EXCEL FINANCIAL"
+            "4602 VERONA RD",
+            "https://maps.app.goo.gl/KVpnPc3rpoZKAen88"
         ],
         "link": [
-            "AMOCO, MADISON-VERONA RD"
-        ],
-        "store_note": "4602 VERONA RD",
-        "employee_list": {
-            "TO FOLLOW": [
-                "",
-                "",
-                "none"
-            ],
-            "BP, MADISON-VERONA RD": [
-                "",
-                "",
-                "none"
-            ],
-            "4501 VERONA RD": [
-                "",
-                "",
-                "none"
-            ],
-            "https://maps.app.goo.gl/KVpnPc3rpoZKAen88": [
-                "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Jun 28",
-        "meet_time": [],
-        "start_time": "Sarah",
-        "inv_type": [
-            "Brianna"
-        ],
-        "store_name": [
-            ""
-        ],
-        "address": [
-            ""
-        ],
-        "link": [
-            ""
+            "https://maps.app.goo.gl/tdbvCRXWi1zyhZ7WA",
+            "SALE INVENTORIES CONTACT IS ROBBY"
         ],
         "store_note": null,
         "employee_list": {
-            "": [
-                "",
-                "",
+            "Sarah": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Brianna": [
+                "2)",
+                "@ Store",
                 "none"
             ]
         }
