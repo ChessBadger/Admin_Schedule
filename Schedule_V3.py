@@ -232,7 +232,8 @@ if folders:
                             store_run.meet_time = [
                                 meet_times_dict['M:'] or default_value,
                                 meet_times_dict['IL:'],
-                                meet_times_dict['FV:']
+                                meet_times_dict['FV:'],
+                                meet_times_dict['MD:']
                             ]
                             # Remove any None values from the list
                             store_run.meet_time = [
