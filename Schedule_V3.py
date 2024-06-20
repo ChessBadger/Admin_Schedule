@@ -308,6 +308,7 @@ if folders:
                                     store_run.add_employee(
                                         next_cell, number_value, note_value, 'none')
                                     save_store_runs_to_json()
+                                    current_state = 'done'
                                 else:
                                     save_store_runs_to_json()
                                     current_state = 'done'

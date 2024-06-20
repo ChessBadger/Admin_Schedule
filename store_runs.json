@@ -172,7 +172,7 @@
         ],
         "store_note": null,
         "employee_list": {
-            "DJ S": [
+            "DJ": [
                 "1)",
                 "Driver,\nAltima, Equip",
                 "Milwaukee"
@@ -1156,31 +1156,6 @@
         }
     },
     {
-        "date": "Wed, Jun 26",
-        "meet_time": [],
-        "start_time": "Lashaun C",
-        "inv_type": [
-            ""
-        ],
-        "store_name": [
-            ""
-        ],
-        "address": [
-            ""
-        ],
-        "link": [
-            ""
-        ],
-        "store_note": null,
-        "employee_list": {
-            "": [
-                "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
         "date": "Thu, Jun 27",
         "meet_time": [
             "M: 5:15 AM MEET OFFICE"
@@ -1200,7 +1175,7 @@
         ],
         "store_note": "4:45 am meet for Carlie K/Trevor M at Grafton Park n Ride",
         "employee_list": {
-            "DJ S": [
+            "DJ": [
                 "1)",
                 "Driver,\nAltima, Equip",
                 "Milwaukee"
@@ -1608,7 +1583,7 @@
         ],
         "store_note": null,
         "employee_list": {
-            "DJ S": [
+            "DJ": [
                 "1)",
                 "Equip",
                 "Milwaukee"
