@@ -198,13 +198,13 @@ document.addEventListener('DOMContentLoaded', function () {
 
     if (jsonData) {
       const results = JSON.parse(jsonData);
-      displaySearchResults(results, 'all stores', null);
+      displaySearchResults(results, 'all stores', null, true); // Pass true to indicate all stores search
     } else {
       document.getElementById('resultsContainer').textContent = 'No data available for search.';
     }
   }
 
-  function displaySearchResults(results, employeeName, office) {
+  function displaySearchResults(results, employeeName, office, isAllStoresSearch = false) {
     const resultsContainer = document.getElementById('resultsContainer');
     resultsContainer.innerHTML = '';
 
@@ -294,7 +294,7 @@ document.addEventListener('DOMContentLoaded', function () {
             runElement.appendChild(supervisorElement);
           }
 
-          if (run.meet_time && drivers.length > 0) {
+          if (run.meet_time && drivers.length > 0 && !isAllStoresSearch) {
             const driversElement = document.createElement('p');
             driversElement.innerHTML = `<strong>Drivers:</strong> ${drivers.join(' | ')}`;
             runElement.appendChild(driversElement);
@@ -309,7 +309,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
           const storeCardContainer = document.createElement('div');
           storeCardContainer.classList.add('store-card-container');
-          if (run.store_name.length > 1) {
+          if (run.store_name.length > 1 && !isAllStoresSearch) {
             storeCardContainer.classList.add('hidden');
           }
 
@@ -342,7 +342,7 @@ document.addEventListener('DOMContentLoaded', function () {
             storeCardContainer.appendChild(storeCard);
           });
 
-          if (run.store_name.length > 1) {
+          if (run.store_name.length > 1 && !isAllStoresSearch) {
             const toggleStoreButton = document.createElement('button');
             toggleStoreButton.textContent = 'Toggle Stores';
             toggleStoreButton.classList.add('show-all');
