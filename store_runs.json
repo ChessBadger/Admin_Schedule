@@ -787,29 +787,34 @@
         "inv_type": [
             "DC5-FINANCIAL",
             "DC5-FINANCIAL",
-            "ROTE OIL  #11 MUKWONAGO - (BP) ARROWHEAD"
+            "DC5-FINANCIAL"
         ],
         "store_name": [
             "ROTE OIL #10 MUKWONAGO - ROCHESTER",
             "ROTE OIL #12 MUKWONAGO - (AMOCO) GREENWALD",
-            "122 ARROWHEAD DR"
+            "ROTE OIL  #11 MUKWONAGO - (BP) ARROWHEAD"
         ],
         "address": [
             "1060 N ROCHESTER ST",
             "909 GREENWALD CT",
-            "https://goo.gl/maps/7XkTFZtDFDgGBctz7"
+            "122 ARROWHEAD DR"
         ],
         "link": [
             "https://goo.gl/maps/dmvR5bTHLs1Cbjcr5",
             "https://goo.gl/maps/ejQSLoz2D8EmzKVq6",
-            ""
+            "https://goo.gl/maps/7XkTFZtDFDgGBctz7"
         ],
-        "store_note": "Katherine G",
+        "store_note": null,
         "employee_list": {
-            "": [
+            "Katherine G": [
+                "1)",
+                "Optima available, Equip",
+                "Milwaukee"
+            ],
+            "Ian K": [
+                "2)",
                 "",
-                "",
-                "none"
+                "Milwaukee"
             ]
         }
     },
