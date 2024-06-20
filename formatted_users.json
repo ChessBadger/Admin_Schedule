@@ -1,5 +1,14 @@
 [
   {
+    "username": "admin",
+    "password": "badgerscan#",
+    "type": "admin",
+    "displayName": "none",
+    "office": "none",
+    "firstName": "none",
+    "lastName": "none"
+  },
+  {
     "username": "bhemerley",
     "password": "1203",
     "type": "user",

@@ -157,7 +157,6 @@ document.addEventListener('DOMContentLoaded', function () {
       const office = extractOfficeInfo(results, employeeName);
       if (office) {
         localStorage.setItem('userOffice', office);
-        localStorage.setItem('NAME', employeeName);
       }
 
       displaySearchResults(results, employeeName, office);
@@ -184,7 +183,7 @@ document.addEventListener('DOMContentLoaded', function () {
   function searchEmployeeRuns(json, employeeName) {
     const regex = new RegExp(`\\b${employeeName}\\b`);
     return json.filter((run) => {
-      return Object.keys(run.employee_list).some((employee) => regex.test(employee.toLowerCase()));
+      return Object.keys(run.employee_list).some((employee) => employee.toLowerCase() === employeeName.toLowerCase());
     });
   }
 
