@@ -16,8 +16,13 @@ if os.path.exists(json_file_path):
 else:
     formatted_users = []
 
-# Create a dictionary for existing users
-existing_users = {user['username']: user for user in formatted_users}
+# Create a dictionary for existing users using first and last names as keys
+existing_users = {}
+for user in formatted_users:
+    first_name = user.get('firstName')
+    last_name = user.get('lastName')
+    if first_name and last_name:
+        existing_users[(first_name, last_name)] = user
 
 # Office mapping
 office_mapping = {
@@ -52,8 +57,8 @@ for index, row in df.iterrows():
         "lastName": last_name
     }
 
-    # Update existing user or add new user
-    existing_users[username] = user_data
+    # Update existing user or add new user based on first and last names
+    existing_users[(first_name, last_name)] = user_data
 
 # Convert the dictionary back to a list
 updated_users = list(existing_users.values())

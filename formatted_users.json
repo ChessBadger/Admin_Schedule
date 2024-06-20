@@ -1,11 +1,5 @@
 [
   {
-    "username": "admin",
-    "password": "badgerscan#",
-    "type": "admin",
-    "office": "All"
-  },
-  {
     "username": "bhemerley",
     "password": "1203",
     "type": "user",
@@ -904,5 +898,23 @@
     "office": "Milwaukee",
     "firstName": "Joshua",
     "lastName": "Mann"
+  },
+  {
+    "username": "jsmith",
+    "password": "1334",
+    "type": "user",
+    "displayName": "Joseph S",
+    "office": "Rockford",
+    "firstName": "Joseph",
+    "lastName": "Smith"
+  },
+  {
+    "username": "tmarien",
+    "password": "3768",
+    "type": "user",
+    "displayName": "Tanner M",
+    "office": "Milwaukee",
+    "firstName": "Tanner",
+    "lastName": "Marien"
   }
 ]
