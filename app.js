@@ -135,9 +135,11 @@ document.addEventListener('DOMContentLoaded', function () {
     searchForm.addEventListener('submit', function (event) {
       event.preventDefault();
       const employeeName = document.getElementById('employeeName').value.trim().toLowerCase();
-      if (employeeName) {
+      if (employeeName === 'all stores') {
+        displayAllStores(); // Call the function to display all stores
+      } else if (employeeName) {
         performSearch(employeeName);
-        employeeNameHeader.textContent = `${employeeName.toUpperCase()}`;
+        document.getElementById('employeeNameHeader').textContent = `${employeeName.toUpperCase()}`;
       }
     });
   }
@@ -185,6 +187,21 @@ document.addEventListener('DOMContentLoaded', function () {
     return json.filter((run) => {
       return Object.keys(run.employee_list).some((employee) => employee.toLowerCase() === employeeName.toLowerCase());
     });
+  }
+
+  function displayAllStores() {
+    let jsonData = localStorage.getItem('jsonData');
+    if (!jsonData) {
+      fetchLocalJson(); // Fetch the JSON data again if it's null
+      jsonData = localStorage.getItem('jsonData');
+    }
+
+    if (jsonData) {
+      const results = JSON.parse(jsonData);
+      displaySearchResults(results, 'all stores', null);
+    } else {
+      document.getElementById('resultsContainer').textContent = 'No data available for search.';
+    }
   }
 
   function displaySearchResults(results, employeeName, office) {

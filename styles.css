@@ -451,3 +451,7 @@ body.dark-mode #searchNameNote {
 body.dark-mode .suggestion {
   background-color: #161414;
 }
+
+hr {
+  background-color: #000000; /* Sets the color */
+}
