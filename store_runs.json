@@ -231,6 +231,88 @@
         }
     },
     {
+        "date": "Mon, Jun 24",
+        "meet_time": [
+            "IL: 4:15 AM MEET AT OFFICE"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "PIERCE'S EXPRESS MARKET, BARABOO (GROC + C-STORE)"
+        ],
+        "address": [
+            "935 8TH ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/GhH3B9P8DGn"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Sarah": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Angela": [
+                "2)",
+                "Driver, 1/2\nSilver Van",
+                "none"
+            ],
+            "Anisha": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Ashley P": [
+                "4)",
+                "Driver, 1/2\nSilver Van",
+                "Rockford"
+            ],
+            "Elijah": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Eva": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Evelin": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Joseph": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Justin": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Michael N": [
+                "10)",
+                "Driver, 1/2\nGray Van",
+                "Rockford"
+            ],
+            "Nate": [
+                "11)",
+                "Driver, 1/2\nGray Van",
+                "none"
+            ],
+            "Taylor": [
+                "12)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
         "date": "Tue, Jun 25",
         "meet_time": [],
         "start_time": "M: 6:00 AM START",
@@ -474,6 +556,62 @@
                 "7)",
                 "",
                 "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Jun 25",
+        "meet_time": [
+            "IL: 4:00 AM MEET AT OFFICE"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL",
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "SOUTHWEST HEALTH HOSPITAL-INPATIENT, PLATTEVILLE",
+            "SOUTHWEST HEALTH HOSPITAL-OUTPATIENT, PLATTEVILLE"
+        ],
+        "address": [
+            "1400 EASTSIDE RD",
+            "1400 EASTSIDE RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/tENERhYm35H2",
+            "https://goo.gl/maps/ueV1odVEdtxrmE3m7"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Sarah": [
+                "1)",
+                "Driver,\nEquip",
+                "none"
+            ],
+            "Ashley P": [
+                "2)",
+                "Driver, 1/2\nSilver Van",
+                "Rockford"
+            ],
+            "Eva": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Josie": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Lori": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Michael N": [
+                "6)",
+                "Driver, 1/2\nSilver Van",
+                "Rockford"
             ]
         }
     },

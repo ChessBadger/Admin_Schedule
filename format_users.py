@@ -31,7 +31,7 @@ office_mapping = {
 for index, row in df.iterrows():
     first_name = row['FirstName'].capitalize()
     last_name = row['LastName'].capitalize()
-    emp_num = row['EmployeeNumber']
+    emp_num = str(row['EmployeeNumber'])  # Convert employee number to string
     office = row['OfficeName']
 
     # Apply office mapping

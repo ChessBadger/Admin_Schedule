@@ -309,6 +309,7 @@ if folders:
                                     save_store_runs_to_json()
                                 else:
                                     save_store_runs_to_json()
+                                    current_state = 'done'
                             else:
                                 current_state = 'found_employee'
                                 store_run.add_employee(
@@ -321,9 +322,7 @@ if folders:
                             elif next_store:
                                 current_state = 'searching'
                                 save_store_runs_to_json()
-                            # elif value is None or value == '':
-                            #     if header_value == 'Mon, Jun 24':
-                            #         print("kill me")
+
                             else:
                                 save_store_runs_to_json()
                                 break_outer_loop = True
