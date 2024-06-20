@@ -332,25 +332,108 @@
         ],
         "store_note": null,
         "employee_list": {
-            "Lashaun": [
+            "Lashaun C": [
                 "1)",
                 "Driver,\nGold Camry, Equip",
-                "none"
+                "Milwaukee"
             ],
-            "Casey": [
+            "Casey V": [
                 "2)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Jerry D": [
                 "3)",
                 "",
                 "Milwaukee"
             ],
-            "Stephanie": [
+            "Stephanie G": [
                 "4)",
                 "",
-                "none"
+                "Milwaukee"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Jun 24",
+        "meet_time": [
+            "FV: 6:00 AM MEET BALLARD"
+        ],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "MODAS",
+            "MODAS"
+        ],
+        "store_name": [
+            "ONEIDA #2026 ONE STOP LARSEN, GREEN BAY",
+            "ONEIDA #2025 ONE STOP PACKERLAND, GREEN BAY"
+        ],
+        "address": [
+            "501 PACKERLAND DR",
+            "3120 PACKERLAND DR"
+        ],
+        "link": [
+            "https://goo.gl/maps/gjFs8S2qgY22",
+            "https://goo.gl/maps/ZGaeiY3ZxBS2"
+        ],
+        "store_note": "FULL STORE",
+        "employee_list": {
+            "Katie R": [
+                "2)",
+                "",
+                "Fox Valley"
+            ],
+            "Kirsten E": [
+                "3)",
+                "",
+                "Fox Valley"
+            ],
+            "Marcia L": [
+                "4)",
+                "",
+                "Fox Valley"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Jun 24",
+        "meet_time": [
+            "FV: 5:15 AM MEET BALLARD"
+        ],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "MODAS / WINTAKES"
+        ],
+        "store_name": [
+            "SCHIERL #82, MARSHFIELD-CENTRAL"
+        ],
+        "address": [
+            "1304 S CENTRAL AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/kUJAzqFbdbsVJWbY9"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Jeremiah F": [
+                "1)",
+                "Driver",
+                "Fox Valley"
+            ],
+            "Heather V": [
+                "2)",
+                "",
+                "Fox Valley"
+            ],
+            "Michelle C": [
+                "3)",
+                "@ Store, work w/ Michelle C",
+                "Fox Valley"
+            ],
+            "Serena E": [
+                "4)",
+                "2nd Schierl scan, work w/ Michelle C",
+                "Fox Valley"
             ]
         }
     },
@@ -659,6 +742,94 @@
         }
     },
     {
+        "date": "Tue, Jun 25",
+        "meet_time": [
+            "FV: 6:00 AM MEET BALLARD"
+        ],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "MODAS",
+            "MODAS"
+        ],
+        "store_name": [
+            "ONEIDA #2022 ONE STOP E & EE, DEPERE",
+            "ONEIDA #2021 ONE STOP 54, ONEIDA"
+        ],
+        "address": [
+            "790 COUNTY RD EE",
+            "W180 HWY 54"
+        ],
+        "link": [
+            "https://goo.gl/maps/VLR8RdvzGgF2",
+            "https://goo.gl/maps/kMzccLLaPd22"
+        ],
+        "store_note": "FULL STORE",
+        "employee_list": {
+            "David B": [
+                "2)",
+                "1st Oneidas, work w/ Katie R",
+                "Fox Valley"
+            ],
+            "Heather V": [
+                "3)",
+                "",
+                "Fox Valley"
+            ],
+            "Katie R": [
+                "4)",
+                "Driver, work w/ David B",
+                "Fox Valley"
+            ],
+            "Marcia L": [
+                "5)",
+                "",
+                "Fox Valley"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Jun 25",
+        "meet_time": [
+            "FV: 6:45 AM MEET BALLARD"
+        ],
+        "start_time": "8:00 AM START",
+        "inv_type": [
+            "EXCEL FINANCIAL"
+        ],
+        "store_name": [
+            "GRESHAM TOWNMART"
+        ],
+        "address": [
+            "1129 MAIN STREET"
+        ],
+        "link": [
+            "https://goo.gl/maps/Kk6fx4yLi322"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Jeremiah F": [
+                "1)",
+                "Driver, Equip",
+                "Fox Valley"
+            ],
+            "Kirsten E": [
+                "2)",
+                "",
+                "Fox Valley"
+            ],
+            "Michelle C": [
+                "3)",
+                "@ Store, Until 11:30",
+                "Fox Valley"
+            ],
+            "Serena E": [
+                "4)",
+                "",
+                "Fox Valley"
+            ]
+        }
+    },
+    {
         "date": "Wed, Jun 26",
         "meet_time": [
             "IL: 4:15 AM MEET AT OFFICE"
@@ -865,6 +1036,98 @@
                 "4)",
                 "@ Store",
                 "Madison"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Jun 26",
+        "meet_time": [
+            "FV: 6:00 AM MEET BALLARD"
+        ],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "MODAS",
+            "MODAS"
+        ],
+        "store_name": [
+            "ONEIDA #2020 ONE STOP WESTWIND, GREEN BAY",
+            "ONEIDA #2024 TRAVEL CENTER, PULASKI"
+        ],
+        "address": [
+            "2370 WEST MASON ST",
+            "5939 OLD 29 DRIVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/eA3BF5KhAAp",
+            "https://goo.gl/maps/P7gcbpqmHRw"
+        ],
+        "store_note": "FULL STORE",
+        "employee_list": {
+            "Annette P": [
+                "2)",
+                "",
+                "Fox Valley"
+            ],
+            "Katie R": [
+                "3)",
+                "work w/ Serena E",
+                "Fox Valley"
+            ],
+            "Michelle C": [
+                "4)",
+                "@ Store",
+                "Fox Valley"
+            ],
+            "Serena E": [
+                "5)",
+                "1st Oneidas, work w/ Katie R",
+                "Fox Valley"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Jun 26",
+        "meet_time": [
+            "FV: 4:45 AM MEET BALLARD"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "HOWARDS PANTRY, HOWARDS GROVE",
+            "PETRO CENTER 2, HOWARDS GROVE"
+        ],
+        "address": [
+            "536 MADISON AVE",
+            "220 N WISCONSIN DR"
+        ],
+        "link": [
+            "https://goo.gl/maps/3y3VSQssTmuh2dpo8",
+            "https://goo.gl/maps/8Yb9mTahQpte986L6"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "": [
+                "",
+                "",
+                "none"
+            ],
+            "Jeremiah F": [
+                "1)",
+                "Driver",
+                "Fox Valley"
+            ],
+            "Louisa F": [
+                "2)",
+                "",
+                "Fox Valley"
+            ],
+            "Marcia L": [
+                "3)",
+                "",
+                "Fox Valley"
             ]
         }
     },
@@ -1225,6 +1488,107 @@
         }
     },
     {
+        "date": "Thu, Jun 27",
+        "meet_time": [
+            "FV: 6:00 AM MEET BALLARD"
+        ],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "MODAS",
+            "MODAS",
+            "MODAS",
+            "MODAS"
+        ],
+        "store_name": [
+            "ONEIDA #2027 FOUR PATHS, GREEN BAY",
+            "ONEIDA #2032 SMOKE SHOP ISBELL, GREEN BAY",
+            "ONEIDA #2030 SMOKE SHOP CASINO, GREEN BAY",
+            "ONEIDA #2031 SMOKE SHOP BINGO, GREEN BAY"
+        ],
+        "address": [
+            "2597 WEST MASON ST",
+            "2514 WEST MASON ST",
+            "2020 AIRPORT DR",
+            "2020 AIRPORT DR"
+        ],
+        "link": [
+            "https://goo.gl/maps/Ejz3LxP1Y8S2",
+            "https://goo.gl/maps/hEygq2DoHmr",
+            "https://goo.gl/maps/4XjrBGvHYgS2",
+            "https://goo.gl/maps/4XjrBGvHYgS2"
+        ],
+        "store_note": "FULL STORE",
+        "employee_list": {
+            "David B": [
+                "2)",
+                "2nd Oneidas, work w/ Katie R",
+                "Fox Valley"
+            ],
+            "Katie R": [
+                "3)",
+                "Driver, work w/ David B",
+                "Fox Valley"
+            ],
+            "Kirsten E": [
+                "4)",
+                "",
+                "Fox Valley"
+            ],
+            "Marcia L": [
+                "5)",
+                "",
+                "Fox Valley"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Jun 27",
+        "meet_time": [
+            "FV: 5:15 MEET BALLARD"
+        ],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "MODAS / WINTAKES"
+        ],
+        "store_name": [
+            "SCHIERL #81, AUBURNDALE"
+        ],
+        "address": [
+            "6018 MAIN ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/qr31xSMhPtRtRAvB7"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Jeremiah F": [
+                "1)",
+                "Driver",
+                "Fox Valley"
+            ],
+            "Annette P": [
+                "2)",
+                "",
+                "Fox Valley"
+            ],
+            "Jacqui R": [
+                "3)",
+                "@ Store",
+                "Fox Valley"
+            ],
+            "Michelle C": [
+                "4)",
+                "@ Store, work w/ Serena E",
+                "Fox Valley"
+            ],
+            "Serena E": [
+                "5)",
+                "3rd Schierl scan, work w/ Michelle C",
+                "Fox Valley"
+            ]
+        }
+    },
+    {
         "date": "Fri, Jun 28",
         "meet_time": [
             "IL: 4:15 MEET AT OFFICE"
@@ -1470,6 +1834,92 @@
                 "2)",
                 "@ Store",
                 "Rockford"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Jun 28",
+        "meet_time": [
+            "FV: 5:15 MEET BALLARD"
+        ],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "WESTFIELD SUPERVALU"
+        ],
+        "address": [
+            "519 S MAIN ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/xUAXuNCLdR72"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Jerry S": [
+                "1)",
+                "Driver, Equip",
+                "Fox Valley"
+            ],
+            "Heather V": [
+                "2)",
+                "",
+                "Fox Valley"
+            ],
+            "Jeremiah F": [
+                "3)",
+                "Driver",
+                "Fox Valley"
+            ],
+            "Kirsten E": [
+                "4)",
+                "",
+                "Fox Valley"
+            ],
+            "Marcia L": [
+                "5)",
+                "",
+                "Fox Valley"
+            ],
+            "Serena E": [
+                "6)",
+                "",
+                "Fox Valley"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Jun 28",
+        "meet_time": [],
+        "start_time": "8:00 AM START",
+        "inv_type": [
+            "EXCEL FINANCIAL",
+            "EXCEL FINANCIAL"
+        ],
+        "store_name": [
+            "SWETZ COUNTRY CORNER MART, BLENKER",
+            "SWETZ ROADSIDE CONVENIENCE, STEVENS POINT"
+        ],
+        "address": [
+            "3912 US HWY 10",
+            "2133 DIVISION ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/1dMLKgeWQnr",
+            "https://goo.gl/maps/rCaFFDRAv7T2"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Michelle C": [
+                "1)",
+                "@ Store, Equip",
+                "Fox Valley"
+            ],
+            "Jacqui R": [
+                "2)",
+                "@ Store",
+                "Fox Valley"
             ]
         }
     },
