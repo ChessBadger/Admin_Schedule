@@ -157,6 +157,7 @@ document.addEventListener('DOMContentLoaded', function () {
       const office = extractOfficeInfo(results, employeeName);
       if (office) {
         localStorage.setItem('userOffice', office);
+        localStorage.setItem('NAME', employeeName);
       }
 
       displaySearchResults(results, employeeName, office);

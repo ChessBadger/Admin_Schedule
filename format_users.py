@@ -39,7 +39,7 @@ for index, row in df.iterrows():
 
     # Create the username, display name, and determine office location
     username = first_name[0].lower() + last_name.lower()
-    display_name = f"{first_name} {last_name[0].lower()}"
+    display_name = f"{first_name} {last_name[0]}"
 
     # Create a dictionary for the formatted user data
     user_data = {
