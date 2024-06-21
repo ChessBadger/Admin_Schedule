@@ -440,7 +440,7 @@
     {
         "date": "Tue, Jun 25",
         "meet_time": [],
-        "start_time": "M: 6:00 AM START",
+        "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
         ],
@@ -1894,6 +1894,11 @@
             "Jacqui R": [
                 "2)",
                 "@ Store",
+                "Fox Valley"
+            ],
+            "Marcia L": [
+                "3)",
+                "@ Store, After Westfield",
                 "Fox Valley"
             ]
         }
