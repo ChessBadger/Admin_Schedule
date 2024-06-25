@@ -259,30 +259,40 @@
                 "",
                 "milwaukee"
             ],
-            "Robyn": [
+            "Joshua M": [
                 "5)",
-                "",
-                "milwaukee"
+                "2nd week",
+                "none"
             ],
-            "Sonia": [
+            "Robyn": [
                 "6)",
                 "",
                 "milwaukee"
             ],
-            "Stephanie": [
+            "Sonia": [
                 "7)",
                 "",
                 "milwaukee"
             ],
-            "Sue": [
+            "Stephanie": [
                 "8)",
+                "Trainer",
+                "milwaukee"
+            ],
+            "Sue": [
+                "9)",
                 "",
                 "milwaukee"
             ],
             "Trevor": [
-                "9)",
+                "10)",
                 "@ Store\n(w/ Carlie)",
                 "milwaukee"
+            ],
+            "Via": [
+                "11)",
+                "2nd week",
+                "none"
             ]
         }
     },
@@ -437,7 +447,7 @@
             ],
             "Carlie": [
                 "3)",
-                "@ Store\n(w/ Trevor)",
+                "@ Store\n(w/ Trevor)\nTrainer",
                 "other"
             ],
             "Cynthia": [
@@ -450,79 +460,94 @@
                 "",
                 "milwaukee"
             ],
-            "Mai": [
+            "Joshua M": [
                 "6)",
-                "",
+                "2nd week,\n(work w/ Anisha)",
+                "none"
+            ],
+            "Mai": [
+                "7)",
+                "Trainer",
                 "milwaukee"
             ],
             "Paul": [
-                "7)",
-                "",
-                "milwaukee"
-            ],
-            "Sonia": [
                 "8)",
                 "",
                 "milwaukee"
             ],
-            "Stephanie": [
+            "Sonia": [
                 "9)",
                 "",
                 "milwaukee"
             ],
-            "Trevor": [
+            "Stephanie": [
                 "10)",
+                "",
+                "milwaukee"
+            ],
+            "Trevor": [
+                "11)",
                 "@ Store\n(w/ Carlie)",
                 "milwaukee"
             ],
+            "Via": [
+                "12)",
+                "2nd week,\n(work w/ Mai)",
+                "none"
+            ],
             "Angela": [
-                "11)",
+                "13)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Anisha": [
-                "12)",
-                "@ Store",
+                "14)",
+                "@ Store,\nTrainer",
                 "other"
             ],
             "Brianna": [
-                "13)",
-                "@ Store",
-                "other"
-            ],
-            "Evelin": [
-                "14)",
-                "@ Store",
-                "other"
-            ],
-            "Joseph": [
                 "15)",
                 "@ Store",
                 "other"
             ],
-            "Justin": [
+            "Evelin": [
                 "16)",
                 "@ Store",
                 "other"
             ],
-            "Michael N": [
+            "Joseph": [
                 "17)",
-                "@ Store,\nTrainer",
-                "other"
-            ],
-            "Qiana": [
-                "18)",
-                "@ Store,\nSupv Rx",
-                "other"
-            ],
-            "Taylor": [
-                "19)",
                 "@ Store",
                 "other"
             ],
             "Josh S": [
-                "20)",
+                "18)",
                 "@ Store,\n2nd week (work w/ Michael)",
+                "none"
+            ],
+            "Justin": [
+                "19)",
+                "@ Store",
+                "other"
+            ],
+            "Michael N": [
+                "20)",
+                "@ Store,\nTrainer",
+                "other"
+            ],
+            "Qiana": [
+                "21)",
+                "@ Store,\nSupv Rx",
+                "other"
+            ],
+            "Taylor": [
+                "22)",
+                "@ Store",
+                "other"
+            ],
+            "Wyatt": [
+                "23)",
+                "@ Store,\n2nd Day (work w/ Carlie)",
                 "none"
             ]
         }
@@ -811,23 +836,18 @@
                 "@ Store",
                 "other"
             ],
-            "Jeri": [
+            "Justin": [
                 "7)",
                 "@ Store",
                 "other"
             ],
-            "Justin": [
-                "8)",
-                "@ Store",
-                "other"
-            ],
             "Palmer": [
-                "9)",
+                "8)",
                 "@ Store",
                 "none"
             ],
             "Taylor": [
-                "10)",
+                "9)",
                 "@ Store",
                 "other"
             ]
@@ -883,11 +903,6 @@
             ],
             "Evelin": [
                 "7)",
-                "@ Store",
-                "other"
-            ],
-            "Qiana": [
-                "8)",
                 "@ Store",
                 "other"
             ]
@@ -1001,10 +1016,10 @@
                 "",
                 "milwaukee"
             ],
-            "Monica": [
+            "Qiana": [
                 "4)",
-                "",
-                "milwaukee"
+                "@ Store",
+                "other"
             ]
         }
     },
@@ -1056,192 +1071,13 @@
     {
         "date": "Sun, Jun 30",
         "meet_time": null,
-        "start_time": "DJ",
-        "inv_type": [
-            ""
-        ],
-        "store_name": [
-            "5:00 AM START"
-        ],
-        "address": [
-            "DC5-ITEM LEVEL"
-        ],
-        "link": [
-            "OUTPOST NATURAL FOODS, BAY VIEW"
-        ],
-        "store_note": "2826 S KINNICKINNC AVE",
-        "employee_list": {
-            "": [
-                "",
-                "",
-                "none"
-            ],
-            "Katherine": [
-                "1)",
-                "Optima available, Equip",
-                "milwaukee"
-            ],
-            "Angela": [
-                "2)",
-                "@ Store",
-                "none"
-            ],
-            "Eva": [
-                "3)",
-                "@ Store",
-                "other"
-            ],
-            "Evelin": [
-                "4)",
-                "@ Store",
-                "other"
-            ],
-            "Qiana": [
-                "5)",
-                "@ Store",
-                "other"
-            ]
-        }
-    },
-    {
-        "date": "Sun, Jun 30",
-        "meet_time": null,
-        "start_time": "5:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "OUTPOST NATURAL FOODS, MEQUON"
-        ],
-        "address": [
-            "7590 W MEQUON RD"
-        ],
-        "link": [
-            "https://goo.gl/maps/do2xmdVUL8z"
-        ],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [],
+        "address": [],
+        "link": [],
         "store_note": null,
-        "employee_list": {
-            "Kim": [
-                "1)",
-                "Sante Fe available, Equip",
-                "milwaukee"
-            ],
-            "Ian": [
-                "2)",
-                "",
-                "milwaukee"
-            ],
-            "Jerry D": [
-                "3)",
-                "Until 10:45",
-                "milwaukee"
-            ],
-            "Mai": [
-                "4)",
-                "",
-                "milwaukee"
-            ],
-            "Sonia": [
-                "5)",
-                "",
-                "milwaukee"
-            ]
-        }
-    },
-    {
-        "date": "Sun, Jun 30",
-        "meet_time": null,
-        "start_time": "5:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "OUTPOST NATURAL FOODS, MILWAUKEE"
-        ],
-        "address": [
-            "100 E CAPITOL DR"
-        ],
-        "link": [
-            "https://goo.gl/maps/n94xpFtHzvE2"
-        ],
-        "store_note": null,
-        "employee_list": {
-            "Brianna": [
-                "1)",
-                "@ Store, Equip",
-                "other"
-            ],
-            "Lashaun": [
-                "2)",
-                "",
-                "milwaukee"
-            ],
-            "Anisha": [
-                "3)",
-                "@ Store",
-                "other"
-            ],
-            "Ashley P": [
-                "4)",
-                "@ Store",
-                "other"
-            ],
-            "Taylor": [
-                "5)",
-                "@ Store",
-                "other"
-            ]
-        }
-    },
-    {
-        "date": "Sun, Jun 30",
-        "meet_time": null,
-        "start_time": "5:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "OUTPOST NATURAL FOODS, WAUWATOSA"
-        ],
-        "address": [
-            "7000 W STATE ST"
-        ],
-        "link": [
-            "https://goo.gl/maps/9Apjjj8M6672"
-        ],
-        "store_note": null,
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "Equip",
-                "milwaukee"
-            ],
-            "Casey": [
-                "2)",
-                "",
-                "milwaukee"
-            ],
-            "Curt": [
-                "3)",
-                "",
-                "milwaukee"
-            ],
-            "Paul": [
-                "4)",
-                "",
-                "milwaukee"
-            ],
-            "Jerry S": [
-                "5)",
-                "@ Store, Until 10:15",
-                "milwaukee"
-            ],
-            "Marcia": [
-                "6)",
-                "@ Store, Until 10:15",
-                "milwaukee"
-            ]
-        }
+        "employee_list": {}
     },
     {
         "date": "Mon, Jul 1",
