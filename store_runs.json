@@ -1071,13 +1071,187 @@
     {
         "date": "Sun, Jun 30",
         "meet_time": null,
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [],
-        "address": [],
-        "link": [],
+        "start_time": "5:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "OUTPOST NATURAL FOODS, BAY VIEW"
+        ],
+        "address": [
+            "2826 S KINNICKINNC AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/5hiyyxywjiH2"
+        ],
         "store_note": null,
-        "employee_list": {}
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Optima available, Equip",
+                "milwaukee"
+            ],
+            "Angela": [
+                "2)",
+                "@ Store",
+                "none"
+            ],
+            "Eva": [
+                "3)",
+                "@ Store",
+                "other"
+            ],
+            "Evelin": [
+                "4)",
+                "@ Store",
+                "other"
+            ],
+            "Qiana": [
+                "5)",
+                "@ Store",
+                "other"
+            ]
+        }
+    },
+    {
+        "date": "Sun, Jun 30",
+        "meet_time": null,
+        "start_time": "5:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "OUTPOST NATURAL FOODS, MEQUON"
+        ],
+        "address": [
+            "7590 W MEQUON RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/do2xmdVUL8z"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "Sante Fe available, Equip",
+                "milwaukee"
+            ],
+            "Ian": [
+                "2)",
+                "",
+                "milwaukee"
+            ],
+            "Jerry D": [
+                "3)",
+                "Until 10:45",
+                "milwaukee"
+            ],
+            "Mai": [
+                "4)",
+                "",
+                "milwaukee"
+            ],
+            "Sonia": [
+                "5)",
+                "",
+                "milwaukee"
+            ]
+        }
+    },
+    {
+        "date": "Sun, Jun 30",
+        "meet_time": null,
+        "start_time": "5:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "OUTPOST NATURAL FOODS, MILWAUKEE"
+        ],
+        "address": [
+            "100 E CAPITOL DR"
+        ],
+        "link": [
+            "https://goo.gl/maps/n94xpFtHzvE2"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip",
+                "other"
+            ],
+            "Lashaun": [
+                "2)",
+                "",
+                "milwaukee"
+            ],
+            "Anisha": [
+                "3)",
+                "@ Store",
+                "other"
+            ],
+            "Ashley P": [
+                "4)",
+                "@ Store",
+                "other"
+            ],
+            "Taylor": [
+                "5)",
+                "@ Store",
+                "other"
+            ]
+        }
+    },
+    {
+        "date": "Sun, Jun 30",
+        "meet_time": null,
+        "start_time": "5:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "OUTPOST NATURAL FOODS, WAUWATOSA"
+        ],
+        "address": [
+            "7000 W STATE ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/9Apjjj8M6672"
+        ],
+        "store_note": null,
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Equip",
+                "milwaukee"
+            ],
+            "Casey": [
+                "2)",
+                "",
+                "milwaukee"
+            ],
+            "Curt": [
+                "3)",
+                "",
+                "milwaukee"
+            ],
+            "Paul": [
+                "4)",
+                "",
+                "milwaukee"
+            ],
+            "Jerry S": [
+                "5)",
+                "@ Store, Until 10:15",
+                "milwaukee"
+            ],
+            "Marcia": [
+                "6)",
+                "@ Store, Until 10:15",
+                "milwaukee"
+            ]
+        }
     },
     {
         "date": "Mon, Jul 1",

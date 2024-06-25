@@ -184,7 +184,7 @@ if folders:
                                 row=cell.row + 1, column=cell.column).value
                             if next_cell is None:
                                 next_cell = sheet.cell(
-                                    row=cell.row + 1, column=cell.column).value
+                                    row=cell.row + 2, column=cell.column).value
                                 if next_cell is None:
                                     store_run = StoreRun(
                                         date=None, meet_time=None, start_time=None)
@@ -197,7 +197,7 @@ if folders:
                                 row=cell.row + 1, column=cell.column).value
                             if next_cell == '':
                                 next_cell = sheet.cell(
-                                    row=cell.row + 1, column=cell.column).value
+                                    row=cell.row + 2, column=cell.column).value
                                 if next_cell == '':
                                     store_run = StoreRun(
                                         date=None, meet_time=None, start_time=None)
