@@ -460,54 +460,54 @@
                 "",
                 "milwaukee"
             ],
-            "Joshua M": [
+            "Ian": [
                 "6)",
+                "",
+                "milwaukee"
+            ],
+            "Joshua M": [
+                "7)",
                 "2nd week,\n(work w/ Anisha)",
                 "none"
             ],
             "Mai": [
-                "7)",
+                "8)",
                 "Trainer",
                 "milwaukee"
             ],
             "Paul": [
-                "8)",
-                "",
-                "milwaukee"
-            ],
-            "Sonia": [
                 "9)",
                 "",
                 "milwaukee"
             ],
-            "Stephanie": [
+            "Sonia": [
                 "10)",
                 "",
                 "milwaukee"
             ],
-            "Trevor": [
+            "Stephanie": [
                 "11)",
+                "",
+                "milwaukee"
+            ],
+            "Trevor": [
+                "12)",
                 "@ Store\n(w/ Carlie)",
                 "milwaukee"
             ],
             "Via": [
-                "12)",
+                "13)",
                 "2nd week,\n(work w/ Mai)",
                 "none"
             ],
             "Angela": [
-                "13)",
+                "14)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Anisha": [
-                "14)",
-                "@ Store,\nTrainer",
-                "other"
-            ],
-            "Brianna": [
                 "15)",
-                "@ Store",
+                "@ Store,\nTrainer",
                 "other"
             ],
             "Evelin": [
@@ -699,16 +699,11 @@
             ],
             "Casey": [
                 "2)",
-                "",
-                "milwaukee"
-            ],
-            "Lashaun": [
-                "3)",
                 "Driver,\nGold Camry",
                 "milwaukee"
             ],
             "Lori": [
-                "4)",
+                "3)",
                 "@ Store",
                 "other"
             ]
@@ -781,7 +776,7 @@
                 "Equip",
                 "milwaukee"
             ],
-            "Ian": [
+            "Lashaun": [
                 "2)",
                 "Driver,\nOptima",
                 "milwaukee"
@@ -1186,18 +1181,23 @@
                 "",
                 "milwaukee"
             ],
-            "Anisha": [
+            "Stephanie": [
                 "3)",
-                "@ Store",
-                "other"
+                "",
+                "milwaukee"
             ],
-            "Ashley P": [
+            "Anisha": [
                 "4)",
                 "@ Store",
                 "other"
             ],
-            "Taylor": [
+            "Ashley P": [
                 "5)",
+                "@ Store",
+                "other"
+            ],
+            "Taylor": [
+                "6)",
                 "@ Store",
                 "other"
             ]
@@ -1295,6 +1295,11 @@
                 "",
                 "",
                 "none"
+            ],
+            "Sarah and Carlie start at WI Ave, everyone else to Spring St": [
+                "",
+                "",
+                "none"
             ]
         }
     },
@@ -1318,7 +1323,7 @@
         "employee_list": {
             "Sarah": [
                 "8)",
-                "@ Store (comp)",
+                "@ Store (comp)\n(WI Ave)",
                 "other"
             ]
         }
