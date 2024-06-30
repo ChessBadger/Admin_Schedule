@@ -866,13 +866,8 @@
         "link": [
             "https://goo.gl/maps/uREK7RJVhDC2"
         ],
-        "store_note": "SET UP ON REG #1",
+        "store_note": "SET UP ON REG #1\n4:00 am meet for Carlie/Trevor at Grafton Park n Ride",
         "employee_list": {
-            "": [
-                "",
-                "",
-                "none"
-            ],
             "DJ": [
                 "1)",
                 "@ Store, Equip",
@@ -1166,7 +1161,7 @@
     },
     {
         "date": "Wed, Jul 10",
-        "meet_time": "4:15 AM OFFICE LEAVE TIME",
+        "meet_time": "4:45 AM MEET AT Slinger Piggly Wiggly",
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL"
@@ -1182,31 +1177,41 @@
         ],
         "store_note": "LIQUOR & SMALL RESETS-REMAPPED",
         "employee_list": {
-            "4:45 am meet at Slinger Piggly Wiggly (Lashaun/Carlie/Trevor)": [
-                "",
-                "",
+            "Jeremiah": [
+                "1)",
+                "@ Store, Equip",
+                "milwaukee"
+            ],
+            "Carlie": [
+                "2)",
+                "(w/ Trevor to Slinger)",
+                "other"
+            ],
+            "Lashaun": [
+                "3)",
+                "Driver,\nOptima",
+                "milwaukee"
+            ],
+            "Trevor": [
+                "4)",
+                "(w/ Carlie)",
+                "milwaukee"
+            ],
+            "Annette": [
+                "5)",
+                "@ Store  ",
+                "milwaukee"
+            ],
+            "David": [
+                "6)",
+                "@ Store  ",
                 "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, Jul 10",
-        "meet_time": null,
-        "start_time": "Jeremiah",
-        "inv_type": [
-            "Carlie"
-        ],
-        "store_name": [
-            "Lashaun"
-        ],
-        "address": [
-            "Trevor"
-        ],
-        "link": [
-            "Annette"
-        ],
-        "store_note": "David",
-        "employee_list": {
+            ],
+            "Jerry S": [
+                "7)",
+                "@ Store  ",
+                "milwaukee"
+            ],
             "Kirsten": [
                 "8)",
                 "@ Store  ",
@@ -1250,33 +1255,43 @@
         "link": [
             "https://goo.gl/maps/4LdNPuLeAJs"
         ],
-        "store_note": "SET UP ON REG #4",
+        "store_note": "SET UP ON REG #4\nFULL STORE RESET-REMAPPED        \n3:45 am meet for Carlie/Trevor at Grafton Park n Ride",
         "employee_list": {
-            "3:45 am meet for Carlie/Trevor at Grafton Park n Ride": [
+            "DJ": [
+                "1)",
+                "@ Store, Equip",
+                "milwaukee"
+            ],
+            "Carlie": [
+                "2)",
+                "(w/ Trevor),\nRx",
+                "other"
+            ],
+            "Casey": [
+                "3)",
+                "Driver,\nOptima",
+                "milwaukee"
+            ],
+            "Ian": [
+                "4)",
+                "Driver,\nRed Van",
+                "milwaukee"
+            ],
+            "Jerry D": [
+                "5)",
                 "",
+                "milwaukee"
+            ],
+            "Lashaun": [
+                "6)",
                 "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Jul 11",
-        "meet_time": null,
-        "start_time": "DJ",
-        "inv_type": [
-            "Carlie"
-        ],
-        "store_name": [
-            "Casey"
-        ],
-        "address": [
-            "Ian"
-        ],
-        "link": [
-            "Jerry D"
-        ],
-        "store_note": "Lashaun",
-        "employee_list": {
+                "milwaukee"
+            ],
+            "Paul": [
+                "7)",
+                "",
+                "milwaukee"
+            ],
             "Sonia": [
                 "8)",
                 "",
@@ -1503,68 +1518,56 @@
         "meet_time": null,
         "start_time": "6:00 AM START",
         "inv_type": [
+            "DC5-ITEM LEVEL",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "AURORA OUTPATIENT RX #1335, SUMMIT"
+            "AURORA OUTPATIENT RX #1335, SUMMIT",
+            "AURORA VISION #1162, SUMMIT"
         ],
         "address": [
-            "36500 AURORA DRIVE, SUITE 100"
+            "36500 AURORA DRIVE, SUITE 100",
+            "36500 AURORA DR, SUITE 130"
         ],
         "link": [
-            "https://goo.gl/maps/ZCBnSuQHz8ghtBeU6"
+            "https://goo.gl/maps/ZCBnSuQHz8ghtBeU6",
+            "https://goo.gl/maps/uVd8GmA8otk"
         ],
-        "store_note": "NOTE FROM KIM FROM LAST INV RX WILL BE MOVING ACROSS THE HALL.  SUITE NUMBER MAY BE DIFFERENT.",
+        "store_note": "USE MEDICAL OFFICE ENTRANCE.  FOLLOW EMERG ROOM ARROW IN PARKING LOT",
         "employee_list": {
-            "DC5-ITEM LEVEL": [
-                "",
-                "",
-                "none"
+            "Katherine": [
+                "1)",
+                "Gold Camry available, Equip",
+                "milwaukee"
             ],
-            "AURORA VISION #1162, SUMMIT": [
+            "Stephanie": [
+                "2)",
                 "",
-                "",
-                "none"
+                "milwaukee"
             ],
-            "36500 AURORA DR, SUITE 130": [
+            "Sue": [
+                "3)",
                 "",
-                "",
-                "none"
-            ],
-            "https://goo.gl/maps/uVd8GmA8otk": [
-                "",
-                "",
-                "none"
-            ],
-            "USE MEDICAL OFFICE ENTRANCE.  FOLLOW EMERG ROOM ARROW IN PARKING LOT": [
-                "",
-                "",
-                "none"
+                "milwaukee"
             ]
         }
     },
     {
         "date": "Fri, Jul 12",
         "meet_time": null,
-        "start_time": "Katherine",
-        "inv_type": [
-            "Stephanie"
-        ],
+        "start_time": null,
+        "inv_type": [],
         "store_name": [
-            "Sue"
+            "Office"
         ],
-        "address": [
-            ""
-        ],
-        "link": [
-            ""
-        ],
-        "store_note": "Office",
+        "address": [],
+        "link": [],
+        "store_note": null,
         "employee_list": {
-            "": [
+            "Lashaun": [
                 "",
                 "",
-                "none"
+                "milwaukee"
             ]
         }
     },
