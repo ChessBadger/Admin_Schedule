@@ -239,6 +239,15 @@ document.addEventListener('DOMContentLoaded', function () {
 
         const runsForDate = groupedByDate[date] || [];
 
+        // Sort runsForDate to place those containing 'after' last
+        runsForDate.sort((a, b) => {
+          const aContainsAfter = Object.keys(a.employee_list).some((employee) => a.employee_list[employee][1].toLowerCase().includes('after'));
+          const bContainsAfter = Object.keys(b.employee_list).some((employee) => b.employee_list[employee][1].toLowerCase().includes('after'));
+          if (aContainsAfter && !bContainsAfter) return 1;
+          if (!aContainsAfter && bContainsAfter) return -1;
+          return 0;
+        });
+
         let foundEmployee = false;
         runsForDate.forEach((run, index) => {
           const runElement = document.createElement('div');
