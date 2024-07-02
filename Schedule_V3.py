@@ -380,6 +380,14 @@ print(f'Updated file saved to {updated_store_runs_path}')
 with open(json_file_path, 'r') as file:
     store_runs_data = json.load(file)
 
+
+with open('formatted_users.json', 'r') as file:
+    users_data = json.load(file)
+
+# Extract display names and first names from users data
+valid_display_names = {user['displayName'].lower() for user in users_data}
+valid_first_names = {user['firstName'].lower() for user in users_data}
+
 # Define the validation functions
 
 
@@ -417,6 +425,17 @@ def validate_links(store_run):
     return None
 
 
+def validate_employee_list(store_run):
+    employees = store_run.get('employee_list', [])
+    if not employees and any(store_run.get(key) for key in ['meet_time', 'start_time', 'inv_type', 'link']):
+        return "Employee list is empty when other data is present."
+    for employee in employees:
+        employee_lower = employee.lower()
+        if not any(employee_lower in name for name in valid_display_names) and employee_lower not in valid_first_names:
+            return f"Invalid employee: {employee}"
+    return None
+
+
 # Validate the store runs and print errors
 for store_run in store_runs_data:
     errors = []
@@ -434,6 +453,10 @@ for store_run in store_runs_data:
         errors.append(error)
 
     error = validate_links(store_run)
+    if error:
+        errors.append(error)
+
+    error = validate_employee_list(store_run)
     if error:
         errors.append(error)
 

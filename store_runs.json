@@ -223,30 +223,6 @@
                 "1)",
                 "Optima available, Equip",
                 "none"
-            ],
-            "Lashaun": [
-                "#",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Jul 2",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [
-            "Office"
-        ],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {
-            "Kim": [
-                "",
-                "",
-                "none"
             ]
         }
     },
@@ -548,7 +524,7 @@
             "Nick": [
                 "5)",
                 "@ Store",
-                "none"
+                "Milwaukee"
             ],
             "Sonia": [
                 "6)",
