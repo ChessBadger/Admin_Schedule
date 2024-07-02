@@ -222,7 +222,6 @@ document.addEventListener('DOMContentLoaded', function () {
     // Get current date for comparison
     const currentDate = new Date();
     const searchNameOffice = localStorage.getItem('userOffice');
-    const loggedInUser = localStorage.getItem('username');
 
     // Create date cards for all dates
     allDates.forEach((date) => {
@@ -238,21 +237,9 @@ document.addEventListener('DOMContentLoaded', function () {
         dateHeader.textContent = date;
         dateCard.appendChild(dateHeader);
 
-        let runsForDate = groupedByDate[date] || [];
-
-        // Ensure the user's run with `#` appears last
-        if (loggedInUser) {
-          const userRunIndex = runsForDate.findIndex(
-            (run) => Object.keys(run.employee_list).includes(loggedInUser) && run.employee_list[loggedInUser][0] === '#'
-          );
-          if (userRunIndex !== -1) {
-            const userRun = runsForDate.splice(userRunIndex, 1)[0];
-            runsForDate.push(userRun);
-          }
-        }
+        const runsForDate = groupedByDate[date] || [];
 
         let foundEmployee = false;
-        let checkIn = false;
         runsForDate.forEach((run, index) => {
           const runElement = document.createElement('div');
           runElement.classList.add('run-details');
@@ -290,11 +277,10 @@ document.addEventListener('DOMContentLoaded', function () {
             }
             if (number === '1)') {
               supervisor = employee;
-            } else if (number === '#') {
-              checkIn = true;
             }
+            // if (note.toLowerCase().includes('driver') && searchNameOffice === office) { CHANGE THIS
             if (note.toLowerCase().includes('driver')) {
-              if (employee.toLowerCase() !== employeeName.toLowerCase() && number !== '#') {
+              if (employee.toLowerCase() !== employeeName.toLowerCase()) {
                 drivers.push(employee);
               } else {
                 const carLogoLight = document.createElement('img');
@@ -316,7 +302,7 @@ document.addEventListener('DOMContentLoaded', function () {
             runElement.appendChild(supervisorElement);
           }
 
-          if (run.meet_time && drivers.length > 0 && !isAllStoresSearch && !checkIn) {
+          if (run.meet_time && drivers.length > 0 && !isAllStoresSearch) {
             const driversElement = document.createElement('p');
             driversElement.innerHTML = `<strong>Drivers:</strong> ${drivers.join(' | ')}`;
             runElement.appendChild(driversElement);
@@ -382,6 +368,7 @@ document.addEventListener('DOMContentLoaded', function () {
             if (employee.toLowerCase() === employeeName.toLowerCase()) {
               const [number, note, office] = run.employee_list[employee];
               const searchNameOffice = localStorage.getItem('userOffice');
+              // return number === '1)' || (note.toLowerCase().includes('driver') && searchNameOffice === office && !note.toLowerCase().includes('@ store')); CHANGE THIS
               return number === '1)' || (note.toLowerCase().includes('driver') && !note.toLowerCase().includes('@ store'));
             }
             return false;
@@ -391,7 +378,8 @@ document.addEventListener('DOMContentLoaded', function () {
             Object.keys(run.employee_list).forEach((employee) => {
               const [number, note, office] = run.employee_list[employee];
               const searchNameOffice = localStorage.getItem('userOffice');
-              if (employee.toLowerCase() !== employeeName.toLowerCase() && number !== '#' && !note.toLowerCase().includes('@ store')) {
+              // if (employee.toLowerCase() !== employeeName.toLowerCase() && searchNameOffice === office && !note.toLowerCase().includes('@ store')) { CHANGE THIS
+              if (employee.toLowerCase() !== employeeName.toLowerCase() && !note.toLowerCase().includes('@ store')) {
                 const listItem = document.createElement('li');
                 listItem.innerHTML = `<strong>${employee}</strong>`;
                 employeeList.appendChild(listItem);
@@ -411,7 +399,7 @@ document.addEventListener('DOMContentLoaded', function () {
             employeeList.innerHTML = '';
             Object.keys(run.employee_list).forEach((employee) => {
               const [number, note] = run.employee_list[employee];
-              if (employee.toLowerCase() !== employeeName.toLowerCase() && number !== '#') {
+              if (employee.toLowerCase() !== employeeName.toLowerCase()) {
                 const listItem = document.createElement('li');
                 if (note !== '') {
                   listItem.innerHTML = `<strong>${employee}</strong> - <small style="color: green;">${note}</small>`;
