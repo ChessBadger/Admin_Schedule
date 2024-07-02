@@ -258,9 +258,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
           // Apply alternating background colors
           if (index % 2 === 0) {
-            runElement.style.backgroundColor = '#f2f2f2'; // Light gray
           } else {
-            runElement.style.backgroundColor = '#e1c7c7'; // Dark gray
             runElement.classList.add('odd');
           }
 
