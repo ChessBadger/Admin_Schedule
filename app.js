@@ -252,9 +252,17 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         let foundEmployee = false;
-        runsForDate.forEach((run) => {
+        runsForDate.forEach((run, index) => {
           const runElement = document.createElement('div');
           runElement.classList.add('run-details');
+
+          // Apply alternating background colors
+          if (index % 2 === 0) {
+            runElement.style.backgroundColor = '#f2f2f2'; // Light gray
+          } else {
+            runElement.style.backgroundColor = '#e1c7c7'; // Dark gray
+            runElement.classList.add('odd');
+          }
 
           // Ensure meet_time is an array
           if (Array.isArray(run.meet_time)) {

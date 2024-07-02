@@ -459,3 +459,15 @@ hr {
 #note_separator {
   width: 45%;
 }
+
+.odd {
+  border-radius: 8px;
+}
+
+.odd .store-card {
+  background-color: #e1c7c7; /* Light gray */
+  border: 1px solid #000000;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 15px;
+}
