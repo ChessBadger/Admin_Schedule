@@ -252,6 +252,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         let foundEmployee = false;
+        let checkIn = false;
         runsForDate.forEach((run, index) => {
           const runElement = document.createElement('div');
           runElement.classList.add('run-details');
@@ -289,6 +290,8 @@ document.addEventListener('DOMContentLoaded', function () {
             }
             if (number === '1)') {
               supervisor = employee;
+            } else if (number === '#') {
+              checkIn = true;
             }
             if (note.toLowerCase().includes('driver')) {
               if (employee.toLowerCase() !== employeeName.toLowerCase() && number !== '#') {
@@ -313,7 +316,7 @@ document.addEventListener('DOMContentLoaded', function () {
             runElement.appendChild(supervisorElement);
           }
 
-          if (run.meet_time && drivers.length > 0 && !isAllStoresSearch) {
+          if (run.meet_time && drivers.length > 0 && !isAllStoresSearch && !checkIn) {
             const driversElement = document.createElement('p');
             driversElement.innerHTML = `<strong>Drivers:</strong> ${drivers.join(' | ')}`;
             runElement.appendChild(driversElement);

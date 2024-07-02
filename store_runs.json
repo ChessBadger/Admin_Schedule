@@ -226,7 +226,7 @@
             ],
             "Lashaun": [
                 "#",
-                "",
+                "Check In After Store",
                 "none"
             ]
         }
@@ -644,6 +644,11 @@
                 "11)",
                 "@ Store",
                 "none"
+            ],
+            "Lashaun": [
+                "#",
+                "Check In After Store",
+                "none"
             ]
         }
     },
@@ -780,24 +785,10 @@
                 "3)",
                 "",
                 "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Jul 9",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [
-            "Office"
-        ],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {
-            "Kim": [
-                "",
-                "After Metcalfes",
+            ],
+            "Lashaun": [
+                "#",
+                "Check In After Store",
                 "none"
             ]
         }
@@ -1048,7 +1039,7 @@
             ],
             "Brianna": [
                 "#",
-                "Check In",
+                "Check In After Store",
                 "none"
             ]
         }
