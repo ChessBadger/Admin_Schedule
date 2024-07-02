@@ -927,6 +927,24 @@
     "lastName": "Marien"
   },
   {
+    "username": "tmcbride",
+    "password": "3800",
+    "type": "user",
+    "displayName": "Taya M",
+    "office": "Fox Valley",
+    "firstName": "Taya",
+    "lastName": "McBride"
+  },
+  {
+    "username": "wwashatka",
+    "password": "1355",
+    "type": "user",
+    "displayName": "Wyatt W",
+    "office": "Rockford",
+    "firstName": "Wyatt",
+    "lastName": "Washatka"
+  },
+  {
     "username": "mom",
     "password": "mom",
     "type": "user",
