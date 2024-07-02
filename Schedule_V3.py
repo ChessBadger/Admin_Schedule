@@ -28,7 +28,7 @@ for file in excel_files:
 
 
 class StoreRun:
-    def __init__(self, date, start_time, store_note=None, employee_list=None):
+    def __init__(self, date, start_time, employee_list=None):
         self.date = date
         self.meet_time = []
         self.start_time = start_time
@@ -36,7 +36,7 @@ class StoreRun:
         self.store_name = []
         self.address = []
         self.link = []
-        self.store_note = store_note
+        self.store_note = []
         self.employee_list = {}
 
     def add_employee(self, name, number, note, office):
@@ -53,6 +53,9 @@ class StoreRun:
 
     def add_link(self, link):
         self.link.append(link)
+
+    def add_store_note(self, store_note):
+        self.store_note.append(store_note)
 
     def __str__(self):
         return f"date={self.date}, meet_time={self.meet_time}, start_time={self.start_time}, inv_type={self.inv_type}, store_name={self.store_name}, address={self.address}, link={self.link}, store_note={self.store_note}, employee_list={self.employee_list})"
@@ -285,7 +288,7 @@ if folders:
                             elif value and 'APPROX' in value:
                                 current_state = 'to_follow'
                             elif value:
-                                store_run.store_note = value
+                                store_run.add_store_note(value)
                                 current_state = 'found_store_note'
                             else:
                                 current_state = 'empty_value'
@@ -295,7 +298,12 @@ if folders:
                             current_state = 'found_inv_type'
                         # If the current state is 'found_store_note', set state to 'empty_value'
                         elif current_state == 'found_store_note':
-                            current_state = 'empty_value'
+                            if value == 'TO FOLLOW':
+                                current_state = 'to_follow'
+                            elif value and 'APPROX' in value:
+                                current_state = 'to_follow'
+                            else:
+                                current_state = 'empty_value'
                         # If the current state is 'empty_value', capture employee details
                         elif current_state == 'empty_value':
                             if 'Office' in store_run.store_name:
