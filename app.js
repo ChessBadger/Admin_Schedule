@@ -322,7 +322,7 @@ document.addEventListener('DOMContentLoaded', function () {
             storeName.innerHTML = `<strong>${store}</strong>`;
             storeCard.appendChild(storeName);
 
-            if (run.store_note) {
+            if (run.store_note[index] !== undefined) {
               const storeNote = document.createElement('p');
               storeNote.innerHTML = `${run.store_note[index]}`;
               storeNote.style.color = 'red';

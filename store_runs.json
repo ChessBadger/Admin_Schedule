@@ -27,61 +27,44 @@
             "ASCENSION ALL SAINTS HOSP WI AVE CAMPUS (0753-0001)"
         ],
         "store_note": [
-            "1320 WISCONSIN AVE"
+            "1320 WISCONSIN AVE \nhttps://goo.gl/maps/raiuDa4wRko \nDC5-ITEM LEVEL \nASCENSION ALL SAINTS HOSP SPRING ST CAMPUS (0752-0001 & 0002) \n3801 SPRING ST \nhttps://goo.gl/maps/PjumoiJbqD62 \nENTER THRU SURGICAL CENTER \nSarah and Carlie start at WI Ave, everyone else to Spring St"
         ],
         "employee_list": {
-            "DC5-ITEM LEVEL": [
-                "",
+            "Katherine": [
+                "1)",
+                "Equip",
+                "none"
+            ],
+            "Carlie": [
+                "2)",
+                "@ Store\n(WI Ave)",
+                "none"
+            ],
+            "DJ": [
+                "3)",
+                "Driver,\nAltima",
+                "Milwaukee"
+            ],
+            "Kim": [
+                "4)",
                 "",
                 "none"
             ],
-            "ASCENSION ALL SAINTS HOSP SPRING ST CAMPUS (0752-0001 & 0002)": [
-                "",
-                "",
+            "Ashley P": [
+                "5)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Eva": [
+                "6)",
+                "@ Store",
                 "none"
             ],
-            "3801 SPRING ST": [
-                "",
-                "",
-                "none"
+            "Michael N": [
+                "7)",
+                "@ Store",
+                "Rockford"
             ],
-            "https://goo.gl/maps/PjumoiJbqD62": [
-                "",
-                "",
-                "none"
-            ],
-            "ENTER THRU SURGICAL CENTER": [
-                "",
-                "",
-                "none"
-            ],
-            "Sarah and Carlie start at WI Ave, everyone else to Spring St": [
-                "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Jul 1",
-        "meet_time": [],
-        "start_time": "Katherine",
-        "inv_type": [
-            "Carlie"
-        ],
-        "store_name": [
-            "DJ"
-        ],
-        "address": [
-            "Kim"
-        ],
-        "link": [
-            "Ashley P"
-        ],
-        "store_note": [
-            "Eva"
-        ],
-        "employee_list": {
             "Sarah": [
                 "8)",
                 "@ Store (comp)\n(WI Ave)",
@@ -678,14 +661,9 @@
             "https://goo.gl/maps/uREK7RJVhDC2"
         ],
         "store_note": [
-            "SET UP ON REG #1"
+            "SET UP ON REG #1 \n4:00 am meet for Carlie/Trevor at Grafton Park n Ride"
         ],
         "employee_list": {
-            "": [
-                "",
-                "",
-                "none"
-            ],
             "DJ": [
                 "1)",
                 "@ Store, Equip",
@@ -1000,36 +978,44 @@
             "https://goo.gl/maps/ufFM5TycoD42"
         ],
         "store_note": [
-            "LIQUOR & SMALL RESETS-REMAPPED"
+            "LIQUOR & SMALL RESETS-REMAPPED \n4:15 am meet for Carlie/Trevor at Grafton Park n Ride \n4:45 am meet at Slinger Piggly Wiggly (Lashaun/Carlie/Trevor)"
         ],
         "employee_list": {
-            "4:45 am meet at Slinger Piggly Wiggly (Lashaun/Carlie/Trevor)": [
-                "",
-                "",
+            "Jeremiah": [
+                "1)",
+                "@ Store, Equip",
                 "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, Jul 10",
-        "meet_time": [],
-        "start_time": "Jeremiah",
-        "inv_type": [
-            "Carlie"
-        ],
-        "store_name": [
-            "Lashaun"
-        ],
-        "address": [
-            "Trevor"
-        ],
-        "link": [
-            "Annette"
-        ],
-        "store_note": [
-            "David"
-        ],
-        "employee_list": {
+            ],
+            "Carlie": [
+                "2)",
+                "(w/ Trevor to Slinger)",
+                "none"
+            ],
+            "Lashaun": [
+                "3)",
+                "Driver,\nOptima",
+                "none"
+            ],
+            "Trevor": [
+                "4)",
+                "(w/ Carlie)",
+                "none"
+            ],
+            "Annette": [
+                "5)",
+                "@ Store  ",
+                "none"
+            ],
+            "David": [
+                "6)",
+                "@ Store  ",
+                "none"
+            ],
+            "Jerry S": [
+                "7)",
+                "@ Store  ",
+                "Fox Valley"
+            ],
             "Kirsten": [
                 "8)",
                 "@ Store  ",
@@ -1076,36 +1062,44 @@
             "https://goo.gl/maps/4LdNPuLeAJs"
         ],
         "store_note": [
-            "SET UP ON REG #4"
+            "SET UP ON REG #4 \nFULL STORE RESET-REMAPPED \n3:45 am meet for Carlie/Trevor at Grafton Park n Ride"
         ],
         "employee_list": {
-            "3:45 am meet for Carlie/Trevor at Grafton Park n Ride": [
+            "DJ": [
+                "1)",
+                "@ Store, Equip",
+                "Milwaukee"
+            ],
+            "Carlie": [
+                "2)",
+                "(w/ Trevor),\nRx",
+                "none"
+            ],
+            "Casey": [
+                "3)",
+                "Driver,\nOptima",
+                "none"
+            ],
+            "Ian": [
+                "4)",
+                "Driver,\nRed Van",
+                "none"
+            ],
+            "Jerry D": [
+                "5)",
                 "",
+                "Milwaukee"
+            ],
+            "Lashaun": [
+                "6)",
                 "",
                 "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Jul 11",
-        "meet_time": [],
-        "start_time": "DJ",
-        "inv_type": [
-            "Carlie"
-        ],
-        "store_name": [
-            "Casey"
-        ],
-        "address": [
-            "Ian"
-        ],
-        "link": [
-            "Jerry D"
-        ],
-        "store_note": [
-            "Lashaun"
-        ],
-        "employee_list": {
+            ],
+            "Paul": [
+                "7)",
+                "",
+                "none"
+            ],
             "Sonia": [
                 "8)",
                 "",

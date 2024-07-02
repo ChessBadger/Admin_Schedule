@@ -54,8 +54,11 @@ class StoreRun:
     def add_link(self, link):
         self.link.append(link)
 
-    def add_store_note(self, store_note):
-        self.store_note.append(store_note)
+    def add_store_note(self, store_note, concat=False):
+        if concat and self.store_note:
+            self.store_note[-1] += f" \n{store_note}"
+        else:
+            self.store_note.append(store_note)
 
     def __str__(self):
         return f"date={self.date}, meet_time={self.meet_time}, start_time={self.start_time}, inv_type={self.inv_type}, store_name={self.store_name}, address={self.address}, link={self.link}, store_note={self.store_note}, employee_list={self.employee_list})"
@@ -302,6 +305,8 @@ if folders:
                                 current_state = 'to_follow'
                             elif value and 'APPROX' in value:
                                 current_state = 'to_follow'
+                            elif value:
+                                store_run.add_store_note(value, concat=True)
                             else:
                                 current_state = 'empty_value'
                         # If the current state is 'empty_value', capture employee details
