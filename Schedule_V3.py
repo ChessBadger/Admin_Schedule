@@ -56,7 +56,7 @@ class StoreRun:
 
     def add_store_note(self, store_note, concat=False):
         if concat and self.store_note:
-            self.store_note[-1] += f" \n{store_note}"
+            self.store_note[-1] += f""" <br><hr id="note_separator">{store_note}"""
         else:
             self.store_note.append(store_note)
 

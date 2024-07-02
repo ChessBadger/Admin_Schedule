@@ -455,3 +455,7 @@ body.dark-mode .suggestion {
 hr {
   background-color: #000000; /* Sets the color */
 }
+
+#note_separator {
+  width: 45%;
+}
