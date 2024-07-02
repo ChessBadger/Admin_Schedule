@@ -235,12 +235,14 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Get current date for comparison
     const currentDate = new Date();
+    currentDate.setHours(0, 0, 0, 0); // Set the time to midnight for comparison
     const searchNameOffice = localStorage.getItem('userOffice');
 
     // Create date cards for all dates
     allDates.forEach((date) => {
       // Parse date string to Date object
       const runDate = new Date(date + ' ' + new Date().getFullYear());
+      runDate.setHours(0, 0, 0, 0); // Set the time to midnight for comparison
 
       const dateCard = document.createElement('div');
       dateCard.classList.add('card');
@@ -457,6 +459,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
       // Mark passed days
       if (runDate < currentDate) {
+        localStorage.setItem('rundate', runDate);
+        localStorage.setItem('currentdate', currentDate);
         dateCard.classList.add('passed-day');
         dateCard.style.display = 'none'; // Hide passed days by default
       }
