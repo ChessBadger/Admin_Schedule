@@ -258,6 +258,11 @@ document.addEventListener('DOMContentLoaded', function () {
               meetTime.innerHTML = `<strong>Meet Time:</strong> ${filteredMeetTimes.join(', ')}`;
               runElement.appendChild(meetTime);
             }
+          } else if (run.meet_time) {
+            // Added this condition to handle non-array meet_time
+            const meetTime = document.createElement('p');
+            meetTime.innerHTML = `<strong>Meet Time:</strong> ${run.meet_time}`;
+            runElement.appendChild(meetTime);
           }
 
           if (run.start_time) {
