@@ -111,7 +111,7 @@ client = gspread.authorize(creds)
 drive_service = build('drive', 'v3', credentials=creds)
 
 # The name of the folder you want to search for
-folder_name = 'Shared Test'
+folder_name = 'Fake Milwaukee'
 
 # Search for the folder by name to get its ID
 query = f"mimeType='application/vnd.google-apps.folder' and name='{folder_name}'"
@@ -358,16 +358,3 @@ with open(updated_store_runs_path, 'w') as f:
     json.dump(store_runs_data, f, indent=4)
 
 print(f'Updated file saved to {updated_store_runs_path}')
-
-
-# # Add all changes to the staging area
-# subprocess.run(['git', 'add', '.'], check=True)
-
-# # Commit changes with a message that includes the current date and time
-# commit_message = subprocess.check_output(
-#     ['date', '+%Y-%m-%d %H:%M:%S']).decode('utf-8').strip()
-# subprocess.run(
-#     ['git', 'commit', '-m', f"Automated commit. Updated: {commit_message}"], check=True)
-
-# # Push changes to the 'main' branch of the 'origin' remote repository
-# subprocess.run(['git', 'push', 'origin', 'main'], check=True)
