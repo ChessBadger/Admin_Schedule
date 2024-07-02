@@ -5,6 +5,8 @@ import json
 import openpyxl
 import os
 import subprocess
+import re
+
 
 json_file_path = 'store_runs.json'
 
@@ -371,3 +373,75 @@ with open(updated_store_runs_path, 'w') as f:
     json.dump(store_runs_data, f, indent=4)
 
 print(f'Updated file saved to {updated_store_runs_path}')
+
+
+# Check for errors
+# Load the JSON data from the file
+with open(json_file_path, 'r') as file:
+    store_runs_data = json.load(file)
+
+# Define the validation functions
+
+
+def validate_meet_times(store_run):
+    valid_meet_times = ["meet", "leave"]
+    meet_times = store_run.get('meet_time', [])
+    if isinstance(meet_times, str):
+        meet_times = [meet_times]
+    for meet_time in meet_times:
+        if not any(vit in meet_time.lower() for vit in valid_meet_times):
+            return f"Invalid meet time: {meet_time}"
+    return None
+
+
+def validate_start_time(store_run):
+    pattern = re.compile(r'\b\d{1,2}:\d{2}\b')
+    start_time = store_run.get('start_time', "")
+    if start_time and not pattern.search(start_time):
+        return f"Invalid start time: {start_time}"
+    return None
+
+
+def validate_inv_types(store_run):
+    valid_inv_types = ["modas", "excel", "dc5"]
+    for inv_type in store_run.get('inv_type', []):
+        if not any(vit in inv_type.lower() for vit in valid_inv_types):
+            return f"Invalid inventory type: {inv_type}"
+    return None
+
+
+def validate_links(store_run):
+    for link in store_run.get('link', []):
+        if "https" not in link:
+            return f"Invalid link: {link}"
+    return None
+
+
+# Validate the store runs and print errors
+for store_run in store_runs_data:
+    errors = []
+
+    error = validate_meet_times(store_run)
+    if error:
+        errors.append(error)
+
+    error = validate_start_time(store_run)
+    if error:
+        errors.append(error)
+
+    error = validate_inv_types(store_run)
+    if error:
+        errors.append(error)
+
+    error = validate_links(store_run)
+    if error:
+        errors.append(error)
+
+    if errors:
+        print("-------------------------------")
+        print(
+            f"Errors in store run: {store_run['date']}:")
+        for error in errors:
+            print(f"  - {error}")
+
+print("-------------------------------\nValidation complete.")
