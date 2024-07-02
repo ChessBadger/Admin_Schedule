@@ -451,3 +451,28 @@ body.dark-mode #searchNameNote {
 body.dark-mode .suggestion {
   background-color: #161414;
 }
+
+hr {
+  background-color: #000000; /* Sets the color */
+}
+
+#note_separator {
+  width: 45%;
+}
+
+.odd .store-card {
+  background-color: #f5f98d;
+  border: 1px solid #000000;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+body.dark-mode .odd .store-card {
+  background-color: #d9dfbb;
+  border: 1px solid #000000;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 15px;
+  color: black;
+}

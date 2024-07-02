@@ -5,6 +5,8 @@ import json
 import openpyxl
 import os
 import subprocess
+import re
+
 
 json_file_path = 'store_runs.json'
 
@@ -28,15 +30,15 @@ for file in excel_files:
 
 
 class StoreRun:
-    def __init__(self, date, meet_time, start_time, store_note=None, employee_list=None):
+    def __init__(self, date, start_time, employee_list=None):
         self.date = date
-        self.meet_time = meet_time
+        self.meet_time = []
         self.start_time = start_time
         self.inv_type = []
         self.store_name = []
         self.address = []
         self.link = []
-        self.store_note = store_note
+        self.store_note = []
         self.employee_list = {}
 
     def add_employee(self, name, number, note, office):
@@ -53,6 +55,12 @@ class StoreRun:
 
     def add_link(self, link):
         self.link.append(link)
+
+    def add_store_note(self, store_note, concat=False):
+        if concat and self.store_note:
+            self.store_note[-1] += f""" <br><hr id="note_separator">{store_note}"""
+        else:
+            self.store_note.append(store_note)
 
     def __str__(self):
         return f"date={self.date}, meet_time={self.meet_time}, start_time={self.start_time}, inv_type={self.inv_type}, store_name={self.store_name}, address={self.address}, link={self.link}, store_note={self.store_note}, employee_list={self.employee_list})"
@@ -161,7 +169,7 @@ if folders:
                 header_value = sheet.cell(row=1, column=process_col - 1).value
 
                 # Iterate through the rows starting from min_row and process_col
-                for row in sheet.iter_rows(min_row=min_row, max_row=163, min_col=process_col, max_col=process_col):
+                for row in sheet.iter_rows(min_row=min_row, max_row=500, min_col=process_col, max_col=process_col):
                     if break_outer_loop:
                         break
                     for cell in row:
@@ -184,10 +192,10 @@ if folders:
                                 row=cell.row + 1, column=cell.column).value
                             if next_cell is None:
                                 next_cell = sheet.cell(
-                                    row=cell.row + 2, column=cell.column).value
+                                    row=cell.row + 1, column=cell.column).value
                                 if next_cell is None:
                                     store_run = StoreRun(
-                                        date=None, meet_time=None, start_time=None)
+                                        date=None, start_time=None)
                                     store_run.date = header_value
                                     save_store_runs_to_json()
                                     break_outer_loop = True
@@ -197,24 +205,51 @@ if folders:
                                 row=cell.row + 1, column=cell.column).value
                             if next_cell == '':
                                 next_cell = sheet.cell(
-                                    row=cell.row + 2, column=cell.column).value
+                                    row=cell.row + 1, column=cell.column).value
                                 if next_cell == '':
                                     store_run = StoreRun(
-                                        date=None, meet_time=None, start_time=None)
+                                        date=None, start_time=None)
                                     store_run.date = header_value
                                     save_store_runs_to_json()
                                     break_outer_loop = True
                                     break
 
-                            # Check if the current state is 'searching' and the cell contains 'meet'
+                        # Assuming value is the string containing the meet times
                         if value and current_state == 'searching' and 'meet' in value.lower():
                             store_run = StoreRun(
-                                date=None, meet_time=None, start_time=None)
-                            store_run.meet_time = value
+                                date=None, start_time=None)
+                            # Split the value by lines
+                            lines = value.split('\n')
+                            # Initialize a dictionary to hold meet times
+                            meet_times_dict = {'M:': None,
+                                               'IL:': None, 'FV:': None, 'MD:': None}
+                            default_value = None
+                            # Iterate over each line to find meet times
+                            for line in lines:
+                                if line.startswith('M:'):
+                                    meet_times_dict['M:'] = line
+                                elif line.startswith('IL:'):
+                                    meet_times_dict['IL:'] = line
+                                elif line.startswith('FV:'):
+                                    meet_times_dict['FV:'] = line
+                                elif line.startswith('MD:'):
+                                    meet_times_dict['MD:'] = line
+                                else:
+                                    default_value = line.strip()
+                            # Add meet times to the list in the specified order
+                            store_run.meet_time = [
+                                meet_times_dict['M:'] or default_value,
+                                meet_times_dict['IL:'],
+                                meet_times_dict['FV:'],
+                                meet_times_dict['MD:']
+                            ]
+                            # Remove any None values from the list
+                            store_run.meet_time = [
+                                time for time in store_run.meet_time if time is not None]
                             current_state = 'found_meet'
                         elif value and current_state == 'searching' and 'leave time' in value.lower():
                             store_run = StoreRun(
-                                date=None, meet_time=None, start_time=None)
+                                date=None,  start_time=None)
                             store_run.meet_time = value
                             current_state = 'found_meet'
                         elif value and current_state == 'found_meet':
@@ -224,14 +259,14 @@ if folders:
                         # Check for anyone scheduled in the office
                         elif value and current_state == 'searching' and 'office' in value.lower() and 'leave' not in value.lower():
                             store_run = StoreRun(
-                                date=None, meet_time=None, start_time=None)
+                                date=None, start_time=None)
                             store_run.date = header_value
                             store_run.add_store_name(value)
                             current_state = 'empty_value'
                         # If the current state is 'searching' or 'found_meet', capture the start time
                         elif value and current_state == 'searching':
                             store_run = StoreRun(
-                                date=None, meet_time=None, start_time=None)
+                                date=None, start_time=None)
                             store_run.start_time = value
                             store_run.date = header_value
                             current_state = 'found_start'
@@ -258,7 +293,7 @@ if folders:
                             elif value and 'APPROX' in value:
                                 current_state = 'to_follow'
                             elif value:
-                                store_run.store_note = value
+                                store_run.add_store_note(value)
                                 current_state = 'found_store_note'
                             else:
                                 current_state = 'empty_value'
@@ -268,7 +303,14 @@ if folders:
                             current_state = 'found_inv_type'
                         # If the current state is 'found_store_note', set state to 'empty_value'
                         elif current_state == 'found_store_note':
-                            current_state = 'empty_value'
+                            if value == 'TO FOLLOW':
+                                current_state = 'to_follow'
+                            elif value and 'APPROX' in value:
+                                current_state = 'to_follow'
+                            elif value:
+                                store_run.add_store_note(value, concat=True)
+                            else:
+                                current_state = 'empty_value'
                         # If the current state is 'empty_value', capture employee details
                         elif current_state == 'empty_value':
                             if 'Office' in store_run.store_name:
@@ -281,8 +323,10 @@ if folders:
                                     store_run.add_employee(
                                         next_cell, number_value, note_value, 'none')
                                     save_store_runs_to_json()
+                                    current_state = 'done'
                                 else:
                                     save_store_runs_to_json()
+                                    current_state = 'done'
                             else:
                                 current_state = 'found_employee'
                                 store_run.add_employee(
@@ -295,9 +339,7 @@ if folders:
                             elif next_store:
                                 current_state = 'searching'
                                 save_store_runs_to_json()
-                            # elif value is None or value == '':
-                            #     if header_value == 'Mon, Jun 24':
-                            #         print("kill me")
+
                             else:
                                 save_store_runs_to_json()
                                 break_outer_loop = True
@@ -333,14 +375,73 @@ with open(updated_store_runs_path, 'w') as f:
 print(f'Updated file saved to {updated_store_runs_path}')
 
 
-# # Add all changes to the staging area
-# subprocess.run(['git', 'add', '.'], check=True)
+# Check for errors
+# Load the JSON data from the file
+with open(json_file_path, 'r') as file:
+    store_runs_data = json.load(file)
 
-# # Commit changes with a message that includes the current date and time
-# commit_message = subprocess.check_output(
-#     ['date', '+%Y-%m-%d %H:%M:%S']).decode('utf-8').strip()
-# subprocess.run(
-#     ['git', 'commit', '-m', f"Automated commit. Updated: {commit_message}"], check=True)
+# Define the validation functions
 
-# # Push changes to the 'main' branch of the 'origin' remote repository
-# subprocess.run(['git', 'push', 'origin', 'main'], check=True)
+
+def validate_meet_times(store_run):
+    valid_meet_times = ["meet", "leave"]
+    meet_times = store_run.get('meet_time', [])
+    if isinstance(meet_times, str):
+        meet_times = [meet_times]
+    for meet_time in meet_times:
+        if not any(vit in meet_time.lower() for vit in valid_meet_times):
+            return f"Invalid meet time: {meet_time}"
+    return None
+
+
+def validate_start_time(store_run):
+    pattern = re.compile(r'\b\d{1,2}:\d{2}\b')
+    start_time = store_run.get('start_time', "")
+    if start_time and not pattern.search(start_time):
+        return f"Invalid start time: {start_time}"
+    return None
+
+
+def validate_inv_types(store_run):
+    valid_inv_types = ["modas", "excel", "dc5"]
+    for inv_type in store_run.get('inv_type', []):
+        if not any(vit in inv_type.lower() for vit in valid_inv_types):
+            return f"Invalid inventory type: {inv_type}"
+    return None
+
+
+def validate_links(store_run):
+    for link in store_run.get('link', []):
+        if "https" not in link:
+            return f"Invalid link: {link}"
+    return None
+
+
+# Validate the store runs and print errors
+for store_run in store_runs_data:
+    errors = []
+
+    error = validate_meet_times(store_run)
+    if error:
+        errors.append(error)
+
+    error = validate_start_time(store_run)
+    if error:
+        errors.append(error)
+
+    error = validate_inv_types(store_run)
+    if error:
+        errors.append(error)
+
+    error = validate_links(store_run)
+    if error:
+        errors.append(error)
+
+    if errors:
+        print("-------------------------------")
+        print(
+            f"Errors in store run: {store_run['date']}:")
+        for error in errors:
+            print(f"  - {error}")
+
+print("-------------------------------\nValidation complete.")

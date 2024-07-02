@@ -58,7 +58,8 @@ document.addEventListener('DOMContentLoaded', function () {
           if (user) {
             localStorage.setItem('username', username);
             localStorage.setItem('userType', user.type);
-            localStorage.setItem('userDisplayName', user.displayName || username);
+            // localStorage.setItem('userDisplayName', user.displayName || username); CHANGE THIS
+            localStorage.setItem('userDisplayName', user.firstName || username);
             localStorage.setItem('userOffice', user.office);
             document.getElementById('loginSection').style.display = 'none';
             document.getElementById('signOutButton').style.display = 'block';
@@ -74,7 +75,6 @@ document.addEventListener('DOMContentLoaded', function () {
               performSearch(user.displayName); // Perform search for the logged-in user
             }
 
-            location.reload(); // Refresh the screen after login
             location.reload(); // Refresh the screen after login
           } else {
             document.getElementById('loginError').textContent = 'Invalid username or password';
@@ -136,9 +136,11 @@ document.addEventListener('DOMContentLoaded', function () {
     searchForm.addEventListener('submit', function (event) {
       event.preventDefault();
       const employeeName = document.getElementById('employeeName').value.trim().toLowerCase();
-      if (employeeName) {
+      if (employeeName === 'all stores') {
+        displayAllStores(); // Call the function to display all stores
+      } else if (employeeName) {
         performSearch(employeeName);
-        employeeNameHeader.textContent = `${employeeName.toUpperCase()}`;
+        document.getElementById('employeeNameHeader').textContent = `${employeeName.toUpperCase()}`;
       }
     });
   }
@@ -160,7 +162,7 @@ document.addEventListener('DOMContentLoaded', function () {
         localStorage.setItem('userOffice', office);
       }
 
-      displaySearchResults(results, employeeName);
+      displaySearchResults(results, employeeName, office);
 
       document.getElementById('employeeName').value = ''; // Clear the textbox
       suggestionsContainer.innerHTML = '';
@@ -184,11 +186,26 @@ document.addEventListener('DOMContentLoaded', function () {
   function searchEmployeeRuns(json, employeeName) {
     const regex = new RegExp(`\\b${employeeName}\\b`);
     return json.filter((run) => {
-      return Object.keys(run.employee_list).some((employee) => regex.test(employee.toLowerCase()));
+      return Object.keys(run.employee_list).some((employee) => employee.toLowerCase() === employeeName.toLowerCase());
     });
   }
 
-  function displaySearchResults(results, employeeName) {
+  function displayAllStores() {
+    let jsonData = localStorage.getItem('jsonData');
+    if (!jsonData) {
+      fetchLocalJson(); // Fetch the JSON data again if it's null
+      jsonData = localStorage.getItem('jsonData');
+    }
+
+    if (jsonData) {
+      const results = JSON.parse(jsonData);
+      displaySearchResults(results, 'all stores', null, true); // Pass true to indicate all stores search
+    } else {
+      document.getElementById('resultsContainer').textContent = 'No data available for search.';
+    }
+  }
+
+  function displaySearchResults(results, employeeName, office, isAllStoresSearch = false) {
     const resultsContainer = document.getElementById('resultsContainer');
     resultsContainer.innerHTML = '';
 
@@ -223,15 +240,24 @@ document.addEventListener('DOMContentLoaded', function () {
         const runsForDate = groupedByDate[date] || [];
 
         let foundEmployee = false;
-        runsForDate.forEach((run) => {
+        runsForDate.forEach((run, index) => {
           const runElement = document.createElement('div');
           runElement.classList.add('run-details');
 
-          // Populate runElement with run details
-          if (run.meet_time) {
-            const meetTime = document.createElement('p');
-            meetTime.innerHTML = `<strong>Meet Time:</strong> ${run.meet_time}`;
-            runElement.appendChild(meetTime);
+          // Apply alternating background colors
+          if (index % 2 === 0) {
+          } else {
+            runElement.classList.add('odd');
+          }
+
+          // Ensure meet_time is an array
+          if (Array.isArray(run.meet_time)) {
+            const filteredMeetTimes = filterMeetTimes(run.meet_time, searchNameOffice);
+            if (filteredMeetTimes.length > 0) {
+              const meetTime = document.createElement('p');
+              meetTime.innerHTML = `<strong>Meet Time:</strong> ${filteredMeetTimes.join(', ')}`;
+              runElement.appendChild(meetTime);
+            }
           }
 
           if (run.start_time) {
@@ -252,7 +278,7 @@ document.addEventListener('DOMContentLoaded', function () {
             if (number === '1)') {
               supervisor = employee;
             }
-            // if (note.toLowerCase().includes('driver') && searchNameOffice === office) {
+            // if (note.toLowerCase().includes('driver') && searchNameOffice === office) { CHANGE THIS
             if (note.toLowerCase().includes('driver')) {
               if (employee.toLowerCase() !== employeeName.toLowerCase()) {
                 drivers.push(employee);
@@ -276,7 +302,7 @@ document.addEventListener('DOMContentLoaded', function () {
             runElement.appendChild(supervisorElement);
           }
 
-          if (run.meet_time && drivers.length > 0) {
+          if (run.meet_time && drivers.length > 0 && !isAllStoresSearch) {
             const driversElement = document.createElement('p');
             driversElement.innerHTML = `<strong>Drivers:</strong> ${drivers.join(' | ')}`;
             runElement.appendChild(driversElement);
@@ -291,7 +317,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
           const storeCardContainer = document.createElement('div');
           storeCardContainer.classList.add('store-card-container');
-          if (run.store_name.length > 1) {
+          if (run.store_name.length > 1 && !isAllStoresSearch) {
             storeCardContainer.classList.add('hidden');
           }
 
@@ -303,9 +329,9 @@ document.addEventListener('DOMContentLoaded', function () {
             storeName.innerHTML = `<strong>${store}</strong>`;
             storeCard.appendChild(storeName);
 
-            if (run.store_note) {
+            if (run.store_note[index] !== undefined) {
               const storeNote = document.createElement('p');
-              storeNote.innerHTML = `${run.store_note}`;
+              storeNote.innerHTML = `${run.store_note[index]}`;
               storeNote.style.color = 'red';
               storeCard.appendChild(storeNote);
             }
@@ -324,7 +350,7 @@ document.addEventListener('DOMContentLoaded', function () {
             storeCardContainer.appendChild(storeCard);
           });
 
-          if (run.store_name.length > 1) {
+          if (run.store_name.length > 1 && !isAllStoresSearch) {
             const toggleStoreButton = document.createElement('button');
             toggleStoreButton.textContent = 'Toggle Stores';
             toggleStoreButton.classList.add('show-all');
@@ -342,8 +368,8 @@ document.addEventListener('DOMContentLoaded', function () {
             if (employee.toLowerCase() === employeeName.toLowerCase()) {
               const [number, note, office] = run.employee_list[employee];
               const searchNameOffice = localStorage.getItem('userOffice');
+              // return number === '1)' || (note.toLowerCase().includes('driver') && searchNameOffice === office && !note.toLowerCase().includes('@ store')); CHANGE THIS
               return number === '1)' || (note.toLowerCase().includes('driver') && !note.toLowerCase().includes('@ store'));
-              // return number === '1)' || (note.toLowerCase().includes('driver') && searchNameOffice === office && !note.toLowerCase().includes('@ store'));
             }
             return false;
           });
@@ -352,7 +378,7 @@ document.addEventListener('DOMContentLoaded', function () {
             Object.keys(run.employee_list).forEach((employee) => {
               const [number, note, office] = run.employee_list[employee];
               const searchNameOffice = localStorage.getItem('userOffice');
-              // if (employee.toLowerCase() !== employeeName.toLowerCase() && searchNameOffice === office && !note.toLowerCase().includes('@ store'))
+              // if (employee.toLowerCase() !== employeeName.toLowerCase() && searchNameOffice === office && !note.toLowerCase().includes('@ store')) { CHANGE THIS
               if (employee.toLowerCase() !== employeeName.toLowerCase() && !note.toLowerCase().includes('@ store')) {
                 const listItem = document.createElement('li');
                 listItem.innerHTML = `<strong>${employee}</strong>`;
@@ -423,6 +449,21 @@ document.addEventListener('DOMContentLoaded', function () {
         li.classList.toggle('strikethrough');
       });
     });
+  }
+
+  function filterMeetTimes(meetTimes, office) {
+    return meetTimes
+      .filter((time) => {
+        if (time.includes('M:') && office === 'Milwaukee') return true;
+        if (time.includes('IL:') && office === 'Rockford') return true;
+        if (time.includes('FV:') && office === 'Fox Valley') return true;
+        if (time.includes('MD:') && office === 'Madison') return true;
+        if (!time.includes('M:') && !time.includes('IL:') && !time.includes('FV:') && !time.includes('MD:')) return true;
+        return false;
+      })
+      .map((time) => {
+        return time.replace('M:', '').replace('IL:', '').replace('FV:', '').replace('MD:', '').trim();
+      });
   }
 });
 
