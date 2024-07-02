@@ -324,7 +324,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
             if (run.store_note) {
               const storeNote = document.createElement('p');
-              storeNote.innerHTML = `${run.store_note}`;
+              storeNote.innerHTML = `${run.store_note[index]}`;
               storeNote.style.color = 'red';
               storeCard.appendChild(storeNote);
             }
