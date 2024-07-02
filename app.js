@@ -5,6 +5,8 @@ document.addEventListener('DOMContentLoaded', function () {
   const signOutButton = document.getElementById('signOutButton');
   const searchInputGroup = document.getElementById('searchInputGroup');
   const backgroundName = document.getElementById('backgroundName');
+  const togglePassedDaysButton = document.getElementById('togglePassedDays');
+  let showPassedDays = false;
 
   // Check for saved dark mode preference
   if (localStorage.getItem('darkMode') === 'enabled') {
@@ -58,7 +60,6 @@ document.addEventListener('DOMContentLoaded', function () {
           if (user) {
             localStorage.setItem('username', username);
             localStorage.setItem('userType', user.type);
-            // localStorage.setItem('userDisplayName', user.displayName || username); CHANGE THIS
             localStorage.setItem('userDisplayName', user.firstName || username);
             localStorage.setItem('userOffice', user.office);
             document.getElementById('loginSection').style.display = 'none';
@@ -205,6 +206,19 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   }
 
+  togglePassedDaysButton.addEventListener('click', function () {
+    showPassedDays = !showPassedDays;
+    togglePassedDaysButton.textContent = showPassedDays ? 'Hide Passed Days' : 'Show Passed Days';
+    togglePassedDaysVisibility(showPassedDays);
+  });
+
+  function togglePassedDaysVisibility(show) {
+    const passedDays = document.querySelectorAll('.passed-day');
+    passedDays.forEach((day) => {
+      day.style.display = show ? 'block' : 'none';
+    });
+  }
+
   function displaySearchResults(results, employeeName, office, isAllStoresSearch = false) {
     const resultsContainer = document.getElementById('resultsContainer');
     resultsContainer.innerHTML = '';
@@ -228,226 +242,231 @@ document.addEventListener('DOMContentLoaded', function () {
       // Parse date string to Date object
       const runDate = new Date(date + ' ' + new Date().getFullYear());
 
-      // Check if runDate is today or in the future
-      if (runDate >= currentDate.setHours(0, 0, 0, 0)) {
-        const dateCard = document.createElement('div');
-        dateCard.classList.add('card');
+      const dateCard = document.createElement('div');
+      dateCard.classList.add('card');
 
-        const dateHeader = document.createElement('h3');
-        dateHeader.textContent = date;
-        dateCard.appendChild(dateHeader);
+      const dateHeader = document.createElement('h3');
+      dateHeader.textContent = date;
+      dateCard.appendChild(dateHeader);
 
-        const runsForDate = groupedByDate[date] || [];
+      const runsForDate = groupedByDate[date] || [];
 
-        // Sort runsForDate to place those containing 'after' last
-        runsForDate.sort((a, b) => {
-          const aContainsAfter = Object.keys(a.employee_list).some((employee) => a.employee_list[employee][1].toLowerCase().includes('after'));
-          const bContainsAfter = Object.keys(b.employee_list).some((employee) => b.employee_list[employee][1].toLowerCase().includes('after'));
-          if (aContainsAfter && !bContainsAfter) return 1;
-          if (!aContainsAfter && bContainsAfter) return -1;
-          return 0;
-        });
+      // Sort runsForDate to place those containing 'after' last
+      runsForDate.sort((a, b) => {
+        const aContainsAfter = Object.keys(a.employee_list).some((employee) => a.employee_list[employee][1].toLowerCase().includes('after'));
+        const bContainsAfter = Object.keys(b.employee_list).some((employee) => b.employee_list[employee][1].toLowerCase().includes('after'));
+        if (aContainsAfter && !bContainsAfter) return 1;
+        if (!aContainsAfter && bContainsAfter) return -1;
+        return 0;
+      });
 
-        let foundEmployee = false;
-        runsForDate.forEach((run, index) => {
-          const runElement = document.createElement('div');
-          runElement.classList.add('run-details');
+      let foundEmployee = false;
+      runsForDate.forEach((run, index) => {
+        const runElement = document.createElement('div');
+        runElement.classList.add('run-details');
 
-          // Apply alternating background colors
-          if (index % 2 === 0) {
-          } else {
-            runElement.classList.add('odd');
-          }
-
-          // Ensure meet_time is an array
-          if (Array.isArray(run.meet_time)) {
-            const filteredMeetTimes = filterMeetTimes(run.meet_time, searchNameOffice);
-            if (filteredMeetTimes.length > 0) {
-              const meetTime = document.createElement('p');
-              meetTime.innerHTML = `<strong>Meet Time:</strong> ${filteredMeetTimes.join(', ')}`;
-              runElement.appendChild(meetTime);
-            }
-          } else if (run.meet_time) {
-            // Added this condition to handle non-array meet_time
-            const meetTime = document.createElement('p');
-            meetTime.innerHTML = `<strong>Meet Time:</strong> ${run.meet_time}`;
-            runElement.appendChild(meetTime);
-          }
-
-          if (run.start_time) {
-            const startTime = document.createElement('p');
-            startTime.innerHTML = `<strong>Start Time:</strong> ${run.start_time}`;
-            runElement.appendChild(startTime);
-          }
-
-          let supervisor = '';
-          let drivers = [];
-          let searchNameNote = '';
-          Object.keys(run.employee_list).forEach((employee) => {
-            const [number, note, office] = run.employee_list[employee];
-            if (employee.toLowerCase() === employeeName.toLowerCase()) {
-              searchNameNote = note; // Capture the note of the search name
-              foundEmployee = true;
-            }
-            if (number === '1)') {
-              supervisor = employee;
-            }
-            // if (note.toLowerCase().includes('driver') && searchNameOffice === office) { CHANGE THIS
-            if (note.toLowerCase().includes('driver')) {
-              if (employee.toLowerCase() !== employeeName.toLowerCase()) {
-                drivers.push(employee);
-              } else {
-                const carLogoLight = document.createElement('img');
-                carLogoLight.src = 'car_logo_light.png';
-                carLogoLight.classList.add('car-logo', 'car-logo-light');
-                dateCard.appendChild(carLogoLight);
-
-                const carLogoDark = document.createElement('img');
-                carLogoDark.src = 'car_logo_dark.png';
-                carLogoDark.classList.add('car-logo', 'car-logo-dark');
-                dateCard.appendChild(carLogoDark);
-              }
-            }
-          });
-
-          if (supervisor) {
-            const supervisorElement = document.createElement('p');
-            supervisorElement.innerHTML = `<strong>Supervisor:</strong> ${supervisor}`;
-            runElement.appendChild(supervisorElement);
-          }
-
-          if (run.meet_time && drivers.length > 0 && !isAllStoresSearch) {
-            const driversElement = document.createElement('p');
-            driversElement.innerHTML = `<strong>Drivers:</strong> ${drivers.join(' | ')}`;
-            runElement.appendChild(driversElement);
-          }
-
-          if (searchNameNote) {
-            const searchNameNoteElement = document.createElement('p');
-            searchNameNoteElement.id = 'searchNameNote';
-            searchNameNoteElement.innerHTML = `${searchNameNote}`;
-            runElement.appendChild(searchNameNoteElement);
-          }
-
-          const storeCardContainer = document.createElement('div');
-          storeCardContainer.classList.add('store-card-container');
-          if (run.store_name.length > 1 && !isAllStoresSearch) {
-            storeCardContainer.classList.add('hidden');
-          }
-
-          run.store_name.forEach((store, index) => {
-            const storeCard = document.createElement('div');
-            storeCard.classList.add('store-card');
-
-            const storeName = document.createElement('p');
-            storeName.innerHTML = `<strong>${store}</strong>`;
-            storeCard.appendChild(storeName);
-
-            if (run.store_note[index] !== undefined) {
-              const storeNote = document.createElement('p');
-              storeNote.innerHTML = `${run.store_note[index]}`;
-              storeNote.style.color = 'red';
-              storeCard.appendChild(storeNote);
-            }
-
-            if (run.inv_type[index] !== undefined) {
-              const invType = document.createElement('p');
-              invType.innerHTML = `${run.inv_type[index]}`;
-              storeCard.appendChild(invType);
-            }
-
-            const link = document.createElement('a');
-            link.href = run.link[index];
-            link.textContent = run.address[index];
-            storeCard.appendChild(link);
-
-            storeCardContainer.appendChild(storeCard);
-          });
-
-          if (run.store_name.length > 1 && !isAllStoresSearch) {
-            const toggleStoreButton = document.createElement('button');
-            toggleStoreButton.textContent = 'Toggle Stores';
-            toggleStoreButton.classList.add('show-all');
-            toggleStoreButton.addEventListener('click', () => {
-              storeCardContainer.classList.toggle('hidden');
-            });
-            runElement.appendChild(toggleStoreButton);
-          }
-
-          runElement.appendChild(storeCardContainer);
-
-          const employeeList = document.createElement('ul');
-          employeeList.classList.add('employee-list', 'hidden');
-          const isSpecialEmployee = Object.keys(run.employee_list).some((employee) => {
-            if (employee.toLowerCase() === employeeName.toLowerCase()) {
-              const [number, note, office] = run.employee_list[employee];
-              const searchNameOffice = localStorage.getItem('userOffice');
-              // return number === '1)' || (note.toLowerCase().includes('driver') && searchNameOffice === office && !note.toLowerCase().includes('@ store')); CHANGE THIS
-              return number === '1)' || (note.toLowerCase().includes('driver') && !note.toLowerCase().includes('@ store'));
-            }
-            return false;
-          });
-
-          if (isSpecialEmployee) {
-            Object.keys(run.employee_list).forEach((employee) => {
-              const [number, note, office] = run.employee_list[employee];
-              const searchNameOffice = localStorage.getItem('userOffice');
-              // if (employee.toLowerCase() !== employeeName.toLowerCase() && searchNameOffice === office && !note.toLowerCase().includes('@ store')) { CHANGE THIS
-              if (employee.toLowerCase() !== employeeName.toLowerCase() && !note.toLowerCase().includes('@ store') && number !== '#') {
-                const listItem = document.createElement('li');
-                listItem.innerHTML = `<strong>${employee}</strong>`;
-                employeeList.appendChild(listItem);
-              }
-            });
-          }
-
-          let isSupervisor = false;
-          Object.keys(run.employee_list).forEach((employee) => {
-            const [number] = run.employee_list[employee];
-            if (employee.toLowerCase() === employeeName.toLowerCase() && number === '1)') {
-              isSupervisor = true;
-            }
-          });
-
-          if (isSupervisor) {
-            employeeList.innerHTML = '';
-            Object.keys(run.employee_list).forEach((employee) => {
-              const [number, note] = run.employee_list[employee];
-              if (employee.toLowerCase() !== employeeName.toLowerCase() && number !== '#') {
-                const listItem = document.createElement('li');
-                if (note !== '') {
-                  listItem.innerHTML = `<strong>${employee}</strong> - <small style="color: green;">${note}</small>`;
-                } else {
-                  listItem.innerHTML = `<strong>${employee}</strong>`;
-                }
-                employeeList.appendChild(listItem);
-              }
-            });
-          }
-
-          if (employeeList.childElementCount > 0) {
-            const toggleEmployeeButton = document.createElement('button');
-            toggleEmployeeButton.textContent = 'Toggle Employees';
-            toggleEmployeeButton.addEventListener('click', () => {
-              employeeList.classList.toggle('hidden');
-            });
-            runElement.appendChild(toggleEmployeeButton);
-          }
-
-          runElement.appendChild(employeeList);
-          dateCard.appendChild(runElement);
-
-          const separator = document.createElement('hr');
-          dateCard.appendChild(separator);
-        });
-
-        if (runsForDate.length === 0 || !foundEmployee) {
-          const noRunsMessage = document.createElement('p');
-          dateCard.appendChild(noRunsMessage);
+        // Apply alternating background colors
+        if (index % 2 === 0) {
+        } else {
+          runElement.classList.add('odd');
         }
 
-        resultsContainer.appendChild(dateCard);
+        // Ensure meet_time is an array
+        if (Array.isArray(run.meet_time)) {
+          const filteredMeetTimes = filterMeetTimes(run.meet_time, searchNameOffice);
+          if (filteredMeetTimes.length > 0) {
+            const meetTime = document.createElement('p');
+            meetTime.innerHTML = `<strong>Meet Time:</strong> ${filteredMeetTimes.join(', ')}`;
+            runElement.appendChild(meetTime);
+          }
+        } else if (run.meet_time) {
+          // Added this condition to handle non-array meet_time
+          const meetTime = document.createElement('p');
+          meetTime.innerHTML = `<strong>Meet Time:</strong> ${run.meet_time}`;
+          runElement.appendChild(meetTime);
+        }
+
+        if (run.start_time) {
+          const startTime = document.createElement('p');
+          startTime.innerHTML = `<strong>Start Time:</strong> ${run.start_time}`;
+          runElement.appendChild(startTime);
+        }
+
+        let supervisor = '';
+        let drivers = [];
+        let searchNameNote = '';
+        Object.keys(run.employee_list).forEach((employee) => {
+          const [number, note, office] = run.employee_list[employee];
+          if (employee.toLowerCase() === employeeName.toLowerCase()) {
+            searchNameNote = note; // Capture the note of the search name
+            foundEmployee = true;
+          }
+          if (number === '1)') {
+            supervisor = employee;
+          }
+          if (note.toLowerCase().includes('driver')) {
+            if (employee.toLowerCase() !== employeeName.toLowerCase()) {
+              drivers.push(employee);
+            } else {
+              const carLogoLight = document.createElement('img');
+              carLogoLight.src = 'car_logo_light.png';
+              carLogoLight.classList.add('car-logo', 'car-logo-light');
+              dateCard.appendChild(carLogoLight);
+
+              const carLogoDark = document.createElement('img');
+              carLogoDark.src = 'car_logo_dark.png';
+              carLogoDark.classList.add('car-logo', 'car-logo-dark');
+              dateCard.appendChild(carLogoDark);
+            }
+          }
+        });
+
+        if (supervisor) {
+          const supervisorElement = document.createElement('p');
+          supervisorElement.innerHTML = `<strong>Supervisor:</strong> ${supervisor}`;
+          runElement.appendChild(supervisorElement);
+        }
+
+        if (run.meet_time && drivers.length > 0 && !isAllStoresSearch) {
+          const driversElement = document.createElement('p');
+          driversElement.innerHTML = `<strong>Drivers:</strong> ${drivers.join(' | ')}`;
+          runElement.appendChild(driversElement);
+        }
+
+        if (searchNameNote) {
+          const searchNameNoteElement = document.createElement('p');
+          searchNameNoteElement.id = 'searchNameNote';
+          searchNameNoteElement.innerHTML = `${searchNameNote}`;
+          runElement.appendChild(searchNameNoteElement);
+        }
+
+        const storeCardContainer = document.createElement('div');
+        storeCardContainer.classList.add('store-card-container');
+        if (run.store_name.length > 1 && !isAllStoresSearch) {
+          storeCardContainer.classList.add('hidden');
+        }
+
+        run.store_name.forEach((store, index) => {
+          const storeCard = document.createElement('div');
+          storeCard.classList.add('store-card');
+
+          const storeName = document.createElement('p');
+          storeName.innerHTML = `<strong>${store}</strong>`;
+          storeCard.appendChild(storeName);
+
+          if (run.store_note[index] !== undefined) {
+            const storeNote = document.createElement('p');
+            storeNote.innerHTML = `${run.store_note[index]}`;
+            storeNote.style.color = 'red';
+            storeCard.appendChild(storeNote);
+          }
+
+          if (run.inv_type[index] !== undefined) {
+            const invType = document.createElement('p');
+            invType.innerHTML = `${run.inv_type[index]}`;
+            storeCard.appendChild(invType);
+          }
+
+          const link = document.createElement('a');
+          link.href = run.link[index];
+          link.textContent = run.address[index];
+          storeCard.appendChild(link);
+
+          storeCardContainer.appendChild(storeCard);
+        });
+
+        if (run.store_name.length > 1 && !isAllStoresSearch) {
+          const toggleStoreButton = document.createElement('button');
+          toggleStoreButton.textContent = 'Toggle Stores';
+          toggleStoreButton.classList.add('show-all');
+          toggleStoreButton.addEventListener('click', () => {
+            storeCardContainer.classList.toggle('hidden');
+          });
+          runElement.appendChild(toggleStoreButton);
+        }
+
+        runElement.appendChild(storeCardContainer);
+
+        const employeeList = document.createElement('ul');
+        employeeList.classList.add('employee-list', 'hidden');
+        const isSpecialEmployee = Object.keys(run.employee_list).some((employee) => {
+          if (employee.toLowerCase() === employeeName.toLowerCase()) {
+            const [number, note, office] = run.employee_list[employee];
+            const searchNameOffice = localStorage.getItem('userOffice');
+            return number === '1)' || (note.toLowerCase().includes('driver') && !note.toLowerCase().includes('@ store'));
+          }
+          return false;
+        });
+
+        if (isSpecialEmployee) {
+          Object.keys(run.employee_list).forEach((employee) => {
+            const [number, note, office] = run.employee_list[employee];
+            const searchNameOffice = localStorage.getItem('userOffice');
+            if (
+              employee.toLowerCase() !== employeeName.toLowerCase() &&
+              !note.toLowerCase().includes('@ store') &&
+              number !== '#' &&
+              !note.toLowerCase().includes('driver')
+            ) {
+              const listItem = document.createElement('li');
+              listItem.innerHTML = `<strong>${employee}</strong>`;
+              employeeList.appendChild(listItem);
+            }
+          });
+        }
+
+        let isSupervisor = false;
+        Object.keys(run.employee_list).forEach((employee) => {
+          const [number] = run.employee_list[employee];
+          if (employee.toLowerCase() === employeeName.toLowerCase() && number === '1)') {
+            isSupervisor = true;
+          }
+        });
+
+        if (isSupervisor) {
+          employeeList.innerHTML = '';
+          Object.keys(run.employee_list).forEach((employee) => {
+            const [number, note] = run.employee_list[employee];
+            if (employee.toLowerCase() !== employeeName.toLowerCase() && number !== '#') {
+              const listItem = document.createElement('li');
+              if (note !== '') {
+                listItem.innerHTML = `<strong>${employee}</strong> - <small style="color: green;">${note}</small>`;
+              } else {
+                listItem.innerHTML = `<strong>${employee}</strong>`;
+              }
+              employeeList.appendChild(listItem);
+            }
+          });
+        }
+
+        if (employeeList.childElementCount > 0) {
+          const toggleEmployeeButton = document.createElement('button');
+          toggleEmployeeButton.textContent = 'Toggle Employees';
+          toggleEmployeeButton.addEventListener('click', () => {
+            employeeList.classList.toggle('hidden');
+          });
+          runElement.appendChild(toggleEmployeeButton);
+        }
+
+        runElement.appendChild(employeeList);
+        dateCard.appendChild(runElement);
+
+        const separator = document.createElement('hr');
+        dateCard.appendChild(separator);
+      });
+
+      // Mark passed days
+      if (runDate < currentDate) {
+        dateCard.classList.add('passed-day');
+        dateCard.style.display = 'none'; // Hide passed days by default
       }
+
+      if (runsForDate.length === 0 || !foundEmployee) {
+        const noRunsMessage = document.createElement('p');
+        dateCard.appendChild(noRunsMessage);
+      }
+
+      resultsContainer.appendChild(dateCard);
     });
 
     // Sort the date cards
