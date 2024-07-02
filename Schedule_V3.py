@@ -372,7 +372,7 @@ updated_store_runs_path = 'store_runs.json'
 with open(updated_store_runs_path, 'w') as f:
     json.dump(store_runs_data, f, indent=4)
 
-print(f'Updated file saved to {updated_store_runs_path}')
+print(f'Updated file saved to {updated_store_runs_path}\n\n\n')
 
 
 # Check for errors
@@ -418,6 +418,17 @@ def validate_inv_types(store_run):
     return None
 
 
+def validate_address(address):
+    # This regex is designed to match a wide range of address formats
+    address_pattern = re.compile(
+        r'^\d+\s[A-Za-z0-9\s,.#-]+$|^[A-Za-z]+\d+\s[A-Za-z0-9\s,.#-]+$'
+    )
+    for address in store_run.get('address', []):
+        if address and not address_pattern.match(address):
+            return f"Invalid address: {address}"
+    return None
+
+
 def validate_links(store_run):
     for link in store_run.get('link', []):
         if "https" not in link:
@@ -456,6 +467,10 @@ for store_run in store_runs_data:
     if error:
         errors.append(error)
 
+    error = validate_address(store_run)
+    if error:
+        errors.append(error)
+
     error = validate_employee_list(store_run)
     if error:
         errors.append(error)
@@ -467,4 +482,4 @@ for store_run in store_runs_data:
         for error in errors:
             print(f"  - {error}")
 
-print("-------------------------------\nValidation complete.")
+print("\n\n\n-------------------------------\nValidation complete.")
