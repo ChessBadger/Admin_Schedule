@@ -33,42 +33,42 @@
             "Katherine": [
                 "1)",
                 "Equip",
-                "milwaukee"
+                "none"
             ],
             "Carlie": [
                 "2)",
                 "@ Store\n(WI Ave)",
-                "other"
+                "none"
             ],
             "DJ": [
                 "3)",
                 "Driver,\nAltima",
-                "milwaukee"
+                "Milwaukee"
             ],
             "Kim": [
                 "4)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Ashley P": [
                 "5)",
                 "@ Store",
-                "other"
+                "Rockford"
             ],
             "Eva": [
                 "6)",
                 "@ Store",
-                "other"
+                "none"
             ],
             "Michael N": [
                 "7)",
                 "@ Store",
-                "other"
+                "Rockford"
             ],
             "Sarah": [
                 "8)",
                 "@ Store (comp)\n(WI Ave)",
-                "other"
+                "none"
             ]
         }
     },
@@ -95,12 +95,12 @@
             "Lashaun": [
                 "1)",
                 "Driver,\nSante Fe,\nEquip",
-                "milwaukee"
+                "none"
             ],
             "Casey": [
                 "2)",
                 "",
-                "milwaukee"
+                "none"
             ]
         }
     },
@@ -125,12 +125,12 @@
             "Ian": [
                 "1)",
                 "Gold Camry available, Equip",
-                "milwaukee"
+                "none"
             ],
             "Paul": [
                 "2)",
                 "",
-                "milwaukee"
+                "none"
             ]
         }
     },
@@ -157,17 +157,17 @@
             "Lashaun": [
                 "1)",
                 "Driver,\nSante Fe, Equip",
-                "milwaukee"
+                "none"
             ],
             "Casey": [
                 "2)",
                 "1st Aurora",
-                "milwaukee"
+                "none"
             ],
             "Ian": [
                 "3)",
                 "",
-                "milwaukee"
+                "none"
             ]
         }
     },
@@ -192,12 +192,12 @@
             "DJ": [
                 "1)",
                 "@ Store, Equip",
-                "milwaukee"
+                "Milwaukee"
             ],
             "Carlie": [
                 "2)",
                 "@ Store",
-                "other"
+                "none"
             ]
         }
     },
@@ -222,12 +222,7 @@
             "Katherine": [
                 "1)",
                 "Optima available, Equip",
-                "milwaukee"
-            ],
-            "Lashaun": [
-                "#",
-                "Check In After Store",
-                "milwaukee"
+                "none"
             ]
         }
     },
@@ -246,7 +241,7 @@
             "Kim": [
                 "",
                 "",
-                "milwaukee"
+                "none"
             ]
         }
     },
@@ -273,12 +268,12 @@
             "Kim": [
                 "1)",
                 "Sante Fe, Equip",
-                "milwaukee"
+                "none"
             ],
             "Casey": [
                 "2)",
                 "2nd Aurora",
-                "milwaukee"
+                "none"
             ]
         }
     },
@@ -297,7 +292,7 @@
             "Lashaun": [
                 "",
                 "",
-                "milwaukee"
+                "none"
             ]
         }
     },
@@ -382,32 +377,32 @@
             "Brianna": [
                 "1)",
                 "@ Store, Equip",
-                "other"
+                "none"
             ],
             "Curt": [
                 "2)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Ian": [
                 "3)",
                 "Driver,\nGold Camry",
-                "milwaukee"
+                "none"
             ],
             "Paul": [
                 "4)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Ron": [
                 "5)",
                 "@ Store",
-                "milwaukee"
+                "none"
             ],
             "Sue": [
                 "6)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Angela": [
                 "7)",
@@ -417,17 +412,17 @@
             "Eva": [
                 "8)",
                 "@ Store",
-                "other"
+                "none"
             ],
             "Qiana": [
                 "9)",
                 "@ Store",
-                "other"
+                "none"
             ],
             "Taylor": [
                 "10)",
                 "@ Store",
-                "other"
+                "none"
             ]
         }
     },
@@ -454,37 +449,37 @@
             "DJ": [
                 "1)",
                 "Driver,\nAltima, Equip",
-                "milwaukee"
+                "Milwaukee"
             ],
             "Casey": [
                 "2)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Greg": [
                 "3)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Lashaun": [
                 "4)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Jeremiah": [
                 "5)",
                 "@ Store",
-                "milwaukee"
+                "none"
             ],
             "Jerry S": [
                 "6)",
                 "@ Store",
-                "milwaukee"
+                "Fox Valley"
             ],
             "Kirsten": [
                 "7)",
                 "@ Store",
-                "milwaukee"
+                "none"
             ],
             "Louisa": [
                 "8)",
@@ -494,7 +489,7 @@
             "Michelle": [
                 "9)",
                 "@ Store",
-                "other"
+                "none"
             ],
             "Serena": [
                 "10)",
@@ -528,42 +523,42 @@
             "Kim": [
                 "1)",
                 "Driver,\nSante Fe, Equip",
-                "milwaukee"
+                "none"
             ],
             "Carlie": [
                 "2)",
                 "Driver,\nWhite Camry\n(w/ Trevor)",
-                "other"
+                "none"
             ],
             "Joshua M": [
                 "3)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Katherine": [
                 "4)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Nick": [
                 "5)",
                 "@ Store",
-                "milwaukee"
+                "none"
             ],
             "Sonia": [
                 "6)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Stephanie": [
                 "7)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Trevor": [
                 "8)",
                 "(w/ Carlie)",
-                "milwaukee"
+                "none"
             ],
             "Via": [
                 "9)",
@@ -593,62 +588,57 @@
             "Nate": [
                 "1)",
                 "@ Store, Equip",
-                "other"
+                "none"
             ],
             "Anisha": [
                 "2)",
                 "@ Store",
-                "other"
+                "none"
             ],
             "Ashley P": [
                 "3)",
                 "@ Store",
-                "other"
+                "Rockford"
             ],
             "Joseph": [
                 "4)",
                 "@ Store",
-                "other"
+                "none"
             ],
             "Josh S": [
                 "5)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
             "Josie": [
                 "6)",
                 "@ Store",
-                "other"
+                "none"
             ],
             "Justin": [
                 "7)",
                 "@ Store",
-                "other"
+                "none"
             ],
             "Lori": [
                 "8)",
                 "@ Store",
-                "other"
+                "none"
             ],
             "Michael N": [
                 "9)",
                 "@ Store",
-                "other"
+                "Rockford"
             ],
             "Sarah": [
                 "10)",
                 "@ Store",
-                "other"
+                "none"
             ],
             "Wyatt": [
                 "11)",
                 "@ Store",
                 "none"
-            ],
-            "Lashaun": [
-                "#",
-                "Check In After Store",
-                "milwaukee"
             ]
         }
     },
@@ -677,72 +667,72 @@
             "DJ": [
                 "1)",
                 "@ Store, Equip",
-                "milwaukee"
+                "Milwaukee"
             ],
             "Carlie": [
                 "2)",
                 "(w/ Trevor)",
-                "other"
+                "none"
             ],
             "Greg": [
                 "3)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Ian": [
                 "4)",
                 "Driver,\nRed Van",
-                "milwaukee"
+                "none"
             ],
             "Lashaun": [
                 "5)",
                 "Driver,\nOptima,\nSupv Rx",
-                "milwaukee"
+                "none"
             ],
             "Sonia": [
                 "6)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Stephanie": [
                 "7)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Sue": [
                 "8)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Trevor": [
                 "9)",
                 "(w/ Carlie)",
-                "milwaukee"
+                "none"
             ],
             "Anisha": [
                 "10)",
                 "@ Store,\n1st Rx",
-                "other"
+                "none"
             ],
             "Ashley P": [
                 "11)",
                 "@ Store",
-                "other"
+                "Rockford"
             ],
             "Brianna": [
                 "12)",
                 "@ Store",
-                "other"
+                "none"
             ],
             "Joseph": [
                 "13)",
                 "@ Store",
-                "other"
+                "none"
             ],
             "Josh S": [
                 "14)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
             "Wyatt": [
                 "15)",
@@ -774,22 +764,36 @@
             "Kim": [
                 "1)",
                 "Sante Fe available, Equip",
-                "milwaukee"
+                "none"
             ],
             "Katherine": [
                 "2)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Paul": [
                 "3)",
                 "",
-                "milwaukee"
-            ],
-            "Lashaun": [
-                "#",
-                "Check In After Store",
-                "milwaukee"
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Jul 9",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [
+            "Office"
+        ],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "",
+                "After Metcalfes",
+                "none"
             ]
         }
     },
@@ -816,32 +820,32 @@
             "Brianna": [
                 "1)",
                 "@ Store, Equip",
-                "other"
+                "none"
             ],
             "Ian": [
                 "2)",
                 "Driver,\nRed Van",
-                "milwaukee"
+                "none"
             ],
             "Joshua M": [
                 "3)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Paul": [
                 "4)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Sonia": [
                 "5)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Stephanie": [
                 "6)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Via": [
                 "7)",
@@ -856,42 +860,42 @@
             "Anisha": [
                 "9)",
                 "@ Store,\n2nd Rx",
-                "other"
+                "none"
             ],
             "Ashley P": [
                 "10)",
                 "@ Store",
-                "other"
+                "Rockford"
             ],
             "Eva": [
                 "11)",
                 "@ Store",
-                "other"
+                "none"
             ],
             "Evelin": [
                 "12)",
                 "@ Store",
-                "other"
+                "none"
             ],
             "Joseph": [
                 "13)",
                 "@ Store",
-                "other"
+                "none"
             ],
             "Josh S": [
                 "14)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
             "Michael N": [
                 "15)",
                 "@ Store",
-                "other"
+                "Rockford"
             ],
             "Nate": [
                 "16)",
                 "@ Store,\nSupv Rx",
-                "other"
+                "none"
             ],
             "Wyatt": [
                 "17)",
@@ -923,37 +927,37 @@
             "Kim": [
                 "1)",
                 "Sante Fe available, Equip",
-                "milwaukee"
+                "none"
             ],
             "Casey": [
                 "2)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "DJ": [
                 "3)",
                 "",
-                "milwaukee"
+                "Milwaukee"
             ],
             "Greg": [
                 "4)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Jerry D": [
                 "5)",
                 "",
-                "milwaukee"
+                "Milwaukee"
             ],
             "Katherine": [
                 "6)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Sue": [
                 "7)",
                 "",
-                "milwaukee"
+                "none"
             ]
         }
     },
@@ -980,27 +984,27 @@
             "Jeremiah": [
                 "1)",
                 "@ Store, Equip",
-                "milwaukee"
+                "none"
             ],
             "Carlie": [
                 "2)",
                 "(w/ Trevor to Slinger)",
-                "other"
+                "none"
             ],
             "Lashaun": [
                 "3)",
                 "Driver,\nOptima",
-                "milwaukee"
+                "none"
             ],
             "Trevor": [
                 "4)",
                 "(w/ Carlie)",
-                "milwaukee"
+                "none"
             ],
             "Annette": [
                 "5)",
                 "@ Store  ",
-                "milwaukee"
+                "none"
             ],
             "David": [
                 "6)",
@@ -1010,12 +1014,12 @@
             "Jerry S": [
                 "7)",
                 "@ Store  ",
-                "milwaukee"
+                "Fox Valley"
             ],
             "Kirsten": [
                 "8)",
                 "@ Store  ",
-                "milwaukee"
+                "none"
             ],
             "Louisa": [
                 "9)",
@@ -1025,7 +1029,7 @@
             "Michelle": [
                 "10)",
                 "@ Store  ",
-                "other"
+                "none"
             ],
             "Serena": [
                 "11)",
@@ -1036,11 +1040,6 @@
                 "12)",
                 "@ Store  ",
                 "none"
-            ],
-            "Brianna": [
-                "#",
-                "Check In After Store",
-                "other"
             ]
         }
     },
@@ -1069,72 +1068,72 @@
             "DJ": [
                 "1)",
                 "@ Store, Equip",
-                "milwaukee"
+                "Milwaukee"
             ],
             "Carlie": [
                 "2)",
                 "(w/ Trevor),\nRx",
-                "other"
+                "none"
             ],
             "Casey": [
                 "3)",
                 "Driver,\nOptima",
-                "milwaukee"
+                "none"
             ],
             "Ian": [
                 "4)",
                 "Driver,\nRed Van",
-                "milwaukee"
+                "none"
             ],
             "Jerry D": [
                 "5)",
                 "",
-                "milwaukee"
+                "Milwaukee"
             ],
             "Lashaun": [
                 "6)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Paul": [
                 "7)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Sonia": [
                 "8)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Stephanie": [
                 "9)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Sue": [
                 "10)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Trevor": [
                 "11)",
                 "(w/ Carlie)",
-                "milwaukee"
+                "none"
             ],
             "Ashley P": [
                 "12)",
                 "@ Store,\nSupv Rx",
-                "other"
+                "Rockford"
             ],
             "Elijah": [
                 "13)",
                 "@ Store",
-                "other"
+                "none"
             ],
             "Taylor": [
                 "14)",
                 "@ Store",
-                "other"
+                "none"
             ]
         }
     },
@@ -1159,12 +1158,12 @@
             "Kim": [
                 "1)",
                 "Sante Fe available, Equip",
-                "milwaukee"
+                "none"
             ],
             "Cynthia": [
                 "2)",
                 "",
-                "milwaukee"
+                "none"
             ]
         }
     },
@@ -1193,7 +1192,7 @@
             "Katherine": [
                 "1)",
                 "Gold Camry, Equip",
-                "milwaukee"
+                "none"
             ],
             "Katie": [
                 "2)",
@@ -1225,62 +1224,62 @@
             "Kim": [
                 "1)",
                 "@ Store,\nSante Fe, Equip",
-                "milwaukee"
+                "none"
             ],
             "Carlie": [
                 "2)",
                 "Driver,\nWhite Camry,\nRx",
-                "other"
+                "none"
             ],
             "Casey": [
                 "3)",
                 "Driver,\nOptima",
-                "milwaukee"
+                "none"
             ],
             "Curt": [
                 "4)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Cynthia": [
                 "5)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "DJ": [
                 "6)",
                 "After Aurora",
-                "milwaukee"
+                "Milwaukee"
             ],
             "Greg": [
                 "7)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Ian": [
                 "8)",
                 "Driver,\nRed Van",
-                "milwaukee"
+                "none"
             ],
             "Jerry D": [
                 "9)",
                 "",
-                "milwaukee"
+                "Milwaukee"
             ],
             "Joshua M": [
                 "10)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Paul": [
                 "11)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Sonia": [
                 "12)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Via": [
                 "13)",
@@ -1290,12 +1289,12 @@
             "Qiana": [
                 "14)",
                 "@ Store,\nSupv Rx",
-                "other"
+                "none"
             ],
             "Taylor": [
                 "15)",
                 "@ Store",
-                "other"
+                "none"
             ]
         }
     },
@@ -1320,7 +1319,7 @@
             "DJ": [
                 "1)",
                 "@ Store, Equip",
-                "milwaukee"
+                "Milwaukee"
             ]
         }
     },
@@ -1352,17 +1351,17 @@
             "Katherine": [
                 "1)",
                 "Gold Camry available, Equip",
-                "milwaukee"
+                "none"
             ],
             "Stephanie": [
                 "2)",
                 "",
-                "milwaukee"
+                "none"
             ],
             "Sue": [
                 "3)",
                 "",
-                "milwaukee"
+                "none"
             ]
         }
     },
@@ -1381,7 +1380,7 @@
             "Lashaun": [
                 "",
                 "",
-                "milwaukee"
+                "none"
             ]
         }
     },

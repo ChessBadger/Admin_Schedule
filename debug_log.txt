@@ -1,9 +1,0 @@
-"Starting the script" 
-"Changing to repository directory: "C:\Users\clark\OneDrive\Desktop\Master_Schedule"" 
-"Changed to repository directory: "C:\Users\clark\OneDrive\Desktop\Master_Schedule"" 
-"Running Schedule_V3.py" 
-Processing sheet: 06-30-24 to 07-06-24 Milwaukee Schedule Copy
-Processing sheet: 07-07-24 to 07-13-24 Milwaukee Schedule Copy
-Updated file saved to store_runs.json
-"Schedule_V3.py ran successfully" 
-"Running git add" 
