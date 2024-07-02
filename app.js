@@ -379,7 +379,7 @@ document.addEventListener('DOMContentLoaded', function () {
               const [number, note, office] = run.employee_list[employee];
               const searchNameOffice = localStorage.getItem('userOffice');
               // if (employee.toLowerCase() !== employeeName.toLowerCase() && searchNameOffice === office && !note.toLowerCase().includes('@ store')) { CHANGE THIS
-              if (employee.toLowerCase() !== employeeName.toLowerCase() && !note.toLowerCase().includes('@ store')) {
+              if (employee.toLowerCase() !== employeeName.toLowerCase() && !note.toLowerCase().includes('@ store') && number !== '#') {
                 const listItem = document.createElement('li');
                 listItem.innerHTML = `<strong>${employee}</strong>`;
                 employeeList.appendChild(listItem);
@@ -399,7 +399,7 @@ document.addEventListener('DOMContentLoaded', function () {
             employeeList.innerHTML = '';
             Object.keys(run.employee_list).forEach((employee) => {
               const [number, note] = run.employee_list[employee];
-              if (employee.toLowerCase() !== employeeName.toLowerCase()) {
+              if (employee.toLowerCase() !== employeeName.toLowerCase() && number !== '#') {
                 const listItem = document.createElement('li');
                 if (note !== '') {
                   listItem.innerHTML = `<strong>${employee}</strong> - <small style="color: green;">${note}</small>`;
