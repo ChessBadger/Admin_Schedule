@@ -925,5 +925,23 @@
     "office": "Milwaukee",
     "firstName": "Tanner",
     "lastName": "Marien"
+  },
+  {
+    "username": "mom",
+    "password": "mom",
+    "type": "user",
+    "displayName": "Lashaun C",
+    "office": "Milwaukee",
+    "firstName": "Lashaun",
+    "lastName": "Clark"
+  },
+  {
+    "username": "aivy",
+    "password": "aivy",
+    "type": "user",
+    "displayName": "Lashaun C",
+    "office": "Milwaukee",
+    "firstName": "Lashaun",
+    "lastName": "Clark"
   }
 ]
