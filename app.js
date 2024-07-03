@@ -308,7 +308,9 @@ document.addEventListener('DOMContentLoaded', function () {
           }
           if (note.toLowerCase().includes('driver')) {
             if (employee.toLowerCase() !== employeeName.toLowerCase()) {
-              drivers.push(employee);
+              const noteParts = note.split(',');
+              const vehicle = noteParts[1].trim();
+              drivers.push(`${employee} <span style="color: green;">(${vehicle})</span>`);
             } else {
               const carLogoLight = document.createElement('img');
               carLogoLight.src = 'car_logo_light.png';
