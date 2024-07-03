@@ -447,6 +447,18 @@ def validate_links(store_run):
     return None
 
 
+def validate_store_note(store_run):
+    employees = store_run.get('employee_list', [])
+    for store_note in store_run.get('store_note', []):
+        if "https" in store_note:
+            return f"Error - link found in store note: {store_note}"
+        for employee in employees:
+            employee_lower = employee.lower()
+            if employee_lower in store_note.lower():
+                return f"Warning - employee name found in store note: {employee}"
+    return None
+
+
 def validate_employee_list(store_run):
     employees = store_run.get('employee_list', [])
     if not employees and any(store_run.get(key) for key in ['meet_time', 'start_time', 'inv_type', 'link']):
@@ -479,6 +491,10 @@ for store_run in store_runs_data:
         errors.append(error)
 
     error = validate_address(store_run)
+    if error:
+        errors.append(error)
+
+    error = validate_store_note(store_run)
     if error:
         errors.append(error)
 
