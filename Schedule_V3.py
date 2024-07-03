@@ -184,7 +184,7 @@ if folders:
                             row=cell.row, column=cell.column + 1).value
                         # Get the value of the cell two rows down (next store)
                         next_store = sheet.cell(
-                            row=cell.row + 2, column=cell.column).value
+                            row=cell.row + 1, column=cell.column).value
 
                         # Handle empty days (weekends)
                         if cell.row == 8 and cell.value is None:
@@ -337,6 +337,17 @@ if folders:
                                 store_run.add_employee(
                                     value, number_value, note_value, 'none')
                             elif next_store:
+                                current_state = 'searching'
+                                save_store_runs_to_json()
+                            elif next_store is None or next_store == '':
+                                max_rows_to_check = 10
+                                for i in range(1, max_rows_to_check + 1):
+                                    next_store = sheet.cell(
+                                        row=cell.row + i, column=cell.column).value
+                                    if next_store:
+                                        current_state = 'searching'
+                                        # save_store_runs_to_json()
+                                        break
                                 current_state = 'searching'
                                 save_store_runs_to_json()
 
