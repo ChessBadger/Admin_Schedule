@@ -431,7 +431,7 @@ def validate_address(address):
 
 def validate_links(store_run):
     for link in store_run.get('link', []):
-        if "https" not in link:
+        if link and "https" not in link:
             return f"Invalid link: {link}"
     return None
 
