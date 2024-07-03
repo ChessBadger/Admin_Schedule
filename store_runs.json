@@ -12,29 +12,22 @@
     },
     {
         "date": "Mon, Jul 1",
-        "meet_time": [
+        "meet_time": [],
+        "start_time": "2 AT ST LUKES, 6 AT ST MARY'S (NEED MINI POST IT NOTES)",
+        "inv_type": [
             "6:15 AM MEET COLLEGE (SOUTHWEST)"
         ],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL",
-            "DC5-ITEM LEVEL"
-        ],
         "store_name": [
-            "ASCENSION ALL SAINTS HOSP WI AVE CAMPUS (0753-0001)",
-            "ASCENSION ALL SAINTS HOSP SPRING ST CAMPUS (0752-0001 & 0002)"
+            "7:00 AM START"
         ],
         "address": [
-            "1320 WISCONSIN AVE",
-            "3801 SPRING ST"
+            "DC5-ITEM LEVEL"
         ],
         "link": [
-            "https://goo.gl/maps/raiuDa4wRko",
-            "https://goo.gl/maps/PjumoiJbqD62"
+            "ASCENSION ALL SAINTS HOSP WI AVE CAMPUS (0753-0001)"
         ],
         "store_note": [
-            "2 AT ST LUKES, 6 AT ST MARY'S (NEED MINI POST IT NOTES)",
-            "ENTER THRU SURGICAL CENTER <br><hr id=\"note_separator\">Sarah and Carlie start at WI Ave, everyone else to Spring St"
+            "1320 WISCONSIN AVE <br><hr id=\"note_separator\">https://goo.gl/maps/raiuDa4wRko <br><hr id=\"note_separator\">DC5-ITEM LEVEL <br><hr id=\"note_separator\">ASCENSION ALL SAINTS HOSP SPRING ST CAMPUS (0752-0001 & 0002) <br><hr id=\"note_separator\">3801 SPRING ST <br><hr id=\"note_separator\">https://goo.gl/maps/PjumoiJbqD62 <br><hr id=\"note_separator\">ENTER THRU SURGICAL CENTER <br><hr id=\"note_separator\">Sarah and Carlie start at WI Ave, everyone else to Spring St"
         ],
         "employee_list": {
             "Katherine": [
@@ -163,12 +156,12 @@
         "employee_list": {
             "Lashaun": [
                 "1)",
-                "Driver 1/2,\nSante Fe, Equip",
+                "Driver,\nSante Fe, Equip",
                 "none"
             ],
             "Casey": [
                 "2)",
-                "\"Driver 1/2,\nSante Fe, 1st Aurora",
+                "1st Aurora",
                 "none"
             ],
             "Ian": [
@@ -753,19 +746,19 @@
         "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
-            "DC5-FINANCIAL"
+            "*PERISHABLE INVENTORY"
         ],
         "store_name": [
-            "METCALFE'S MARKET #560, WAUWATOSA"
+            "DC5-FINANCIAL"
         ],
         "address": [
-            "6700 W STATE ST"
+            "METCALFE'S MARKET #560, WAUWATOSA"
         ],
         "link": [
-            "https://goo.gl/maps/hbUxBiCRdt72"
+            "6700 W STATE ST"
         ],
         "store_note": [
-            "*PERISHABLE INVENTORY"
+            "https://goo.gl/maps/hbUxBiCRdt72"
         ],
         "employee_list": {
             "Kim": [
@@ -908,11 +901,6 @@
                 "17)",
                 "@ Store",
                 "none"
-            ],
-            "Casey": [
-                "#",
-                "Check In After Pig",
-                "none"
             ]
         }
     },
@@ -921,19 +909,19 @@
         "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
-            "DC5-FINANCIAL"
+            "*FIRST INVENTORY WITH BADGER"
         ],
         "store_name": [
-            "PIGGLY WIGGLY #142, SUSSEX"
+            "DC5-FINANCIAL"
         ],
         "address": [
-            "N63 W23735 MAIN ST"
+            "PIGGLY WIGGLY #142, SUSSEX"
         ],
         "link": [
-            "https://maps.app.goo.gl/UHB7SgmVy27KNfWS7"
+            "N63 W23735 MAIN ST"
         ],
         "store_note": [
-            "*FIRST INVENTORY WITH BADGER"
+            "https://maps.app.goo.gl/UHB7SgmVy27KNfWS7"
         ],
         "employee_list": {
             "Kim": [
@@ -1051,11 +1039,6 @@
             "Taya": [
                 "12)",
                 "@ Store  ",
-                "none"
-            ],
-            "Leshaun": [
-                "13)",
-                "@ Store",
                 "none"
             ]
         }
