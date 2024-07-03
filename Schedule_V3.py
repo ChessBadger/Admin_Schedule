@@ -119,7 +119,7 @@ client = gspread.authorize(creds)
 drive_service = build('drive', 'v3', credentials=creds)
 
 # The name of the folder you want to search for
-folder_name = 'Fake Milwaukee'
+folder_name = 'Grafton Test'
 
 # Search for the folder by name to get its ID
 query = f"mimeType='application/vnd.google-apps.folder' and name='{folder_name}'"

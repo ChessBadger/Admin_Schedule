@@ -66,7 +66,7 @@
     "username": "spalmer",
     "password": "1023",
     "type": "user",
-    "displayName": "Palmer",
+    "displayName": "Steve P",
     "office": "Madison",
     "firstName": "Steve",
     "lastName": "Palmer"
@@ -85,7 +85,7 @@
     "password": "1036",
     "type": "user",
     "displayName": "Jake S",
-    "office": "Rockford",
+    "office": "Florida",
     "firstName": "Jake",
     "lastName": "Swanson"
   },
@@ -139,7 +139,7 @@
     "password": "1114",
     "type": "user",
     "displayName": "Sarah H",
-    "office": "Madison",
+    "office": "Baraboo",
     "firstName": "Sarah",
     "lastName": "Hardy"
   },
@@ -166,7 +166,7 @@
     "password": "1165",
     "type": "user",
     "displayName": "Carlie K",
-    "office": "Milwaukee",
+    "office": "Grafton",
     "firstName": "Carlie",
     "lastName": "Klotz"
   },
@@ -184,7 +184,7 @@
     "password": "1176",
     "type": "user",
     "displayName": "Jacqui R",
-    "office": "Fox Valley",
+    "office": "Stevens Point",
     "firstName": "Jacqui",
     "lastName": "Reeve"
   },
@@ -193,7 +193,7 @@
     "password": "1188",
     "type": "user",
     "displayName": "Courtney J",
-    "office": "Fox Valley",
+    "office": "Stevens Point",
     "firstName": "Courtney",
     "lastName": "Jensen"
   },
@@ -202,7 +202,7 @@
     "password": "1269",
     "type": "user",
     "displayName": "Michelle C",
-    "office": "Fox Valley",
+    "office": "Stevens Point",
     "firstName": "Michelle",
     "lastName": "Carey-brown"
   },
@@ -283,7 +283,7 @@
     "password": "1316",
     "type": "user",
     "displayName": "Dan R",
-    "office": "Fox Valley",
+    "office": "Stevens Point",
     "firstName": "Dan",
     "lastName": "Rozak"
   },
@@ -345,7 +345,7 @@
     "username": "nbrock",
     "password": "3501",
     "type": "user",
-    "displayName": "Nick",
+    "displayName": "Nick B",
     "office": "Milwaukee",
     "firstName": "Nick",
     "lastName": "Brock"
@@ -480,7 +480,7 @@
     "username": "dskaufle",
     "password": "3674",
     "type": "user",
-    "displayName": "Dj",
+    "displayName": "Dj S",
     "office": "Milwaukee",
     "firstName": "Dj",
     "lastName": "Skaufle"
@@ -598,7 +598,7 @@
     "password": "3787",
     "type": "user",
     "displayName": "Trevor M",
-    "office": "Milwaukee",
+    "office": "Grafton",
     "firstName": "Trevor",
     "lastName": "Marien"
   },
@@ -922,7 +922,7 @@
     "password": "3768",
     "type": "user",
     "displayName": "Tanner M",
-    "office": "Milwaukee",
+    "office": "Grafton",
     "firstName": "Tanner",
     "lastName": "Marien"
   },
@@ -943,23 +943,5 @@
     "office": "Rockford",
     "firstName": "Wyatt",
     "lastName": "Washatka"
-  },
-  {
-    "username": "mom",
-    "password": "mom",
-    "type": "user",
-    "displayName": "Lashaun C",
-    "office": "Milwaukee",
-    "firstName": "Lashaun",
-    "lastName": "Clark"
-  },
-  {
-    "username": "aivy",
-    "password": "aivy",
-    "type": "user",
-    "displayName": "Lashaun C",
-    "office": "Milwaukee",
-    "firstName": "Lashaun",
-    "lastName": "Clark"
   }
 ]
