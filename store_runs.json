@@ -163,12 +163,12 @@
         "employee_list": {
             "Lashaun": [
                 "1)",
-                "Driver,\nSante Fe, Equip",
+                "Driver 1/2,\nSante Fe, Equip",
                 "none"
             ],
             "Casey": [
                 "2)",
-                "1st Aurora",
+                "\"Driver 1/2,\nSante Fe, 1st Aurora",
                 "none"
             ],
             "Ian": [
@@ -1094,7 +1094,7 @@
             ],
             "Casey": [
                 "3)",
-                "Driver,\nOptima; Sucks",
+                "Driver,\nOptima",
                 "none"
             ],
             "Ian": [
