@@ -310,11 +310,10 @@ body.dark-mode h3 {
   height: fit-content;
 }
 
-/* Add styles for calendar container */
 #calendarContainer {
-  max-width: 600px;
+  max-width: 400px; /* Adjust this value to make the calendar smaller */
   margin: 20px auto;
-  padding: 20px;
+  padding: 10px; /* Adjust padding as needed */
   background-color: #fff;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   display: none;
@@ -324,11 +323,11 @@ body.dark-mode h3 {
 .calendar-day {
   display: inline-block;
   width: calc(100% / 7); /* 7 days a week */
-  height: 100px;
+  height: 50px; /* Reduce height to make the calendar smaller */
   border: 1px solid #ddd;
   box-sizing: border-box;
   text-align: center;
-  line-height: 100px;
+  line-height: 50px; /* Match this to the height */
 }
 
 .calendar-day.empty {
@@ -336,13 +335,30 @@ body.dark-mode h3 {
 }
 
 .calendar-day.green {
-  background-color: green;
+  background-color: rgb(18, 80, 18);
   color: white;
 }
 
 .calendar-day.red {
-  background-color: red;
+  background-color: rgb(155, 45, 45);
   color: white;
+}
+
+.calendar-day.gray {
+  background-color: rgb(68, 70, 68, 30%);
+  color: white;
+}
+
+body.dark-mode .calendar-day {
+  border: 1px solid black;
+}
+
+body.dark-mode .calendar-day.gray {
+  background-color: rgb(200, 200, 200);
+}
+
+body.dark-mode .calendar-day.empty {
+  border: none;
 }
 
 /* Add styles for the month name */

@@ -676,6 +676,8 @@ document.addEventListener('DOMContentLoaded', function () {
         } else {
           calendarDay.classList.add('green');
         }
+      } else {
+        calendarDay.classList.add('gray');
       }
 
       calendar.appendChild(calendarDay);
