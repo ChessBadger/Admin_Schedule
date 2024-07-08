@@ -106,6 +106,8 @@ document.addEventListener('DOMContentLoaded', function () {
       document.getElementById('username').value = '';
       document.getElementById('password').value = '';
       backgroundName.style.display = 'none';
+      calendarContainer.style.display = 'none';
+      calendarToggle.textContent = 'View Calendar';
 
       // Clear login error message
       document.getElementById('loginError').textContent = '';
@@ -144,9 +146,13 @@ document.addEventListener('DOMContentLoaded', function () {
       const employeeName = document.getElementById('employeeName').value.trim().toLowerCase();
       if (employeeName === 'all stores') {
         displayAllStores(); // Call the function to display all stores
+        calendarContainer.style.display = 'none';
+        calendarToggle.textContent = 'View Calendar';
       } else if (employeeName) {
         performSearch(employeeName);
         document.getElementById('employeeNameHeader').textContent = `${employeeName.toUpperCase()}`;
+        calendarContainer.style.display = 'none';
+        calendarToggle.textContent = 'View Calendar';
       }
     });
   }
