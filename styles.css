@@ -403,6 +403,47 @@ body.dark-mode .calendar-day.empty {
   color: #000000 !important;
 }
 
+/* Add this to your existing CSS */
+.calendar-day.payday {
+  font-weight: bold;
+  position: relative; /* Ensure the element can contain the pseudo-element */
+  z-index: 1; /* Ensure it is above the pseudo-element */
+}
+
+.calendar-day.payday::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to bottom, transparent 45%, gold);
+  opacity: 0.5; /* Adjust opacity to control the intensity of the overlay */
+  z-index: -1; /* Ensure it is behind the main element's content */
+  pointer-events: none; /* Ensure it doesn't interfere with interactions */
+}
+
+/* Existing styles */
+body.dark-mode .calendar-day.payday {
+  font-weight: bold;
+  position: relative; /* Ensure the element can contain the pseudo-element */
+  z-index: 1; /* Ensure it is above the pseudo-element */
+}
+
+/* Adding gradient overlay */
+body.dark-mode .calendar-day.payday::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to bottom, transparent 45%, gold);
+  opacity: 0.5; /* Adjust opacity to control the intensity of the overlay */
+  z-index: -1; /* Ensure it is behind the main element's content */
+  pointer-events: none; /* Ensure it doesn't interfere with interactions */
+}
+
 #calendarKey {
   margin-top: 20px;
 }
@@ -443,7 +484,27 @@ body.dark-mode #calendarKey {
   background-color: rgb(68, 70, 68, 30%);
 }
 
-body.dark-mode .key-color.gray {
+.key-color.gold {
+  background-color: rgb(68, 70, 68, 30%);
+  position: relative; /* Ensure the element can contain the pseudo-element */
+  z-index: 1; /* Ensure it is above the pseudo-element */
+}
+
+.key-color.gold::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to bottom, transparent 45%, gold);
+  opacity: 0.5; /* Adjust opacity to control the intensity of the overlay */
+  z-index: -1; /* Ensure it is behind the main element's content */
+  pointer-events: none; /* Ensure it doesn't interfere with interactions */
+}
+
+body.dark-mode .key-color.gray,
+body.dark-mode .key-color.gold {
   background-color: rgb(200, 200, 200);
 }
 

@@ -613,6 +613,14 @@ document.addEventListener('DOMContentLoaded', function () {
     return monthNames[monthIndex];
   }
 
+  function isPayday(day, month, year) {
+    const startDate = new Date(2024, 6, 5); // July 5, 2024
+    const currentDate = new Date(year, month, day);
+    const diffTime = Math.abs(currentDate - startDate);
+    const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+    return diffDays % 14 === 0;
+  }
+
   // Function to generate the calendar
   function generateCalendar() {
     const cardElements = document.querySelectorAll('.card');
@@ -678,6 +686,11 @@ document.addEventListener('DOMContentLoaded', function () {
       // Highlight the current day
       if (day === currentDay) {
         calendarDay.classList.add('current-day');
+      }
+
+      // Highlight paydays
+      if (isPayday(day, month, year)) {
+        calendarDay.classList.add('payday');
       }
 
       if (dateStatuses[date]) {
