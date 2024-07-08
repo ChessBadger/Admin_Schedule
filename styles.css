@@ -200,6 +200,18 @@ button.show-all {
   display: none;
 }
 
+.crown-logo {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 42px;
+  height: 42px;
+}
+
+body.dark-mode .crown-logo {
+  filter: invert(1);
+}
+
 body.dark-mode .car-logo-dark {
   display: block;
 }
