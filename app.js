@@ -24,7 +24,6 @@ document.addEventListener('DOMContentLoaded', function () {
   if (savedUsername) {
     document.getElementById('loginSection').style.display = 'none';
     document.getElementById('signOutButton').style.display = 'block';
-    document.getElementById('calendarToggle').style.display = 'block';
 
     fetchLocalJson(); // Fetch local JSON automatically
 
@@ -41,7 +40,6 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   } else {
     document.getElementById('signOutButton').style.display = 'none';
-    document.getElementById('calendarToggle').style.display = 'none';
   }
 
   // Handle login form submission
@@ -70,7 +68,6 @@ document.addEventListener('DOMContentLoaded', function () {
             localStorage.setItem('userOffice', user.office);
             document.getElementById('loginSection').style.display = 'none';
             document.getElementById('signOutButton').style.display = 'block';
-            document.getElementById('calendarToggle').style.display = 'block';
 
             fetchLocalJson(); // Fetch local JSON automatically
 
@@ -106,7 +103,6 @@ document.addEventListener('DOMContentLoaded', function () {
       document.getElementById('loginSection').style.display = 'block';
       document.getElementById('searchSection').style.display = 'none';
       document.getElementById('signOutButton').style.display = 'none';
-      document.getElementById('calendarToggle').style.display = 'none';
       document.getElementById('username').value = '';
       document.getElementById('password').value = '';
       backgroundName.style.display = 'none';
