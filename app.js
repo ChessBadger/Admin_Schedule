@@ -236,7 +236,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
     const jsonData = JSON.parse(localStorage.getItem('jsonData'));
 
-    // Create a set of dates from the JSON data
     const allDates = new Set(jsonData.map((run) => run.date));
 
     const groupedByDate = results.reduce((acc, run) => {
@@ -244,16 +243,13 @@ document.addEventListener('DOMContentLoaded', function () {
       return acc;
     }, {});
 
-    // Get current date for comparison
     const currentDate = new Date();
-    currentDate.setHours(0, 0, 0, 0); // Set the time to midnight for comparison
+    currentDate.setHours(0, 0, 0, 0);
     const searchNameOffice = localStorage.getItem('userOffice');
 
-    // Create date cards for all dates
     allDates.forEach((date) => {
-      // Parse date string to Date object
       const runDate = new Date(date + ' ' + new Date().getFullYear());
-      runDate.setHours(0, 0, 0, 0); // Set the time to midnight for comparison
+      runDate.setHours(0, 0, 0, 0);
 
       const dateCard = document.createElement('div');
       dateCard.classList.add('card');
@@ -264,7 +260,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
       const runsForDate = groupedByDate[date] || [];
 
-      // Sort runsForDate to place those containing 'after' last
       runsForDate.sort((a, b) => {
         const aContainsAfter = Object.keys(a.employee_list).some((employee) => a.employee_list[employee][1].toLowerCase().includes('after'));
         const bContainsAfter = Object.keys(b.employee_list).some((employee) => b.employee_list[employee][1].toLowerCase().includes('after'));
@@ -278,31 +273,31 @@ document.addEventListener('DOMContentLoaded', function () {
         const runElement = document.createElement('div');
         runElement.classList.add('run-details');
 
-        // Apply alternating background colors
         if (index % 2 === 0) {
+          // Optional: Add class for alternating background colors
         } else {
           runElement.classList.add('odd');
         }
 
-        // Ensure meet_time is an array
-        if (Array.isArray(run.meet_time)) {
-          const filteredMeetTimes = filterMeetTimes(run.meet_time, searchNameOffice);
-          if (filteredMeetTimes.length > 0) {
+        if (index === 0) {
+          if (Array.isArray(run.meet_time)) {
+            const filteredMeetTimes = filterMeetTimes(run.meet_time, searchNameOffice);
+            if (filteredMeetTimes.length > 0) {
+              const meetTime = document.createElement('p');
+              meetTime.innerHTML = `<strong>Meet Time:</strong> ${filteredMeetTimes.join(', ')}`;
+              runElement.appendChild(meetTime);
+            }
+          } else if (run.meet_time) {
             const meetTime = document.createElement('p');
-            meetTime.innerHTML = `<strong>Meet Time:</strong> ${filteredMeetTimes.join(', ')}`;
+            meetTime.innerHTML = `<strong>Meet Time:</strong> ${run.meet_time}`;
             runElement.appendChild(meetTime);
           }
-        } else if (run.meet_time) {
-          // Added this condition to handle non-array meet_time
-          const meetTime = document.createElement('p');
-          meetTime.innerHTML = `<strong>Meet Time:</strong> ${run.meet_time}`;
-          runElement.appendChild(meetTime);
-        }
 
-        if (run.start_time) {
-          const startTime = document.createElement('p');
-          startTime.innerHTML = `<strong>Start Time:</strong> ${run.start_time}`;
-          runElement.appendChild(startTime);
+          if (run.start_time) {
+            const startTime = document.createElement('p');
+            startTime.innerHTML = `<strong>Start Time:</strong> ${run.start_time}`;
+            runElement.appendChild(startTime);
+          }
         }
 
         let supervisor = '';
@@ -311,16 +306,15 @@ document.addEventListener('DOMContentLoaded', function () {
         Object.keys(run.employee_list).forEach((employee) => {
           const [number, note, office] = run.employee_list[employee];
           if (employee.toLowerCase() === employeeName.toLowerCase()) {
-            searchNameNote = note; // Capture the note of the search name
+            searchNameNote = note;
             foundEmployee = true;
           }
           if (number === '1)') {
             supervisor = employee;
 
             if (employeeName.toLowerCase() == employee.toLowerCase()) {
-              // Add the crown image for supervisors
               const crownImage = document.createElement('img');
-              crownImage.src = 'crown.png'; // Ensure the path is correct
+              crownImage.src = 'crown.png';
               crownImage.classList.add('crown-logo');
               dateCard.appendChild(crownImage);
             }
@@ -350,13 +344,12 @@ document.addEventListener('DOMContentLoaded', function () {
           runElement.appendChild(supervisorElement);
         }
 
-        if (run.meet_time && drivers.length > 0 && !isAllStoresSearch) {
+        if (index === 0 && run.meet_time && drivers.length > 0 && !isAllStoresSearch) {
           const driversElement = document.createElement('p');
           driversElement.innerHTML = `<strong>Drivers:</strong> ${drivers.join(' | ')}`;
           runElement.appendChild(driversElement);
         }
 
-        // Display other employees with 'rx' in their notes
         let otherEmployeesWithRx = [];
         Object.keys(run.employee_list).forEach((employee) => {
           const [number, note, office] = run.employee_list[employee];
@@ -497,12 +490,11 @@ document.addEventListener('DOMContentLoaded', function () {
         dateCard.appendChild(separator);
       });
 
-      // Mark passed days
       if (runDate < currentDate) {
         localStorage.setItem('rundate', runDate);
         localStorage.setItem('currentdate', currentDate);
         dateCard.classList.add('passed-day');
-        dateCard.style.display = 'none'; // Hide passed days by default
+        dateCard.style.display = 'none';
       }
 
       if (runsForDate.length === 0 || !foundEmployee) {
@@ -513,14 +505,12 @@ document.addEventListener('DOMContentLoaded', function () {
       resultsContainer.appendChild(dateCard);
     });
 
-    // Sort the date cards
     const dateCards = Array.from(resultsContainer.getElementsByClassName('card'));
     dateCards.sort((a, b) => new Date(a.querySelector('h3').textContent) - new Date(b.querySelector('h3').textContent));
 
     resultsContainer.innerHTML = '';
     dateCards.forEach((card) => resultsContainer.appendChild(card));
 
-    // Add event listeners to employee names
     document.querySelectorAll('.employee-list li').forEach((li) => {
       li.addEventListener('click', function () {
         li.classList.toggle('strikethrough');
