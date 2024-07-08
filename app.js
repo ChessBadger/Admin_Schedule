@@ -337,6 +337,25 @@ document.addEventListener('DOMContentLoaded', function () {
           runElement.appendChild(driversElement);
         }
 
+        // Display other employees with 'rx' in their notes
+        let otherEmployeesWithRx = [];
+        Object.keys(run.employee_list).forEach((employee) => {
+          const [number, note, office] = run.employee_list[employee];
+          if (note.toLowerCase().includes('rx') && employee.toLowerCase() !== employeeName.toLowerCase()) {
+            otherEmployeesWithRx.push(`${employee}`);
+          }
+        });
+
+        if (otherEmployeesWithRx.length > 0 && searchNameNote.toLowerCase().includes('rx')) {
+          const otherEmployeesElement = document.createElement('p');
+          otherEmployeesElement.innerHTML = `<strong>RX:</strong> ${otherEmployeesWithRx.join(' | ')}`;
+          runElement.appendChild(otherEmployeesElement);
+        } else if (otherEmployeesWithRx.length > 0 && employeeName.toLowerCase() == supervisor.toLowerCase()) {
+          const otherEmployeesElement = document.createElement('p');
+          otherEmployeesElement.innerHTML = `<strong>RX:</strong> ${otherEmployeesWithRx.join(' | ')}`;
+          runElement.appendChild(otherEmployeesElement);
+        }
+
         if (searchNameNote) {
           const searchNameNoteElement = document.createElement('p');
           searchNameNoteElement.id = 'searchNameNote';
