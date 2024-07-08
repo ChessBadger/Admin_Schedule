@@ -317,11 +317,13 @@ document.addEventListener('DOMContentLoaded', function () {
           if (number === '1)') {
             supervisor = employee;
 
-            // Add the crown image for supervisors
-            const crownImage = document.createElement('img');
-            crownImage.src = 'crown.png'; // Ensure the path is correct
-            crownImage.classList.add('crown-logo');
-            dateCard.appendChild(crownImage);
+            if (employeeName.toLowerCase() == employee.toLowerCase()) {
+              // Add the crown image for supervisors
+              const crownImage = document.createElement('img');
+              crownImage.src = 'crown.png'; // Ensure the path is correct
+              crownImage.classList.add('crown-logo');
+              dateCard.appendChild(crownImage);
+            }
           }
           if (note.toLowerCase().includes('driver')) {
             if (employee.toLowerCase() !== employeeName.toLowerCase()) {
