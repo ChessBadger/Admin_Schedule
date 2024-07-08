@@ -6,6 +6,9 @@ document.addEventListener('DOMContentLoaded', function () {
   const searchInputGroup = document.getElementById('searchInputGroup');
   const backgroundName = document.getElementById('backgroundName');
   const togglePassedDaysButton = document.getElementById('togglePassedDays');
+  const calendarToggle = document.getElementById('calendarToggle');
+  const calendarContainer = document.getElementById('calendarContainer');
+  const calendar = document.getElementById('calendar');
   let showPassedDays = false;
 
   // Check for saved dark mode preference
@@ -21,6 +24,8 @@ document.addEventListener('DOMContentLoaded', function () {
   if (savedUsername) {
     document.getElementById('loginSection').style.display = 'none';
     document.getElementById('signOutButton').style.display = 'block';
+    document.getElementById('calendarToggle').style.display = 'block';
+
     fetchLocalJson(); // Fetch local JSON automatically
 
     if (savedUserType === 'admin') {
@@ -36,6 +41,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   } else {
     document.getElementById('signOutButton').style.display = 'none';
+    document.getElementById('calendarToggle').style.display = 'none';
   }
 
   // Handle login form submission
@@ -64,6 +70,8 @@ document.addEventListener('DOMContentLoaded', function () {
             localStorage.setItem('userOffice', user.office);
             document.getElementById('loginSection').style.display = 'none';
             document.getElementById('signOutButton').style.display = 'block';
+            document.getElementById('calendarToggle').style.display = 'block';
+
             fetchLocalJson(); // Fetch local JSON automatically
 
             if (user.type === 'admin') {
@@ -98,6 +106,7 @@ document.addEventListener('DOMContentLoaded', function () {
       document.getElementById('loginSection').style.display = 'block';
       document.getElementById('searchSection').style.display = 'none';
       document.getElementById('signOutButton').style.display = 'none';
+      document.getElementById('calendarToggle').style.display = 'none';
       document.getElementById('username').value = '';
       document.getElementById('password').value = '';
       backgroundName.style.display = 'none';
@@ -578,6 +587,103 @@ document.addEventListener('DOMContentLoaded', function () {
         suggestionsContainer.appendChild(separator);
       }
     });
+  }
+
+  // Toggle calendar visibility
+  calendarToggle.addEventListener('click', function () {
+    if (calendarContainer.style.display === 'none') {
+      calendarContainer.style.display = 'block';
+      generateCalendar();
+      calendarToggle.textContent = 'Hide Calendar';
+    } else {
+      calendarContainer.style.display = 'none';
+      calendarToggle.textContent = 'View Calendar';
+    }
+  });
+
+  // Helper function to parse date from card title
+  function parseDateFromTitle(title) {
+    const date = new Date(title + ' ' + new Date().getFullYear());
+    return `${date.getMonth() + 1}/${date.getDate()}`;
+  }
+
+  // Function to get the month name
+  function getMonthName(monthIndex) {
+    const monthNames = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+    return monthNames[monthIndex];
+  }
+
+  // Function to generate the calendar
+  function generateCalendar() {
+    const cardElements = document.querySelectorAll('.card');
+    const dateStatuses = {};
+
+    cardElements.forEach((card) => {
+      const dateTitle = card.querySelector('h3').textContent;
+      const dateKey = parseDateFromTitle(dateTitle);
+      const hasStoreCard = card.querySelector('.store-card') !== null;
+
+      if (!dateStatuses[dateKey]) {
+        dateStatuses[dateKey] = { hasStoreCard: false };
+      }
+
+      if (hasStoreCard) {
+        dateStatuses[dateKey].hasStoreCard = true;
+      }
+    });
+
+    const currentDate = new Date();
+    const month = currentDate.getMonth();
+    const year = currentDate.getFullYear();
+    const monthName = getMonthName(month);
+
+    const firstDay = new Date(year, month, 1).getDay();
+    const daysInMonth = new Date(year, month + 1, 0).getDate();
+
+    calendar.innerHTML = '';
+
+    // Add month name
+    const monthNameElement = document.createElement('div');
+    monthNameElement.id = 'monthName';
+    monthNameElement.textContent = monthName;
+    calendar.appendChild(monthNameElement);
+
+    // Add days of the week headers
+    const weekdays = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+    const weekdaysRow = document.createElement('div');
+    weekdaysRow.classList.add('weekdays');
+    weekdays.forEach((day) => {
+      const weekday = document.createElement('div');
+      weekday.classList.add('weekday');
+      weekday.textContent = day;
+      weekdaysRow.appendChild(weekday);
+    });
+    calendar.appendChild(weekdaysRow);
+
+    // Add empty days to align the first day of the month correctly
+    for (let i = 0; i < firstDay; i++) {
+      const emptyDay = document.createElement('div');
+      emptyDay.classList.add('calendar-day', 'empty');
+      calendar.appendChild(emptyDay);
+    }
+
+    // Add days of the month
+    for (let day = 1; day <= daysInMonth; day++) {
+      const date = `${month + 1}/${day}`;
+      const calendarDay = document.createElement('div');
+      calendarDay.classList.add('calendar-day');
+      calendarDay.textContent = day;
+
+      if (dateStatuses[date]) {
+        if (dateStatuses[date].hasStoreCard) {
+          calendarDay.classList.add('red');
+        } else {
+          calendarDay.classList.add('green');
+        }
+      }
+
+      calendar.appendChild(calendarDay);
+    }
   }
 
   // Fetch local JSON

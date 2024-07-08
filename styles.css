@@ -309,8 +309,62 @@ body.dark-mode h3 {
   height: fit-content;
 }
 
-#calendarToggle {
-  background-color: transparent;
+/* Add styles for calendar container */
+#calendarContainer {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  display: none;
+}
+
+/* Ensure calendar-day class has a uniform size */
+.calendar-day {
+  display: inline-block;
+  width: calc(100% / 7); /* 7 days a week */
+  height: 100px;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  text-align: center;
+  line-height: 100px;
+}
+
+.calendar-day.empty {
+  border: none;
+}
+
+.calendar-day.green {
+  background-color: green;
+  color: white;
+}
+
+.calendar-day.red {
+  background-color: red;
+  color: white;
+}
+
+/* Add styles for the month name */
+#monthName {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+/* Add styles for the days of the week headers */
+.weekdays {
+  display: flex;
+  justify-content: space-between;
+}
+
+.weekday {
+  width: calc(100% / 7);
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px 0;
+  border-bottom: 1px solid #ddd;
 }
 
 #darkModeToggle img {
@@ -322,6 +376,14 @@ body.dark-mode h3 {
 body.dark-mode #darkModeToggle img,
 body.dark-mode #calendarToggle img {
   filter: invert(1);
+}
+
+body.dark-mode #calendarContainer {
+  background-color: #161414;
+}
+
+body.dark-mode .calendar-day {
+  color: white;
 }
 
 @media (max-width: 900px) {
