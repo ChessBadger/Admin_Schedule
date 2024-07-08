@@ -635,6 +635,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     const currentDate = new Date();
+    const currentDay = currentDate.getDate();
     const month = currentDate.getMonth();
     const year = currentDate.getFullYear();
     const monthName = getMonthName(month);
@@ -675,6 +676,11 @@ document.addEventListener('DOMContentLoaded', function () {
       const calendarDay = document.createElement('div');
       calendarDay.classList.add('calendar-day');
       calendarDay.textContent = day;
+
+      // Highlight the current day
+      if (day === currentDay) {
+        calendarDay.classList.add('current-day');
+      }
 
       if (dateStatuses[date]) {
         if (dateStatuses[date].hasStoreCard) {

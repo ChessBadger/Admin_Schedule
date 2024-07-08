@@ -317,6 +317,7 @@ body.dark-mode h3 {
   background-color: #fff;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   display: none;
+  margin: 0 10px;
 }
 
 /* Ensure calendar-day class has a uniform size */
@@ -382,6 +383,56 @@ body.dark-mode .calendar-day.empty {
   font-weight: bold;
   padding: 10px 0;
   border-bottom: 1px solid #ddd;
+}
+
+.current-day {
+  border: 1.5px solid #ff0000 !important;
+  background-color: #fbfbfb !important;
+  color: #000000 !important;
+}
+
+#calendarKey {
+  margin-top: 20px;
+}
+
+.key-items {
+  display: flex;
+  justify-content: space-between;
+  align-items: center; /* Align items vertically */
+}
+
+.key-item {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.key-color {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-right: 5px; /* Adjust spacing if needed */
+  border: 1px solid #ddd;
+}
+
+body.dark-mode #calendarKey {
+  background-color: #1f1f1f;
+}
+
+.key-color.green {
+  background-color: rgb(18, 80, 18);
+}
+
+.key-color.red {
+  background-color: rgb(155, 45, 45);
+}
+
+.key-color.gray {
+  background-color: rgb(68, 70, 68, 30%);
+}
+
+body.dark-mode .key-color.gray {
+  background-color: rgb(200, 200, 200);
 }
 
 #darkModeToggle img {
