@@ -390,8 +390,13 @@
                 "@ Store",
                 "Rockford"
             ],
-            "Wyatt": [
+            "Makeda": [
                 "15)",
+                "@ Store",
+                "none"
+            ],
+            "Wyatt": [
+                "16)",
                 "@ Store",
                 "none"
             ]
@@ -402,19 +407,19 @@
         "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
-            "*PERISHABLE INVENTORY"
-        ],
-        "store_name": [
             "DC5-FINANCIAL"
         ],
-        "address": [
+        "store_name": [
             "METCALFE'S MARKET #560, WAUWATOSA"
         ],
-        "link": [
+        "address": [
             "6700 W STATE ST"
         ],
-        "store_note": [
+        "link": [
             "https://goo.gl/maps/hbUxBiCRdt72"
+        ],
+        "store_note": [
+            "*PERISHABLE INVENTORY"
         ],
         "employee_list": {
             "Kim": [
@@ -543,18 +548,23 @@
                 "@ Store",
                 "Rockford"
             ],
-            "Michael N": [
+            "Makeda": [
                 "15)",
+                "@ Store",
+                "none"
+            ],
+            "Michael N": [
+                "16)",
                 "@ Store",
                 "Rockford"
             ],
             "Nate": [
-                "16)",
+                "17)",
                 "@ Store,\nSupv Rx",
                 "none"
             ],
             "Wyatt": [
-                "17)",
+                "18)",
                 "@ Store",
                 "none"
             ]
@@ -565,19 +575,19 @@
         "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
-            "*FIRST INVENTORY WITH BADGER"
-        ],
-        "store_name": [
             "DC5-FINANCIAL"
         ],
-        "address": [
+        "store_name": [
             "PIGGLY WIGGLY #142, SUSSEX"
         ],
-        "link": [
+        "address": [
             "N63 W23735 MAIN ST"
         ],
-        "store_note": [
+        "link": [
             "https://maps.app.goo.gl/UHB7SgmVy27KNfWS7"
+        ],
+        "store_note": [
+            "*FIRST INVENTORY WITH BADGER"
         ],
         "employee_list": {
             "Kim": [
@@ -1373,23 +1383,28 @@
                 "@ Store",
                 "none"
             ],
-            "Michael N": [
+            "Makeda": [
                 "15)",
+                "@ Store",
+                "none"
+            ],
+            "Michael N": [
+                "16)",
                 "@ Store",
                 "Rockford"
             ],
             "Qiana": [
-                "16)",
+                "17)",
                 "@ Store,\nSupv Rx",
                 "none"
             ],
             "Taylor": [
-                "17)",
+                "18)",
                 "@ Store",
                 "none"
             ],
             "Wyatt": [
-                "18)",
+                "19)",
                 "@ Store",
                 "none"
             ]
@@ -1526,6 +1541,11 @@
             ],
             "Justin": [
                 "15)",
+                "@ Store",
+                "none"
+            ],
+            "Makeda": [
+                "16)",
                 "@ Store",
                 "none"
             ]
@@ -1742,23 +1762,28 @@
                 "@ Store",
                 "none"
             ],
-            "Michael N": [
+            "Makeda": [
                 "16)",
+                "@ Store",
+                "none"
+            ],
+            "Michael N": [
+                "17)",
                 "@ Store",
                 "Rockford"
             ],
             "Nate": [
-                "17)",
-                "@ Store",
-                "none"
-            ],
-            "Qiana": [
                 "18)",
                 "@ Store",
                 "none"
             ],
-            "Taylor": [
+            "Qiana": [
                 "19)",
+                "@ Store",
+                "none"
+            ],
+            "Taylor": [
+                "20)",
                 "@ Store",
                 "none"
             ]
