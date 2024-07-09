@@ -462,8 +462,8 @@ body.dark-mode .calendar-day.payday::before {
 
 .key-color {
   display: inline-block;
-  width: 20px;
-  height: 20px;
+  width: 25px;
+  height: 25px;
   margin-right: 5px; /* Adjust spacing if needed */
   border: 1px solid #ddd;
 }
