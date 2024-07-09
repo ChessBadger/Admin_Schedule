@@ -619,6 +619,11 @@ body.dark-mode #searchNameNote {
 .strikethrough {
   text-decoration: line-through;
   text-decoration-style: double;
+  color: lightgray;
+}
+
+body.dark-mode .strikethrough {
+  color: rgb(134, 133, 133);
 }
 
 .form-group {
