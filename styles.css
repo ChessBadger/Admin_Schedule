@@ -417,7 +417,7 @@ body.dark-mode .calendar-day.empty {
   left: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to bottom, transparent 45%, gold);
+  background: linear-gradient(135deg, transparent 50%, gold 50%);
   opacity: 0.5; /* Adjust opacity to control the intensity of the overlay */
   z-index: -1; /* Ensure it is behind the main element's content */
   pointer-events: none; /* Ensure it doesn't interfere with interactions */
@@ -438,7 +438,7 @@ body.dark-mode .calendar-day.payday::before {
   left: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to bottom, transparent 45%, gold);
+  background: linear-gradient(135deg, transparent 50%, gold 50%);
   opacity: 0.5; /* Adjust opacity to control the intensity of the overlay */
   z-index: -1; /* Ensure it is behind the main element's content */
   pointer-events: none; /* Ensure it doesn't interfere with interactions */
@@ -497,7 +497,7 @@ body.dark-mode #calendarKey {
   left: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to bottom, transparent 45%, gold);
+  background: linear-gradient(135deg, transparent 50%, gold 50%);
   opacity: 0.5; /* Adjust opacity to control the intensity of the overlay */
   z-index: -1; /* Ensure it is behind the main element's content */
   pointer-events: none; /* Ensure it doesn't interfere with interactions */
