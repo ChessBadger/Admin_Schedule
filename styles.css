@@ -323,13 +323,15 @@ body.dark-mode h3 {
 }
 
 #calendarContainer {
-  max-width: 400px; /* Adjust this value to make the calendar smaller */
-  margin: 20px auto;
-  padding: 10px; /* Adjust padding as needed */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 600px; /* Adjust the width as needed */
+  margin: 20px auto; /* This centers the container horizontally */
+  padding: 10px;
   background-color: #fff;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   display: none;
-  margin: 0 10px;
 }
 
 /* Ensure calendar-day class has a uniform size */
