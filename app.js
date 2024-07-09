@@ -717,6 +717,11 @@ document.addEventListener('DOMContentLoaded', function () {
         calendarDay.classList.add('gray');
       }
 
+      // Add click event to calendar days
+      calendarDay.addEventListener('click', function () {
+        scrollToDayCard(date);
+      });
+
       calendar.appendChild(calendarDay);
     }
 
@@ -741,6 +746,17 @@ document.addEventListener('DOMContentLoaded', function () {
 
       calendar.appendChild(calendarDay);
     }
+  }
+
+  function scrollToDayCard(date) {
+    const cardElements = document.querySelectorAll('.card');
+    cardElements.forEach((card) => {
+      const dateTitle = card.querySelector('h3').textContent;
+      const dateKey = parseDateFromTitle(dateTitle);
+      if (dateKey === date) {
+        card.scrollIntoView({ behavior: 'smooth' });
+      }
+    });
   }
 
   // Fetch local JSON
