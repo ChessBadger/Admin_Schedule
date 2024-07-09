@@ -680,6 +680,7 @@ document.addEventListener('DOMContentLoaded', function () {
       calendarDay.textContent = i;
 
       if (dateStatuses[date]) {
+        calendarDay.classList.remove('gray');
         if (dateStatuses[date].hasStoreCard) {
           calendarDay.classList.add('red');
         } else {
@@ -708,6 +709,7 @@ document.addEventListener('DOMContentLoaded', function () {
       }
 
       if (dateStatuses[date]) {
+        calendarDay.classList.remove('gray');
         if (dateStatuses[date].hasStoreCard) {
           calendarDay.classList.add('red');
         } else {
@@ -736,7 +738,13 @@ document.addEventListener('DOMContentLoaded', function () {
       calendarDay.classList.add('calendar-day', 'gray');
       calendarDay.textContent = day;
 
+      // Highlight paydays for the next month
+      if (isPayday(day, month + 1, year)) {
+        calendarDay.classList.add('payday');
+      }
+
       if (dateStatuses[date]) {
+        calendarDay.classList.remove('gray');
         if (dateStatuses[date].hasStoreCard) {
           calendarDay.classList.add('red');
         } else {
@@ -746,6 +754,14 @@ document.addEventListener('DOMContentLoaded', function () {
 
       calendar.appendChild(calendarDay);
     }
+  }
+
+  function isPayday(day, month, year) {
+    const startDate = new Date(2024, 6, 5); // July 5, 2024
+    const currentDate = new Date(year, month, day);
+    const diffTime = Math.abs(currentDate - startDate);
+    const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+    return diffDays % 14 === 0;
   }
 
   function scrollToDayCard(date) {
