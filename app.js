@@ -754,7 +754,7 @@ document.addEventListener('DOMContentLoaded', function () {
       const dateTitle = card.querySelector('h3').textContent;
       const dateKey = parseDateFromTitle(dateTitle);
       if (dateKey === date) {
-        card.scrollIntoView({ behavior: 'smooth' });
+        card.scrollIntoView({ behavior: 'auto' });
       }
     });
   }
