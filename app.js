@@ -621,7 +621,6 @@ document.addEventListener('DOMContentLoaded', function () {
     return diffDays % 14 === 0;
   }
 
-  // Function to generate the calendar
   function generateCalendar() {
     const cardElements = document.querySelectorAll('.card');
     const dateStatuses = {};
@@ -669,14 +668,29 @@ document.addEventListener('DOMContentLoaded', function () {
     });
     calendar.appendChild(weekdaysRow);
 
-    // Add empty days to align the first day of the month correctly
-    for (let i = 0; i < firstDay; i++) {
-      const emptyDay = document.createElement('div');
-      emptyDay.classList.add('calendar-day', 'empty');
-      calendar.appendChild(emptyDay);
+    // Calculate the number of days from the previous month to display
+    const previousMonthDays = new Date(year, month, 0).getDate();
+    const previousMonthStartDay = previousMonthDays - firstDay + 1;
+
+    // Add previous month's days
+    for (let i = previousMonthStartDay; i <= previousMonthDays; i++) {
+      const date = `${month}/${i}`;
+      const calendarDay = document.createElement('div');
+      calendarDay.classList.add('calendar-day', 'gray');
+      calendarDay.textContent = i;
+
+      if (dateStatuses[date]) {
+        if (dateStatuses[date].hasStoreCard) {
+          calendarDay.classList.add('red');
+        } else {
+          calendarDay.classList.add('green');
+        }
+      }
+
+      calendar.appendChild(calendarDay);
     }
 
-    // Add days of the month
+    // Add current month's days
     for (let day = 1; day <= daysInMonth; day++) {
       const date = `${month + 1}/${day}`;
       const calendarDay = document.createElement('div');
@@ -701,6 +715,28 @@ document.addEventListener('DOMContentLoaded', function () {
         }
       } else {
         calendarDay.classList.add('gray');
+      }
+
+      calendar.appendChild(calendarDay);
+    }
+
+    // Calculate the number of days to add from the next month
+    const totalCells = calendar.querySelectorAll('.calendar-day').length;
+    const nextMonthDays = 6 * 7 - totalCells;
+
+    // Add next month's days
+    for (let day = 1; day <= nextMonthDays; day++) {
+      const date = `${month + 2}/${day}`;
+      const calendarDay = document.createElement('div');
+      calendarDay.classList.add('calendar-day', 'gray');
+      calendarDay.textContent = day;
+
+      if (dateStatuses[date]) {
+        if (dateStatuses[date].hasStoreCard) {
+          calendarDay.classList.add('red');
+        } else {
+          calendarDay.classList.add('green');
+        }
       }
 
       calendar.appendChild(calendarDay);
