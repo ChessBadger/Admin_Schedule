@@ -812,20 +812,23 @@ body.dark-mode .close-btn {
   padding-bottom: 0;
 }
 
+/* Add this at the end of the CSS file */
 #welcomeContainer {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
   position: relative;
 }
 
 #employeeNameHeader {
-  flex-grow: 1;
   text-align: center;
 }
 
-.icon {
+#clipboardIcon {
+  position: absolute;
+  top: 2px; /* Adjust as needed */
+  right: 10px; /* Adjust as needed */
   width: 34px;
   height: 34px;
-  margin-left: 10px;
+}
+
+body.dark-mode .icon {
+  filter: invert(1);
 }
