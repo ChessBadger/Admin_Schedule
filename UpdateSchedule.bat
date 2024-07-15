@@ -2,8 +2,6 @@
 SETLOCAL
 SET REPO_DIR="C:\\Users\\clark\\OneDrive\\Desktop\\Master_Schedule"
 
-echo "Starting the script"
-
 :: Change to the repository directory
 cd /d %REPO_DIR%
 IF %ERRORLEVEL% NEQ 0 (
@@ -53,7 +51,7 @@ IF %ERRORLEVEL% NEQ 0 (
     pause
     exit /b %ERRORLEVEL%
 )
-echo "Schedule updates successfully"
+echo "Schedule updated successfully"
 
 pause
 ENDLOCAL

@@ -147,12 +147,12 @@ document.addEventListener('DOMContentLoaded', function () {
         mammoth
           .convertToHtml({ arrayBuffer: arrayBuffer })
           .then((result) => {
-            const bulletinContent = result.value;
+            const bulletinContent = result.value.trim(); // Trim the content to remove any extra spaces
             const savedBulletinContent = localStorage.getItem('bulletinContent');
             const bulletinViewed = localStorage.getItem('bulletinViewed') === 'true';
 
-            // Only show popup if bulletin content has changed or it has not been viewed before
-            if (bulletinContent !== savedBulletinContent || !bulletinViewed) {
+            // Only show popup if bulletin content has changed, it has not been viewed before, and the content is not empty
+            if (bulletinContent && (bulletinContent !== savedBulletinContent || !bulletinViewed)) {
               document.getElementById('bulletinContent').innerHTML = bulletinContent;
               showPopup();
 
