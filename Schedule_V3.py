@@ -13,7 +13,7 @@ import time
 
 # File paths
 excel_file_path = 'EmployeeListSchedule.xlsx'
-json_file_path = 'formatted_users.json'
+json_file_path = 'json/formatted_users.json'
 
 
 def prompt_user():
@@ -104,7 +104,7 @@ else:
 # ...
 
 
-json_file_path = 'store_runs.json'
+json_file_path = 'json/store_runs.json'
 
 # Check if the file exists and then delete it
 if os.path.exists(json_file_path):
@@ -177,7 +177,7 @@ class StoreRun:
 
 def save_store_runs_to_json():
     # after creating and populating the store_run object
-    json_file_path = 'store_runs.json'
+    json_file_path = 'json/store_runs.json'
 
     try:
         with open(json_file_path, 'r+') as file:
@@ -196,7 +196,7 @@ def save_store_runs_to_json():
 
 
 script_dir = os.path.dirname(__file__)
-config_path = os.path.join(script_dir, 'config.json')
+config_path = os.path.join(script_dir, 'json/config.json')
 
 # Load credentials from a JSON file
 with open(config_path) as config_file:
@@ -457,10 +457,10 @@ else:
 
 
 # Load the JSON data from the files
-with open('formatted_users.json', 'r') as f:
+with open('json/formatted_users.json', 'r') as f:
     users_data = json.load(f)
 
-with open('store_runs.json', 'r') as f:
+with open('json/store_runs.json', 'r') as f:
     store_runs_data = json.load(f)
 
 # Create a mapping of employee display names (in lowercase) to their office locations
@@ -475,7 +475,7 @@ for run in store_runs_data:
                 details[-1] = employee_office_mapping[employee.lower()]
 
 # Save the updated store_runs data back to a new JSON file
-updated_store_runs_path = 'store_runs.json'
+updated_store_runs_path = 'json/store_runs.json'
 with open(updated_store_runs_path, 'w') as f:
     json.dump(store_runs_data, f, indent=4)
 
@@ -488,7 +488,7 @@ with open(json_file_path, 'r') as file:
     store_runs_data = json.load(file)
 
 
-with open('formatted_users.json', 'r') as file:
+with open('json/formatted_users.json', 'r') as file:
     users_data = json.load(file)
 
 # Extract display names and first names from users data

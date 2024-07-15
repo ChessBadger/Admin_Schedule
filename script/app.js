@@ -398,7 +398,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
             if (employeeName.toLowerCase() == employee.toLowerCase()) {
               const crownImage = document.createElement('img');
-              crownImage.src = 'crown.png';
+              crownImage.src = 'images/crown.png';
               crownImage.classList.add('crown-logo');
               dateCard.appendChild(crownImage);
             }
@@ -410,12 +410,12 @@ document.addEventListener('DOMContentLoaded', function () {
               drivers.push(`${employee} <span style="color: green;">(${vehicle})</span>`);
             } else {
               const carLogoLight = document.createElement('img');
-              carLogoLight.src = 'car_logo_light.png';
+              carLogoLight.src = 'images/car_logo_light.png';
               carLogoLight.classList.add('car-logo', 'car-logo-light');
               dateCard.appendChild(carLogoLight);
 
               const carLogoDark = document.createElement('img');
-              carLogoDark.src = 'car_logo_dark.png';
+              carLogoDark.src = 'images/car_logo_dark.png';
               carLogoDark.classList.add('car-logo', 'car-logo-dark');
               dateCard.appendChild(carLogoDark);
             }

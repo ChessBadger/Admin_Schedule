@@ -321,28 +321,33 @@
                 "@ Store",
                 "none"
             ],
-            "Makeda": [
+            "Keilah": [
                 "14)",
+                "@ Store,\n1st Day",
+                "none"
+            ],
+            "Makeda": [
+                "15)",
                 "@ Store",
                 "none"
             ],
             "Michael N": [
-                "15)",
-                "@ Store",
+                "16)",
+                "@ Store,\nTrainer",
                 "Rockford"
             ],
             "Qiana": [
-                "16)",
+                "17)",
                 "@ Store,\nSupv Rx",
                 "none"
             ],
             "Taylor": [
-                "17)",
+                "18)",
                 "@ Store",
                 "none"
             ],
             "Wyatt": [
-                "18)",
+                "19)",
                 "@ Store",
                 "none"
             ]
@@ -695,28 +700,33 @@
                 "@ Store",
                 "none"
             ],
-            "Makeda": [
+            "Keilah": [
                 "15)",
+                "@ Store,\n2nd Day",
+                "none"
+            ],
+            "Makeda": [
+                "16)",
                 "@ Store",
                 "none"
             ],
             "Michael N": [
-                "16)",
-                "@ Store",
+                "17)",
+                "@ Store,\nTrainer",
                 "Rockford"
             ],
             "Nate": [
-                "17)",
-                "@ Store",
-                "none"
-            ],
-            "Qiana": [
                 "18)",
                 "@ Store",
                 "none"
             ],
-            "Taylor": [
+            "Qiana": [
                 "19)",
+                "@ Store",
+                "none"
+            ],
+            "Taylor": [
+                "20)",
                 "@ Store",
                 "none"
             ]
