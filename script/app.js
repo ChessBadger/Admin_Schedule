@@ -159,6 +159,8 @@ document.addEventListener('DOMContentLoaded', function () {
               // Save the new bulletin content and mark it as viewed
               localStorage.setItem('bulletinContent', bulletinContent);
               localStorage.setItem('bulletinViewed', 'true');
+            } else if (!bulletinContent) {
+              localStorage.setItem('bulletinContent', '');
             }
           })
           .catch((error) => console.error('Error parsing Word document:', error));
