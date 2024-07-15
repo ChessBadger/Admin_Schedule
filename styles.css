@@ -783,3 +783,8 @@ body.dark-mode .popup-content {
 body.dark-mode .close-btn {
   color: #fff;
 }
+
+.run-details p {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}

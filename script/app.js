@@ -354,12 +354,13 @@ document.addEventListener('DOMContentLoaded', function () {
           if (Array.isArray(run.meet_time)) {
             const filteredMeetTimes = filterMeetTimes(run.meet_time, searchNameOffice);
             if (filteredMeetTimes.length > 0) {
-              const meetTime = document.createElement('p');
+              const meetTime = document.createElement('span');
               const meetLinks = document.createElement('a');
               meetLinks.href = 'https://sites.google.com/view/badgeremployeeterminal/meetscontact-list?authuser=0';
-              meetLinks.innerHTML = `<small style="text-align: right">Can't find meet?</small>`;
+              meetLinks.innerHTML = `<small>(Cant' find meet?)</small>`;
               meetTime.innerHTML = `<strong>Meet Time:</strong> ${filteredMeetTimes.join(', ')}`;
               runElement.appendChild(meetTime);
+              runElement.appendChild(document.createTextNode('  -  ')); // Adding a space between the elements
               runElement.appendChild(meetLinks);
             }
           } else if (run.meet_time) {
