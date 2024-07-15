@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', function () {
       const password = document.getElementById('password').value;
 
       // Load user data from external file
-      fetch('formatted_users.json')
+      fetch('json/formatted_users.json')
         .then((response) => {
           if (!response.ok) {
             throw new Error('Network response was not ok');
@@ -209,7 +209,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // Fetch local JSON
   function fetchLocalJson() {
-    fetch('store_runs.json')
+    fetch('json/store_runs.json')
       .then((response) => response.json())
       .then((json) => {
         localStorage.setItem('jsonData', JSON.stringify(json));
@@ -883,7 +883,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // Fetch local JSON
   function fetchLocalJson() {
-    fetch('store_runs.json')
+    fetch('json/store_runs.json')
       .then((response) => response.json())
       .then((json) => {
         localStorage.setItem('jsonData', JSON.stringify(json));
