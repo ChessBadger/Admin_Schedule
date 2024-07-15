@@ -126,41 +126,75 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
-  // Fetch and display bulletin content from Word document
-  fetch('bulletin.docx')
-    .then((response) => response.arrayBuffer())
-    .then((arrayBuffer) => {
-      mammoth
-        .convertToHtml({ arrayBuffer: arrayBuffer })
-        .then((result) => {
-          document.getElementById('bulletinContent').innerHTML = result.value;
-        })
-        .catch((error) => console.error('Error parsing Word document:', error));
-    })
-    .catch((error) => console.error('Error fetching bulletin content:', error));
+  function fetchAndSaveBulletinContent() {
+    // Check if the user is logged in
+    const savedUsername = localStorage.getItem('username');
+    if (!savedUsername) {
+      return; // Do not show the bulletin if the user is not logged in
+    }
 
-  // Popup functionality
-  const popup = document.getElementById('popup');
-  const closePopup = document.getElementById('closePopup');
+    fetch('bulletin.docx')
+      .then((response) => response.arrayBuffer())
+      .then((arrayBuffer) => {
+        mammoth
+          .convertToHtml({ arrayBuffer: arrayBuffer })
+          .then((result) => {
+            const bulletinContent = result.value;
+            const savedBulletinContent = localStorage.getItem('bulletinContent');
+            const bulletinViewed = localStorage.getItem('bulletinViewed') === 'true';
 
+            // Only show popup if bulletin content has changed or it has not been viewed before
+            if (bulletinContent !== savedBulletinContent || !bulletinViewed) {
+              document.getElementById('bulletinContent').innerHTML = bulletinContent;
+              showPopup();
+
+              // Save the new bulletin content and mark it as viewed
+              localStorage.setItem('bulletinContent', bulletinContent);
+              localStorage.setItem('bulletinViewed', 'true');
+            }
+          })
+          .catch((error) => console.error('Error parsing Word document:', error));
+      })
+      .catch((error) => console.error('Error fetching bulletin content:', error));
+  }
+
+  // Show popup
   function showPopup() {
-    popup.classList.remove('hidden');
+    document.getElementById('popup').classList.remove('hidden');
   }
 
+  // Hide popup
   function hidePopup() {
-    popup.classList.add('hidden');
+    document.getElementById('popup').classList.add('hidden');
+    // Mark bulletin as viewed when the popup is closed
+    localStorage.setItem('bulletinViewed', 'true');
   }
 
-  closePopup.addEventListener('click', hidePopup);
+  document.getElementById('closePopup').addEventListener('click', hidePopup);
 
-  // Show popup on page load
-  showPopup();
+  // Show popup on page load if conditions are met
+  fetchAndSaveBulletinContent();
 
-  // Hide popup when clicking outside of it
   window.addEventListener('click', function (event) {
-    if (event.target === popup) {
+    if (event.target === document.getElementById('popup')) {
       hidePopup();
     }
+  });
+
+  document.addEventListener('DOMContentLoaded', function () {
+    const popup = document.getElementById('popup');
+    const closePopup = document.getElementById('closePopup');
+
+    closePopup.addEventListener('click', hidePopup);
+
+    // Show popup on page load if conditions are met
+    fetchAndSaveBulletinContent();
+
+    window.addEventListener('click', function (event) {
+      if (event.target === popup) {
+        hidePopup();
+      }
+    });
   });
 
   // Fetch local JSON
