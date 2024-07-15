@@ -548,7 +548,8 @@ body.dark-mode #calendarKey {
 }
 
 body.dark-mode .key-color.gray,
-body.dark-mode .key-color.gold {
+body.dark-mode .key-color.gold,
+body.dark-mode .key-color.blue {
   background-color: rgb(200, 200, 200);
 }
 
