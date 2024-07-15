@@ -28,6 +28,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const savedUsername = localStorage.getItem('username');
   const savedUserType = localStorage.getItem('userType');
   const savedUserDisplayName = localStorage.getItem('userDisplayName');
+  const formattedName = savedUserDisplayName.charAt(0).toUpperCase() + savedUserDisplayName.slice(1).toLowerCase();
 
   if (savedUsername) {
     document.getElementById('loginSection').style.display = 'none';
@@ -43,7 +44,7 @@ document.addEventListener('DOMContentLoaded', function () {
       document.getElementById('searchButton').style.display = 'none';
       searchInputGroup.style.display = 'none';
       const employeeNameHeader = document.getElementById('employeeNameHeader');
-      employeeNameHeader.textContent = `Welcome, ${savedUserDisplayName}`;
+      employeeNameHeader.textContent = `Welcome, ${formattedName}`;
       performSearch(savedUserDisplayName); // Perform search for the logged-in user
     }
   } else {
