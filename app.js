@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', function () {
       document.getElementById('searchButton').style.display = 'none';
       searchInputGroup.style.display = 'none';
       const employeeNameHeader = document.getElementById('employeeNameHeader');
-      employeeNameHeader.textContent = `${savedUserDisplayName.toUpperCase()}`;
+      employeeNameHeader.textContent = `Welcome, ${savedUserDisplayName}`;
       performSearch(savedUserDisplayName); // Perform search for the logged-in user
     }
   } else {
