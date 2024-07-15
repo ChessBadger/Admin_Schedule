@@ -355,6 +355,7 @@ document.addEventListener('DOMContentLoaded', function () {
             const filteredMeetTimes = filterMeetTimes(run.meet_time, searchNameOffice);
             if (filteredMeetTimes.length > 0) {
               const meetTime = document.createElement('p');
+              meetTime.classList.add('meetTime');
               const meetLinks = document.createElement('a');
               meetLinks.href = 'https://sites.google.com/view/badgeremployeeterminal/meetscontact-list?authuser=0';
               meetLinks.innerHTML = `<small style="text-align: right">Can't find meet?</small>`;

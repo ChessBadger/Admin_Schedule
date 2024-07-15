@@ -807,7 +807,7 @@ body.dark-mode .close-btn {
   }
 }
 
-.run-details p {
+.run-details .meetTime {
   margin-bottom: 0;
   padding-bottom: 0;
 }
