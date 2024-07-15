@@ -426,7 +426,7 @@ body.dark-mode .calendar-day.empty {
 }
 
 /* Existing styles */
-body.dark-mode .calendar-day.payday {
+.blue {
   font-weight: bold;
   position: relative; /* Ensure the element can contain the pseudo-element */
   z-index: 1; /* Ensure it is above the pseudo-element */
@@ -446,20 +446,43 @@ body.dark-mode .calendar-day.payday::before {
   pointer-events: none; /* Ensure it doesn't interfere with interactions */
 }
 
+.weekendDay {
+  font-weight: bold;
+  position: relative; /* Ensure the element can contain the pseudo-element */
+  z-index: 1; /* Ensure it is above the pseudo-element */
+}
+
+.weekendDay::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, transparent 50%, blue 50%);
+  opacity: 0.5; /* Adjust opacity to control the intensity of the overlay */
+  z-index: -1; /* Ensure it is behind the main element's content */
+  pointer-events: none; /* Ensure it doesn't interfere with interactions */
+}
+
 #calendarKey {
   margin-top: 20px;
 }
 
 .key-items {
   display: flex;
+  flex-wrap: wrap; /* Allow items to wrap to the next line */
   justify-content: space-between;
-  align-items: center; /* Align items vertically */
+  align-items: center;
+  margin-bottom: 10px; /* Add some space between lines if needed */
 }
 
 .key-item {
   display: flex;
   align-items: center;
   margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 10px; /* Add margin to ensure spacing when wrapped */
 }
 
 .key-color {
@@ -484,6 +507,25 @@ body.dark-mode #calendarKey {
 
 .key-color.gray {
   background-color: rgb(68, 70, 68, 30%);
+}
+
+.key-color.blue {
+  background-color: rgba(68, 68, 70, 0.3);
+  position: relative; /* Ensure the element can contain the pseudo-element */
+  z-index: 1; /* Ensure it is above the pseudo-element */
+}
+
+.key-color.blue::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, transparent 50%, blue 50%);
+  opacity: 0.5; /* Adjust opacity to control the intensity of the overlay */
+  z-index: -1; /* Ensure it is behind the main element's content */
+  pointer-events: none; /* Ensure it doesn't interfere with interactions */
 }
 
 .key-color.gold {

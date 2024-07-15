@@ -663,9 +663,36 @@ document.addEventListener('DOMContentLoaded', function () {
     return diffDays % 14 === 0;
   }
 
+  function extractDatesFromBulletin() {
+    const bulletinContent = document.getElementById('bulletinContent').textContent;
+    const datePattern = /([A-Z][a-z]{2})? ?(\d{1,2})(?:th|st|nd|rd)?/g;
+    const datesWithSuffixes = bulletinContent.match(datePattern);
+
+    if (!datesWithSuffixes) return [];
+
+    let lastMonth = null;
+
+    // Remove the suffixes and assume the month for dates
+    return datesWithSuffixes.map((date) => {
+      const monthDayMatch = date.match(/([A-Z][a-z]{2})? ?(\d{1,2})(?:th|st|nd|rd)?/);
+      let month = monthDayMatch[1];
+      const day = monthDayMatch[2];
+
+      if (month) {
+        lastMonth = month;
+      } else {
+        month = lastMonth;
+      }
+
+      return `${month} ${day}`;
+    });
+  }
+
   function generateCalendar() {
     const cardElements = document.querySelectorAll('.card');
     const dateStatuses = {};
+    const bulletinDates = extractDatesFromBulletin();
+    const currentYear = new Date().getFullYear();
 
     cardElements.forEach((card) => {
       const dateTitle = card.querySelector('h3').textContent;
@@ -692,13 +719,11 @@ document.addEventListener('DOMContentLoaded', function () {
 
     calendar.innerHTML = '';
 
-    // Add month name
     const monthNameElement = document.createElement('div');
     monthNameElement.id = 'monthName';
     monthNameElement.textContent = monthName;
     calendar.appendChild(monthNameElement);
 
-    // Add days of the week headers
     const weekdays = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
     const weekdaysRow = document.createElement('div');
     weekdaysRow.classList.add('weekdays');
@@ -710,11 +735,9 @@ document.addEventListener('DOMContentLoaded', function () {
     });
     calendar.appendChild(weekdaysRow);
 
-    // Calculate the number of days from the previous month to display
     const previousMonthDays = new Date(year, month, 0).getDate();
     const previousMonthStartDay = previousMonthDays - firstDay + 1;
 
-    // Add previous month's days
     for (let i = previousMonthStartDay; i <= previousMonthDays; i++) {
       const date = `${month}/${i}`;
       const calendarDay = document.createElement('div');
@@ -733,19 +756,16 @@ document.addEventListener('DOMContentLoaded', function () {
       calendar.appendChild(calendarDay);
     }
 
-    // Add current month's days
     for (let day = 1; day <= daysInMonth; day++) {
       const date = `${month + 1}/${day}`;
       const calendarDay = document.createElement('div');
       calendarDay.classList.add('calendar-day');
       calendarDay.textContent = day;
 
-      // Highlight the current day
       if (day === currentDay) {
         calendarDay.classList.add('current-day');
       }
 
-      // Highlight paydays
       if (isPayday(day, month, year)) {
         calendarDay.classList.add('payday');
       }
@@ -761,7 +781,10 @@ document.addEventListener('DOMContentLoaded', function () {
         calendarDay.classList.add('gray');
       }
 
-      // Add click event to calendar days
+      if (bulletinDates.includes(`${getMonthName(month).substring(0, 3)} ${day}`)) {
+        calendarDay.classList.add('weekendDay');
+      }
+
       calendarDay.addEventListener('click', function () {
         scrollToDayCard(date);
       });
@@ -769,18 +792,15 @@ document.addEventListener('DOMContentLoaded', function () {
       calendar.appendChild(calendarDay);
     }
 
-    // Calculate the number of days to add from the next month
     const totalCells = calendar.querySelectorAll('.calendar-day').length;
     const nextMonthDays = 6 * 7 - totalCells;
 
-    // Add next month's days
     for (let day = 1; day <= nextMonthDays; day++) {
       const date = `${month + 2}/${day}`;
       const calendarDay = document.createElement('div');
       calendarDay.classList.add('calendar-day', 'gray');
       calendarDay.textContent = day;
 
-      // Highlight paydays for the next month
       if (isPayday(day, month + 1, year)) {
         calendarDay.classList.add('payday');
       }
