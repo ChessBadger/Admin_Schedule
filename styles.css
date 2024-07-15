@@ -784,6 +784,29 @@ body.dark-mode .close-btn {
   color: #fff;
 }
 
+/* Mobile styles */
+@media (max-width: 600px) {
+  .popup-content {
+    width: 95%; /* Increase the width for smaller screens */
+    padding: 15px; /* Reduce padding for smaller screens */
+    margin: auto 20px;
+  }
+
+  .close-btn {
+    font-size: 20px; /* Reduce font size for close button */
+    top: 5px; /* Adjust position */
+    right: 5px; /* Adjust position */
+  }
+
+  h2 {
+    font-size: 1.5em; /* Adjust font size for header */
+  }
+
+  #bulletinContent {
+    font-size: 1em; /* Adjust font size for content */
+  }
+}
+
 .run-details p {
   margin-bottom: 0;
   padding-bottom: 0;
