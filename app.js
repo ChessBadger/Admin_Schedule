@@ -126,6 +126,43 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
+  // Fetch and display bulletin content from Word document
+  fetch('bulletin.docx')
+    .then((response) => response.arrayBuffer())
+    .then((arrayBuffer) => {
+      mammoth
+        .convertToHtml({ arrayBuffer: arrayBuffer })
+        .then((result) => {
+          document.getElementById('bulletinContent').innerHTML = result.value;
+        })
+        .catch((error) => console.error('Error parsing Word document:', error));
+    })
+    .catch((error) => console.error('Error fetching bulletin content:', error));
+
+  // Popup functionality
+  const popup = document.getElementById('popup');
+  const closePopup = document.getElementById('closePopup');
+
+  function showPopup() {
+    popup.classList.remove('hidden');
+  }
+
+  function hidePopup() {
+    popup.classList.add('hidden');
+  }
+
+  closePopup.addEventListener('click', hidePopup);
+
+  // Show popup on page load
+  showPopup();
+
+  // Hide popup when clicking outside of it
+  window.addEventListener('click', function (event) {
+    if (event.target === popup) {
+      hidePopup();
+    }
+  });
+
   // Fetch local JSON
   function fetchLocalJson() {
     fetch('store_runs.json')
