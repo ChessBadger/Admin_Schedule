@@ -16,6 +16,14 @@ document.addEventListener('DOMContentLoaded', function () {
     document.body.classList.add('dark-mode');
   }
 
+  const clipboardIcon = document.getElementById('clipboardIcon');
+  if (clipboardIcon) {
+    clipboardIcon.addEventListener('click', function () {
+      document.getElementById('bulletinContent').innerHTML = localStorage.getItem('bulletinContent');
+      showPopup(); // Show the bulletin popup
+    });
+  }
+
   // Check for saved login
   const savedUsername = localStorage.getItem('username');
   const savedUserType = localStorage.getItem('userType');

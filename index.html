@@ -130,7 +130,12 @@
 
     <div class="container" id="searchSection" style="display: none">
       <h1 id="searchTitle">Search Employee</h1>
-      <h3 id="employeeNameHeader"></h3>
+      <!-- Wrap the welcome text and clipboard icon in a container -->
+      <div id="welcomeContainer">
+        <h3 id="employeeNameHeader"></h3>
+        <img src="clipboard.png" id="clipboardIcon" alt="Clipboard Icon" class="icon" style="cursor: pointer" />
+      </div>
+
       <form id="searchForm">
         <div class="form-group" id="searchInputGroup">
           <label for="employeeName">Employee Name:</label>

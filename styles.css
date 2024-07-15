@@ -811,3 +811,21 @@ body.dark-mode .close-btn {
   margin-bottom: 0;
   padding-bottom: 0;
 }
+
+#welcomeContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+
+#employeeNameHeader {
+  flex-grow: 1;
+  text-align: center;
+}
+
+.icon {
+  width: 34px;
+  height: 34px;
+  margin-left: 10px;
+}
