@@ -286,7 +286,7 @@ document.addEventListener('DOMContentLoaded', function () {
               const meetTime = document.createElement('span');
               const meetLinks = document.createElement('a');
               meetLinks.href = 'https://sites.google.com/view/badgeremployeeterminal/meetscontact-list?authuser=0';
-              meetLinks.innerHTML = ` <small>(Find meet?)</small>`;
+              meetLinks.innerHTML = `<small>(Cant' find meet?)</small>`;
               meetTime.innerHTML = `<strong>Meet Time:</strong> ${filteredMeetTimes.join(', ')}`;
               runElement.appendChild(meetTime);
               runElement.appendChild(document.createTextNode('  -  ')); // Adding a space between the elements
