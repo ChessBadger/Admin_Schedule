@@ -849,6 +849,10 @@ document.addEventListener('DOMContentLoaded', function () {
         calendarDay.classList.add('payday');
       }
 
+      if (isBulletinDay(day, month + 1)) {
+        calendarDay.classList.add('weekendDay');
+      }
+
       if (dateStatuses[date]) {
         calendarDay.classList.remove('gray');
         if (dateStatuses[date].hasStoreCard) {
@@ -868,6 +872,17 @@ document.addEventListener('DOMContentLoaded', function () {
     const diffTime = Math.abs(currentDate - startDate);
     const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
     return diffDays % 14 === 0;
+  }
+
+  function isBulletinDay(day, month) {
+    const bulletinDates = extractDatesFromBulletin();
+    const monthName = getMonthName(month).substring(0, 3);
+    const formattedDate = `${monthName} ${day}`;
+
+    // console.log(formattedDate);
+    console.log(bulletinDates);
+
+    return bulletinDates.includes(formattedDate);
   }
 
   function scrollToDayCard(date) {
