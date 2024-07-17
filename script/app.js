@@ -142,7 +142,7 @@ document.addEventListener('DOMContentLoaded', function () {
       return; // Do not show the bulletin if the user is not logged in
     }
 
-    fetch('bulletin.docx')
+    fetch('Bulletin Board.docx')
       .then((response) => response.arrayBuffer())
       .then((arrayBuffer) => {
         mammoth

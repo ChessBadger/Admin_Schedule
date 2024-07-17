@@ -1219,7 +1219,7 @@
             "https://goo.gl/maps/Cym6uGHHdf92"
         ],
         "store_note": [
-            "STORE RESETS-REMAPPED <br><hr id=\"note_separator\">5:15 am meet for Carlie/Trevor at Grafton Park n Ride"
+            "STORE RESETS-REMAPPED <br><hr id=\"note_separator\">5:15 am meet for Grafton Crew at Grafton Park n Ride"
         ],
         "employee_list": {
             "Brianna": [
@@ -1229,101 +1229,111 @@
             ],
             "Carlie": [
                 "2)",
-                "@ Store\n(w/ Trevor)",
+                "(Driver),\nTrainer (work w/ Cristi)",
+                "none"
+            ],
+            "Cristi": [
+                "3)",
+                "(w/ Carlie),\n1st Day",
                 "none"
             ],
             "Cynthia": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Greg": [
                 "4)",
                 "",
                 "none"
             ],
-            "Jerry D": [
+            "Greg": [
                 "5)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "6)",
                 "",
                 "Milwaukee"
             ],
             "Paul": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Robyn": [
                 "7)",
                 "",
                 "none"
             ],
-            "Trevor": [
+            "Robyn": [
                 "8)",
-                "@ Store\n(w/ Carlie)",
+                "",
+                "none"
+            ],
+            "Trevor": [
+                "9)",
+                "(w/ Carlie)",
+                "none"
+            ],
+            "Yvette": [
+                "10)",
+                "(w/ Carlie),\n1st Day",
                 "none"
             ],
             "Angela": [
-                "9)",
+                "11)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Anisha": [
-                "10)",
-                "@ Store",
-                "none"
-            ],
-            "Ashley P": [
-                "11)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Elijah": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Eva": [
+            "Ashley P": [
                 "13)",
-                "@ Store",
-                "none"
+                "@ Store,\nTrainer (work w/ Yvette)",
+                "Rockford"
             ],
-            "Joseph": [
+            "Elijah": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Josh S": [
+            "Eva": [
                 "15)",
                 "@ Store",
-                "Rockford"
+                "none"
             ],
-            "Justin": [
+            "Joseph": [
                 "16)",
                 "@ Store",
                 "none"
             ],
-            "Makeda": [
+            "Josh S": [
                 "17)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Justin": [
+                "18)",
+                "@ Store",
+                "none"
+            ],
+            "Makeda": [
+                "19)",
                 "@ Store",
                 "none"
             ],
             "Michael N": [
-                "18)",
+                "20)",
                 "@ Store",
                 "Rockford"
             ],
             "Nate": [
-                "19)",
+                "21)",
                 "@ Store,\nSupv Rx",
                 "none"
             ],
             "Taylor": [
-                "20)",
+                "22)",
                 "@ Store",
                 "none"
             ],
             "Wyatt": [
-                "21)",
+                "23)",
                 "@ Store",
                 "none"
             ]
@@ -1437,7 +1447,7 @@
             "https://goo.gl/maps/Uwk2eGLNZaB2"
         ],
         "store_note": [
-            "5:00 am meet for Carlie/Trevor at Grafton Park n Ride"
+            "5:00 am meet for Grafton Crew at Grafton Park n Ride"
         ],
         "employee_list": {
             "DJ": [
@@ -1447,96 +1457,111 @@
             ],
             "Carlie": [
                 "2)",
-                "@ Store\n(w/ Trevor)",
+                "(Driver),\nTrainer (work w/ Cristi)",
+                "none"
+            ],
+            "Cristi": [
+                "3)",
+                "(w/ Carlie),\n2nd Day",
                 "none"
             ],
             "Jerry D": [
-                "3)",
+                "4)",
                 "",
                 "Milwaukee"
             ],
             "Sonia": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Stephanie": [
                 "5)",
                 "",
                 "none"
             ],
-            "Trevor": [
+            "Stephanie": [
                 "6)",
-                "@ Store\n(w/ Carlie)",
+                "",
+                "none"
+            ],
+            "Trevor": [
+                "7)",
+                "(w/ Carlie)",
+                "none"
+            ],
+            "Yvette": [
+                "8)",
+                "(w/ Carlie),\n2nd Day",
                 "none"
             ],
             "Angela": [
-                "7)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Anisha": [
-                "8)",
-                "@ Store",
+                "10)",
+                "@ Store,\nTrainer (work w/ Keilah)",
                 "none"
             ],
             "Ashley P": [
-                "9)",
-                "@ Store",
+                "11)",
+                "@ Store,\nTrainer (work w/ Yvette)",
                 "Rockford"
             ],
             "Eva": [
-                "10)",
+                "12)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Evelin": [
-                "11)",
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Joseph": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
-            "Josh S": [
-                "13)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Lori": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Makeda": [
+            "Josh S": [
                 "15)",
-                "@ Store",
-                "none"
-            ],
-            "Michael N": [
-                "16)",
                 "@ Store",
                 "Rockford"
             ],
-            "Nate": [
-                "17)",
-                "@ Store,\nSupv Rx",
+            "Keilah": [
+                "16)",
+                "@ Store,\n3rd Scan",
                 "none"
             ],
-            "Sarah": [
+            "Lori": [
+                "17)",
+                "@ Store",
+                "none"
+            ],
+            "Makeda": [
                 "18)",
                 "@ Store",
                 "none"
             ],
-            "Taylor": [
+            "Michael N": [
                 "19)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Nate": [
+                "20)",
+                "@ Store,\nSupv Rx",
+                "none"
+            ],
+            "Sarah": [
+                "21)",
+                "@ Store",
+                "none"
+            ],
+            "Taylor": [
+                "22)",
                 "@ Store",
                 "none"
             ],
             "Wyatt": [
-                "20)",
+                "23)",
                 "@ Store",
                 "none"
             ]
@@ -1669,7 +1694,7 @@
             "https://goo.gl/maps/GGpTSE57XBK2"
         ],
         "store_note": [
-            "STORE RESETS-REMAPPED <br><hr id=\"note_separator\">5:15 am meet for Carlie/Trevor at Grafton Park n Ride"
+            "STORE RESETS-REMAPPED <br><hr id=\"note_separator\">5:15 am meet for Grafton Crew at Grafton Park n Ride"
         ],
         "employee_list": {
             "Kim": [
@@ -1679,7 +1704,7 @@
             ],
             "Carlie": [
                 "2)",
-                "@ Store\n(w/ Trevor)",
+                "(Driver),\nTrainer (work w/ Cristi)",
                 "none"
             ],
             "Casey": [
@@ -1687,83 +1712,93 @@
                 "",
                 "none"
             ],
-            "Curt": [
+            "Cristi": [
                 "4)",
-                "",
+                "(w/ Carlie),\n3rd Day",
                 "none"
             ],
-            "Cynthia": [
+            "Curt": [
                 "5)",
                 "",
                 "none"
             ],
-            "DJ": [
+            "Cynthia": [
                 "6)",
+                "",
+                "none"
+            ],
+            "DJ": [
+                "7)",
                 "After Aurora",
                 "none"
             ],
             "Ian": [
-                "7)",
+                "8)",
                 "Rx",
                 "none"
             ],
             "Jerry D": [
-                "8)",
-                "",
-                "Milwaukee"
-            ],
-            "Joshua M": [
                 "9)",
                 "",
                 "Milwaukee"
             ],
-            "Paul": [
+            "Joshua M": [
                 "10)",
+                "",
+                "Milwaukee"
+            ],
+            "Paul": [
+                "11)",
                 "",
                 "none"
             ],
             "Trevor": [
-                "11)",
-                "@ Store\n(w/ Carlie)",
+                "12)",
+                "(w/ Carlie)",
                 "none"
             ],
             "Via": [
-                "12)",
+                "13)",
                 "",
                 "none"
             ],
             "Anisha": [
-                "13)",
-                "@ Store",
+                "14)",
+                "@ Store,\nTrainer (work w/ Keilah)",
                 "none"
             ],
             "Ashley P": [
-                "14)",
+                "15)",
                 "@ Store,\nSupv Rx",
                 "Rockford"
             ],
             "Elijah": [
-                "15)",
-                "@ Store",
-                "none"
-            ],
-            "Evelin": [
                 "16)",
                 "@ Store",
                 "none"
             ],
-            "Joseph": [
+            "Evelin": [
                 "17)",
                 "@ Store",
                 "none"
             ],
-            "Josh S": [
+            "Joseph": [
                 "18)",
+                "@ Store",
+                "none"
+            ],
+            "Josh S": [
+                "19)",
                 "@ Store",
                 "Rockford"
             ],
+            "Keilah": [
+                "20)",
+                "@ Store,\n4th Scan",
+                "none"
+            ],
             "Makeda": [
-                "19)",
+                "21)",
                 "@ Store",
                 "none"
             ]

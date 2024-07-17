@@ -9,6 +9,8 @@ import re
 import pandas as pd
 import sys
 import time
+from googleapiclient.http import MediaIoBaseDownload
+import io
 
 
 # File paths
@@ -203,7 +205,9 @@ with open(config_path) as config_file:
 scope = [
     'https://spreadsheets.google.com/feeds',
     'https://www.googleapis.com/auth/drive',
-    'https://www.googleapis.com/auth/spreadsheets'
+    'https://www.googleapis.com/auth/spreadsheets',
+    'https://www.googleapis.com/auth/documents'
+
 ]
 creds = Credentials.from_service_account_info(credentials, scopes=scope)
 
@@ -221,6 +225,31 @@ folders = folder_response.get('files', [])
 
 if folders:
     folder_id = folders[0]['id']  # Taking the first folder found
+
+    # List all sheets in the specified folder using the folder ID
+    doc_query = f"mimeType='application/vnd.google-apps.document' and '{folder_id}' in parents"
+    doc_file_response = drive_service.files().list(q=doc_query).execute()
+    doc_files = doc_file_response.get('files', [])
+
+    for file in doc_files:
+        file_id = file['id']
+        file_name = file['name']
+
+        # Request to export the Google Docs file as a .docx file
+        request = drive_service.files().export_media(fileId=file_id,
+                                                     mimeType='application/vnd.openxmlformats-officedocument.wordprocessingml.document')
+        file_path = os.path.join(os.getcwd(), f"{file_name}.docx")
+
+        # Download the file to the current directory
+        with io.FileIO(file_path, 'wb') as fh:
+            downloader = MediaIoBaseDownload(fh, request)
+            done = False
+            while not done:
+                status, done = downloader.next_chunk()
+                print(
+                    f"Downloading {file_name}: {int(status.progress() * 100)}%")
+
+    print("Download complete.")
 
     # List all sheets in the specified folder using the folder ID
     query = f"mimeType='application/vnd.google-apps.spreadsheet' and '{folder_id}' in parents"
