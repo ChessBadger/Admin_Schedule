@@ -953,12 +953,13 @@ document.addEventListener('DOMContentLoaded', function () {
     closeSidePanel();
   });
 
-  // Function to open the side panel
+  // Function to open the sidepanel with a delay
   function openSidePanel() {
-    sidepanel.style.width = '250px';
-    main.style.marginLeft = '250px';
+    sidepanel.style.width = '0';
     sidepanel.classList.remove('hidden');
-    localStorage.setItem('sidePanelOpen', 'true');
+    setTimeout(() => {
+      sidepanel.style.width = '250px'; // Adjust this value to your desired width
+    }, 150); // Delay of 300ms
   }
 
   // Function to close the side panel
