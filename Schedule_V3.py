@@ -249,8 +249,6 @@ if folders:
                 print(
                     f"Downloading {file_name}: {int(status.progress() * 100)}%")
 
-    print("Download complete.")
-
     # List all sheets in the specified folder using the folder ID
     query = f"mimeType='application/vnd.google-apps.spreadsheet' and '{folder_id}' in parents"
     file_response = drive_service.files().list(q=query).execute()
