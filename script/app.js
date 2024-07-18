@@ -978,3 +978,21 @@ document.addEventListener('DOMContentLoaded', function () {
   window.addEventListener('click', outsideClickListener);
   window.addEventListener('touchstart', outsideClickListener);
 });
+
+document.addEventListener('DOMContentLoaded', function () {
+  const openbtn = document.getElementById('openbtn');
+  const openbtnImg = openbtn.querySelector('img');
+
+  openbtn.addEventListener('click', function () {
+    openbtnImg.classList.add('animate');
+
+    // Remove the animation class after the animation ends
+    openbtnImg.addEventListener(
+      'animationend',
+      function () {
+        openbtnImg.classList.remove('animate');
+      },
+      { once: true }
+    );
+  });
+});
