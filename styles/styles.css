@@ -885,6 +885,16 @@ body.dark-mode .icon {
   background-color: transparent;
 }
 
+#openbtn img {
+  height: 40px;
+  width: 35px;
+  pointer-events: none;
+}
+
+body.dark-mode #openbtn img {
+  filter: invert(1);
+}
+
 body.dark-mode #openbtn {
   background-color: transparent;
   color: white;
