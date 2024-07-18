@@ -963,10 +963,13 @@ document.addEventListener('DOMContentLoaded', function () {
     localStorage.setItem('sidePanelOpen', 'false');
   }
 
-  // Close the side panel if the user clicks outside of it
-  window.addEventListener('click', function (event) {
+  // Close the side panel if the user clicks or taps outside of it
+  function outsideClickListener(event) {
     if (event.target !== sidepanel && !sidepanel.contains(event.target) && event.target !== openbtn) {
       closeSidePanel();
     }
-  });
+  }
+
+  window.addEventListener('click', outsideClickListener);
+  window.addEventListener('touchstart', outsideClickListener);
 });
