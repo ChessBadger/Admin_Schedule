@@ -28,7 +28,9 @@ document.addEventListener('DOMContentLoaded', function () {
   const savedUsername = localStorage.getItem('username');
   const savedUserType = localStorage.getItem('userType');
   const savedUserDisplayName = localStorage.getItem('userDisplayName');
-  const formattedName = savedUserDisplayName.charAt(0).toUpperCase() + savedUserDisplayName.slice(1).toLowerCase();
+  if (savedUserDisplayName) {
+    const formattedName = savedUserDisplayName.charAt(0).toUpperCase() + savedUserDisplayName.slice(1).toLowerCase();
+  }
 
   if (savedUsername) {
     document.getElementById('loginSection').style.display = 'none';
@@ -431,7 +433,7 @@ document.addEventListener('DOMContentLoaded', function () {
           runElement.appendChild(supervisorElement);
         }
 
-        if (index === 0 && run.meet_time && drivers.length > 0 && !isAllStoresSearch) {
+        if (index === 0 && run.meet_time.length > 0 && drivers.length > 0 && !isAllStoresSearch) {
           const driversElement = document.createElement('p');
           driversElement.innerHTML = `<strong>Drivers:</strong> ${drivers.join(' | ')}`;
           runElement.appendChild(driversElement);
