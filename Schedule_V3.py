@@ -97,10 +97,10 @@ def update_employee_list():
 
 
 # Main script execution
-# if prompt_user():
-#     update_employee_list()
-# else:
-#     print("Skipping employee list update...")
+if prompt_user():
+    update_employee_list()
+else:
+    print("Skipping employee list update...")
 
 
 json_file_path = 'json/store_runs.json'
