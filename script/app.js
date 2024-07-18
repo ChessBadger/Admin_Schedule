@@ -28,9 +28,6 @@ document.addEventListener('DOMContentLoaded', function () {
   const savedUsername = localStorage.getItem('username');
   const savedUserType = localStorage.getItem('userType');
   const savedUserDisplayName = localStorage.getItem('userDisplayName');
-  if (savedUserDisplayName) {
-    const formattedName = savedUserDisplayName.charAt(0).toUpperCase() + savedUserDisplayName.slice(1).toLowerCase();
-  }
 
   if (savedUsername) {
     document.getElementById('loginSection').style.display = 'none';
@@ -41,6 +38,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (savedUserType === 'admin') {
       document.getElementById('searchSection').style.display = 'block';
     } else {
+      const formattedName = savedUserDisplayName.charAt(0).toUpperCase() + savedUserDisplayName.slice(1).toLowerCase();
       document.getElementById('searchSection').style.display = 'block';
       document.getElementById('searchTitle').style.display = 'none';
       document.getElementById('searchButton').style.display = 'none';
