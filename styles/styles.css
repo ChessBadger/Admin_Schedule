@@ -873,7 +873,7 @@ body.dark-mode .icon {
   position: absolute;
   top: 5px;
   left: 1px;
-  font-size: 28px;
+  font-size: 1.75rem;
   cursor: pointer;
   background-color: transparent;
   color: black;
