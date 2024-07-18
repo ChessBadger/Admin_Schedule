@@ -891,6 +891,19 @@ body.dark-mode .icon {
   pointer-events: none;
 }
 
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#openbtn img.animate {
+  animation: rotate 0.5s ease-in-out;
+}
+
 body.dark-mode #openbtn img {
   filter: invert(1);
 }
