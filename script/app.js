@@ -532,7 +532,12 @@ document.addEventListener('DOMContentLoaded', function () {
           Object.keys(run.employee_list).forEach((employee) => {
             const [number, note, office] = run.employee_list[employee];
             const searchNameOffice = localStorage.getItem('userOffice');
-            // if (employee.toLowerCase() !== employeeName.toLowerCase() && searchNameOffice === office && number !== '#' && !note.toLowerCase().includes('@ store')) { CHANGE THIS
+            // if (
+            //   employee.toLowerCase() !== employeeName.toLowerCase() &&
+            //   searchNameOffice === office &&
+            //   number !== '#' &&
+            //   !note.toLowerCase().includes('@ store')
+            // ) { CHANGE THIS
             if (
               employee.toLowerCase() !== employeeName.toLowerCase() &&
               !note.toLowerCase().includes('@ store') &&
@@ -948,12 +953,13 @@ document.addEventListener('DOMContentLoaded', function () {
     closeSidePanel();
   });
 
-  // Function to open the side panel
+  // Function to open the sidepanel with a delay
   function openSidePanel() {
-    sidepanel.style.width = '250px';
-    main.style.marginLeft = '250px';
+    sidepanel.style.width = '0';
     sidepanel.classList.remove('hidden');
-    localStorage.setItem('sidePanelOpen', 'true');
+    setTimeout(() => {
+      sidepanel.style.width = '250px'; // Adjust this value to your desired width
+    }, 200); // Delay of 300ms
   }
 
   // Function to close the side panel
