@@ -76,6 +76,7 @@ document.addEventListener('DOMContentLoaded', function () {
           if (user) {
             localStorage.setItem('username', username);
             localStorage.setItem('userType', user.type);
+            // localStorage.setItem('userDisplayName', user.displayName || username); CHANGE THIS
             localStorage.setItem('userDisplayName', user.firstName || username);
             localStorage.setItem('userOffice', user.office);
             document.getElementById('loginSection').style.display = 'none';
@@ -411,6 +412,7 @@ document.addEventListener('DOMContentLoaded', function () {
               dateCard.appendChild(crownImage);
             }
           }
+          // if (note.toLowerCase().includes('driver') && searchNameOffice === office) { CHANGE THIS
           if (note.toLowerCase().includes('driver')) {
             if (employee.toLowerCase() !== employeeName.toLowerCase()) {
               const noteParts = note.split(',');
@@ -520,6 +522,7 @@ document.addEventListener('DOMContentLoaded', function () {
           if (employee.toLowerCase() === employeeName.toLowerCase()) {
             const [number, note, office] = run.employee_list[employee];
             const searchNameOffice = localStorage.getItem('userOffice');
+            // return number === '1)' || (note.toLowerCase().includes('driver') && searchNameOffice === office && !note.toLowerCase().includes('@ store')); CHANGE THIS
             return number === '1)' || (note.toLowerCase().includes('driver') && !note.toLowerCase().includes('@ store'));
           }
           return false;
@@ -529,6 +532,7 @@ document.addEventListener('DOMContentLoaded', function () {
           Object.keys(run.employee_list).forEach((employee) => {
             const [number, note, office] = run.employee_list[employee];
             const searchNameOffice = localStorage.getItem('userOffice');
+            // if (employee.toLowerCase() !== employeeName.toLowerCase() && searchNameOffice === office && number !== '#' && !note.toLowerCase().includes('@ store')) { CHANGE THIS
             if (
               employee.toLowerCase() !== employeeName.toLowerCase() &&
               !note.toLowerCase().includes('@ store') &&
