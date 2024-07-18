@@ -9,6 +9,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const calendarToggle = document.getElementById('calendarToggle');
   const calendarContainer = document.getElementById('calendarContainer');
   const calendar = document.getElementById('calendar');
+  const menubtn = document.getElementById('openbtn');
   let showPassedDays = false;
 
   // Check for saved dark mode preference
@@ -32,6 +33,7 @@ document.addEventListener('DOMContentLoaded', function () {
   if (savedUsername) {
     document.getElementById('loginSection').style.display = 'none';
     document.getElementById('signOutButton').style.display = 'block';
+    document.getElementById('openbtn').style.display = 'block';
 
     fetchLocalJson(); // Fetch local JSON automatically
 
@@ -49,6 +51,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   } else {
     document.getElementById('signOutButton').style.display = 'none';
+    document.getElementById('openbtn').style.display = 'none';
   }
 
   // Handle login form submission
@@ -77,6 +80,7 @@ document.addEventListener('DOMContentLoaded', function () {
             localStorage.setItem('userOffice', user.office);
             document.getElementById('loginSection').style.display = 'none';
             document.getElementById('signOutButton').style.display = 'block';
+            document.getElementById('openbtn').style.display = 'block';
 
             fetchLocalJson(); // Fetch local JSON automatically
 
@@ -112,6 +116,7 @@ document.addEventListener('DOMContentLoaded', function () {
       document.getElementById('loginSection').style.display = 'block';
       document.getElementById('searchSection').style.display = 'none';
       document.getElementById('signOutButton').style.display = 'none';
+      document.getElementById('openbtn').style.display = 'none';
       document.getElementById('username').value = '';
       document.getElementById('password').value = '';
       backgroundName.style.display = 'none';
@@ -911,4 +916,53 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // Initial data fetch
   fetchLocalJson();
+});
+
+document.addEventListener('DOMContentLoaded', function () {
+  const sidepanel = document.getElementById('sidepanel');
+  const main = document.getElementById('main');
+  const closebtn = document.getElementById('closebtn');
+  const openbtn = document.getElementById('openbtn');
+
+  // Ensure side panel is closed on page load
+  closeSidePanel();
+
+  // Check if the side panel state is saved in localStorage
+  if (localStorage.getItem('sidePanelOpen') === 'true') {
+    openSidePanel();
+  } else {
+    closeSidePanel();
+  }
+
+  // Handle opening the side panel
+  openbtn.addEventListener('click', function () {
+    openSidePanel();
+  });
+
+  // Handle closing the side panel
+  closebtn.addEventListener('click', function () {
+    closeSidePanel();
+  });
+
+  // Function to open the side panel
+  function openSidePanel() {
+    sidepanel.style.width = '250px';
+    main.style.marginLeft = '250px';
+    sidepanel.classList.remove('hidden');
+    localStorage.setItem('sidePanelOpen', 'true');
+  }
+
+  // Function to close the side panel
+  function closeSidePanel() {
+    sidepanel.style.width = '0';
+    main.style.marginLeft = '0';
+    localStorage.setItem('sidePanelOpen', 'false');
+  }
+
+  // Close the side panel if the user clicks outside of it
+  window.addEventListener('click', function (event) {
+    if (event.target !== sidepanel && !sidepanel.contains(event.target) && event.target !== openbtn) {
+      closeSidePanel();
+    }
+  });
 });

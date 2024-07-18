@@ -93,10 +93,6 @@ body {
   border-radius: 5px;
 }
 
-#darkModeToggle:hover {
-  background-color: #0056b3;
-}
-
 @media (max-width: 600px) {
   #loginSection,
   #uploadSection,
@@ -311,7 +307,7 @@ body.dark-mode h3 {
 #darkModeToggle {
   position: absolute;
   top: 10px;
-  left: 50px;
+  left: 50%;
   transform: translateX(-50%);
   z-index: 1000;
   background-color: transparent;
@@ -624,25 +620,25 @@ body.dark-mode #uploadSection {
   background-color: #161414;
 }
 
-#topBar {
-  position: absolute;
-  top: 20px;
-  right: 20px;
-  z-index: 1000;
-}
-
 #signOutButton {
-  padding: 10px 20px;
-  font-size: 16px;
-  background-color: #007bff;
-  color: #fff;
-  border: none;
-  border-radius: 5px;
+  position: absolute;
+  top: 10px;
+  right: 1px;
+  font-size: 20px;
   cursor: pointer;
+  background-color: transparent;
+  color: black;
+  padding: 10px 15px;
+  border: none;
 }
 
-#signOutButton:hover {
-  background-color: #0056b3;
+#signOutButton img {
+  width: 50px; /* Adjust size as needed */
+  height: 30px; /* Adjust size as needed */
+}
+
+body.dark-mode #signOutButton img {
+  filter: invert(1);
 }
 
 #topRow {
@@ -832,4 +828,88 @@ body.dark-mode .close-btn {
 
 body.dark-mode .icon {
   filter: invert(1);
+}
+
+/* The sidepanel menu */
+.sidepanel {
+  height: 100%; /* 100% Full-height */
+  width: 0; /* 0 width - change this with JavaScript */
+  position: fixed; /* Stay in place */
+  z-index: 2000; /* Higher z-index to cover the dark mode toggle */
+  top: 0;
+  left: 0;
+  background-color: rgba(244, 243, 243, 0.97);
+  overflow-x: hidden; /* Disable horizontal scroll */
+  transition: 0.5s; /* 0.5 second transition effect to slide in the sidepanel */
+  padding-top: 60px; /* Place content 60px from the top */
+}
+
+/* The sidepanel links */
+.sidepanel a {
+  padding: 8px 8px 8px 12px;
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+  display: block;
+  transition: 0.3s;
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidepanel a:hover {
+  color: #f1f1f1;
+}
+
+/* Position and style the close button (top right corner) */
+.sidepanel .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+/* The button used to open the sidepanel */
+#openbtn {
+  position: absolute;
+  top: 5px;
+  left: 1px;
+  font-size: 28px;
+  cursor: pointer;
+  background-color: transparent;
+  color: black;
+  padding: 10px 15px;
+  border: none;
+}
+
+#openbtn:hover {
+  background-color: transparent;
+}
+
+body.dark-mode #openbtn {
+  background-color: transparent;
+  color: white;
+}
+
+body.dark-mode .sidepanel {
+  background-color: rgba(22, 20, 20, 0.97);
+  z-index: 2000;
+}
+
+body.dark-mode .sidepanel a {
+  color: white;
+}
+
+/* Adjust sidepanel for mobile devices */
+@media (max-width: 600px) {
+  .sidepanel {
+    width: 250px; /* Set a fixed width for the sidepanel on small screens */
+  }
+
+  .sidepanel a {
+    font-size: 20px; /* Adjust font size for smaller screens */
+  }
+
+  .sidepanel .closebtn {
+    font-size: 40px; /* Adjust font size for the close button on smaller screens */
+  }
 }
