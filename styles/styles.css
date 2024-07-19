@@ -940,3 +940,7 @@ button {
   width: 250px;
   height: 80px;
 }
+
+body.dark-mode #logo img {
+  filter: invert(1);
+}

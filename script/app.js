@@ -12,9 +12,19 @@ document.addEventListener('DOMContentLoaded', function () {
   const menubtn = document.getElementById('openbtn');
   let showPassedDays = false;
 
+  // Function to update the logo based on the mode
+  function updateLogo() {
+    if (document.body.classList.contains('dark-mode')) {
+      logoImage.src = 'images/Badger-logo-dark.png';
+    } else {
+      logoImage.src = 'images/Badger-logo.png';
+    }
+  }
+
   // Check for saved dark mode preference
   if (localStorage.getItem('darkMode') === 'enabled') {
     document.body.classList.add('dark-mode');
+    updateLogo();
   }
 
   const clipboardIcon = document.getElementById('clipboardIcon');
@@ -138,6 +148,7 @@ document.addEventListener('DOMContentLoaded', function () {
       } else {
         localStorage.setItem('darkMode', 'disabled');
       }
+      updateLogo();
     });
   }
 
