@@ -310,7 +310,7 @@ body.dark-mode h3 {
   left: 50%;
   transform: translateX(-50%);
   z-index: 1000;
-  background-color: transparent;
+  background-color: transparent !important;
   border: none;
   cursor: pointer;
   padding: 0;
@@ -626,7 +626,7 @@ body.dark-mode #uploadSection {
   right: 1px;
   font-size: 20px;
   cursor: pointer;
-  background-color: transparent;
+  background-color: transparent !important;
   color: black;
   padding: 10px 15px;
   border: none;
@@ -870,7 +870,7 @@ body.dark-mode .icon {
   left: 1px;
   font-size: 1.75rem;
   cursor: pointer;
-  background-color: transparent;
+  background-color: transparent !important;
   color: black;
   padding: 10px 15px;
   border: none;
@@ -930,4 +930,8 @@ body.dark-mode .sidepanel a {
   .sidepanel .closebtn {
     font-size: 40px; /* Adjust font size for the close button on smaller screens */
   }
+}
+
+button {
+  background-color: #9b0000 !important;
 }
