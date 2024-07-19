@@ -935,3 +935,8 @@ body.dark-mode .sidepanel a {
 button {
   background-color: #9b0000 !important;
 }
+
+#logo img {
+  width: 250px;
+  height: 80px;
+}
