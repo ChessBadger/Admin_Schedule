@@ -427,8 +427,12 @@ document.addEventListener('DOMContentLoaded', function () {
           if (note.toLowerCase().includes('driver')) {
             if (employee.toLowerCase() !== employeeName.toLowerCase()) {
               const noteParts = note.split(',');
-              const vehicle = noteParts[1].trim();
-              drivers.push(`${employee} <span style="color: green;">(${vehicle})</span>`);
+              if (noteParts.includes(',')) {
+                const vehicle = noteParts[1].trim();
+                drivers.push(`${employee} <span style="color: green;">(${vehicle})</span>`);
+              } else {
+                drivers.push(`${employee}`);
+              }
             } else {
               const carLogoLight = document.createElement('img');
               carLogoLight.src = 'images/car_logo_light.png';
