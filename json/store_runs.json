@@ -1720,19 +1720,19 @@
         "meet_time": "6:00 AM OFFICE LEAVE TIME",
         "start_time": "7:00 AM START",
         "inv_type": [
-            "SALE INVENTORY"
-        ],
-        "store_name": [
             "DC5-FINANCIAL"
         ],
-        "address": [
+        "store_name": [
             "MAIN ST STATION, JEFFERSON"
         ],
-        "link": [
+        "address": [
             "1411 S. MAIN STREET"
         ],
-        "store_note": [
+        "link": [
             "https://maps.app.goo.gl/cmXWoDMNmqSXtfnh7"
+        ],
+        "store_note": [
+            "SALE INVENTORY"
         ],
         "employee_list": {
             "Katherine": [
@@ -2026,23 +2026,23 @@
     {
         "date": "Fri, Aug 2",
         "meet_time": [
-            "COURTESY MEET"
+            "5:30 AM MEET BAYSHORE (COURTESY MEET)"
         ],
-        "start_time": "5:30 AM MEET BAYSHORE",
+        "start_time": "6:00 AM START",
         "inv_type": [
-            "6:00 AM START"
-        ],
-        "store_name": [
             "DC5-ITEM LEVEL"
         ],
-        "address": [
+        "store_name": [
             "PICK #886 +RX, GRAFTON"
         ],
-        "link": [
+        "address": [
             "301 FALLS ROAD"
         ],
+        "link": [
+            "https://goo.gl/maps/fn4iD1j5W632"
+        ],
         "store_note": [
-            "https://goo.gl/maps/fn4iD1j5W632 <br><hr id=\"note_separator\">SET UP ON REG #1 OR 2"
+            "SET UP ON REG #1 OR 2"
         ],
         "employee_list": {
             "DJ": [
