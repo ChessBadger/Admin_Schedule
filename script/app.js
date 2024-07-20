@@ -427,7 +427,7 @@ document.addEventListener('DOMContentLoaded', function () {
           if (note.toLowerCase().includes('driver')) {
             if (employee.toLowerCase() !== employeeName.toLowerCase()) {
               const noteParts = note.split(',');
-              if (noteParts.includes(',')) {
+              if (note.includes(',')) {
                 const vehicle = noteParts[1].trim();
                 drivers.push(`${employee} <span style="color: green;">(${vehicle})</span>`);
               } else {
