@@ -1486,6 +1486,133 @@
     {
         "date": "Tue, Jul 30",
         "meet_time": [],
+        "start_time": "2:30 PM START",
+        "inv_type": [
+            "None"
+        ],
+        "store_name": [
+            "PAID TRAINING/MEETING, \nBADGER EFFICIENCY VIRTUAL WORKSHOP"
+        ],
+        "address": [
+            "Google Meet Link"
+        ],
+        "link": [
+            "https://meet.google.com/hnc-ibhc-qoh"
+        ],
+        "store_note": [
+            "Please plan to log in 10 mins prior to the start of this meeting <br><hr id=\"note_separator\">Please have your camera on for this meeting <br><hr id=\"note_separator\">Please click on the link below to join this meeting"
+        ],
+        "employee_list": {
+            "Casey": [
+                "1)",
+                "",
+                "none"
+            ],
+            "Elijah": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Greg": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Heidi": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Jake S": [
+                "5)",
+                "",
+                "Rockford"
+            ],
+            "Jerry D": [
+                "6)",
+                "",
+                "Milwaukee"
+            ],
+            "Joseph": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Josh S": [
+                "8)",
+                "",
+                "Rockford"
+            ],
+            "Joshua M": [
+                "9)",
+                "",
+                "Milwaukee"
+            ],
+            "Justin": [
+                "10)",
+                "",
+                "none"
+            ],
+            "Kirsten": [
+                "11)",
+                "",
+                "none"
+            ],
+            "Lashaun": [
+                "12)",
+                "",
+                "none"
+            ],
+            "Makeda": [
+                "13)",
+                "",
+                "none"
+            ],
+            "Nick": [
+                "14)",
+                "",
+                "none"
+            ],
+            "Robyn": [
+                "15)",
+                "",
+                "none"
+            ],
+            "Serena": [
+                "16)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "17)",
+                "",
+                "none"
+            ],
+            "Taya": [
+                "18)",
+                "",
+                "none"
+            ],
+            "Taylor": [
+                "19)",
+                "",
+                "none"
+            ],
+            "Via": [
+                "20)",
+                "",
+                "none"
+            ],
+            "Wyatt": [
+                "21)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Jul 30",
+        "meet_time": [],
         "start_time": null,
         "inv_type": [],
         "store_name": [
