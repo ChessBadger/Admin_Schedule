@@ -940,3 +940,14 @@ button {
   width: 250px;
   height: 80px;
 }
+
+#jumpArrow {
+  width: 60px;
+  height: 35px;
+  margin: 0;
+  padding: 0;
+}
+
+body.dark-mode #jumpArrow {
+  filter: invert(1);
+}

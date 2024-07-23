@@ -1017,12 +1017,16 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 });
 
-document.addEventListener(
-  'touchstart',
-  function (event) {
-    if (event.touches.length > 1) {
-      event.preventDefault(); // Prevent multi-touch events
+document.addEventListener('DOMContentLoaded', function () {
+  // Prevent double-tap zoom
+  let lastTap = 0;
+
+  document.addEventListener('touchend', function (event) {
+    const currentTime = new Date().getTime();
+    const tapLength = currentTime - lastTap;
+    if (tapLength < 500 && tapLength > 0) {
+      event.preventDefault();
     }
-  },
-  { passive: false }
-);
+    lastTap = currentTime;
+  });
+});
