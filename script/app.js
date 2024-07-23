@@ -892,6 +892,10 @@ document.addEventListener('DOMContentLoaded', function () {
         }
       }
 
+      calendarDay.addEventListener('click', function () {
+        scrollToDayCard(date);
+      });
+
       calendar.appendChild(calendarDay);
     }
   }
