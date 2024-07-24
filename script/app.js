@@ -8,8 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const togglePassedDaysButton = document.getElementById('togglePassedDays');
   const calendarToggle = document.getElementById('calendarToggle');
   const calendarContainer = document.getElementById('calendarContainer');
-  const calendar = document.getElementById('calendar');
-  const menubtn = document.getElementById('openbtn');
+  const upArrow = document.getElementById('jumpArrow');
   let showPassedDays = false;
 
   // Function to update the logo based on the mode
@@ -43,6 +42,7 @@ document.addEventListener('DOMContentLoaded', function () {
   if (savedUsername) {
     document.getElementById('loginSection').style.display = 'none';
     document.getElementById('signOutButton').style.display = 'block';
+    document.getElementById('jumpArrow').style.display = 'block';
     document.getElementById('openbtn').style.display = 'block';
 
     fetchLocalJson(); // Fetch local JSON automatically
@@ -61,6 +61,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   } else {
     document.getElementById('signOutButton').style.display = 'none';
+    document.getElementById('jumpArrow').style.display = 'none';
     document.getElementById('openbtn').style.display = 'none';
   }
 
@@ -91,6 +92,7 @@ document.addEventListener('DOMContentLoaded', function () {
             localStorage.setItem('userOffice', user.office);
             document.getElementById('loginSection').style.display = 'none';
             document.getElementById('signOutButton').style.display = 'block';
+            document.getElementById('jumpArrow').style.display = 'block';
             document.getElementById('openbtn').style.display = 'block';
 
             fetchLocalJson(); // Fetch local JSON automatically
@@ -127,6 +129,7 @@ document.addEventListener('DOMContentLoaded', function () {
       document.getElementById('loginSection').style.display = 'block';
       document.getElementById('searchSection').style.display = 'none';
       document.getElementById('signOutButton').style.display = 'none';
+      document.getElementById('jumpArrow').style.display = 'none';
       document.getElementById('openbtn').style.display = 'none';
       document.getElementById('username').value = '';
       document.getElementById('password').value = '';
@@ -396,12 +399,12 @@ document.addEventListener('DOMContentLoaded', function () {
             meetTime.innerHTML = `<strong>Meet Time:</strong> ${run.meet_time}`;
             runElement.appendChild(meetTime);
           }
+        }
 
-          if (run.start_time) {
-            const startTime = document.createElement('p');
-            startTime.innerHTML = `<strong>Start Time:</strong> ${run.start_time}`;
-            runElement.appendChild(startTime);
-          }
+        if (run.start_time) {
+          const startTime = document.createElement('p');
+          startTime.innerHTML = `<strong>Start Time:</strong> ${run.start_time}`;
+          runElement.appendChild(startTime);
         }
 
         let supervisor = '';
