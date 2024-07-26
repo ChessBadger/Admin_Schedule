@@ -911,7 +911,8 @@ body.dark-mode #jumpArrow {
   filter: invert(1);
 }
 
-.current-day .crown-logo {
+.current-day .crown-logo,
+.current-day .cash-logo {
   filter: none !important;
 }
 
