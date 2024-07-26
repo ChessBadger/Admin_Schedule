@@ -962,5 +962,9 @@ body.dark-mode #jumpArrow {
   position: absolute;
   top: 0px;
   left: 0px;
-  filter: invert(1) !important;
+  filter: invert(1);
+}
+
+.current-day img {
+  filter: none !important;
 }
