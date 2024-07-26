@@ -287,6 +287,7 @@ if folders:
                 current_state = 'searching'  # Initial state before setting any values
                 break_outer_loop = False  # Flag to control breaking out of the outer loop
                 header_value = sheet.cell(row=1, column=process_col - 1).value
+                courtesy_meet = False
 
                 # Iterate through the rows starting from min_row and process_col
                 for row in sheet.iter_rows(min_row=min_row, max_row=500, min_col=process_col, max_col=process_col):
@@ -335,7 +336,10 @@ if folders:
                                     break
 
                         # Assuming value is the string containing the meet times
-                        if value and current_state == 'searching' and 'meet' in value.lower():
+                        if value and current_state == 'searching' and 'courtesy meet' in value.lower():
+                            current_state == 'searching'
+                            courtesy_meet = True
+                        elif value and current_state == 'searching' and 'meet' in value.lower():
                             store_run = StoreRun(
                                 date=None, start_time=None)
                             # Split the value by lines
@@ -363,14 +367,25 @@ if folders:
                                 meet_times_dict['FV:'],
                                 meet_times_dict['MD:']
                             ]
-                            # Remove any None values from the list
-                            store_run.meet_time = [
-                                time for time in store_run.meet_time if time is not None]
+
+                            if courtesy_meet:
+                                # Remove any None values from the list
+                                store_run.meet_time = [
+                                    time + '\n(COURTESY MEET)' for time in store_run.meet_time if time is not None]
+                            else:
+                                store_run.meet_time = [
+                                    time for time in store_run.meet_time if time is not None]
                             current_state = 'found_meet'
                         elif value and current_state == 'searching' and 'leave time' in value.lower():
-                            store_run = StoreRun(
-                                date=None,  start_time=None)
-                            store_run.meet_time = value
+                            if courtesy_meet:
+                                store_run = StoreRun(
+                                    date=None,  start_time=None)
+                                store_run.meet_time = value + \
+                                    '\n(COURTESY MEET)'
+                            else:
+                                store_run = StoreRun(
+                                    date=None,  start_time=None)
+                                store_run.meet_time = value
                             current_state = 'found_meet'
                         elif value and current_state == 'found_meet':
                             store_run.start_time = value

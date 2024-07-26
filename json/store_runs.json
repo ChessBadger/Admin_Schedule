@@ -942,68 +942,63 @@
                 "",
                 "none"
             ],
-            "Stephanie": [
+            "Via": [
                 "12)",
                 "",
                 "none"
             ],
-            "Via": [
-                "13)",
-                "",
-                "none"
-            ],
             "Angela": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Anisha": [
-                "15)",
+                "14)",
                 "@ Store",
                 "none"
             ],
             "Ashley P": [
-                "16)",
+                "15)",
                 "@ Store",
                 "Rockford"
             ],
             "Elijah": [
-                "17)",
+                "16)",
                 "@ Store",
                 "none"
             ],
             "Eva": [
-                "18)",
+                "17)",
                 "@ Store",
                 "none"
             ],
             "Evelin": [
-                "19)",
+                "18)",
                 "@ Store",
                 "none"
             ],
             "Joseph": [
-                "20)",
+                "19)",
                 "@ Store",
                 "none"
             ],
             "Josh S": [
-                "21)",
+                "20)",
                 "@ Store",
                 "Rockford"
             ],
             "Makeda": [
-                "22)",
+                "21)",
                 "@ Store",
                 "none"
             ],
             "Qiana": [
-                "23)",
+                "22)",
                 "@ Store",
                 "none"
             ],
             "Taylor": [
-                "24)",
+                "23)",
                 "@ Store",
                 "none"
             ]
@@ -1305,103 +1300,108 @@
                 "(Driver)",
                 "none"
             ],
-            "Cynthia": [
+            "Cristi": [
                 "3)",
+                "(w/ Carlie)",
+                "none"
+            ],
+            "Cynthia": [
+                "4)",
                 "",
                 "none"
             ],
             "Jerry D": [
-                "4)",
+                "5)",
                 "",
                 "Milwaukee"
             ],
             "Paul": [
-                "5)",
+                "6)",
                 "",
                 "none"
             ],
             "Trevor": [
-                "6)",
-                "(w/ Carlie)",
-                "none"
-            ],
-            "Yvette": [
                 "7)",
                 "(w/ Carlie)",
                 "none"
             ],
-            "Angela": [
+            "Yvette": [
                 "8)",
-                "@ Store",
+                "(w/ Carlie)",
                 "none"
             ],
-            "Anisha": [
+            "Angela": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Annette": [
+            "Anisha": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Ashley P": [
+            "Annette": [
                 "11)",
+                "@ Store",
+                "none"
+            ],
+            "Ashley P": [
+                "12)",
                 "@ Store",
                 "Rockford"
             ],
             "Brianna": [
-                "12)",
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Eva": [
-                "13)",
+                "14)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Evelin": [
-                "14)",
-                "@ Store",
-                "none"
-            ],
-            "Josie": [
                 "15)",
                 "@ Store",
                 "none"
             ],
-            "Katie": [
+            "Josie": [
                 "16)",
                 "@ Store",
                 "none"
             ],
-            "Lori": [
+            "Katie": [
                 "17)",
                 "@ Store",
                 "none"
             ],
-            "Michael N": [
+            "Lori": [
                 "18)",
+                "@ Store",
+                "none"
+            ],
+            "Michael N": [
+                "19)",
                 "@ Store",
                 "Rockford"
             ],
             "Qiana": [
-                "19)",
+                "20)",
                 "@ Store,\nSupv Rx",
                 "none"
             ],
             "Sarah": [
-                "20)",
-                "@ Store",
-                "none"
-            ],
-            "Serena": [
                 "21)",
                 "@ Store",
                 "none"
             ],
-            "Taya": [
+            "Serena": [
                 "22)",
+                "@ Store",
+                "none"
+            ],
+            "Taya": [
+                "23)",
                 "@ Store",
                 "none"
             ]
@@ -1503,22 +1503,22 @@
         "meet_time": [],
         "start_time": "2:30 PM START",
         "inv_type": [
-            ""
-        ],
-        "store_name": [
             "PAID TRAINING/MEETING, \nBADGER EFFICIENCY VIRTUAL WORKSHOP"
         ],
+        "store_name": [
+            "Please plan to log in 10 mins prior to the start of this meeting"
+        ],
         "address": [
-            "Google Meet Link"
+            "Please have your camera on for this meeting"
         ],
         "link": [
-            "https://meet.google.com/hnc-ibhc-qoh"
+            "Please click on the link below to join this meeting"
         ],
         "store_note": [
-            "Please have your camera on for this meeting <br><hr id=\"note_separator\">Please click on the link below to join this meeting <br><hr id=\"note_separator\">Please plan to log in 10 mins prior to the start of this meeting"
+            "https://meet.google.com/hnc-ibhc-qoh"
         ],
         "employee_list": {
-            "": [
+            "Casey": [
                 "1)",
                 "",
                 "none"
@@ -1620,11 +1620,6 @@
             ],
             "Wyatt": [
                 "21)",
-                "",
-                "none"
-            ],
-            "Casey": [
-                "22)",
                 "",
                 "none"
             ]
@@ -2173,7 +2168,7 @@
     {
         "date": "Fri, Aug 2",
         "meet_time": [
-            "5:30 AM MEET BAYSHORE"
+            "5:30 AM MEET BAYSHORE\n(COURTESY MEET)"
         ],
         "start_time": "6:00 AM START",
         "inv_type": [
@@ -2272,7 +2267,7 @@
     {
         "date": "Fri, Aug 2",
         "meet_time": [
-            "5:30 AM MEET BAYSHORE"
+            "5:30 AM MEET BAYSHORE\n(COURTESY MEET)"
         ],
         "start_time": "6:00 AM START",
         "inv_type": [
@@ -2309,7 +2304,7 @@
     {
         "date": "Fri, Aug 2",
         "meet_time": [
-            "5:15 AM MEET AT THE OFFICE"
+            "5:15 AM MEET AT THE OFFICE\n(COURTESY MEET)"
         ],
         "start_time": "6:00 AM START",
         "inv_type": [
