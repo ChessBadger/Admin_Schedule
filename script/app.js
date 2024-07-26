@@ -390,7 +390,7 @@ document.addEventListener('DOMContentLoaded', function () {
         const runElement = document.createElement('div');
         runElement.classList.add('run-details');
 
-        if (index % 2 === 0) {
+        if (index < 1) {
           // Optional: Add class for alternating background colors
         } else {
           runElement.classList.add('odd');

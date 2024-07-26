@@ -128,68 +128,120 @@
                 "1)",
                 "Driver,\nAltima, Equip",
                 "none"
-            ],
-            "Carlie": [
-                "2)",
-                "@ Store\n(w/ Trevor)",
+            ]
+        }
+    },
+    {
+        "date": "Mon, Jul 22",
+        "meet_time": [],
+        "start_time": "Carlie",
+        "inv_type": [
+            "Jerry D"
+        ],
+        "store_name": [
+            "Lashaun"
+        ],
+        "address": [
+            "Sue"
+        ],
+        "link": [
+            "Trevor"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "": [
+                "",
+                "",
                 "none"
             ],
-            "Jerry D": [
-                "3)",
-                "",
-                "Milwaukee"
-            ],
-            "Lashaun": [
-                "4)",
+            "5:00 AM OFFICE LEAVE TIME": [
+                " ",
                 "",
                 "none"
             ],
-            "Sue": [
-                "5)",
+            "6:00 AM START": [
+                " ",
                 "",
                 "none"
             ],
-            "Trevor": [
-                "6)",
-                "@ Store\n(w/ Carlie)",
+            "DC5-FINANCIAL": [
+                "",
+                "",
+                "none"
+            ],
+            "ROTE OIL #03 TWIN LAKES": [
+                "",
+                "",
+                "none"
+            ],
+            "475 N LAKE AVE": [
+                "",
+                "",
+                "none"
+            ],
+            "https://goo.gl/maps/jNgJR8hii6jJGZQP7": [
+                "",
+                "",
+                "none"
+            ],
+            "TO FOLLOW": [
+                "",
+                "",
+                "none"
+            ],
+            "ROTE OIL #04 GENOA CITY": [
+                "",
+                "",
+                "none"
+            ],
+            "100 ELIZABETH LANE": [
+                "",
+                "",
+                "none"
+            ],
+            "https://goo.gl/maps/DitGJzEvTVhJPxkJ8": [
+                "",
+                "",
+                "none"
+            ],
+            "ROTE OIL #05  LAKE GENEVA": [
+                "",
+                "",
+                "none"
+            ],
+            "300 PELLER RD": [
+                "",
+                "",
+                "none"
+            ],
+            "https://goo.gl/maps/6fegzT1PbyY5VkDR6": [
+                "",
+                "",
                 "none"
             ]
         }
     },
     {
         "date": "Mon, Jul 22",
-        "meet_time": "5:00 AM OFFICE LEAVE TIME",
-        "start_time": "6:00 AM START",
+        "meet_time": [],
+        "start_time": "Brianna",
         "inv_type": [
-            "DC5-FINANCIAL",
-            "DC5-FINANCIAL",
-            "DC5-FINANCIAL"
+            "Katherine"
         ],
         "store_name": [
-            "ROTE OIL #03 TWIN LAKES",
-            "ROTE OIL #04 GENOA CITY",
-            "ROTE OIL #05  LAKE GENEVA"
+            ""
         ],
         "address": [
-            "475 N LAKE AVE",
-            "100 ELIZABETH LANE",
-            "300 PELLER RD"
+            ""
         ],
         "link": [
-            "https://goo.gl/maps/jNgJR8hii6jJGZQP7",
-            "https://goo.gl/maps/DitGJzEvTVhJPxkJ8",
-            "https://goo.gl/maps/6fegzT1PbyY5VkDR6"
+            ""
         ],
         "store_note": [],
         "employee_list": {
-            "Brianna": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Katherine": [
-                "2)",
-                "Gold Camry",
+            "": [
+                "",
+                "",
                 "none"
             ]
         }
@@ -559,26 +611,28 @@
         "meet_time": [],
         "start_time": "5:30 AM START",
         "inv_type": [
-            "DC5-FINANCIAL",
+            "",
             "DC5-FINANCIAL",
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "ROTE OIL #10 MUKWONAGO - ROCHESTER",
+            "DC5-FINANCIAL",
             "ROTE OIL #12 MUKWONAGO - (AMOCO) GREENWALD",
             "ROTE OIL  #11 MUKWONAGO - (BP) ARROWHEAD"
         ],
         "address": [
-            "1060 N ROCHESTER ST",
+            "ROTE OIL #10 MUKWONAGO - ROCHESTER",
             "909 GREENWALD CT",
             "122 ARROWHEAD DR"
         ],
         "link": [
-            "https://goo.gl/maps/dmvR5bTHLs1Cbjcr5",
+            "1060 N ROCHESTER ST",
             "https://goo.gl/maps/ejQSLoz2D8EmzKVq6",
             "https://goo.gl/maps/7XkTFZtDFDgGBctz7"
         ],
-        "store_note": [],
+        "store_note": [
+            "https://goo.gl/maps/dmvR5bTHLs1Cbjcr5"
+        ],
         "employee_list": {
             "Brianna": [
                 "1)",
@@ -796,22 +850,24 @@
         "meet_time": "5:00 AM OFFICE LEAVE TIME",
         "start_time": "6:00 AM START",
         "inv_type": [
-            "DC5-FINANCIAL",
+            "",
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "ROTE OIL #1 PADDOCK LAKE- BRASS BALL",
+            "DC5-FINANCIAL",
             "ROTE OIL #2 PADDOCK LAKE- 75TH ST"
         ],
         "address": [
-            "25406 75TH ST",
+            "ROTE OIL #1 PADDOCK LAKE- BRASS BALL",
             "25555 75TH ST"
         ],
         "link": [
-            "https://goo.gl/maps/LTa4ckcczx5qc8269",
+            "25406 75TH ST",
             "https://goo.gl/maps/5UyWWXXbzXMaVnv99"
         ],
-        "store_note": [],
+        "store_note": [
+            "https://goo.gl/maps/LTa4ckcczx5qc8269"
+        ],
         "employee_list": {
             "Brianna": [
                 "1)",
@@ -987,18 +1043,13 @@
                 "@ Store",
                 "Rockford"
             ],
-            "Makeda": [
+            "Qiana": [
                 "21)",
                 "@ Store",
                 "none"
             ],
-            "Qiana": [
-                "22)",
-                "@ Store",
-                "none"
-            ],
             "Taylor": [
-                "23)",
+                "22)",
                 "@ Store",
                 "none"
             ]
@@ -1037,6 +1088,11 @@
                 "2)",
                 "Driver,\nOptima",
                 "none"
+            ],
+            "Lashaun": [
+                "3)",
+                "",
+                "none"
             ]
         }
     },
@@ -1068,6 +1124,11 @@
             "Casey": [
                 "2)",
                 "3rd Aurora",
+                "none"
+            ],
+            "Lashaun": [
+                "3)",
+                "",
                 "none"
             ]
         }
@@ -1503,19 +1564,19 @@
         "meet_time": [],
         "start_time": "2:30 PM START",
         "inv_type": [
-            ""
-        ],
-        "store_name": [
             "PAID TRAINING/MEETING, \nBADGER EFFICIENCY VIRTUAL WORKSHOP"
         ],
+        "store_name": [
+            "Please plan to log in 10 mins prior to the start of this meeting"
+        ],
         "address": [
-            "GOOGLE MEET LINK"
+            "Please have your camera on for this meeting"
         ],
         "link": [
-            "https://meet.google.com/hnc-ibhc-qoh"
+            "Please click on the link below to join this meeting"
         ],
         "store_note": [
-            "Please have your camera on for this meeting <br><hr id=\"note_separator\">Please plan to log in 10 mins prior to the start of this meeting <br><hr id=\"note_separator\">Please click on the link below to join this meeting"
+            "https://meet.google.com/hnc-ibhc-qoh"
         ],
         "employee_list": {
             "Casey": [
@@ -1862,19 +1923,19 @@
         "meet_time": "6:00 AM OFFICE LEAVE TIME",
         "start_time": "7:00 AM START",
         "inv_type": [
-            "DC5-FINANCIAL"
+            "SALE INVENTORY"
         ],
         "store_name": [
-            "MAIN ST STATION, JEFFERSON"
+            "DC5-FINANCIAL"
         ],
         "address": [
-            "1411 S. MAIN STREET"
+            "MAIN ST STATION, JEFFERSON"
         ],
         "link": [
-            "https://maps.app.goo.gl/cmXWoDMNmqSXtfnh7"
+            "1411 S. MAIN STREET"
         ],
         "store_note": [
-            "SALE INVENTORY"
+            "https://maps.app.goo.gl/cmXWoDMNmqSXtfnh7"
         ],
         "employee_list": {
             "Katherine": [
