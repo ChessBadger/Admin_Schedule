@@ -951,3 +951,16 @@ button {
 body.dark-mode #jumpArrow {
   filter: invert(1);
 }
+
+.calendar-day {
+  position: relative;
+}
+
+.calendar-day img {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  filter: invert(1) !important;
+}
