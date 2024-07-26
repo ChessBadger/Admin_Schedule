@@ -916,10 +916,10 @@ body.dark-mode #jumpArrow {
 }
 
 .calendar-day .cash-logo {
-  width: 15px;
-  height: 17px;
+  width: 10px;
+  height: 15px;
   position: absolute;
   bottom: 2px;
   right: 2px;
-  filter: brightness(1.2);
+  filter: brightness(12);
 }
