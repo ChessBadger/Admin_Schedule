@@ -1503,19 +1503,19 @@
         "meet_time": [],
         "start_time": "2:30 PM START",
         "inv_type": [
-            "PAID TRAINING/MEETING, \nBADGER EFFICIENCY VIRTUAL WORKSHOP"
+            ""
         ],
         "store_name": [
-            "Please plan to log in 10 mins prior to the start of this meeting"
+            "PAID TRAINING/MEETING, \nBADGER EFFICIENCY VIRTUAL WORKSHOP"
         ],
         "address": [
-            "Please have your camera on for this meeting"
+            "GOOGLE MEET LINK"
         ],
         "link": [
-            "Please click on the link below to join this meeting"
+            "https://meet.google.com/hnc-ibhc-qoh"
         ],
         "store_note": [
-            "https://meet.google.com/hnc-ibhc-qoh"
+            "Please have your camera on for this meeting <br><hr id=\"note_separator\">Please plan to log in 10 mins prior to the start of this meeting <br><hr id=\"note_separator\">Please click on the link below to join this meeting"
         ],
         "employee_list": {
             "Casey": [
