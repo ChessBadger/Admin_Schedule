@@ -446,6 +446,13 @@ document.addEventListener('DOMContentLoaded', function () {
             }
           }
 
+          if (employeeName.toLowerCase() == employee.toLowerCase() && note.toLowerCase().includes('supv rx')) {
+            const rxImage = document.createElement('img');
+            rxImage.src = 'images/rx.png';
+            rxImage.classList.add('rx-logo');
+            dateCard.appendChild(rxImage);
+          }
+
           // if (note.toLowerCase().includes('driver') && searchNameOffice === office) { CHANGE THIS
           if (note.toLowerCase().includes('driver')) {
             if (employee.toLowerCase() !== employeeName.toLowerCase()) {
