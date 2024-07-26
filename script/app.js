@@ -667,9 +667,7 @@ document.addEventListener('DOMContentLoaded', function () {
         return time.replace('M:', '').replace('IL:', '').replace('FV:', '').replace('MD:', '').trim();
       });
   }
-});
 
-document.addEventListener('DOMContentLoaded', function () {
   const searchInput = document.getElementById('employeeName');
   const suggestionsContainer = document.getElementById('suggestions');
 
@@ -782,6 +780,7 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   function generateCalendar() {
+    fetchAndSaveBulletinContent();
     const cardElements = document.querySelectorAll('.card');
     const dateStatuses = {};
     const bulletinDates = extractDatesFromBulletin();
@@ -884,8 +883,6 @@ document.addEventListener('DOMContentLoaded', function () {
         crownImage.src = 'images/crown.png';
         crownImage.classList.add('crown-logo');
         calendarDay.appendChild(crownImage);
-
-        console.log('trues', crownImage);
       }
 
       calendarDay.addEventListener('click', function () {
@@ -977,9 +974,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // Initial data fetch
   fetchLocalJson();
-});
 
-document.addEventListener('DOMContentLoaded', function () {
   const sidepanel = document.getElementById('sidepanel');
   const main = document.getElementById('main');
   const closebtn = document.getElementById('closebtn');
@@ -1030,10 +1025,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   window.addEventListener('click', outsideClickListener);
   window.addEventListener('touchstart', outsideClickListener);
-});
 
-document.addEventListener('DOMContentLoaded', function () {
-  const openbtn = document.getElementById('openbtn');
   const openbtnImg = openbtn.querySelector('img');
 
   openbtn.addEventListener('click', function () {
@@ -1048,9 +1040,7 @@ document.addEventListener('DOMContentLoaded', function () {
       { once: true }
     );
   });
-});
 
-document.addEventListener('DOMContentLoaded', function () {
   // Prevent double-tap zoom
   let lastTap = 0;
 
