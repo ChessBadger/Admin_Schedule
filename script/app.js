@@ -861,7 +861,11 @@ document.addEventListener('DOMContentLoaded', function () {
       }
 
       if (isPayday(day, month, year)) {
-        calendarDay.classList.add('payday');
+        // calendarDay.classList.add('payday');
+        const cashImage = document.createElement('img');
+        cashImage.src = 'images/cash.png';
+        cashImage.classList.add('cash-logo');
+        calendarDay.appendChild(cashImage);
       }
 
       if (dateStatuses[date]) {
@@ -903,7 +907,11 @@ document.addEventListener('DOMContentLoaded', function () {
       calendarDay.textContent = day;
 
       if (isPayday(day, month + 1, year)) {
-        calendarDay.classList.add('payday');
+        // calendarDay.classList.add('payday');
+        const cashImage = document.createElement('img');
+        cashImage.src = 'images/cash.png';
+        cashImage.classList.add('cash-logo');
+        calendarDay.appendChild(cashImage);
       }
 
       if (isBulletinDay(day, month + 1)) {
