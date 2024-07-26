@@ -911,8 +911,18 @@ body.dark-mode #jumpArrow {
   filter: invert(1);
 }
 
+.calendar-day .rx-logo {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  filter: invert(1);
+}
+
 .current-day .crown-logo,
-.current-day .cash-logo {
+.current-day .cash-logo,
+.current-day .rx-logo {
   filter: none !important;
 }
 

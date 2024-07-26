@@ -334,6 +334,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   function displaySearchResults(results, employeeName, office, isAllStoresSearch = false) {
     let supervisorDates = [];
+    let rxDates = [];
 
     const resultsContainer = document.getElementById('resultsContainer');
     resultsContainer.innerHTML = '';
@@ -368,14 +369,17 @@ document.addEventListener('DOMContentLoaded', function () {
 
       runsForDate.forEach((run) => {
         Object.keys(run.employee_list).forEach((employee) => {
-          const [number] = run.employee_list[employee];
+          const [number, note] = run.employee_list[employee];
           if (employee.toLowerCase() === employeeName.toLowerCase() && number === '1)') {
             supervisorDates.push(formattedDate);
+          } else if (employee.toLowerCase() === employeeName.toLowerCase() && note.toLowerCase().includes('supv rx')) {
+            rxDates.push(formattedDate);
           }
         });
       });
 
       localStorage.setItem('supervisorDates', JSON.stringify(supervisorDates));
+      localStorage.setItem('rxDates', JSON.stringify(rxDates));
 
       runsForDate.sort((a, b) => {
         const aContainsAfter = Object.keys(a.employee_list).some((employee) => a.employee_list[employee][1].toLowerCase().includes('after'));
@@ -787,6 +791,7 @@ document.addEventListener('DOMContentLoaded', function () {
     extractDatesFromBulletin();
     const currentYear = new Date().getFullYear();
     const supervisorDates = JSON.parse(localStorage.getItem('supervisorDates')) || [];
+    const rxDates = JSON.parse(localStorage.getItem('rxDates')) || [];
 
     cardElements.forEach((card) => {
       const dateTitle = card.querySelector('h3').textContent;
@@ -890,6 +895,13 @@ document.addEventListener('DOMContentLoaded', function () {
         calendarDay.appendChild(crownImage);
       }
 
+      if (rxDates.includes(date)) {
+        const rxImage = document.createElement('img');
+        rxImage.src = 'images/rx.png';
+        rxImage.classList.add('rx-logo');
+        calendarDay.appendChild(rxImage);
+      }
+
       calendarDay.addEventListener('click', function () {
         scrollToDayCard(date);
       });
@@ -932,6 +944,13 @@ document.addEventListener('DOMContentLoaded', function () {
         crownImage.src = 'images/crown.png';
         crownImage.classList.add('crown-logo');
         calendarDay.appendChild(crownImage);
+      }
+
+      if (rxDates.includes(date)) {
+        const rxImage = document.createElement('img');
+        rxImage.src = 'images/rx.png';
+        rxImage.classList.add('rx-logo');
+        calendarDay.appendChild(rxImage);
       }
 
       calendarDay.addEventListener('click', function () {
