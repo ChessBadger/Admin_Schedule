@@ -941,9 +941,12 @@ body.dark-mode #jumpArrow {
 
 .current-day .crown-logo,
 .current-day .cash-logo,
-.current-day .rx-logo,
-.current-day .calendar-day-logo {
+.current-day .rx-logo {
   filter: none !important;
+}
+
+.current-day .calendar-day-logo {
+  filter: invert(1);
 }
 
 .calendar-day .cash-logo {
