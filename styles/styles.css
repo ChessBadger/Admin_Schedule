@@ -914,8 +914,8 @@ body.dark-mode #jumpArrow {
 }
 
 .calendar-day .crown-logo {
-  width: 20px;
-  height: 20px;
+  width: 17px;
+  height: 19px;
   position: absolute;
   top: 0px;
   left: 0px;
@@ -931,9 +931,18 @@ body.dark-mode #jumpArrow {
   filter: invert(1);
 }
 
+.calendar-day .calendar-car-logo {
+  width: 15px;
+  height: 16px;
+  position: absolute;
+  top: 2px;
+  right: 0px;
+}
+
 .current-day .crown-logo,
 .current-day .cash-logo,
-.current-day .rx-logo {
+.current-day .rx-logo,
+.current-day .calendar-day-logo {
   filter: none !important;
 }
 

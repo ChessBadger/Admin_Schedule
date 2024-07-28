@@ -335,6 +335,7 @@ document.addEventListener('DOMContentLoaded', function () {
   function displaySearchResults(results, employeeName, office, isAllStoresSearch = false) {
     let supervisorDates = [];
     let rxDates = [];
+    let driverDates = [];
 
     const resultsContainer = document.getElementById('resultsContainer');
     resultsContainer.innerHTML = '';
@@ -375,11 +376,15 @@ document.addEventListener('DOMContentLoaded', function () {
           } else if (employee.toLowerCase() === employeeName.toLowerCase() && note.toLowerCase().includes('supv rx')) {
             rxDates.push(formattedDate);
           }
+          if (employee.toLowerCase() === employeeName.toLowerCase() && note.toLowerCase().includes('driver')) {
+            driverDates.push(formattedDate);
+          }
         });
       });
 
       localStorage.setItem('supervisorDates', JSON.stringify(supervisorDates));
       localStorage.setItem('rxDates', JSON.stringify(rxDates));
+      localStorage.setItem('driverDates', JSON.stringify(driverDates));
 
       runsForDate.sort((a, b) => {
         const aContainsAfter = Object.keys(a.employee_list).some((employee) => a.employee_list[employee][1].toLowerCase().includes('after'));
@@ -799,6 +804,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const currentYear = new Date().getFullYear();
     const supervisorDates = JSON.parse(localStorage.getItem('supervisorDates')) || [];
     const rxDates = JSON.parse(localStorage.getItem('rxDates')) || [];
+    const driverDates = JSON.parse(localStorage.getItem('driverDates')) || [];
 
     cardElements.forEach((card) => {
       const dateTitle = card.querySelector('h3').textContent;
@@ -909,6 +915,13 @@ document.addEventListener('DOMContentLoaded', function () {
         calendarDay.appendChild(rxImage);
       }
 
+      if (driverDates.includes(date)) {
+        const driverImage = document.createElement('img');
+        driverImage.src = 'images/calendar-car.png';
+        driverImage.classList.add('calendar-car-logo');
+        calendarDay.appendChild(driverImage);
+      }
+
       calendarDay.addEventListener('click', function () {
         scrollToDayCard(date);
       });
@@ -958,6 +971,13 @@ document.addEventListener('DOMContentLoaded', function () {
         rxImage.src = 'images/rx.png';
         rxImage.classList.add('rx-logo');
         calendarDay.appendChild(rxImage);
+      }
+
+      if (driverDates.includes(date)) {
+        const driverImage = document.createElement('img');
+        driverImage.src = 'images/calendar-car.png';
+        driverImage.classList.add('calendar-car-logo');
+        calendarDay.appendChild(driverImage);
       }
 
       calendarDay.addEventListener('click', function () {
