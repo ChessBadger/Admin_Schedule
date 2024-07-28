@@ -910,6 +910,7 @@ body.dark-mode #jumpArrow {
 
 .calendar-day {
   position: relative;
+  text-decoration: none;
 }
 
 .calendar-day .crown-logo {
@@ -943,4 +944,8 @@ body.dark-mode #jumpArrow {
   bottom: 2px;
   right: 2px;
   filter: brightness(12);
+}
+
+.calendar-day span {
+  text-decoration: none;
 }
