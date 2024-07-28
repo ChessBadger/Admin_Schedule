@@ -444,6 +444,7 @@ body.dark-mode .calendar-day.empty {
   display: flex;
   flex-wrap: wrap; /* Allow items to wrap to the next line */
   justify-content: space-between;
+  justify-content: flex-start;
   align-items: center;
   margin-bottom: 10px; /* Add some space between lines if needed */
 }
@@ -460,7 +461,7 @@ body.dark-mode .calendar-day.empty {
   display: inline-block;
   width: 25px;
   height: 25px;
-  margin-right: 5px; /* Adjust spacing if needed */
+  margin-right: 10px; /* Adjust spacing if needed */
   border: 1px solid #ddd;
 }
 
@@ -710,6 +711,13 @@ body.dark-mode .odd .store-card {
   max-width: 500px;
   width: 90%;
   position: relative;
+  max-height: 80vh; /* Adjust based on your layout needs */
+  overflow-y: auto; /* Enable vertical scrolling */
+}
+
+.body-no-scroll {
+  overflow: hidden;
+  height: 100%; /* Prevent vertical movement */
 }
 
 .close-btn {

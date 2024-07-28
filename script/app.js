@@ -192,11 +192,13 @@ document.addEventListener('DOMContentLoaded', function () {
   // Show popup
   function showPopup() {
     document.getElementById('popup').classList.remove('hidden');
+    document.body.classList.add('body-no-scroll');
   }
 
   // Hide popup
   function hidePopup() {
     document.getElementById('popup').classList.add('hidden');
+    document.body.classList.remove('body-no-scroll');
     // Mark bulletin as viewed when the popup is closed
     localStorage.setItem('bulletinViewed', 'true');
   }
