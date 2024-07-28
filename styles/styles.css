@@ -339,6 +339,10 @@ body.dark-mode h3 {
   display: none;
 }
 
+#calendarContainer .container {
+  margin-bottom: 5px;
+}
+
 /* Ensure calendar-day class has a uniform size */
 .calendar-day {
   display: inline-block;
@@ -348,6 +352,7 @@ body.dark-mode h3 {
   box-sizing: border-box;
   text-align: center;
   line-height: 50px; /* Match this to the height */
+  text-decoration: none !important;
 }
 
 .calendar-day.empty {
