@@ -958,7 +958,7 @@ body.dark-mode #jumpArrow {
   filter: none !important;
 }
 
-.current-day .calendar-day-logo {
+.current-day .calendar-car-logo {
   filter: invert(1);
 }
 
