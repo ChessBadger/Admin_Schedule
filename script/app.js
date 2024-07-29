@@ -802,7 +802,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const cardElements = document.querySelectorAll('.card');
     const dateStatuses = {};
     const bulletinDates = extractDatesFromBulletin();
-    extractDatesFromBulletin();
+    localStorage.setItem('WeekendDays', bulletinDates);
     const currentYear = new Date().getFullYear();
     const supervisorDates = JSON.parse(localStorage.getItem('supervisorDates')) || [];
     const rxDates = JSON.parse(localStorage.getItem('rxDates')) || [];
