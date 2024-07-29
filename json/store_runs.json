@@ -1550,19 +1550,19 @@
         "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
-            "*PERISHABLE INVENTORY"
-        ],
-        "store_name": [
             "DC5-FINANCIAL"
         ],
-        "address": [
+        "store_name": [
             "METCALFE'S MARKET #560, WAUWATOSA"
         ],
-        "link": [
+        "address": [
             "6700 W STATE ST"
         ],
-        "store_note": [
+        "link": [
             "https://goo.gl/maps/hbUxBiCRdt72"
+        ],
+        "store_note": [
+            "*PERISHABLE INVENTORY"
         ],
         "employee_list": {
             "Kim": [
@@ -1712,16 +1712,16 @@
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "*NEW HOMETOWN GROCERS"
-        ],
-        "address": [
             "SUPER RON'S FOOD CENTER, PULASKI - LIFO"
         ],
-        "link": [
+        "address": [
             "960 CTY RD B"
         ],
+        "link": [
+            "https://maps.app.goo.gl/6H35UioEYNyvj5gD6"
+        ],
         "store_note": [
-            "https://maps.app.goo.gl/6H35UioEYNyvj5gD6 <br><hr id=\"note_separator\">4:50 am meet for Cristi/Yvette at Grafton Park n Ride (Lashaun picking up)"
+            "4:50 am meet for Cristi/Yvette at Grafton Park n Ride (Lashaun picking up) <br><hr id=\"note_separator\">*NEW HOMETOWN GROCERS"
         ],
         "employee_list": {
             "Jeremiah": [
