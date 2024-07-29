@@ -943,5 +943,32 @@
     "office": "Rockford",
     "firstName": "Wyatt",
     "lastName": "Washatka"
+  },
+  {
+    "username": "kpurifoy",
+    "password": "1356",
+    "type": "user",
+    "displayName": "Keilah P",
+    "office": "Rockford",
+    "firstName": "Keilah",
+    "lastName": "Purifoy"
+  },
+  {
+    "username": "cwinkler",
+    "password": "3801",
+    "type": "user",
+    "displayName": "Cristi W",
+    "office": "Milwaukee",
+    "firstName": "Cristi",
+    "lastName": "Winkler"
+  },
+  {
+    "username": "yroller",
+    "password": "3802",
+    "type": "user",
+    "displayName": "Yvette R",
+    "office": "Milwaukee",
+    "firstName": "Yvette",
+    "lastName": "Roller"
   }
 ]
