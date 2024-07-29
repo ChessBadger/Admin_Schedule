@@ -189,21 +189,21 @@
     {
         "date": "Tue, Jul 30",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "Reminder about the Paid workshop today at 2:30 PM!",
         "inv_type": [
-            "DC5-ITEM LEVEL"
+            "6:00 AM START"
         ],
         "store_name": [
-            "METRO #893 +RX, SHOREWOOD"
+            "DC5-ITEM LEVEL"
         ],
         "address": [
-            "4075 N OAKLAND AVE"
+            "METRO #893 +RX, SHOREWOOD"
         ],
         "link": [
-            "https://goo.gl/maps/boWQLVTF2mS2"
+            "4075 N OAKLAND AVE"
         ],
         "store_note": [
-            "5:30 am meet for Grafton Crew at Grafton Park n Ride"
+            "https://goo.gl/maps/boWQLVTF2mS2 <br><hr id=\"note_separator\">5:30 am meet for Grafton Crew at Grafton Park n Ride"
         ],
         "employee_list": {
             "Nate": [
@@ -459,6 +459,11 @@
                 "",
                 "Rockford"
             ],
+            "Jeremiah": [
+                "",
+                "",
+                "none"
+            ],
             "Jerry D": [
                 "",
                 "",
@@ -490,6 +495,11 @@
                 "none"
             ],
             "Lashaun": [
+                "",
+                "",
+                "none"
+            ],
+            "Louisa": [
                 "",
                 "",
                 "none"
@@ -622,63 +632,68 @@
                 "@ Store,\nSupv Rx",
                 "Rockford"
             ],
-            "Eva": [
+            "Emily L": [
                 "9)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
-            "Evelin": [
+            "Eva": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Joseph": [
+            "Evelin": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Josh S": [
+            "Joseph": [
                 "12)",
+                "@ Store",
+                "none"
+            ],
+            "Josh S": [
+                "13)",
                 "@ Store",
                 "Rockford"
             ],
             "Justin": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
-            "Keilah": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Makeda": [
+            "Keilah": [
                 "15)",
                 "@ Store",
                 "none"
             ],
-            "Michael N": [
+            "Makeda": [
                 "16)",
+                "@ Store",
+                "none"
+            ],
+            "Michael N": [
+                "17)",
                 "@ Store",
                 "Rockford"
             ],
             "Nate": [
-                "17)",
-                "@ Store",
-                "none"
-            ],
-            "Qiana": [
                 "18)",
                 "@ Store",
                 "none"
             ],
-            "Taylor": [
+            "Qiana": [
                 "19)",
                 "@ Store",
                 "none"
             ],
-            "Wyatt": [
+            "Taylor": [
                 "20)",
+                "@ Store",
+                "none"
+            ],
+            "Wyatt": [
+                "21)",
                 "@ Store",
                 "none"
             ]
@@ -1014,68 +1029,73 @@
                 "@ Store",
                 "none"
             ],
-            "Eva": [
+            "Emily L": [
                 "7)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
-            "Evelin": [
+            "Eva": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Jeri": [
+            "Evelin": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Joseph": [
+            "Jeri": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Josh S": [
+            "Joseph": [
                 "11)",
+                "@ Store",
+                "none"
+            ],
+            "Josh S": [
+                "12)",
                 "@ Store",
                 "Rockford"
             ],
             "Justin": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
-            "Keilah": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Lori": [
+            "Keilah": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Makeda": [
+            "Lori": [
                 "15)",
                 "@ Store",
                 "none"
             ],
-            "Michael N": [
+            "Makeda": [
                 "16)",
+                "@ Store",
+                "none"
+            ],
+            "Michael N": [
+                "17)",
                 "@ Store",
                 "Rockford"
             ],
             "Qiana": [
-                "17)",
-                "@ Store",
-                "none"
-            ],
-            "Sarah": [
                 "18)",
                 "@ Store",
                 "none"
             ],
-            "Taylor": [
+            "Sarah": [
                 "19)",
+                "@ Store",
+                "none"
+            ],
+            "Taylor": [
+                "20)",
                 "@ Store",
                 "none"
             ]
@@ -1530,19 +1550,19 @@
         "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
-            "DC5-FINANCIAL"
+            "*PERISHABLE INVENTORY"
         ],
         "store_name": [
-            "METCALFE'S MARKET #560, WAUWATOSA"
+            "DC5-FINANCIAL"
         ],
         "address": [
-            "6700 W STATE ST"
+            "METCALFE'S MARKET #560, WAUWATOSA"
         ],
         "link": [
-            "https://goo.gl/maps/hbUxBiCRdt72"
+            "6700 W STATE ST"
         ],
         "store_note": [
-            "*PERISHABLE INVENTORY"
+            "https://goo.gl/maps/hbUxBiCRdt72"
         ],
         "employee_list": {
             "Kim": [
@@ -1692,16 +1712,16 @@
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "SUPER RON'S FOOD CENTER, PULASKI - LIFO"
+            "*NEW HOMETOWN GROCERS"
         ],
         "address": [
-            "960 CTY RD B"
+            "SUPER RON'S FOOD CENTER, PULASKI - LIFO"
         ],
         "link": [
-            "https://maps.app.goo.gl/6H35UioEYNyvj5gD6"
+            "960 CTY RD B"
         ],
         "store_note": [
-            "4:50 am meet for Cristi/Yvette at Grafton Park n Ride (Lashaun picking up) <br><hr id=\"note_separator\">*NEW HOMETOWN GROCERS"
+            "https://maps.app.goo.gl/6H35UioEYNyvj5gD6 <br><hr id=\"note_separator\">4:50 am meet for Cristi/Yvette at Grafton Park n Ride (Lashaun picking up)"
         ],
         "employee_list": {
             "Jeremiah": [
