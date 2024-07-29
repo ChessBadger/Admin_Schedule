@@ -189,21 +189,21 @@
     {
         "date": "Tue, Jul 30",
         "meet_time": [],
-        "start_time": "Reminder about the Paid workshop today at 2:30 PM!",
+        "start_time": "6:00 AM START",
         "inv_type": [
-            "6:00 AM START"
-        ],
-        "store_name": [
             "DC5-ITEM LEVEL"
         ],
-        "address": [
+        "store_name": [
             "METRO #893 +RX, SHOREWOOD"
         ],
-        "link": [
+        "address": [
             "4075 N OAKLAND AVE"
         ],
+        "link": [
+            "https://goo.gl/maps/boWQLVTF2mS2"
+        ],
         "store_note": [
-            "https://goo.gl/maps/boWQLVTF2mS2 <br><hr id=\"note_separator\">5:30 am meet for Grafton Crew at Grafton Park n Ride"
+            "5:30 am meet for Grafton Crew at Grafton Park n Ride"
         ],
         "employee_list": {
             "Nate": [
