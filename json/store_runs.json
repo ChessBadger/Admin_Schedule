@@ -189,21 +189,21 @@
     {
         "date": "Tue, Jul 30",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "Reminder about the Paid workshop today at 2:30 PM!",
         "inv_type": [
-            "DC5-ITEM LEVEL"
+            "6:00 AM START"
         ],
         "store_name": [
-            "METRO #893 +RX, SHOREWOOD"
+            "DC5-ITEM LEVEL"
         ],
         "address": [
-            "4075 N OAKLAND AVE"
+            "METRO #893 +RX, SHOREWOOD"
         ],
         "link": [
-            "https://goo.gl/maps/boWQLVTF2mS2"
+            "4075 N OAKLAND AVE"
         ],
         "store_note": [
-            "5:30 am meet for Grafton Crew at Grafton Park n Ride"
+            "https://goo.gl/maps/boWQLVTF2mS2 <br><hr id=\"note_separator\">5:30 am meet for Grafton Crew at Grafton Park n Ride"
         ],
         "employee_list": {
             "Nate": [
@@ -419,133 +419,143 @@
         "meet_time": [],
         "start_time": "2:30 PM START",
         "inv_type": [
-            ""
-        ],
-        "store_name": [
             "PAID TRAINING/MEETING, \nBADGER EFFICIENCY VIRTUAL WORKSHOP"
         ],
+        "store_name": [
+            "Please plan to log in 10 mins prior to the start of this meeting"
+        ],
         "address": [
-            "GOOGLE MEET LINK"
+            "Please have your camera on for this meeting"
         ],
         "link": [
-            "https://meet.google.com/hnc-ibhc-qoh"
+            "Please click on the link below to join this meeting"
         ],
         "store_note": [
-            "Please plan to log in 10 mins prior to the start of this meeting <br><hr id=\"note_separator\">Please have your camera on for this meeting <br><hr id=\"note_separator\">Please click on the link below to join this meeting"
+            "https://meet.google.com/hnc-ibhc-qoh"
         ],
         "employee_list": {
             "Casey": [
-                "",
+                "1)",
                 "",
                 "none"
             ],
             "Elijah": [
-                "",
+                "2)",
                 "",
                 "none"
             ],
             "Greg": [
-                "",
+                "3)",
                 "",
                 "none"
             ],
             "Heidi": [
-                "",
+                "4)",
                 "",
                 "none"
             ],
             "Jake S": [
-                "",
+                "5)",
                 "",
                 "Rockford"
             ],
             "Jeremiah": [
-                "",
+                "6)",
                 "",
                 "none"
             ],
             "Jerry D": [
-                "",
+                "7)",
                 "",
                 "Milwaukee"
             ],
             "Joseph": [
-                "",
+                "8)",
                 "",
                 "none"
             ],
             "Josh S": [
-                "",
+                "9)",
                 "",
                 "Rockford"
             ],
             "Joshua M": [
-                "",
+                "10)",
                 "",
                 "Milwaukee"
             ],
             "Justin": [
+                "11)",
                 "",
+                "none"
+            ],
+            "Keilah": [
+                "12)",
                 "",
                 "none"
             ],
             "Kirsten": [
-                "",
+                "13)",
                 "",
                 "none"
             ],
             "Lashaun": [
-                "",
+                "14)",
                 "",
                 "none"
             ],
             "Louisa": [
-                "",
+                "15)",
                 "",
                 "none"
             ],
             "Makeda": [
+                "16)",
                 "",
+                "none"
+            ],
+            "Nagui": [
+                "17)",
                 "",
                 "none"
             ],
             "Nick": [
-                "",
+                "18)",
                 "",
                 "none"
             ],
             "Robyn": [
-                "",
+                "19)",
                 "",
                 "none"
             ],
             "Serena": [
-                "",
+                "20)",
                 "",
                 "none"
             ],
             "Sonia": [
-                "",
+                "21)",
                 "",
                 "none"
             ],
             "Taya": [
-                "",
+                "22)",
                 "",
                 "none"
             ],
             "Taylor": [
-                "",
+                "23)",
                 "",
                 "none"
             ],
             "Via": [
-                "",
+                "24)",
                 "",
                 "none"
             ],
             "Wyatt": [
-                "",
+                "25)",
                 "",
                 "none"
             ]
@@ -891,7 +901,7 @@
             ],
             "Jerry D": [
                 "7)",
-                "",
+                "*Until 9:30",
                 "Milwaukee"
             ],
             "Joshua M": [
@@ -1165,7 +1175,7 @@
             ],
             "Lashaun": [
                 "9)",
-                "Driver, Sante Fe,\nSupv Rx",
+                "Driver, \nSante Fe,\nSupv Rx",
                 "none"
             ],
             "Via": [
@@ -1438,14 +1448,14 @@
                 "",
                 "Milwaukee"
             ],
-            "Stephanie": [
+            "Lashaun": [
                 "7)",
-                "",
+                "Help Ashley if needed",
                 "none"
             ],
-            "Qiana": [
+            "Stephanie": [
                 "8)",
-                "@ Store",
+                "",
                 "none"
             ]
         }
@@ -1483,33 +1493,28 @@
                 "After Aurora",
                 "none"
             ],
-            "Lashaun": [
-                "4)",
-                "",
-                "none"
-            ],
             "Sue": [
-                "5)",
+                "4)",
                 "After Aurora",
                 "none"
             ],
             "Katie": [
-                "6)",
+                "5)",
                 "@ Store",
                 "none"
             ],
             "Kirsten": [
-                "7)",
+                "6)",
                 "@ Store",
                 "none"
             ],
             "Nagui": [
-                "8)",
+                "7)",
                 "@ Store",
                 "none"
             ],
             "Serena": [
-                "9)",
+                "8)",
                 "@ Store",
                 "none"
             ]
@@ -1562,7 +1567,7 @@
             "https://goo.gl/maps/hbUxBiCRdt72"
         ],
         "store_note": [
-            "*PERISHABLE INVENTORY"
+            "*PERISHABLE INVENTORY <br><hr id=\"note_separator\">*Check in w/ Milwaukee Pig after finishing please"
         ],
         "employee_list": {
             "Kim": [
@@ -1721,7 +1726,7 @@
             "https://maps.app.goo.gl/6H35UioEYNyvj5gD6"
         ],
         "store_note": [
-            "4:50 am meet for Cristi/Yvette at Grafton Park n Ride (Lashaun picking up) <br><hr id=\"note_separator\">*NEW HOMETOWN GROCERS"
+            "4:50 am meet for Cristi at Grafton Park n Ride (Lashaun picking up) <br><hr id=\"note_separator\">*NEW HOMETOWN GROCERS"
         ],
         "employee_list": {
             "Jeremiah": [
@@ -1749,48 +1754,43 @@
                 "",
                 "none"
             ],
-            "Yvette": [
-                "6)",
-                "*Grafton Park n Ride",
-                "none"
-            ],
             "Jerry S": [
-                "7)",
+                "6)",
                 "@ Store",
                 "Fox Valley"
             ],
             "Josie": [
-                "8)",
+                "7)",
                 "@ Store",
                 "none"
             ],
             "Katie": [
-                "9)",
+                "8)",
                 "@ Store",
                 "none"
             ],
             "Kirsten": [
-                "10)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Lori": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Marcia": [
-                "12)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Serena": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Taya": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ]
@@ -1958,53 +1958,33 @@
                 "",
                 "none"
             ],
-            "Yvette": [
-                "10)",
-                "(w/ Carlie)",
-                "none"
-            ],
             "Annette": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Eva": [
-                "12)",
+                "11)",
                 "@ Store,\nRx",
                 "none"
             ],
-            "Jeremiah": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
             "Katie": [
-                "14)",
-                "@ Store",
-                "none"
-            ],
-            "Lori": [
-                "15)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Qiana": [
-                "16)",
-                "@ Store",
-                "none"
-            ],
-            "Sarah": [
-                "17)",
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Serena": [
-                "18)",
+                "14)",
                 "@ Store",
                 "none"
             ],
             "Taylor": [
-                "19)",
+                "15)",
                 "@ Store",
                 "none"
             ]
