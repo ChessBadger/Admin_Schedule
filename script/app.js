@@ -1104,7 +1104,7 @@ document.addEventListener('DOMContentLoaded', function () {
   document.addEventListener('touchend', function (event) {
     const currentTime = new Date().getTime();
     const tapLength = currentTime - lastTap;
-    if (tapLength < 500 && tapLength > 0) {
+    if (tapLength < 250 && tapLength > 0) {
       event.preventDefault();
     }
     lastTap = currentTime;
