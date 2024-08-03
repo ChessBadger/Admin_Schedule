@@ -1,5 +1,6 @@
 @echo off
 SETLOCAL
+setlocal enabledelayedexpansion
 SET REPO_DIR="C:\\Users\\clark\\OneDrive\\Desktop\\Master_Schedule"
 
 :: Change to the repository directory
