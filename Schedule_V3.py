@@ -18,6 +18,20 @@ excel_file_path = 'EmployeeListSchedule.xlsx'
 json_file_path = 'json/formatted_users.json'
 
 
+def print_colored(text, color):
+    colors = {
+        'red': '\033[91m',
+        'green': '\033[92m',
+        'yellow': '\033[93m',
+        'blue': '\033[94m',
+        'magenta': '\033[95m',
+        'cyan': '\033[96m',
+        'white': '\033[97m',
+        'reset': '\033[0m'
+    }
+    print(colors.get(color, colors['reset']) + text + colors['reset'])
+
+
 def prompt_user():
     response = input("Do you want to update the employee list? (y/n): ")
     return response.strip().lower() == 'y'
@@ -29,8 +43,8 @@ def update_employee_list():
         # Read the Excel file
         df = pd.read_excel(excel_file_path)
     except FileNotFoundError:
-        print(
-            f"Error: The Excel file '{excel_file_path}' was not found...\nContinuing to update schedule.")
+        print_colored(
+            f"Error: The Excel file '{excel_file_path}' was not found...\nContinuing to update schedule.", "red")
         time.sleep(3)
         return
 
@@ -93,14 +107,15 @@ def update_employee_list():
     with open(json_file_path, 'w') as json_file:
         json.dump(updated_users, json_file, indent=2)
 
-    print("Formatted user data has been saved to formatted_users.json")
+    print_colored(
+        "Formatted user data has been saved to formatted_users.json", "cyan")
 
 
 # Main script execution
 if prompt_user():
     update_employee_list()
 else:
-    print("Skipping employee list update...")
+    print_colored("Skipping employee list update...", "cyan")
 
 
 json_file_path = 'json/store_runs.json'
@@ -246,8 +261,8 @@ if folders:
             done = False
             while not done:
                 status, done = downloader.next_chunk()
-                print(
-                    f"Downloading {file_name}: {int(status.progress() * 100)}%")
+                print_colored(
+                    f"Downloading {file_name}: {int(status.progress() * 100)}%", "cyan")
 
     # List all sheets in the specified folder using the folder ID
     query = f"mimeType='application/vnd.google-apps.spreadsheet' and '{folder_id}' in parents"
@@ -260,7 +275,7 @@ if folders:
         # Open the spreadsheet by ID using gspread
         gsheet = client.open_by_key(file['id'])
         # Print the name of the spreadsheet
-        print(f"Processing sheet: {gsheet.title}")
+        print_colored(f"Processing sheet: {gsheet.title}", "cyan")
 
         # Select the worksheet by title
         worksheet = gsheet.sheet1
@@ -306,7 +321,6 @@ if folders:
                         # Get the value of the cell two rows down (next store)
                         next_store = sheet.cell(
                             row=cell.row + 1, column=cell.column).value
-
                         # Handle empty days (weekends)
                         if cell.row == 8 and cell.value is None:
                             next_cell = sheet.cell(
@@ -494,7 +508,7 @@ if folders:
 
 
 else:
-    print(f"No folder found with the name {folder_name}")
+    print_colored(f"No folder found with the name {folder_name}", "red")
 
 
 # Load the JSON data from the files
@@ -520,7 +534,8 @@ updated_store_runs_path = 'json/store_runs.json'
 with open(updated_store_runs_path, 'w') as f:
     json.dump(store_runs_data, f, indent=4)
 
-print(f'Updated file saved to {updated_store_runs_path}\n\n\n')
+print_colored(
+    f'Updated schedule saved to {updated_store_runs_path}\n\n\n', "green")
 
 
 # Check for errors
@@ -641,9 +656,9 @@ for store_run in store_runs_data:
 
     if errors:
         print("-------------------------------")
-        print(
-            f"Errors in store run: {store_run['date']}:")
+        print_colored(
+            f"Errors in store run: {store_run['date']}:", "red")
         for error in errors:
-            print(f"  - {error}")
+            print_colored(f"  - {error}", "red")
 
 print("\n\n\n-------------------------------\nValidation complete.")
