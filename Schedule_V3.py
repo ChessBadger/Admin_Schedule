@@ -43,7 +43,7 @@ def update_employee_list():
         # Read the Excel file
         df = pd.read_excel(excel_file_path)
     except FileNotFoundError:
-        print_colored(
+        print(
             f"Error: The Excel file '{excel_file_path}' was not found...\nContinuing to update schedule.", "red")
         time.sleep(3)
         return
@@ -107,15 +107,15 @@ def update_employee_list():
     with open(json_file_path, 'w') as json_file:
         json.dump(updated_users, json_file, indent=2)
 
-    print_colored(
-        "Formatted user data has been saved to formatted_users.json", "white")
+    print(
+        "Formatted user data has been saved to formatted_users.json")
 
 
 # Main script execution
 if prompt_user():
     update_employee_list()
 else:
-    print_colored("Skipping employee list update...\n\n", "white")
+    print("Skipping employee list update...\n\n")
 
 
 json_file_path = 'json/store_runs.json'
@@ -261,8 +261,8 @@ if folders:
             done = False
             while not done:
                 status, done = downloader.next_chunk()
-                print_colored(
-                    f"Downloading {file_name}: {int(status.progress() * 100)}%", "white")
+                print(
+                    f"Downloading {file_name}: {int(status.progress() * 100)}%")
 
     # List all sheets in the specified folder using the folder ID
     query = f"mimeType='application/vnd.google-apps.spreadsheet' and '{folder_id}' in parents"
@@ -275,7 +275,7 @@ if folders:
         # Open the spreadsheet by ID using gspread
         gsheet = client.open_by_key(file['id'])
         # Print the name of the spreadsheet
-        print_colored(f"Processing sheet: {gsheet.title}", "white")
+        print(f"Processing sheet: {gsheet.title}")
 
         # Select the worksheet by title
         worksheet = gsheet.sheet1
@@ -508,7 +508,7 @@ if folders:
 
 
 else:
-    print_colored(f"No folder found with the name {folder_name}", "red")
+    print(f"No folder found with the name {folder_name}", "red")
 
 
 print("\n\n\n")
@@ -656,10 +656,10 @@ for store_run in store_runs_data:
 
     if errors:
         print("-------------------------------")
-        print_colored(
-            f"Errors in store run: {store_run['date']}:", "red")
+        print(
+            f"Errors in store run: {store_run['date']}:")
         for error in errors:
             print_colored(f"  - {error}", "red")
 
-print_colored(
-    "-------------------------------\n\n\nValidation complete...\nUpdating website...\n\n\n", "white")
+print(
+    "-------------------------------\n\n\nValidation complete...\nUpdating website...\n\n\n")
