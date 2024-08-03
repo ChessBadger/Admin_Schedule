@@ -511,6 +511,9 @@ else:
     print_colored(f"No folder found with the name {folder_name}", "red")
 
 
+print("\n\n\n")
+
+
 # Load the JSON data from the files
 with open('json/formatted_users.json', 'r') as f:
     users_data = json.load(f)
@@ -659,4 +662,4 @@ for store_run in store_runs_data:
             print_colored(f"  - {error}", "red")
 
 print_colored(
-    "\n\n\n-------------------------------\nValidation complete.\n\n\n", "white")
+    "-------------------------------\n\n\nValidation complete...\nUpdating website...\n\n\n", "white")
