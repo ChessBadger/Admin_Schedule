@@ -25,7 +25,7 @@ def print_colored(text, color):
         'yellow': '\033[93m',
         'blue': '\033[94m',
         'magenta': '\033[95m',
-        'cyan': '\033[96m',
+        'white': '\033[96m',
         'white': '\033[97m',
         'reset': '\033[0m'
     }
@@ -108,14 +108,14 @@ def update_employee_list():
         json.dump(updated_users, json_file, indent=2)
 
     print_colored(
-        "Formatted user data has been saved to formatted_users.json", "cyan")
+        "Formatted user data has been saved to formatted_users.json", "white")
 
 
 # Main script execution
 if prompt_user():
     update_employee_list()
 else:
-    print_colored("Skipping employee list update...", "cyan")
+    print_colored("Skipping employee list update...", "white")
 
 
 json_file_path = 'json/store_runs.json'
@@ -262,7 +262,7 @@ if folders:
             while not done:
                 status, done = downloader.next_chunk()
                 print_colored(
-                    f"Downloading {file_name}: {int(status.progress() * 100)}%", "cyan")
+                    f"Downloading {file_name}: {int(status.progress() * 100)}%", "white")
 
     # List all sheets in the specified folder using the folder ID
     query = f"mimeType='application/vnd.google-apps.spreadsheet' and '{folder_id}' in parents"
@@ -275,7 +275,7 @@ if folders:
         # Open the spreadsheet by ID using gspread
         gsheet = client.open_by_key(file['id'])
         # Print the name of the spreadsheet
-        print_colored(f"Processing sheet: {gsheet.title}", "cyan")
+        print_colored(f"Processing sheet: {gsheet.title}", "white")
 
         # Select the worksheet by title
         worksheet = gsheet.sheet1

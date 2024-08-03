@@ -19,7 +19,7 @@ IF %ERRORLEVEL% NEQ 0 (
 )
 
 :: Add all changes to the staging area
-git add .
+git add . > nul 2>&1
 IF %ERRORLEVEL% NEQ 0 (
     echo "Error running git add"
     pause
@@ -37,7 +37,7 @@ set second=%datetime:~12,2%
 set current_time=%year%-%month%-%day% %hour%:%minute%:%second%
 
 :: Commit changes with a message that includes the current date and time
-git commit -m "Automated commit. Updated: %current_time%"
+git commit -m "Automated commit. Updated: %current_time%" > nul 2>&1
 IF %ERRORLEVEL% NEQ 0 (
     echo "Error running git commit"
     pause
@@ -45,15 +45,13 @@ IF %ERRORLEVEL% NEQ 0 (
 )
 
 :: Push changes to the 'main' branch of the 'origin' remote repository
-git push origin main
+git push origin main > nul 2>&1
 IF %ERRORLEVEL% NEQ 0 (
     echo "Error running git push"
     pause
     exit /b %ERRORLEVEL%
 )
 
-
 echo "Schedule Updated Successfully"
-
 pause
 ENDLOCAL
