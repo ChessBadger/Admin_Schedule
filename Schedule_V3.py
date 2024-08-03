@@ -21,7 +21,7 @@ json_file_path = 'json/formatted_users.json'
 def print_colored(text, color):
     colors = {
         'red': '\033[91m',
-        'green': '\033[92m',
+        'white': '\033[92m',
         'yellow': '\033[93m',
         'blue': '\033[94m',
         'magenta': '\033[95m',
@@ -535,7 +535,7 @@ with open(updated_store_runs_path, 'w') as f:
     json.dump(store_runs_data, f, indent=4)
 
 print_colored(
-    f'Updated schedule saved to {updated_store_runs_path}\n\n\n', "green")
+    f'Updated schedule saved to {updated_store_runs_path}\n\n\n', "white")
 
 
 # Check for errors
@@ -662,4 +662,4 @@ for store_run in store_runs_data:
             print_colored(f"  - {error}", "red")
 
 print_colored(
-    "\n\n\n-------------------------------\nValidation complete.", "green")
+    "\n\n\n-------------------------------\nValidation complete.\n\n\n", "white")
