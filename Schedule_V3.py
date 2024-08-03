@@ -655,10 +655,11 @@ for store_run in store_runs_data:
         errors.append(error)
 
     if errors:
-        print("-------------------------------")
+        print_colored("-------------------------------", "red")
         print_colored(
             f"Errors in store run: {store_run['date']}:", "red")
         for error in errors:
             print_colored(f"  - {error}", "red")
 
-print("\n\n\n-------------------------------\nValidation complete.")
+print_colored(
+    "\n\n\n-------------------------------\nValidation complete.", "green")

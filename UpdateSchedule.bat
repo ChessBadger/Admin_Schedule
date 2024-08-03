@@ -1,6 +1,5 @@
 @echo off
 SETLOCAL
-setlocal enabledelayedexpansion
 SET REPO_DIR="C:\\Users\\clark\\OneDrive\\Desktop\\Master_Schedule"
 
 :: Change to the repository directory
@@ -54,7 +53,7 @@ IF %ERRORLEVEL% NEQ 0 (
 )
 
 
-echo %ESC%[32mSchedule updated successfully%ESC%[0m
+echo "Schedule Updated Successfully"
 
 pause
 ENDLOCAL
