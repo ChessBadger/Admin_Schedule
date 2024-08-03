@@ -275,8 +275,7 @@ if folders:
         # Open the spreadsheet by ID using gspread
         gsheet = client.open_by_key(file['id'])
         # Print the name of the spreadsheet
-        # print_colored(f"Processing sheet: {print_colored(gsheet.title, "green")}", "cyan")
-        print(f"Processing sheet: {print_colored(gsheet.title, 'green')}")
+        print_colored(f"Processing sheet: {gsheet.title}", "cyan")
 
         # Select the worksheet by title
         worksheet = gsheet.sheet1
