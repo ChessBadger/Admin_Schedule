@@ -115,7 +115,7 @@ def update_employee_list():
 if prompt_user():
     update_employee_list()
 else:
-    print_colored("Skipping employee list update...", "white")
+    print_colored("Skipping employee list update...\n\n", "white")
 
 
 json_file_path = 'json/store_runs.json'
@@ -534,9 +534,6 @@ updated_store_runs_path = 'json/store_runs.json'
 with open(updated_store_runs_path, 'w') as f:
     json.dump(store_runs_data, f, indent=4)
 
-print_colored(
-    f'Updated schedule saved to {updated_store_runs_path}\n\n\n', "white")
-
 
 # Check for errors
 # Load the JSON data from the file
@@ -655,7 +652,7 @@ for store_run in store_runs_data:
         errors.append(error)
 
     if errors:
-        print_colored("-------------------------------", "red")
+        print("-------------------------------")
         print_colored(
             f"Errors in store run: {store_run['date']}:", "red")
         for error in errors:
