@@ -312,8 +312,9 @@ if folders:
                             next_cell = sheet.cell(
                                 row=cell.row + 1, column=cell.column).value
                             if next_cell is None:
-                                next_cell = sheet.cell(
-                                    row=cell.row + 1, column=cell.column).value
+                                for i in range(1, 20):  # Check the next 3 cells
+                                    next_cell = sheet.cell(
+                                        row=cell.row + i, column=cell.column).value
                                 if next_cell is None:
                                     store_run = StoreRun(
                                         date=None, start_time=None)
@@ -325,8 +326,9 @@ if folders:
                             next_cell = sheet.cell(
                                 row=cell.row + 1, column=cell.column).value
                             if next_cell == '':
-                                next_cell = sheet.cell(
-                                    row=cell.row + 1, column=cell.column).value
+                                for i in range(1, 20):  # Check the next 3 cells
+                                    next_cell = sheet.cell(
+                                        row=cell.row + i, column=cell.column).value
                                 if next_cell == '':
                                     store_run = StoreRun(
                                         date=None, start_time=None)
