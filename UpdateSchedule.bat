@@ -53,7 +53,7 @@ IF %ERRORLEVEL% NEQ 0 (
 )
 
 
-color 0A echo "Schedule updated successfully"
+echo %ESC%[32mSchedule updated successfully%ESC%[0m
 
 pause
 ENDLOCAL
