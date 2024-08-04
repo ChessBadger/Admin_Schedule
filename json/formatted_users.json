@@ -166,7 +166,7 @@
     "password": "1165",
     "type": "user",
     "displayName": "Carlie K",
-    "office": "Milwaukee",
+    "office": "Grafton",
     "firstName": "Carlie",
     "lastName": "Klotz"
   },
@@ -307,11 +307,11 @@
   },
   {
     "username": "jsmith",
-    "password": "1354",
+    "password": "1334",
     "type": "user",
-    "displayName": "Josh S",
+    "displayName": "Joseph S",
     "office": "Rockford",
-    "firstName": "Josh",
+    "firstName": "Joseph",
     "lastName": "Smith"
   },
   {
@@ -595,11 +595,11 @@
   },
   {
     "username": "tmarien",
-    "password": "3787",
+    "password": "3768",
     "type": "user",
-    "displayName": "Trevor M",
-    "office": "Milwaukee",
-    "firstName": "Trevor",
+    "displayName": "Tanner M",
+    "office": "Grafton",
+    "firstName": "Tanner",
     "lastName": "Marien"
   },
   {
@@ -774,6 +774,15 @@
     "lastName": "Casey"
   },
   {
+    "username": "tmarien",
+    "password": "3787",
+    "type": "user",
+    "displayName": "Trevor M",
+    "office": "Grafton",
+    "firstName": "Trevor",
+    "lastName": "Marien"
+  },
+  {
     "username": "vcarrier",
     "password": "1352",
     "type": "user",
@@ -910,39 +919,12 @@
   },
   {
     "username": "jsmith",
-    "password": "1334",
+    "password": "1354",
     "type": "user",
-    "displayName": "Joseph S",
+    "displayName": "Josh S",
     "office": "Rockford",
-    "firstName": "Joseph",
+    "firstName": "Josh",
     "lastName": "Smith"
-  },
-  {
-    "username": "tmarien",
-    "password": "3768",
-    "type": "user",
-    "displayName": "Tanner M",
-    "office": "Milwaukee",
-    "firstName": "Tanner",
-    "lastName": "Marien"
-  },
-  {
-    "username": "tmcbride",
-    "password": "3800",
-    "type": "user",
-    "displayName": "Taya M",
-    "office": "Fox Valley",
-    "firstName": "Taya",
-    "lastName": "McBride"
-  },
-  {
-    "username": "wwashatka",
-    "password": "1355",
-    "type": "user",
-    "displayName": "Wyatt W",
-    "office": "Rockford",
-    "firstName": "Wyatt",
-    "lastName": "Washatka"
   },
   {
     "username": "kpurifoy",
@@ -958,7 +940,7 @@
     "password": "3801",
     "type": "user",
     "displayName": "Cristi W",
-    "office": "Milwaukee",
+    "office": "Grafton",
     "firstName": "Cristi",
     "lastName": "Winkler"
   },
@@ -967,7 +949,7 @@
     "password": "3802",
     "type": "user",
     "displayName": "Yvette R",
-    "office": "Milwaukee",
+    "office": "Grafton",
     "firstName": "Yvette",
     "lastName": "Roller"
   }

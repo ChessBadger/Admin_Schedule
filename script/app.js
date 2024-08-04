@@ -86,10 +86,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
           if (user) {
             localStorage.setItem('username', username);
+            localStorage.setItem('userOffice', user.office);
             localStorage.setItem('userType', user.type);
             // localStorage.setItem('userDisplayName', user.displayName || username); CHANGE THIS
-            localStorage.setItem('userDisplayName', user.firstName || username);
-            localStorage.setItem('userOffice', user.office);
+            localStorage.setItem('userDisplayName', user.displayName);
             document.getElementById('loginSection').style.display = 'none';
             document.getElementById('signOutButton').style.display = 'block';
             document.getElementById('jumpArrow').style.display = 'block';
@@ -675,14 +675,15 @@ document.addEventListener('DOMContentLoaded', function () {
     return meetTimes
       .filter((time) => {
         if (time.includes('M:') && office === 'Milwaukee') return true;
+        if (time.includes('G:') && office === 'Grafton') return true;
         if (time.includes('IL:') && office === 'Rockford') return true;
         if (time.includes('FV:') && office === 'Fox Valley') return true;
         if (time.includes('MD:') && office === 'Madison') return true;
-        if (!time.includes('M:') && !time.includes('IL:') && !time.includes('FV:') && !time.includes('MD:')) return true;
+        if (!time.includes('M:') && !time.includes('G:') && !time.includes('IL:') && !time.includes('FV:') && !time.includes('MD:')) return true;
         return false;
       })
       .map((time) => {
-        return time.replace('M:', '').replace('IL:', '').replace('FV:', '').replace('MD:', '').trim();
+        return time.replace('M:', '').replace('G:', '').replace('IL:', '').replace('FV:', '').replace('MD:', '').trim();
       });
   }
 

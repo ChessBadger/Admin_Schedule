@@ -35,42 +35,42 @@
             "Ashley P": [
                 "1)",
                 "@ Store, Equip",
-                "Rockford"
+                "none"
             ],
             "Casey": [
                 "2)",
                 "Driver,\nOptima",
-                "none"
+                "Milwaukee"
             ],
             "Curt": [
                 "3)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Greg": [
                 "4)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Ian": [
                 "5)",
                 "Driver,\nSante Fe",
-                "none"
+                "Milwaukee"
             ],
             "Jerry D": [
                 "6)",
                 "",
-                "Milwaukee"
+                "none"
             ],
             "Lashaun": [
                 "7)",
                 "Help Ashley if needed",
-                "none"
+                "Milwaukee"
             ],
             "Stephanie": [
                 "8)",
                 "",
-                "none"
+                "Milwaukee"
             ]
         }
     },
@@ -95,42 +95,42 @@
             "DJ": [
                 "1)",
                 "Equip",
-                "none"
+                "Milwaukee"
             ],
             "Cynthia": [
                 "2)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Katherine": [
                 "3)",
                 "After Aurora",
-                "none"
+                "Milwaukee"
             ],
             "Sue": [
                 "4)",
                 "After Aurora",
-                "none"
+                "Milwaukee"
             ],
             "Katie": [
                 "5)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ],
             "Kirsten": [
                 "6)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ],
             "Nagui": [
                 "7)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ],
             "Serena": [
                 "8)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ]
         }
     },
@@ -155,12 +155,12 @@
             "Katherine": [
                 "1)",
                 "Gold Camry available, Equip",
-                "none"
+                "Milwaukee"
             ],
             "Sue": [
                 "2)",
                 "",
-                "none"
+                "Milwaukee"
             ]
         }
     },
@@ -187,17 +187,17 @@
             "Kim": [
                 "1)",
                 "Red Van available, Equip",
-                "none"
+                "Milwaukee"
             ],
             "Carlie": [
                 "2)",
                 "",
-                "none"
+                "Grafton"
             ],
             "Paul": [
                 "3)",
                 "",
-                "none"
+                "Milwaukee"
             ]
         }
     },
@@ -222,77 +222,77 @@
             "Kim": [
                 "1)",
                 "Sante Fe available, Equip",
-                "none"
+                "Milwaukee"
             ],
             "Casey": [
                 "2)",
                 "Rx",
-                "none"
+                "Milwaukee"
             ],
             "Curt": [
                 "3)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Cynthia": [
                 "4)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "DJ": [
                 "5)",
                 "After Aurora",
-                "none"
+                "Milwaukee"
             ],
             "Greg": [
                 "6)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Ian": [
                 "7)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Jerry D": [
                 "8)",
                 "",
-                "Milwaukee"
+                "none"
             ],
             "Joshua M": [
                 "9)",
                 "",
-                "Milwaukee"
+                "none"
             ],
             "Katherine": [
                 "10)",
                 "Supv Rx",
-                "none"
+                "Milwaukee"
             ],
             "Paul": [
                 "11)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Robyn": [
                 "12)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Stephanie": [
                 "13)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Via": [
                 "14)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Brianna": [
                 "15)",
                 "@ Store",
-                "none"
+                "Rockford"
             ]
         }
     },
@@ -317,14 +317,14 @@
             "DJ": [
                 "1)",
                 "Equip",
-                "none"
+                "Milwaukee"
             ]
         }
     },
     {
         "date": "Tue, Aug 6",
         "meet_time": [
-            "4:30 AM MEET AT BAYSHORE"
+            "M: 4:30 AM MEET AT BAYSHORE"
         ],
         "start_time": "6:30 AM START",
         "inv_type": [
@@ -346,62 +346,62 @@
             "Jeremiah": [
                 "1)",
                 "@ Store, Equip",
-                "none"
+                "Fox Valley"
             ],
             "Cristi": [
                 "2)",
                 "*Grafton Park n Ride",
-                "none"
+                "Grafton"
             ],
             "Lashaun": [
                 "3)",
                 "Driver,\nRed Van",
-                "none"
+                "Milwaukee"
             ],
             "Sonia": [
                 "4)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Sue": [
                 "5)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Jerry S": [
                 "6)",
                 "@ Store",
-                "Fox Valley"
+                "none"
             ],
             "Josie": [
                 "7)",
                 "@ Store",
-                "none"
+                "Madison"
             ],
             "Katie": [
                 "8)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ],
             "Kirsten": [
                 "9)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ],
             "Lori": [
                 "10)",
                 "@ Store",
-                "none"
+                "Madison"
             ],
             "Marcia": [
                 "11)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ],
             "Serena": [
                 "12)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ],
             "Taya": [
                 "13)",
@@ -433,78 +433,80 @@
             "Nate": [
                 "1)",
                 "@ Store, Equip",
-                "none"
+                "Rockford"
             ],
             "Casey": [
                 "2)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Ian": [
                 "3)",
                 "Driver,\nGold Camry",
-                "none"
+                "Milwaukee"
             ],
             "Jerry D": [
                 "4)",
                 "",
-                "Milwaukee"
+                "none"
             ],
             "Sue": [
                 "5)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Angela": [
                 "6)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ],
             "Anisha": [
                 "7)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
             "Ashley P": [
                 "8)",
                 "@ Store",
-                "Rockford"
+                "none"
             ],
             "Evelin": [
                 "9)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
             "Joseph": [
                 "10)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
             "Josh S": [
                 "11)",
                 "@ Store",
-                "Rockford"
+                "none"
             ],
             "Justin": [
                 "12)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
             "Keilah": [
                 "13)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
             "Michael N": [
                 "14)",
                 "@ Store",
-                "Rockford"
+                "none"
             ]
         }
     },
     {
         "date": "Wed, Aug 7",
-        "meet_time": [],
+        "meet_time": [
+            "G: 5:15 AM MEET GRAFTON PARK N RIDE"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -525,77 +527,77 @@
             "Brianna": [
                 "1)",
                 "@ Store, Equip",
-                "none"
+                "Rockford"
             ],
             "Carlie": [
                 "2)",
                 "(Driver)",
-                "none"
+                "Grafton"
             ],
             "Cristi": [
                 "3)",
                 "(w/ Carlie)",
-                "none"
+                "Grafton"
             ],
             "Cynthia": [
                 "4)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "DJ": [
                 "5)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Greg": [
                 "6)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Katherine": [
                 "7)",
                 "After Aurora",
-                "none"
+                "Milwaukee"
             ],
             "Lashaun": [
                 "8)",
                 "Supv Rx",
-                "none"
+                "Milwaukee"
             ],
             "Paul": [
                 "9)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Annette": [
                 "10)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ],
             "Eva": [
                 "11)",
                 "@ Store,\nRx",
-                "none"
+                "Fox Valley"
             ],
             "Katie": [
                 "12)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ],
             "Qiana": [
                 "13)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
             "Serena": [
                 "14)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ],
             "Taylor": [
                 "15)",
                 "@ Store",
-                "none"
+                "Rockford"
             ]
         }
     },
@@ -620,7 +622,7 @@
             "Katherine": [
                 "1)",
                 "Optima available, Equip",
-                "none"
+                "Milwaukee"
             ]
         }
     },
@@ -639,7 +641,7 @@
             "Kim": [
                 "",
                 "",
-                "none"
+                "Milwaukee"
             ]
         }
     },
@@ -666,87 +668,87 @@
             "Kim": [
                 "1)",
                 "Sante Fe available, Equip",
-                "none"
+                "Milwaukee"
             ],
             "Carlie": [
                 "2)",
                 "(Driver)",
-                "none"
+                "Grafton"
             ],
             "Cristi": [
                 "3)",
                 "(w/ Carlie)",
-                "none"
+                "Grafton"
             ],
             "Ian": [
                 "4)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Jerry D": [
                 "5)",
                 "",
-                "Milwaukee"
+                "none"
             ],
             "Sue": [
                 "6)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Angela": [
                 "7)",
                 "@ Store,\nRx",
-                "none"
+                "Fox Valley"
             ],
             "Anisha": [
                 "8)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
             "Ashley P": [
                 "9)",
                 "@ Store,\nSupv Rx",
-                "Rockford"
+                "none"
             ],
             "Brianna": [
                 "10)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
             "Elijah": [
                 "11)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
             "Evelin": [
                 "12)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
             "Joseph": [
                 "13)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
             "Josh S": [
                 "14)",
                 "@ Store",
-                "Rockford"
+                "none"
             ],
             "Lori": [
                 "15)",
                 "@ Store",
-                "none"
+                "Madison"
             ],
             "Michael N": [
                 "16)",
                 "@ Store",
-                "Rockford"
+                "none"
             ],
             "Sarah": [
                 "17)",
                 "@ Store",
-                "none"
+                "Madison"
             ]
         }
     },
@@ -773,82 +775,82 @@
             "DJ": [
                 "1)",
                 "Equip",
-                "none"
+                "Milwaukee"
             ],
             "Cynthia": [
                 "2)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Joshua M": [
                 "3)",
                 "",
-                "Milwaukee"
+                "none"
             ],
             "Katherine": [
                 "4)",
                 "After Aurora",
-                "none"
+                "Milwaukee"
             ],
             "Paul": [
                 "5)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Sonia": [
                 "6)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Via": [
                 "7)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Annette": [
                 "8)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ],
             "Eva": [
                 "9)",
                 "@ Store,\nRx",
-                "none"
+                "Fox Valley"
             ],
             "Jerry S": [
                 "10)",
                 "@ Store",
-                "Fox Valley"
+                "none"
             ],
             "Justin": [
                 "11)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
             "Keilah": [
                 "12)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
             "Kirsten": [
                 "13)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ],
             "Marcia": [
                 "14)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ],
             "Nate": [
                 "15)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
             "Qiana": [
                 "16)",
                 "@ Store,\nSupv Rx",
-                "none"
+                "Rockford"
             ],
             "Taya": [
                 "17)",
@@ -858,7 +860,7 @@
             "Taylor": [
                 "18)",
                 "@ Store",
-                "none"
+                "Rockford"
             ]
         }
     },
@@ -883,7 +885,7 @@
             "Katherine": [
                 "1)",
                 "Optima available, Equip",
-                "none"
+                "Milwaukee"
             ]
         }
     },
@@ -902,7 +904,7 @@
             "Lashaun": [
                 "",
                 "",
-                "none"
+                "Milwaukee"
             ]
         }
     },
@@ -929,77 +931,77 @@
             "Brianna": [
                 "1)",
                 "@ Store, Equip",
-                "none"
+                "Rockford"
             ],
             "Casey": [
                 "2)",
                 "Driver,\nRed Van",
-                "none"
+                "Milwaukee"
             ],
             "DJ": [
                 "3)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Jerry D": [
                 "4)",
                 "",
-                "Milwaukee"
+                "none"
             ],
             "Katherine": [
                 "5)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Paul": [
                 "6)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Angela": [
                 "7)",
                 "@ Store,\nRx",
-                "none"
+                "Fox Valley"
             ],
             "Anisha": [
                 "8)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
             "Ashley P": [
                 "9)",
                 "@ Store",
-                "Rockford"
+                "none"
             ],
             "Elijah": [
                 "10)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
             "Eva": [
                 "11)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ],
             "Joseph": [
                 "12)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
             "Josh S": [
                 "13)",
                 "@ Store",
-                "Rockford"
+                "none"
             ],
             "Qiana": [
                 "14)",
                 "@ Store,\nSupv Rx",
-                "none"
+                "Rockford"
             ],
             "Taylor": [
                 "15)",
                 "@ Store",
-                "none"
+                "Rockford"
             ]
         }
     },
@@ -1026,72 +1028,72 @@
             "Nate": [
                 "1)",
                 "@ Store, Equip",
-                "none"
+                "Rockford"
             ],
             "Carlie": [
                 "2)",
                 "",
-                "none"
+                "Grafton"
             ],
             "Cynthia": [
                 "3)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Greg": [
                 "4)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Ian": [
                 "5)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Joshua M": [
                 "6)",
                 "",
-                "Milwaukee"
+                "none"
             ],
             "Kim": [
                 "7)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Lashaun": [
                 "8)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Robyn": [
                 "9)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Sonia": [
                 "10)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Stephanie": [
                 "11)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Via": [
                 "12)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Lori": [
                 "13)",
                 "@ Store",
-                "none"
+                "Madison"
             ],
             "Sarah": [
                 "14)",
                 "@ Store",
-                "none"
+                "Madison"
             ]
         }
     },
@@ -1140,12 +1142,12 @@
             "Kim": [
                 "1)",
                 "Driver,\nSante Fe, Equip",
-                "none"
+                "Milwaukee"
             ],
             "Cynthia": [
                 "2)",
                 "",
-                "none"
+                "Milwaukee"
             ]
         }
     },
@@ -1176,12 +1178,12 @@
             "Katherine": [
                 "1)",
                 "Optima, Equip",
-                "none"
+                "Milwaukee"
             ],
             "Carlie": [
                 "2)",
                 "@ Store",
-                "none"
+                "Grafton"
             ]
         }
     },
@@ -1208,17 +1210,17 @@
             "Ian": [
                 "1)",
                 "Gold Camry available, Equip",
-                "none"
+                "Milwaukee"
             ],
             "Jerry D": [
                 "2)",
                 "Until noon,\n1st Smoke Shop",
-                "Milwaukee"
+                "none"
             ],
             "Lashaun": [
                 "3)",
                 "",
-                "none"
+                "Milwaukee"
             ]
         }
     },
@@ -1245,77 +1247,77 @@
             "Kim": [
                 "1)",
                 "Sante Fe available, Equip",
-                "none"
+                "Milwaukee"
             ],
             "Casey": [
                 "2)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Cynthia": [
                 "3)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Greg": [
                 "4)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Jerry D": [
                 "5)",
                 "",
-                "Milwaukee"
+                "none"
             ],
             "Joshua M": [
                 "6)",
                 "",
-                "Milwaukee"
+                "none"
             ],
             "Katherine": [
                 "7)",
                 "After Aurora",
-                "none"
+                "Milwaukee"
             ],
             "Paul": [
                 "8)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Robyn": [
                 "9)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Sonia": [
                 "10)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Stephanie": [
                 "11)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Via": [
                 "12)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Eva": [
                 "13)",
                 "@ Store,\nRx",
-                "none"
+                "Fox Valley"
             ],
             "Nate": [
                 "14)",
                 "@ Store,\nSupv Rx",
-                "none"
+                "Rockford"
             ],
             "Taylor": [
                 "15)",
                 "@ Store",
-                "none"
+                "Rockford"
             ]
         }
     },
@@ -1340,14 +1342,14 @@
             "Katherine": [
                 "1)",
                 "Optima available, Equip",
-                "none"
+                "Milwaukee"
             ]
         }
     },
     {
         "date": "Tue, Aug 13",
         "meet_time": [
-            "4:30 AM MEET WATERTOWN PLANK"
+            "M: 4:30 AM MEET WATERTOWN PLANK "
         ],
         "start_time": "6:00 AM START",
         "inv_type": [
@@ -1369,52 +1371,52 @@
             "Jeremiah": [
                 "1)",
                 "@ Store, Equip",
-                "none"
+                "Fox Valley"
             ],
             "Carlie": [
                 "2)",
                 "@ Store\n(Driver)",
-                "none"
+                "Grafton"
             ],
             "Cristi": [
                 "3)",
                 "@ Store\n(w/ Carlie)",
-                "none"
+                "Grafton"
             ],
             "Ian": [
                 "4)",
                 "Driver,\nGold Camry",
-                "none"
+                "Milwaukee"
             ],
             "Lashaun": [
                 "5)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Trevor": [
                 "6)",
                 "@ Store\n(w/ Carlie)",
-                "none"
+                "Grafton"
             ],
             "Katie": [
                 "7)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ],
             "Kirsten": [
                 "8)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ],
             "Marcia": [
                 "9)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ],
             "Serena": [
                 "10)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ],
             "Taya": [
                 "11)",
@@ -1425,7 +1427,9 @@
     },
     {
         "date": "Wed, Aug 14",
-        "meet_time": [],
+        "meet_time": [
+            "G: 5:15 AM MEET GRAFTON PARK N RIDE"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -1446,87 +1450,87 @@
             "Brianna": [
                 "1)",
                 "@ Store, Equip",
-                "none"
+                "Rockford"
             ],
             "Carlie": [
                 "2)",
                 "Driver",
-                "none"
+                "Grafton"
             ],
             "Casey": [
                 "3)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Cristi": [
                 "4)",
                 "w/ Carlie",
-                "none"
+                "Grafton"
             ],
             "Curt": [
                 "5)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Cynthia": [
                 "6)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Greg": [
                 "7)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Ian": [
                 "8)",
                 "Supv Rx",
-                "none"
+                "Milwaukee"
             ],
             "Jerry D": [
                 "9)",
                 "",
-                "Milwaukee"
+                "none"
             ],
             "Joshua M": [
                 "10)",
                 "",
-                "Milwaukee"
+                "none"
             ],
             "Lashaun": [
                 "11)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Paul": [
                 "12)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Sonia": [
                 "13)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Stephanie": [
                 "14)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Sue": [
                 "15)",
                 "Rx",
-                "none"
+                "Milwaukee"
             ],
             "Trevor": [
                 "16)",
                 "w/ Carlie",
-                "none"
+                "Grafton"
             ],
             "Via": [
                 "17)",
                 "",
-                "none"
+                "Milwaukee"
             ]
         }
     },
@@ -1555,12 +1559,12 @@
             "Katherine": [
                 "1)",
                 "Optima, Equip",
-                "none"
+                "Milwaukee"
             ],
             "Jacqui": [
                 "2)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ]
         }
     },
@@ -1579,7 +1583,7 @@
             "Kim": [
                 "",
                 "",
-                "none"
+                "Milwaukee"
             ]
         }
     },
@@ -1608,97 +1612,97 @@
             "Nate": [
                 "1)",
                 "@ Store, Equip",
-                "none"
+                "Rockford"
             ],
             "Joshua M": [
                 "2)",
                 "",
-                "Milwaukee"
+                "none"
             ],
             "Lashaun": [
                 "3)",
                 "Driver,\nRed Van",
-                "none"
+                "Milwaukee"
             ],
             "Paul": [
                 "4)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Via": [
                 "5)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Angela": [
                 "6)",
                 "@ Store,\nRx",
-                "none"
+                "Fox Valley"
             ],
             "Anisha": [
                 "7)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
             "Ashley P": [
                 "8)",
                 "@ Store,\nSupv Rx",
-                "Rockford"
+                "none"
             ],
             "Brianna": [
                 "9)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
             "Elijah": [
                 "10)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
             "Eva": [
                 "11)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ],
             "Evelin": [
                 "12)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
             "Joseph": [
                 "13)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
             "Josh S": [
                 "14)",
                 "@ Store",
-                "Rockford"
+                "none"
             ],
             "Justin": [
                 "15)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
             "Keilah": [
                 "16)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
             "Michael N": [
                 "17)",
                 "@ Store",
-                "Rockford"
+                "none"
             ],
             "Qiana": [
                 "18)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
             "Taylor": [
                 "19)",
                 "@ Store",
-                "none"
+                "Rockford"
             ]
         }
     },
@@ -1725,82 +1729,82 @@
             "Kim": [
                 "1)",
                 "Sante Fe available, Equip",
-                "none"
+                "Milwaukee"
             ],
             "Carlie": [
                 "2)",
                 "",
-                "none"
+                "Grafton"
             ],
             "Casey": [
                 "3)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Cristi": [
                 "4)",
                 "",
-                "none"
+                "Grafton"
             ],
             "Curt": [
                 "5)",
                 "Rx",
-                "none"
+                "Milwaukee"
             ],
             "Cynthia": [
                 "6)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Greg": [
                 "7)",
                 "Until 10:00",
-                "none"
+                "Milwaukee"
             ],
             "Jerry D": [
                 "8)",
                 "",
-                "Milwaukee"
+                "none"
             ],
             "Katherine": [
                 "9)",
                 "Supv Rx",
-                "none"
+                "Milwaukee"
             ],
             "Robyn": [
                 "10)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Sonia": [
                 "11)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Trevor": [
                 "12)",
                 "",
-                "none"
+                "Grafton"
             ],
             "Jerry S": [
                 "13)",
                 "@ Store",
-                "Fox Valley"
+                "none"
             ],
             "Kirsten": [
                 "14)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ],
             "Marcia": [
                 "15)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ],
             "Serena": [
                 "16)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ],
             "Taya": [
                 "17)",
@@ -1832,12 +1836,12 @@
             "Ian": [
                 "1)",
                 "Gold Camry\nEquip",
-                "none"
+                "Milwaukee"
             ],
             "Jeremiah": [
                 "2)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ]
         }
     },
@@ -1868,24 +1872,24 @@
             "Kim": [
                 "1)",
                 "Driver,\nSante Fe, Equip",
-                "none"
+                "Milwaukee"
             ],
             "Casey": [
                 "2)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Cynthia": [
                 "3)",
                 "",
-                "none"
+                "Milwaukee"
             ]
         }
     },
     {
         "date": "Fri, Aug 16",
         "meet_time": [
-            "4:45 AM OFFICE MEET"
+            "M: 4:45 AM OFFICE MEET"
         ],
         "start_time": "6:00 AM START",
         "inv_type": [
@@ -1907,57 +1911,57 @@
             "Brianna": [
                 "1)",
                 "@ Store, Equip",
-                "none"
+                "Rockford"
             ],
             "Carlie": [
                 "2)",
                 "Driver,\nWhite Camry",
-                "none"
+                "Grafton"
             ],
             "Cristi": [
                 "3)",
                 "w/ Carlie",
-                "none"
+                "Grafton"
             ],
             "Greg": [
                 "4)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Ian": [
                 "5)",
                 "Driver,\nRed Van",
-                "none"
+                "Milwaukee"
             ],
             "Jerry D": [
                 "6)",
                 "",
-                "Milwaukee"
+                "none"
             ],
             "Katherine": [
                 "7)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Paul": [
                 "8)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Robyn": [
                 "9)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Stephanie": [
                 "10)",
                 "",
-                "none"
+                "Milwaukee"
             ],
             "Lori": [
                 "11)",
                 "@ Store",
-                "none"
+                "Madison"
             ]
         }
     },
@@ -1976,7 +1980,7 @@
             "Lashaun": [
                 "",
                 "",
-                "none"
+                "Milwaukee"
             ]
         }
     },

@@ -65,7 +65,7 @@ def update_employee_list():
 
     # Office mapping
     office_mapping = {
-        "Grafton": "Milwaukee",
+        # "Grafton": "Milwaukee",
         "Baraboo": "Madison",
         "Florida": "Rockford",
         "Stevens Point": "Fox Valley"
@@ -108,7 +108,7 @@ def update_employee_list():
         json.dump(updated_users, json_file, indent=2)
 
     print(
-        "Formatted user data has been saved to formatted_users.json")
+        "Employee list has been updated...\n\n")
 
 
 # Main script execution
@@ -231,7 +231,7 @@ client = gspread.authorize(creds)
 drive_service = build('drive', 'v3', credentials=creds)
 
 # The name of the folder you want to search for
-folder_name = 'Fake Milwaukee'
+folder_name = 'Grafton Test'
 
 # Search for the folder by name to get its ID
 query = f"mimeType='application/vnd.google-apps.folder' and name='{folder_name}'"
