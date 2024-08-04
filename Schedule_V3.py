@@ -665,4 +665,4 @@ for store_run in store_runs_data:
                 print_colored(f"  - {error}", "red")
 
 print(
-    "-------------------------------\n\n\nValidation complete...\nUpdating website...\n\n\n")
+    "-------------------------------\n\n\nValidation complete\nUpdating website...\n\n\n")
