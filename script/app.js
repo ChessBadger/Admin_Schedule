@@ -674,8 +674,11 @@ document.addEventListener('DOMContentLoaded', function () {
   function filterMeetTimes(meetTimes, office) {
     return meetTimes
       .filter((time) => {
+        if (office === 'Grafton') {
+          return time.includes('G:') || time.includes('M:');
+        }
         if (time.includes('M:') && office === 'Milwaukee') return true;
-        if (time.includes('G:') && office === 'Grafton') return true;
+        // if (time.includes('G:') && office === 'Grafton') return true;
         if (time.includes('IL:') && office === 'Rockford') return true;
         if (time.includes('FV:') && office === 'Fox Valley') return true;
         if (time.includes('MD:') && office === 'Madison') return true;

@@ -361,13 +361,15 @@ if folders:
                             # Split the value by lines
                             lines = value.split('\n')
                             # Initialize a dictionary to hold meet times
-                            meet_times_dict = {'M:': None,
+                            meet_times_dict = {'M:': None, 'G:': None,
                                                'IL:': None, 'FV:': None, 'MD:': None}
                             default_value = None
                             # Iterate over each line to find meet times
                             for line in lines:
                                 if line.startswith('M:'):
                                     meet_times_dict['M:'] = line
+                                elif line.startswith('G:'):
+                                    meet_times_dict['G:'] = line
                                 elif line.startswith('IL:'):
                                     meet_times_dict['IL:'] = line
                                 elif line.startswith('FV:'):
@@ -379,6 +381,7 @@ if folders:
                             # Add meet times to the list in the specified order
                             store_run.meet_time = [
                                 meet_times_dict['M:'] or default_value,
+                                meet_times_dict['G:'],
                                 meet_times_dict['IL:'],
                                 meet_times_dict['FV:'],
                                 meet_times_dict['MD:']
