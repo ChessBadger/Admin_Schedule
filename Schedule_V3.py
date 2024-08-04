@@ -659,7 +659,10 @@ for store_run in store_runs_data:
         print(
             f"Errors in store run: {store_run['date']}:")
         for error in errors:
-            print_colored(f"  - {error}", "red")
+            if 'warning' in error.lower():
+                print_colored(f"  - {error}", "yellow")
+            else:
+                print_colored(f"  - {error}", "red")
 
 print(
     "-------------------------------\n\n\nValidation complete...\nUpdating website...\n\n\n")
