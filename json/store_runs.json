@@ -378,33 +378,28 @@
                 "@ Store",
                 "none"
             ],
-            "Katie": [
+            "Kirsten": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Kirsten": [
+            "Lori": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Lori": [
+            "Marcia": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Marcia": [
+            "Serena": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Serena": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
             "Taya": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ]
@@ -857,7 +852,7 @@
             ],
             "Taylor": [
                 "18)",
-                "@ Store",
+                "@ Store,\nUntil 12:00",
                 "none"
             ]
         }
