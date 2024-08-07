@@ -572,7 +572,7 @@
                 "@ Store,\nRx",
                 "none"
             ],
-            "Katie": [
+            "Lori": [
                 "12)",
                 "@ Store",
                 "none"
@@ -582,13 +582,18 @@
                 "@ Store",
                 "none"
             ],
-            "Serena": [
+            "Sarah": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Taylor": [
+            "Serena": [
                 "15)",
+                "@ Store",
+                "none"
+            ],
+            "Taylor": [
+                "16)",
                 "@ Store",
                 "none"
             ]
@@ -728,20 +733,10 @@
                 "@ Store",
                 "Rockford"
             ],
-            "Lori": [
+            "Michael N": [
                 "15)",
                 "@ Store",
-                "none"
-            ],
-            "Michael N": [
-                "16)",
-                "@ Store",
                 "Rockford"
-            ],
-            "Sarah": [
-                "17)",
-                "@ Store",
-                "none"
             ]
         }
     },
@@ -1597,7 +1592,7 @@
             "https://goo.gl/maps/8Wt7uwiJSHJ2"
         ],
         "store_note": [
-            "REQUEST FOR HABA TO BE REMAPPED- <br><hr id=\"note_separator\">SET UP ON REG #1"
+            "REQUEST FOR HABA TO BE REMAPPED-REMAPPED <br><hr id=\"note_separator\">SET UP ON REG #1"
         ],
         "employee_list": {
             "Nate": [
