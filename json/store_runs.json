@@ -1975,5 +1975,531 @@
         "link": [],
         "store_note": [],
         "employee_list": {}
+    },
+    {
+        "date": "Sun, Aug 18",
+        "meet_time": [
+            "?? AM MEET AT S RACINE COURT PARK AND RIDE"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "*SALE INVENTORY"
+        ],
+        "address": [
+            "PIGGLY WIGGLY #210, MILTON"
+        ],
+        "link": [
+            "727 S JANESVILLE ST"
+        ],
+        "store_note": [
+            "https://goo.gl/maps/nWMvQurCakN2"
+        ],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Paul": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Katherine": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Kim": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Anisha": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Josh S": [
+                "6)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Ashley P": [
+                "7)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Qiana": [
+                "8)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Aug 19",
+        "meet_time": [
+            "5:30 AM MEET COLLEGE (SOUTHWEST)"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1115 UNION GROVE"
+        ],
+        "address": [
+            "4310 67TH DRIVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/T7d8P5BJ5vQyPjos7"
+        ],
+        "store_note": [
+            "NEED THE 4208 SCANNERS DUE TO THE LGHTING IN THIS STORE - Also need scanner hoods here"
+        ],
+        "employee_list": {
+            "Ian": [
+                "1)",
+                "",
+                "none"
+            ],
+            "Lashaun": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Carlie": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Casey": [
+                "4)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Aug 19",
+        "meet_time": [],
+        "start_time": "LEAVE OFFICE 6:15 AM",
+        "inv_type": [
+            "7:00 AM START"
+        ],
+        "store_name": [
+            "DC5-ITEM LEVEL"
+        ],
+        "address": [
+            "AURORA OUTPATIENT RX #1108, LOMIRA"
+        ],
+        "link": [
+            "375 EAST AVENUE, SUITE 1"
+        ],
+        "store_note": [
+            "https://goo.gl/maps/HZvTzhm2zfv"
+        ],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Aug 20",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "PICK #365, MILWAUKEE-MIDTOWN"
+        ],
+        "address": [
+            "5700 WEST CAPITOL DR"
+        ],
+        "link": [
+            "https://goo.gl/maps/W4WAvaTk74U2"
+        ],
+        "store_note": [
+            "SET UP ON REG #1"
+        ],
+        "employee_list": {
+            "": [
+                "1)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Aug 20",
+        "meet_time": [
+            "4:45 AM MEET WATERTOWN PLANK"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL",
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1030, OSHKOSH",
+            "AURORA VISION #1151, OSHKOSH"
+        ],
+        "address": [
+            "414 DOCTORS COURT SUITE 100",
+            "700 N WESTHAVEN DR"
+        ],
+        "link": [
+            "https://goo.gl/maps/7jsxtRm7nJ82",
+            "https://goo.gl/maps/eNMezENBFiv"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Aug 20",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1050, ST FRANCIS"
+        ],
+        "address": [
+            "2000 E LAYTON AVENUE SUITE 150"
+        ],
+        "link": [
+            "https://goo.gl/maps/saDijnsPM7S2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "": [
+                "1)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Aug 21",
+        "meet_time": [
+            "5:30 AM MEET WATERTOWN PLANK\n(COURTESY MEET)"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1122, HUBERTUS"
+        ],
+        "address": [
+            "1303 HIGHWAY 175"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/4Vge5Fbx2R4sNroN8"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "": [
+                "1)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Aug 21",
+        "meet_time": [
+            "6:15 AM MEET WATERTOWN PLANK\n(COURTESY MEET)"
+        ],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "CONDON OIL #195, THERESA"
+        ],
+        "address": [
+            "213 N MILWAUKEE"
+        ],
+        "link": [
+            "https://goo.gl/maps/dBrycqMgUwF2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "": [
+                "1)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Aug 21",
+        "meet_time": [],
+        "start_time": "2:30 PM START",
+        "inv_type": [
+            "PAID SUPV MEETING"
+        ],
+        "store_name": [
+            "Please plan to log in 10 mins prior to the start of this meeting"
+        ],
+        "address": [
+            "Please have your camera on for this meeting"
+        ],
+        "link": [
+            "Please click on the link below to join this meeting"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "": [
+                "",
+                "",
+                "none"
+            ],
+            "Heidi": [
+                "1)",
+                "",
+                "none"
+            ],
+            "Jake S": [
+                "2)",
+                "",
+                "Rockford"
+            ],
+            "Jeremiah": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Jerry S": [
+                "4)",
+                "",
+                "Fox Valley"
+            ],
+            "Lashaun": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Michelle": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Nick": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Palmer": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Sarah": [
+                "9)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Aug 22",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1062, WEST ALLIS"
+        ],
+        "address": [
+            "6609 W GREENFIELD AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/dX5u7g5chT1DCwZVA"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "": [
+                "1)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Aug 22",
+        "meet_time": [],
+        "start_time": "LEAVE OFFICE 5:15 AM",
+        "inv_type": [
+            "6:00 AM START"
+        ],
+        "store_name": [
+            "DC5-ITEM LEVEL"
+        ],
+        "address": [
+            "AURORA OUTPATIENT RX #1102, HARTFORD"
+        ],
+        "link": [
+            "1640 E SUMNER ST, SUITE 100"
+        ],
+        "store_note": [
+            "https://goo.gl/maps/umuyQZyC8FT2"
+        ],
+        "employee_list": {
+            "": [
+                "1)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Aug 23",
+        "meet_time": [
+            "5:00 AM MEET BAYSHORE"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "PICK #185 +RX, MANITOWOC"
+        ],
+        "address": [
+            "3300 CALUMET AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/yGAWXUWhj222"
+        ],
+        "store_note": [
+            "SET UP ON REG #5"
+        ],
+        "employee_list": {
+            "": [
+                "1)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Aug 23",
+        "meet_time": [],
+        "start_time": "LEAVE BAYSHORE 6:00 AM",
+        "inv_type": [
+            "7:00 AM START"
+        ],
+        "store_name": [
+            "DC5-ITEM LEVEL"
+        ],
+        "address": [
+            "AURORA OUTPATIENT RX #1042, MANITOWOC"
+        ],
+        "link": [
+            "3509 DEWEY ST,  SUITE 100"
+        ],
+        "store_note": [
+            "https://goo.gl/maps/a6JdzRvBpKR2"
+        ],
+        "employee_list": {
+            "": [
+                "1)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Sat, Aug 24",
+        "meet_time": [
+            "?? AM MEET AT THE OFFICE"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "MILLER & SONS SUPERMARKET, VERONA"
+        ],
+        "address": [
+            "210 S MAIN ST"
+        ],
+        "link": [
+            "https://g.page/MillerSonsSupermarket?share"
+        ],
+        "store_note": [
+            "Set up in break room"
+        ],
+        "employee_list": {
+            "Nate": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Katherine": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Lashaun": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Curt": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Ian": [
+                "5)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Sat, Aug 24",
+        "meet_time": [],
+        "start_time": "Sarah",
+        "inv_type": [
+            "Keilah"
+        ],
+        "store_name": [
+            "Angela"
+        ],
+        "address": [
+            "Anisha"
+        ],
+        "link": [
+            "Josh S"
+        ],
+        "store_note": [
+            "Joseph"
+        ],
+        "employee_list": {
+            "": [
+                "",
+                "",
+                "none"
+            ]
+        }
     }
 ]
