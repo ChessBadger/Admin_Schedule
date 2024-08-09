@@ -660,7 +660,7 @@
             "https://goo.gl/maps/Y3h3MKExFnS2"
         ],
         "store_note": [
-            "SET UP ON LAST REG TO THE LEFT WHEN YOU WALK IN TO STORE <br><hr id=\"note_separator\">240228 - Pharmacist required all OTC to be counted with RX not center store <br><hr id=\"note_separator\">5:00 am meet for Carlie/Cristi at Grafton Park n Ride"
+            "SET UP ON LAST REG TO THE LEFT WHEN YOU WALK IN TO STORE <br><hr id=\"note_separator\">240228 - Pharmacist required all OTC to be counted with RX not center store"
         ],
         "employee_list": {
             "Kim": [
@@ -670,71 +670,66 @@
             ],
             "Carlie": [
                 "2)",
-                "(Driver)",
-                "none"
-            ],
-            "Cristi": [
-                "3)",
-                "(w/ Carlie)",
+                "",
                 "none"
             ],
             "Ian": [
-                "4)",
+                "3)",
                 "",
                 "none"
             ],
             "Jerry D": [
-                "5)",
+                "4)",
                 "",
                 "Milwaukee"
             ],
             "Sue": [
-                "6)",
+                "5)",
                 "",
                 "none"
             ],
             "Angela": [
-                "7)",
+                "6)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Anisha": [
-                "8)",
+                "7)",
                 "@ Store",
                 "none"
             ],
             "Ashley P": [
-                "9)",
+                "8)",
                 "@ Store,\nSupv Rx",
                 "Rockford"
             ],
             "Brianna": [
-                "10)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Elijah": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Evelin": [
-                "12)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Joseph": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Josh S": [
-                "14)",
+                "13)",
                 "@ Store",
                 "Rockford"
             ],
             "Michael N": [
-                "15)",
+                "14)",
                 "@ Store",
                 "Rockford"
             ]
@@ -941,32 +936,32 @@
                 "",
                 "none"
             ],
-            "Paul": [
+            "Lashaun": [
                 "6)",
                 "",
                 "none"
             ],
-            "Angela": [
+            "Paul": [
                 "7)",
+                "",
+                "none"
+            ],
+            "Angela": [
+                "8)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Anisha": [
-                "8)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Ashley P": [
-                "9)",
+                "10)",
                 "@ Store",
                 "Rockford"
             ],
             "Eva": [
-                "10)",
-                "@ Store",
-                "none"
-            ],
-            "Joseph": [
                 "11)",
                 "@ Store",
                 "none"
@@ -1043,38 +1038,33 @@
                 "",
                 "none"
             ],
-            "Lashaun": [
+            "Robyn": [
                 "8)",
                 "",
                 "none"
             ],
-            "Robyn": [
+            "Sonia": [
                 "9)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Stephanie": [
                 "10)",
                 "",
                 "none"
             ],
-            "Stephanie": [
+            "Via": [
                 "11)",
                 "",
                 "none"
             ],
-            "Via": [
-                "12)",
-                "",
-                "none"
-            ],
             "Lori": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Sarah": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ]
@@ -1361,48 +1351,43 @@
                 "@ Store\n(Driver)",
                 "none"
             ],
-            "Cristi": [
-                "3)",
-                "@ Store\n(w/ Carlie)",
-                "none"
-            ],
             "Ian": [
-                "4)",
+                "3)",
                 "Driver,\nGold Camry",
                 "none"
             ],
             "Lashaun": [
-                "5)",
+                "4)",
                 "",
                 "none"
             ],
             "Trevor": [
-                "6)",
+                "5)",
                 "@ Store\n(w/ Carlie)",
                 "none"
             ],
             "Katie": [
-                "7)",
+                "6)",
                 "@ Store",
                 "none"
             ],
             "Kirsten": [
-                "8)",
+                "7)",
                 "@ Store",
                 "none"
             ],
             "Marcia": [
-                "9)",
+                "8)",
                 "@ Store",
                 "none"
             ],
             "Serena": [
-                "10)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Taya": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ]
@@ -1443,73 +1428,68 @@
                 "",
                 "none"
             ],
-            "Cristi": [
-                "4)",
-                "w/ Carlie",
-                "none"
-            ],
             "Curt": [
-                "5)",
+                "4)",
                 "",
                 "none"
             ],
             "Cynthia": [
-                "6)",
+                "5)",
                 "",
                 "none"
             ],
             "Greg": [
-                "7)",
+                "6)",
                 "",
                 "none"
             ],
             "Ian": [
-                "8)",
+                "7)",
                 "Supv Rx",
                 "none"
             ],
             "Jerry D": [
-                "9)",
+                "8)",
                 "",
                 "Milwaukee"
             ],
             "Joshua M": [
-                "10)",
+                "9)",
                 "",
                 "Milwaukee"
             ],
             "Lashaun": [
-                "11)",
+                "10)",
                 "",
                 "none"
             ],
             "Paul": [
-                "12)",
+                "11)",
                 "",
                 "none"
             ],
             "Sonia": [
-                "13)",
+                "12)",
                 "",
                 "none"
             ],
             "Stephanie": [
-                "14)",
+                "13)",
                 "",
                 "none"
             ],
             "Sue": [
-                "15)",
+                "14)",
                 "Rx",
                 "none"
             ],
             "Trevor": [
-                "16)",
+                "15)",
                 "w/ Carlie",
                 "none"
             ],
             "Via": [
-                "17)",
+                "16)",
                 "",
                 "none"
             ]
@@ -1722,73 +1702,68 @@
                 "",
                 "none"
             ],
-            "Cristi": [
-                "4)",
-                "",
-                "none"
-            ],
             "Curt": [
-                "5)",
+                "4)",
                 "Rx",
                 "none"
             ],
             "Cynthia": [
-                "6)",
+                "5)",
                 "",
                 "none"
             ],
             "Greg": [
-                "7)",
+                "6)",
                 "Until 10:00",
                 "none"
             ],
             "Jerry D": [
-                "8)",
+                "7)",
                 "",
                 "Milwaukee"
             ],
             "Katherine": [
-                "9)",
+                "8)",
                 "Supv Rx",
                 "none"
             ],
             "Robyn": [
-                "10)",
+                "9)",
                 "",
                 "none"
             ],
             "Sonia": [
-                "11)",
+                "10)",
                 "",
                 "none"
             ],
             "Trevor": [
-                "12)",
+                "11)",
                 "",
                 "none"
             ],
             "Jerry S": [
-                "13)",
+                "12)",
                 "@ Store",
                 "Fox Valley"
             ],
             "Kirsten": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Marcia": [
-                "15)",
+                "14)",
                 "@ Store",
                 "none"
             ],
             "Serena": [
-                "16)",
+                "15)",
                 "@ Store",
                 "none"
             ],
             "Taya": [
-                "17)",
+                "16)",
                 "@ Store",
                 "none"
             ]
@@ -1899,48 +1874,43 @@
                 "Driver,\nWhite Camry",
                 "none"
             ],
-            "Cristi": [
-                "3)",
-                "w/ Carlie",
-                "none"
-            ],
             "Greg": [
-                "4)",
+                "3)",
                 "",
                 "none"
             ],
             "Ian": [
-                "5)",
+                "4)",
                 "Driver,\nRed Van",
                 "none"
             ],
             "Jerry D": [
-                "6)",
+                "5)",
                 "",
                 "Milwaukee"
             ],
             "Katherine": [
-                "7)",
+                "6)",
                 "",
                 "none"
             ],
             "Paul": [
-                "8)",
+                "7)",
                 "",
                 "none"
             ],
             "Robyn": [
-                "9)",
+                "8)",
                 "",
                 "none"
             ],
             "Stephanie": [
-                "10)",
+                "9)",
                 "",
                 "none"
             ],
             "Lori": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ]
