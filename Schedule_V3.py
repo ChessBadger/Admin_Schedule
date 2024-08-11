@@ -392,7 +392,7 @@ if folders:
                                 store_run.meet_time = [
                                     time for time in store_run.meet_time if time is not None]
                             current_state = 'found_meet'
-                        elif value and current_state == 'searching' and 'leave time' in value.lower():
+                        elif value and current_state == 'searching' and 'leave' in value.lower():
                             if courtesy_meet:
                                 store_run = StoreRun(
                                     date=None,  start_time=None)

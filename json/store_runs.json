@@ -969,23 +969,21 @@
     },
     {
         "date": "Mon, Aug 19",
-        "meet_time": [],
-        "start_time": "LEAVE OFFICE 6:15 AM",
+        "meet_time": "LEAVE OFFICE 6:15 AM",
+        "start_time": "7:00 AM START",
         "inv_type": [
-            "7:00 AM START"
-        ],
-        "store_name": [
             "DC5-ITEM LEVEL"
         ],
-        "address": [
+        "store_name": [
             "AURORA OUTPATIENT RX #1108, LOMIRA"
         ],
-        "link": [
+        "address": [
             "375 EAST AVENUE, SUITE 1"
         ],
-        "store_note": [
+        "link": [
             "https://goo.gl/maps/HZvTzhm2zfv"
         ],
+        "store_note": [],
         "employee_list": {
             "DJ": [
                 "1)",
@@ -1267,23 +1265,21 @@
     },
     {
         "date": "Thu, Aug 22",
-        "meet_time": [],
-        "start_time": "LEAVE OFFICE 5:15 AM",
+        "meet_time": "LEAVE OFFICE 5:15 AM",
+        "start_time": "6:00 AM START",
         "inv_type": [
-            "6:00 AM START"
-        ],
-        "store_name": [
             "DC5-ITEM LEVEL"
         ],
-        "address": [
+        "store_name": [
             "AURORA OUTPATIENT RX #1102, HARTFORD"
         ],
-        "link": [
+        "address": [
             "1640 E SUMNER ST, SUITE 100"
         ],
-        "store_note": [
+        "link": [
             "https://goo.gl/maps/umuyQZyC8FT2"
         ],
+        "store_note": [],
         "employee_list": {
             "DJ": [
                 "1)",
@@ -1393,26 +1389,26 @@
     },
     {
         "date": "Thu, Aug 22",
-        "meet_time": [],
-        "start_time": "LEAVE OFFICE 5:45 AM",
+        "meet_time": "LEAVE OFFICE 5:45 AM",
+        "start_time": "8:00 AM START (SPLIT CREW)",
         "inv_type": [
-            "8:00 AM START (SPLIT CREW)",
+            "DC5-ITEM LEVEL",
             "REEDSBURG MEDICAL CLINIC OUTPATIENT"
         ],
         "store_name": [
-            "DC5-ITEM LEVEL",
+            "REEDSBURG AREA MEDICAL CENTER VIKING OP",
             "1900 N DEWEY STREET"
         ],
         "address": [
-            "REEDSBURG AREA MEDICAL CENTER VIKING OP",
+            "150 VIKING DR",
             "https://goo.gl/maps/6QCj8w4WsYw"
         ],
         "link": [
-            "150 VIKING DR",
+            "https://goo.gl/maps/DEqqzC59oPp",
             "Split crew to start, meet @ the Clinic when done"
         ],
         "store_note": [
-            "https://goo.gl/maps/DEqqzC59oPp <br><hr id=\"note_separator\">8:00 AM START <br><hr id=\"note_separator\">DC5-ITEM LEVEL <br><hr id=\"note_separator\">REEDSBURG MEDICAL HOSPITAL <br><hr id=\"note_separator\">2000 N DEWEY STREET <br><hr id=\"note_separator\">https://goo.gl/maps/2JLNrZ5ZgBU2",
+            "8:00 AM START <br><hr id=\"note_separator\">DC5-ITEM LEVEL <br><hr id=\"note_separator\">REEDSBURG MEDICAL HOSPITAL <br><hr id=\"note_separator\">2000 N DEWEY STREET <br><hr id=\"note_separator\">https://goo.gl/maps/2JLNrZ5ZgBU2",
             "Sue - Drive to Deforest Park n Ride, Rockford car will pick you up on their way @ 7:00 am <br><hr id=\"note_separator\">Deforest Park n Ride address:\n5012 Elephant Trail, DeForest"
         ],
         "employee_list": {
@@ -1604,23 +1600,21 @@
     },
     {
         "date": "Fri, Aug 23",
-        "meet_time": [],
-        "start_time": "LEAVE OFFICE BY 5:30 AM",
+        "meet_time": "LEAVE OFFICE BY 5:30 AM",
+        "start_time": "7:00 AM START",
         "inv_type": [
-            "7:00 AM START"
-        ],
-        "store_name": [
             "DC5-ITEM LEVEL"
         ],
-        "address": [
+        "store_name": [
             "AURORA OUTPATIENT RX #1042, MANITOWOC"
         ],
-        "link": [
+        "address": [
             "3509 DEWEY ST,  SUITE 100"
         ],
-        "store_note": [
+        "link": [
             "https://goo.gl/maps/a6JdzRvBpKR2"
         ],
+        "store_note": [],
         "employee_list": {
             "Katherine": [
                 "1)",
