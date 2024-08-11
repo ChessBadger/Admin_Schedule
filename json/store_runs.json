@@ -864,16 +864,16 @@
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "*SALE INVENTORY"
-        ],
-        "address": [
             "PIGGLY WIGGLY #210, MILTON"
         ],
-        "link": [
+        "address": [
             "727 S JANESVILLE ST"
         ],
-        "store_note": [
+        "link": [
             "https://goo.gl/maps/nWMvQurCakN2"
+        ],
+        "store_note": [
+            "*SALE INVENTORY"
         ],
         "employee_list": {
             "Brianna": [
@@ -1383,7 +1383,7 @@
             "Palmer": [
                 "15)",
                 "@ Store",
-                "none"
+                "Madison"
             ]
         }
     },
