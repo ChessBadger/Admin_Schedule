@@ -1222,6 +1222,113 @@
     {
         "date": "Wed, Aug 21",
         "meet_time": [],
+        "start_time": "2:30 PM START",
+        "inv_type": [
+            ""
+        ],
+        "store_name": [
+            "PAID SUPV MEETING"
+        ],
+        "address": [
+            "GOOGLE MEET LINK"
+        ],
+        "link": [
+            "https://meet.google.com/pga-dzhx-obr"
+        ],
+        "store_note": [
+            "Please plan to log in 10 mins prior to the start of this meeting <br><hr id=\"note_separator\">Please have your camera on for this meeting <br><hr id=\"note_separator\">Please click on the link below to join this meeting"
+        ],
+        "employee_list": {
+            "Ashley P": [
+                "1)",
+                "",
+                "Rockford"
+            ],
+            "Brianna": [
+                "2)",
+                "",
+                "none"
+            ],
+            "DJ": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Heidi": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Ian": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Jake S": [
+                "6)",
+                "",
+                "Rockford"
+            ],
+            "Jeremiah": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Jerry S": [
+                "8)",
+                "",
+                "Fox Valley"
+            ],
+            "Katherine": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Kim": [
+                "10)",
+                "",
+                "none"
+            ],
+            "Lashaun": [
+                "11)",
+                "",
+                "none"
+            ],
+            "Michelle": [
+                "12)",
+                "",
+                "none"
+            ],
+            "Nate": [
+                "13)",
+                "",
+                "none"
+            ],
+            "Nick": [
+                "14)",
+                "",
+                "none"
+            ],
+            "Palmer": [
+                "15)",
+                "",
+                "Madison"
+            ],
+            "Qiana": [
+                "16)",
+                "",
+                "none"
+            ],
+            "Sarah": [
+                "17)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Aug 21",
+        "meet_time": [],
         "start_time": null,
         "inv_type": [],
         "store_name": [
@@ -1548,7 +1655,7 @@
             ],
             "Ian": [
                 "6)",
-                "Driver,\nGold Camry\nSupv Rx",
+                "Driver,\nGold Camry,\nSupv Rx",
                 "none"
             ],
             "Jerry D": [
