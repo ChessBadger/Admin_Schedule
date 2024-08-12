@@ -82,9 +82,13 @@ document.addEventListener('DOMContentLoaded', function () {
         })
         .then((users) => {
           console.log(users); // Log users data for debugging
-          const user = users.find((user) => user.username === username && user.password === password);
+          const user = users.find((user) => user.username === username);
 
-          if (user) {
+          if (!user) {
+            document.getElementById('loginError').textContent = 'Invalid username';
+          } else if (user.password !== password) {
+            document.getElementById('loginError').textContent = 'Invalid password';
+          } else {
             localStorage.setItem('username', username);
             localStorage.setItem('userType', user.type);
             // localStorage.setItem('userDisplayName', user.displayName || username); CHANGE THIS
@@ -108,8 +112,6 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             location.reload(); // Refresh the screen after login
-          } else {
-            document.getElementById('loginError').textContent = 'Invalid username or password';
           }
         })
         .catch((error) => {
