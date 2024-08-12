@@ -1109,4 +1109,10 @@ document.addEventListener('DOMContentLoaded', function () {
     }
     lastTap = currentTime;
   });
+
+  const refreshInterval = 5 * 60 * 1000; // 5 minutes in milliseconds
+
+  setInterval(function () {
+    location.reload(); // This will refresh the page
+  }, refreshInterval);
 });
