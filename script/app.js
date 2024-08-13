@@ -12,8 +12,8 @@ document.addEventListener('DOMContentLoaded', function () {
   let showPassedDays = false;
 
   if (!localStorage.getItem('hasReloaded')) {
-    localStorage.setItem('hasReloaded', 'true');
     location.reload();
+    localStorage.setItem('hasReloaded', 'true');
   } else {
     localStorage.removeItem('hasReloaded'); // Reset for future visits
   }
