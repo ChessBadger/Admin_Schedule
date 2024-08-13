@@ -405,6 +405,21 @@
                 "16)",
                 "",
                 "none"
+            ],
+            "Ashley P": [
+                "17)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Eva": [
+                "18)",
+                "@ Store",
+                "none"
+            ],
+            "Evelin": [
+                "19)",
+                "@ Store",
+                "none"
             ]
         }
     },
@@ -493,9 +508,9 @@
                 "",
                 "Milwaukee"
             ],
-            "Lashaun": [
+            "Kim": [
                 "3)",
-                "Driver,\nRed Van",
+                "Driver,\nSante Fe",
                 "none"
             ],
             "Paul": [
@@ -582,103 +597,6 @@
     },
     {
         "date": "Thu, Aug 15",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "PICK #867 +RX, BROWN DEER"
-        ],
-        "address": [
-            "9200 N GREEN BAY RD"
-        ],
-        "link": [
-            "https://goo.gl/maps/CW7zvhV8HSR2"
-        ],
-        "store_note": [
-            "SET UP ON REG #1 <br><hr id=\"note_separator\">GRAFTON CREW - NO MEET FOR THIS STORE"
-        ],
-        "employee_list": {
-            "Kim": [
-                "1)",
-                "Sante Fe available, Equip",
-                "none"
-            ],
-            "Carlie": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Casey": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Curt": [
-                "4)",
-                "Rx",
-                "none"
-            ],
-            "Cynthia": [
-                "5)",
-                "",
-                "none"
-            ],
-            "Greg": [
-                "6)",
-                "Until 10:00",
-                "none"
-            ],
-            "Jerry D": [
-                "7)",
-                "",
-                "Milwaukee"
-            ],
-            "Katherine": [
-                "8)",
-                "Supv Rx",
-                "none"
-            ],
-            "Robyn": [
-                "9)",
-                "",
-                "none"
-            ],
-            "Trevor": [
-                "10)",
-                "",
-                "none"
-            ],
-            "Jerry S": [
-                "11)",
-                "@ Store",
-                "Fox Valley"
-            ],
-            "Kirsten": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
-            "Marcia": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
-            "Serena": [
-                "14)",
-                "@ Store",
-                "none"
-            ],
-            "Taya": [
-                "15)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Aug 15",
         "meet_time": "6:00 AM OFFICE LEAVE TIME",
         "start_time": "7:00 AM START",
         "inv_type": [
@@ -702,9 +620,28 @@
                 "Gold Camry\nEquip",
                 "none"
             ],
-            "Jeremiah": [
+            "Carlie": [
                 "2)",
                 "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Aug 15",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [
+            "Office"
+        ],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {
+            "Lashaun": [
+                "",
+                "",
                 "none"
             ]
         }
@@ -1402,7 +1339,7 @@
         ],
         "start_time": "7:00 AM START",
         "inv_type": [
-            "DC5-ITEM LVEL"
+            "DC5-ITEM LEVEL"
         ],
         "store_name": [
             "WATERTOWN ACE HARDWARE"
