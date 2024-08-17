@@ -730,78 +730,81 @@
                 "1)",
                 "@ Store, Equip, Supv Inpatient",
                 "none"
+            ],
+            "Angela": [
+                "3)",
+                "@ Store",
+                "none"
+            ],
+            "Eva": [
+                "4)",
+                "@ Store",
+                "none"
+            ],
+            "Michael N": [
+                "5)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Nate": [
+                "6)",
+                "@ Store,\nSupv Outpatient",
+                "none"
             ]
         }
     },
     {
         "date": "Thu, Aug 22",
         "meet_time": [],
-        "start_time": "Angela",
+        "start_time": "6:30 AM START",
         "inv_type": [
-            "Eva"
+            "MODAS"
         ],
         "store_name": [
-            "Michael N"
+            "KELLEY #39, ALPINE MOBIL, ROCKFORD"
         ],
         "address": [
-            "Nate"
+            "321 N ALPINE ROAD"
         ],
         "link": [
-            ""
+            "https://goo.gl/maps/TGuxbxW7qpk"
         ],
         "store_note": [],
         "employee_list": {
-            "6:30 AM START": [
-                "",
-                "",
+            "Mike G": [
+                "1)",
+                "@ Store, Equip",
+                "Rockford"
+            ],
+            "Ian": [
+                "2)",
+                "Red Camry",
                 "none"
             ],
-            "MODAS": [
-                "",
-                "",
+            "Emily L": [
+                "3)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Laci": [
+                "4)",
+                "@ Store",
                 "none"
             ],
-            "KELLEY #39, ALPINE MOBIL, ROCKFORD": [
-                "",
-                "",
+            "Spencer P": [
+                "5)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Taylor": [
+                "6)",
+                "@ Store",
                 "none"
             ],
-            "321 N ALPINE ROAD": [
-                "",
-                "",
-                "none"
-            ],
-            "https://goo.gl/maps/TGuxbxW7qpk": [
-                "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Aug 22",
-        "meet_time": [],
-        "start_time": "Mike G",
-        "inv_type": [
-            "Ian"
-        ],
-        "store_name": [
-            "Emily L"
-        ],
-        "address": [
-            "Laci"
-        ],
-        "link": [
-            "Spencer P"
-        ],
-        "store_note": [
-            "Taylor <br><hr id=\"note_separator\">Tina E"
-        ],
-        "employee_list": {
-            "null": [
-                null,
-                null,
-                "none"
+            "Tina E": [
+                "7)",
+                "@ Store",
+                "Rockford"
             ]
         }
     },
@@ -1224,7 +1227,7 @@
         "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
-            "*PERISHABLE INVENTORY"
+            ""
         ],
         "store_name": [
             "DC5-FINANCIAL"
@@ -1236,27 +1239,12 @@
             "6700 W STATE ST"
         ],
         "store_note": [
-            "https://goo.gl/maps/hbUxBiCRdt72"
+            "https://goo.gl/maps/hbUxBiCRdt72 <br><hr id=\"note_separator\">*PERISHABLE INVENTORY <br><hr id=\"note_separator\">Kim <br><hr id=\"note_separator\">Casey <br><hr id=\"note_separator\">Jerry D <br><hr id=\"note_separator\">Lashaun"
         ],
         "employee_list": {
-            "Kim": [
-                "1)",
-                "Sante Fe available, Equip",
-                "none"
-            ],
-            "Casey": [
-                "2)",
+            "": [
                 "",
-                "none"
-            ],
-            "Jerry D": [
-                "3)",
                 "",
-                "Milwaukee"
-            ],
-            "Lashaun": [
-                "4)",
-                "work w/ Casey/Jerry",
                 "none"
             ]
         }
