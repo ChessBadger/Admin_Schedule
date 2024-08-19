@@ -442,23 +442,10 @@
         "link": [
             "https://meet.google.com/pga-dzhx-obr"
         ],
-        "store_note": [],
+        "store_note": [
+            "Please plan to log in 10 mins prior to the start of this meeting <br><hr id=\"note_separator\">Please have your camera on for this meeting <br><hr id=\"note_separator\">Please click on the link below to join this meeting"
+        ],
         "employee_list": {
-            "Please plan to log in 10 mins prior to the start of this meeting": [
-                "",
-                "",
-                "none"
-            ],
-            "Please have your camera on for this meeting": [
-                "",
-                "",
-                "none"
-            ],
-            "Please click on the link below to join this meeting": [
-                "",
-                "",
-                "none"
-            ],
             "Ashley P": [
                 "1)",
                 "",
@@ -715,22 +702,25 @@
         "start_time": "8:00 AM START (SPLIT CREW)",
         "inv_type": [
             "DC5-ITEM LEVEL",
+            "DC5-ITEM LEVEL",
             "REEDSBURG MEDICAL CLINIC OUTPATIENT"
         ],
         "store_name": [
             "REEDSBURG AREA MEDICAL CENTER VIKING OP",
+            "REEDSBURG MEDICAL HOSPITAL",
             "1900 N DEWEY STREET"
         ],
         "address": [
             "150 VIKING DR",
+            "2000 N DEWEY STREET",
             "https://goo.gl/maps/6QCj8w4WsYw"
         ],
         "link": [
             "https://goo.gl/maps/DEqqzC59oPp",
+            "https://goo.gl/maps/2JLNrZ5ZgBU2",
             "Split crew to start, meet @ the Clinic when done"
         ],
         "store_note": [
-            "8:00 AM START <br><hr id=\"note_separator\">DC5-ITEM LEVEL <br><hr id=\"note_separator\">REEDSBURG MEDICAL HOSPITAL <br><hr id=\"note_separator\">2000 N DEWEY STREET <br><hr id=\"note_separator\">https://goo.gl/maps/2JLNrZ5ZgBU2",
             "Sue - Drive to Deforest Park n Ride, Rockford car will pick you up on their way @ 7:00 am <br><hr id=\"note_separator\">Deforest Park n Ride address:\n5012 Elephant Trail, DeForest"
         ],
         "employee_list": {
