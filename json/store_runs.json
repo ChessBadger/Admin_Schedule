@@ -738,77 +738,75 @@
                 "1)",
                 "@ Store, Equip, Supv Inpatient",
                 "none"
+            ],
+            "Angela": [
+                "3)",
+                "@ Store",
+                "none"
+            ],
+            "Eva": [
+                "4)",
+                "@ Store",
+                "none"
+            ],
+            "Michael N": [
+                "5)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Nate": [
+                "6)",
+                "@ Store,\nSupv Outpatient",
+                "none"
             ]
         }
     },
     {
         "date": "Thu, Aug 22",
         "meet_time": [],
-        "start_time": "Angela",
+        "start_time": "6:30 AM START",
         "inv_type": [
-            "Eva"
+            "MODAS"
         ],
         "store_name": [
-            "Michael N"
+            "KELLEY #39, ALPINE MOBIL, ROCKFORD"
         ],
         "address": [
-            "Nate"
+            "321 N ALPINE ROAD"
         ],
         "link": [
-            ""
+            "https://goo.gl/maps/TGuxbxW7qpk"
         ],
         "store_note": [],
         "employee_list": {
-            "6:30 AM START": [
-                "",
-                "",
+            "Mike G": [
+                "1)",
+                "@ Store, Equip",
+                "Rockford"
+            ],
+            "Ian": [
+                "2)",
+                "Red Camry",
                 "none"
             ],
-            "MODAS": [
-                "",
-                "",
+            "Emily L": [
+                "3)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Laci": [
+                "4)",
+                "@ Store",
                 "none"
             ],
-            "KELLEY #39, ALPINE MOBIL, ROCKFORD": [
-                "",
-                "",
-                "none"
+            "Spencer P": [
+                "5)",
+                "@ Store",
+                "Rockford"
             ],
-            "321 N ALPINE ROAD": [
-                "",
-                "",
-                "none"
-            ],
-            "https://goo.gl/maps/TGuxbxW7qpk": [
-                "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Aug 22",
-        "meet_time": [],
-        "start_time": "Mike G",
-        "inv_type": [
-            "Ian"
-        ],
-        "store_name": [
-            "Emily L"
-        ],
-        "address": [
-            "Laci"
-        ],
-        "link": [
-            "Spencer P"
-        ],
-        "store_note": [
-            "Taylor"
-        ],
-        "employee_list": {
-            "null": [
-                null,
-                null,
+            "Taylor": [
+                "6)",
+                "@ Store",
                 "none"
             ]
         }
@@ -1888,27 +1886,27 @@
     },
     {
         "date": "Fri, Aug 30",
-        "meet_time": [],
-        "start_time": "6:30 AM RACINE COURT \n(HWY 43 & Y)",
+        "meet_time": [
+            "(HWY 43 & Y)"
+        ],
+        "start_time": "7:00 AM START",
         "inv_type": [
-            "7:00 AM START",
+            "EXCEL FINANCIAL",
             "EXCEL FINANCIAL"
         ],
         "store_name": [
-            "EXCEL FINANCIAL",
+            "KANSASVILLE CITGO QUICK MART",
             "TWIN LAKES CITGO, TWIN LAKES"
         ],
         "address": [
-            "KANSASVILLE CITGO QUICK MART",
+            "23010 DURAND AVE",
             "410 N LAKE AVE"
         ],
         "link": [
-            "23010 DURAND AVE",
+            "https://goo.gl/maps/QZs8ZSjv9eL2",
             "https://goo.gl/maps/k9s2GwpMbH32"
         ],
-        "store_note": [
-            "https://goo.gl/maps/QZs8ZSjv9eL2"
-        ],
+        "store_note": [],
         "employee_list": {
             "DJ": [
                 "1)",
