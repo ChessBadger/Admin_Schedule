@@ -162,38 +162,43 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Sue": [
+            "Stephanie": [
                 "2)",
+                "@ Store",
+                "none"
+            ],
+            "Sue": [
+                "3)",
                 "Driver,\nSante Fe",
                 "none"
             ],
             "Anisha": [
-                "3)",
+                "4)",
                 "@ Store",
                 "none"
             ],
             "Ashley P": [
-                "4)",
+                "5)",
                 "@ Store",
                 "Rockford"
             ],
             "Elijah": [
-                "5)",
-                "@ Store",
-                "none"
-            ],
-            "Joseph": [
                 "6)",
                 "@ Store",
                 "none"
             ],
-            "Josh S": [
+            "Joseph": [
                 "7)",
+                "@ Store",
+                "none"
+            ],
+            "Josh S": [
+                "8)",
                 "@ Store",
                 "Rockford"
             ],
             "Keilah": [
-                "8)",
+                "9)",
                 "@ Store",
                 "none"
             ]
@@ -264,28 +269,23 @@
                 "",
                 "none"
             ],
-            "Stephanie": [
-                "10)",
-                "",
-                "none"
-            ],
             "Trevor": [
-                "11)",
+                "10)",
                 "(w/ Carlie)",
                 "none"
             ],
             "Via": [
-                "12)",
+                "11)",
                 "",
                 "none"
             ],
             "Katie": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Serena": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ]
@@ -442,10 +442,23 @@
         "link": [
             "https://meet.google.com/pga-dzhx-obr"
         ],
-        "store_note": [
-            "Please plan to log in 10 mins prior to the start of this meeting <br><hr id=\"note_separator\">Please have your camera on for this meeting <br><hr id=\"note_separator\">Please click on the link below to join this meeting"
-        ],
+        "store_note": [],
         "employee_list": {
+            "Please plan to log in 10 mins prior to the start of this meeting": [
+                "",
+                "",
+                "none"
+            ],
+            "Please have your camera on for this meeting": [
+                "",
+                "",
+                "none"
+            ],
+            "Please click on the link below to join this meeting": [
+                "",
+                "",
+                "none"
+            ],
             "Ashley P": [
                 "1)",
                 "",
@@ -674,28 +687,23 @@
                 "",
                 "none"
             ],
-            "Stephanie": [
-                "11)",
-                "",
-                "none"
-            ],
             "Trevor": [
-                "12)",
+                "11)",
                 "(w/ Carlie)",
                 "none"
             ],
             "Via": [
-                "13)",
+                "12)",
                 "",
                 "none"
             ],
             "Brianna": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Palmer": [
-                "15)",
+                "14)",
                 "@ Store",
                 "Madison"
             ]
@@ -730,25 +738,50 @@
                 "1)",
                 "@ Store, Equip, Supv Inpatient",
                 "none"
-            ],
-            "Angela": [
-                "3)",
-                "@ Store",
+            ]
+        }
+    },
+    {
+        "date": "Thu, Aug 22",
+        "meet_time": [],
+        "start_time": "Angela",
+        "inv_type": [
+            "Eva"
+        ],
+        "store_name": [
+            "Michael N"
+        ],
+        "address": [
+            "Nate"
+        ],
+        "link": [
+            ""
+        ],
+        "store_note": [],
+        "employee_list": {
+            "6:30 AM START": [
+                "",
+                "",
                 "none"
             ],
-            "Eva": [
-                "4)",
-                "@ Store",
+            "MODAS": [
+                "",
+                "",
                 "none"
             ],
-            "Michael N": [
-                "5)",
-                "@ Store",
-                "Rockford"
+            "KELLEY #39, ALPINE MOBIL, ROCKFORD": [
+                "",
+                "",
+                "none"
             ],
-            "Nate": [
-                "6)",
-                "@ Store,\nSupv Outpatient",
+            "321 N ALPINE ROAD": [
+                "",
+                "",
+                "none"
+            ],
+            "https://goo.gl/maps/TGuxbxW7qpk": [
+                "",
+                "",
                 "none"
             ]
         }
@@ -756,55 +789,27 @@
     {
         "date": "Thu, Aug 22",
         "meet_time": [],
-        "start_time": "6:30 AM START",
+        "start_time": "Mike G",
         "inv_type": [
-            "MODAS"
+            "Ian"
         ],
         "store_name": [
-            "KELLEY #39, ALPINE MOBIL, ROCKFORD"
+            "Emily L"
         ],
         "address": [
-            "321 N ALPINE ROAD"
+            "Laci"
         ],
         "link": [
-            "https://goo.gl/maps/TGuxbxW7qpk"
+            "Spencer P"
         ],
-        "store_note": [],
+        "store_note": [
+            "Taylor"
+        ],
         "employee_list": {
-            "Mike G": [
-                "1)",
-                "@ Store, Equip",
-                "Rockford"
-            ],
-            "Ian": [
-                "2)",
-                "Red Camry",
+            "null": [
+                null,
+                null,
                 "none"
-            ],
-            "Emily L": [
-                "3)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Laci": [
-                "4)",
-                "@ Store",
-                "none"
-            ],
-            "Spencer P": [
-                "5)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Taylor": [
-                "6)",
-                "@ Store",
-                "none"
-            ],
-            "Tina E": [
-                "7)",
-                "@ Store",
-                "Rockford"
             ]
         }
     },
@@ -895,13 +900,8 @@
                 "",
                 "none"
             ],
-            "Stephanie": [
-                "14)",
-                "",
-                "none"
-            ],
             "Via": [
-                "15)",
+                "14)",
                 "",
                 "none"
             ]
@@ -1004,23 +1004,18 @@
                 "@ Store",
                 "none"
             ],
-            "Joseph": [
-                "11)",
-                "@ Store",
-                "none"
-            ],
             "Josh S": [
-                "12)",
+                "11)",
                 "@ Store",
                 "Rockford"
             ],
             "Keilah": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Sarah": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ]
@@ -1227,24 +1222,39 @@
         "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
-            ""
-        ],
-        "store_name": [
             "DC5-FINANCIAL"
         ],
-        "address": [
+        "store_name": [
             "METCALFE'S MARKET #560, WAUWATOSA"
         ],
-        "link": [
+        "address": [
             "6700 W STATE ST"
         ],
+        "link": [
+            "https://goo.gl/maps/hbUxBiCRdt72"
+        ],
         "store_note": [
-            "https://goo.gl/maps/hbUxBiCRdt72 <br><hr id=\"note_separator\">*PERISHABLE INVENTORY <br><hr id=\"note_separator\">Kim <br><hr id=\"note_separator\">Casey <br><hr id=\"note_separator\">Jerry D <br><hr id=\"note_separator\">Lashaun"
+            "*PERISHABLE INVENTORY"
         ],
         "employee_list": {
-            "": [
+            "Kim": [
+                "1)",
+                "Sante Fe available, Equip",
+                "none"
+            ],
+            "Casey": [
+                "2)",
                 "",
+                "none"
+            ],
+            "Jerry D": [
+                "3)",
                 "",
+                "Milwaukee"
+            ],
+            "Lashaun": [
+                "4)",
+                "work w/ Casey/Jerry",
                 "none"
             ]
         }
@@ -1420,38 +1430,33 @@
                 "",
                 "none"
             ],
-            "Stephanie": [
+            "Trevor": [
                 "10)",
                 "",
                 "none"
             ],
-            "Trevor": [
+            "Via": [
                 "11)",
                 "",
                 "none"
             ],
-            "Via": [
-                "12)",
-                "",
-                "none"
-            ],
             "Annette": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Katie": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Michelle": [
-                "15)",
+                "14)",
                 "@ Store, Until 11:30",
                 "none"
             ],
             "Taya": [
-                "16)",
+                "15)",
                 "@ Store",
                 "none"
             ]
