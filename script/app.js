@@ -11,13 +11,6 @@ document.addEventListener('DOMContentLoaded', function () {
   const upArrow = document.getElementById('jumpArrow');
   let showPassedDays = false;
 
-  if (!localStorage.getItem('hasReloaded')) {
-    location.reload();
-    localStorage.setItem('hasReloaded', 'true');
-  } else {
-    localStorage.removeItem('hasReloaded'); // Reset for future visits
-  }
-
   // Function to update the logo based on the mode
   function updateLogo() {
     if (document.body.classList.contains('dark-mode')) {
@@ -1106,6 +1099,13 @@ document.addEventListener('DOMContentLoaded', function () {
       { once: true }
     );
   });
+
+  if (!localStorage.getItem('hasReloaded')) {
+    location.reload();
+    localStorage.setItem('hasReloaded', 'true');
+  } else {
+    localStorage.removeItem('hasReloaded'); // Reset for future visits
+  }
 
   // Prevent double-tap zoom
   let lastTap = 0;
