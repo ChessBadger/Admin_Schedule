@@ -249,43 +249,48 @@
                 "",
                 "Milwaukee"
             ],
-            "Lashaun": [
+            "Joshua M": [
                 "6)",
                 "",
-                "none"
+                "Milwaukee"
             ],
-            "Paul": [
+            "Lashaun": [
                 "7)",
                 "",
                 "none"
             ],
-            "Robyn": [
+            "Paul": [
                 "8)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Robyn": [
                 "9)",
                 "",
                 "none"
             ],
-            "Trevor": [
+            "Sonia": [
                 "10)",
+                "",
+                "none"
+            ],
+            "Trevor": [
+                "11)",
                 "(w/ Carlie)",
                 "none"
             ],
             "Via": [
-                "11)",
+                "12)",
                 "",
                 "none"
             ],
             "Katie": [
-                "12)",
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Serena": [
-                "13)",
+                "14)",
                 "@ Store",
                 "none"
             ]
@@ -568,7 +573,9 @@
         "link": [
             "https://goo.gl/maps/dX5u7g5chT1DCwZVA"
         ],
-        "store_note": [],
+        "store_note": [
+            "Check in with Watertown Hardware store after"
+        ],
         "employee_list": {
             "Katherine": [
                 "1)",
@@ -593,7 +600,9 @@
         "link": [
             "https://goo.gl/maps/umuyQZyC8FT2"
         ],
-        "store_note": [],
+        "store_note": [
+            "Check in with Watertown Hardware store after"
+        ],
         "employee_list": {
             "DJ": [
                 "1)",
@@ -621,7 +630,7 @@
             "https://maps.app.goo.gl/AG3mX4iedXdJtM9P6"
         ],
         "store_note": [
-            "5:45 am meet for Grafton crew"
+            "5:15 am meet for Grafton crew"
         ],
         "employee_list": {
             "Kim": [
@@ -634,63 +643,68 @@
                 "Driver,\nWhite Camry",
                 "none"
             ],
-            "Casey": [
-                "3)",
-                "Driver,\nRed Van",
-                "none"
-            ],
             "Curt": [
-                "4)",
+                "3)",
                 "",
                 "none"
             ],
             "Cynthia": [
-                "5)",
+                "4)",
                 "",
                 "none"
             ],
-            "Jerry D": [
+            "DJ": [
+                "5)",
+                "After Aurora",
+                "none"
+            ],
+            "Joshua M": [
                 "6)",
                 "",
                 "Milwaukee"
             ],
-            "Lashaun": [
+            "Katherine": [
                 "7)",
-                "Driver,\nOptima",
+                "After Aurora",
+                "none"
+            ],
+            "Lashaun": [
+                "8)",
+                "Driver,\nRed Van",
                 "none"
             ],
             "Paul": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Robyn": [
                 "9)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Robyn": [
                 "10)",
                 "",
                 "none"
             ],
-            "Trevor": [
+            "Sonia": [
                 "11)",
+                "",
+                "none"
+            ],
+            "Trevor": [
+                "12)",
                 "(w/ Carlie)",
                 "none"
             ],
             "Via": [
-                "12)",
+                "13)",
                 "",
                 "none"
             ],
             "Brianna": [
-                "13)",
+                "14)",
                 "@ Store",
                 "none"
             ],
             "Palmer": [
-                "14)",
+                "15)",
                 "@ Store",
                 "Madison"
             ]
@@ -702,31 +716,33 @@
         "start_time": "8:00 AM START (SPLIT CREW)",
         "inv_type": [
             "DC5-ITEM LEVEL",
-            "DC5-ITEM LEVEL",
             "REEDSBURG MEDICAL CLINIC OUTPATIENT"
         ],
         "store_name": [
             "REEDSBURG AREA MEDICAL CENTER VIKING OP",
-            "REEDSBURG MEDICAL HOSPITAL",
             "1900 N DEWEY STREET"
         ],
         "address": [
             "150 VIKING DR",
-            "2000 N DEWEY STREET",
             "https://goo.gl/maps/6QCj8w4WsYw"
         ],
         "link": [
             "https://goo.gl/maps/DEqqzC59oPp",
-            "https://goo.gl/maps/2JLNrZ5ZgBU2",
             "Split crew to start, meet @ the Clinic when done"
         ],
         "store_note": [
-            "Sue - Drive to Deforest Park n Ride, Rockford car will pick you up on their way @ 7:00 am <br><hr id=\"note_separator\">Deforest Park n Ride address:\n5012 Elephant Trail, DeForest"
+            "8:00 AM START <br><hr id=\"note_separator\">DC5-ITEM LEVEL <br><hr id=\"note_separator\">REEDSBURG MEDICAL HOSPITAL <br><hr id=\"note_separator\">2000 N DEWEY STREET <br><hr id=\"note_separator\">https://goo.gl/maps/2JLNrZ5ZgBU2",
+            "Casey - Drive to Deforest Park n Ride, Rockford car will pick you up on their way @ 7:00 am <br><hr id=\"note_separator\">Deforest Park n Ride address:\n5012 Elephant Trail, DeForest"
         ],
         "employee_list": {
             "Sarah": [
                 "1)",
                 "@ Store, Equip, Supv Inpatient",
+                "none"
+            ],
+            "Casey": [
+                "2)",
+                "Gold Camry",
                 "none"
             ],
             "Angela": [
@@ -753,7 +769,9 @@
     },
     {
         "date": "Thu, Aug 22",
-        "meet_time": [],
+        "meet_time": [
+            "5:00 AM MEET AT THE OFFICE"
+        ],
         "start_time": "6:30 AM START",
         "inv_type": [
             "MODAS"
@@ -776,26 +794,31 @@
             ],
             "Ian": [
                 "2)",
-                "Red Camry",
+                "Optima",
                 "none"
             ],
-            "Emily L": [
+            "Jerry D": [
                 "3)",
+                "",
+                "Milwaukee"
+            ],
+            "Emily L": [
+                "4)",
                 "@ Store",
                 "Rockford"
             ],
             "Laci": [
-                "4)",
+                "5)",
                 "@ Store",
                 "none"
             ],
             "Spencer P": [
-                "5)",
+                "6)",
                 "@ Store",
                 "Rockford"
             ],
             "Taylor": [
-                "6)",
+                "7)",
                 "@ Store",
                 "none"
             ]
@@ -858,38 +881,43 @@
                 "",
                 "Milwaukee"
             ],
-            "Katherine": [
+            "Joshua M": [
                 "8)",
+                "",
+                "Milwaukee"
+            ],
+            "Katherine": [
+                "9)",
                 "After Aurora",
                 "none"
             ],
             "Kim": [
-                "9)",
+                "10)",
                 "Driver,\nSante Fe",
                 "none"
             ],
             "Lashaun": [
-                "10)",
-                "",
-                "none"
-            ],
-            "Paul": [
                 "11)",
                 "",
                 "none"
             ],
-            "Robyn": [
+            "Paul": [
                 "12)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Robyn": [
                 "13)",
                 "",
                 "none"
             ],
-            "Via": [
+            "Sonia": [
                 "14)",
+                "",
+                "none"
+            ],
+            "Via": [
+                "15)",
                 "",
                 "none"
             ]
@@ -1610,7 +1638,9 @@
         "link": [
             "https://goo.gl/maps/fj81W3aDTcG2"
         ],
-        "store_note": [],
+        "store_note": [
+            "5:15 am meet for Grafton crew"
+        ],
         "employee_list": {
             "DJ": [
                 "1)",
@@ -1644,7 +1674,7 @@
             ],
             "Trevor": [
                 "7)",
-                "",
+                "w/ Carlie",
                 "none"
             ],
             "Sarah": [
