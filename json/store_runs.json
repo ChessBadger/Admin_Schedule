@@ -372,7 +372,7 @@
             ],
             "Carlie": [
                 "2)",
-                "@ Store",
+                "@ Store,\nTrainer",
                 "none"
             ],
             "Cynthia": [
@@ -390,53 +390,58 @@
                 "",
                 "Milwaukee"
             ],
-            "Kim": [
+            "Justin Learned": [
                 "6)",
+                "1st Day, work w/ Carlie",
+                "none"
+            ],
+            "Kim": [
+                "7)",
                 "Driver,\nSante Fe",
                 "none"
             ],
             "Lashaun": [
-                "7)",
+                "8)",
                 "Driver,\nRed Van",
                 "none"
             ],
             "Robyn": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Sonia": [
                 "9)",
                 "",
                 "none"
             ],
-            "Trevor": [
+            "Sonia": [
                 "10)",
-                "@ Store",
+                "",
+                "none"
+            ],
+            "Trevor": [
+                "11)",
+                "@ Store,\n(w/ Carlie)",
                 "none"
             ],
             "Via": [
-                "11)",
+                "12)",
                 "",
                 "none"
             ],
             "Annette": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
-            "Katie": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Michelle": [
+            "Katie": [
                 "14)",
+                "@ Store",
+                "none"
+            ],
+            "Michelle": [
+                "15)",
                 "@ Store, Until 11:30",
                 "none"
             ],
             "Taya": [
-                "15)",
+                "16)",
                 "@ Store",
                 "none"
             ]
@@ -613,36 +618,41 @@
             ],
             "Carlie": [
                 "2)",
-                "Driver,\nWhite Camry",
+                "Driver,\nWhite Camry,\nTrainer",
+                "none"
+            ],
+            "Justin Learned": [
+                "3)",
+                "2nd Day, work w/ Carlie",
                 "none"
             ],
             "Lashaun": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Paul": [
                 "4)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Paul": [
                 "5)",
                 "",
                 "none"
             ],
-            "Stephanie": [
+            "Sonia": [
                 "6)",
                 "",
                 "none"
             ],
-            "Trevor": [
+            "Stephanie": [
                 "7)",
+                "",
+                "none"
+            ],
+            "Trevor": [
+                "8)",
                 "w/ Carlie",
                 "none"
             ],
             "Sarah": [
-                "8)",
+                "9)",
                 "@ Store",
                 "none"
             ]
