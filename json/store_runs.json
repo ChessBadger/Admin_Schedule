@@ -613,46 +613,51 @@
         "employee_list": {
             "DJ": [
                 "1)",
-                "Driver,\nAltima, Equip",
+                "@ Store,\nEquip",
                 "none"
             ],
             "Carlie": [
                 "2)",
-                "Driver,\nWhite Camry,\nTrainer",
+                "Driver, \nWhite Camry,\nTrainer",
+                "none"
+            ],
+            "Ethan": [
+                "3)",
+                "1st Day, work w/ Carlie",
                 "none"
             ],
             "Justin Learned": [
-                "3)",
-                "2nd Day, work w/ Carlie",
+                "4)",
+                "2nd Day, work w/ Stephanie",
                 "none"
             ],
             "Lashaun": [
-                "4)",
-                "",
+                "5)",
+                "Driver,\nOptima",
                 "none"
             ],
             "Paul": [
-                "5)",
-                "",
-                "none"
-            ],
-            "Sonia": [
                 "6)",
                 "",
                 "none"
             ],
-            "Stephanie": [
+            "Sonia": [
                 "7)",
                 "",
                 "none"
             ],
-            "Trevor": [
+            "Stephanie": [
                 "8)",
+                "Trainer",
+                "none"
+            ],
+            "Trevor": [
+                "9)",
                 "w/ Carlie",
                 "none"
             ],
             "Sarah": [
-                "9)",
+                "10)",
                 "@ Store",
                 "none"
             ]
