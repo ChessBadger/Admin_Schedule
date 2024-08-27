@@ -66,7 +66,7 @@
     "username": "spalmer",
     "password": "1023",
     "type": "user",
-    "displayName": "Palmer",
+    "displayName": "Steve P",
     "office": "Madison",
     "firstName": "Steve",
     "lastName": "Palmer"
@@ -970,5 +970,14 @@
     "office": "Milwaukee",
     "firstName": "Yvette",
     "lastName": "Roller"
+  },
+  {
+    "username": "jlearned",
+    "password": "3803",
+    "type": "user",
+    "displayName": "Justin L",
+    "office": "Milwaukee",
+    "firstName": "Justin",
+    "lastName": "Learned"
   }
 ]
