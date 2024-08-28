@@ -1115,7 +1115,7 @@
             "https://goo.gl/maps/VfL7fqd5WAB2"
         ],
         "store_note": [
-            "SET UP ON REG CLOSEST TO CUBICLES"
+            "SET UP ON REG CLOSEST TO CUBICLES <br><hr id=\"note_separator\">5:15 am meet for Grafton crew"
         ],
         "employee_list": {
             "DJ": [
@@ -1125,7 +1125,7 @@
             ],
             "Carlie": [
                 "2)",
-                "",
+                "(Driver),\nTrainer",
                 "none"
             ],
             "Casey": [
@@ -1143,48 +1143,58 @@
                 "",
                 "none"
             ],
-            "Greg": [
+            "Ethan": [
                 "6)",
+                "1st Scan,\nwork w/ Carlie",
+                "none"
+            ],
+            "Greg": [
+                "7)",
                 "",
                 "none"
             ],
             "Jerry D": [
-                "7)",
+                "8)",
                 "Rx (1st Rx)",
                 "Milwaukee"
             ],
+            "Justin Learned": [
+                "9)",
+                "1st Scan,\nwork w/ Stephanie",
+                "none"
+            ],
             "Katherine": [
-                "8)",
+                "10)",
                 "After Aurora",
                 "none"
             ],
             "Kim": [
-                "9)",
-                "",
-                "none"
-            ],
-            "Lashaun": [
-                "10)",
-                "Supv Rx",
-                "none"
-            ],
-            "Robyn": [
                 "11)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Lashaun": [
                 "12)",
-                "",
+                "Supv Rx",
                 "none"
             ],
-            "Stephanie": [
+            "Robyn": [
                 "13)",
                 "",
                 "none"
             ],
-            "Sue": [
+            "Sonia": [
                 "14)",
+                "",
+                "none"
+            ],
+            "Stephanie": [
+                "15)",
+                "Trainer",
+                "none"
+            ],
+            "Sue": [
+                "16)",
                 "After Aurora",
                 "none"
             ]
@@ -1302,43 +1312,48 @@
                 "",
                 "Milwaukee"
             ],
-            "Katherine": [
+            "Justin Learned": [
                 "7)",
+                "2nd Scan,\nwork w/ Lashaun",
+                "none"
+            ],
+            "Katherine": [
+                "8)",
                 "",
                 "none"
             ],
             "Lashaun": [
-                "8)",
-                "Driver,\nOptima",
+                "9)",
+                "Driver,\nOptima\nTrainer",
                 "none"
             ],
             "Paul": [
-                "9)",
-                "",
-                "none"
-            ],
-            "Robyn": [
                 "10)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Robyn": [
                 "11)",
                 "",
                 "none"
             ],
-            "Sue": [
+            "Sonia": [
                 "12)",
                 "",
                 "none"
             ],
-            "Qiana": [
+            "Sue": [
                 "13)",
+                "",
+                "none"
+            ],
+            "Qiana": [
+                "14)",
                 "@ Store",
                 "none"
             ],
             "Taylor": [
-                "14)",
+                "15)",
                 "@ Store",
                 "none"
             ]
