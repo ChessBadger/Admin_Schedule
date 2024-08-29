@@ -753,78 +753,73 @@
                 "Driver,\nAltima",
                 "none"
             ],
-            "Jerry D": [
-                "4)",
-                "",
-                "Milwaukee"
-            ],
             "Sue": [
-                "5)",
+                "4)",
                 "",
                 "none"
             ],
             "Angela": [
-                "6)",
+                "5)",
                 "@ Store",
                 "none"
             ],
             "Anisha": [
-                "7)",
+                "6)",
                 "@ Store",
                 "none"
             ],
             "Ashley P": [
-                "8)",
+                "7)",
                 "@ Store",
                 "Rockford"
             ],
             "Eva": [
-                "9)",
+                "8)",
                 "@ Store",
                 "none"
             ],
             "Evelin": [
-                "10)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Joseph": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Josh S": [
-                "12)",
+                "11)",
                 "@ Store",
                 "Rockford"
             ],
             "Justin": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Keilah": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Michael N": [
-                "15)",
+                "14)",
                 "@ Store",
                 "Rockford"
             ],
             "Nate": [
-                "16)",
+                "15)",
                 "@ Store",
                 "none"
             ],
             "Qiana": [
-                "17)",
+                "16)",
                 "@ Store",
                 "none"
             ],
             "Taylor": [
-                "18)",
+                "17)",
                 "@ Store",
                 "none"
             ]
@@ -876,7 +871,7 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Ian": [
+            "Katherine": [
                 "2)",
                 "",
                 "none"
@@ -931,6 +926,11 @@
         "link": [],
         "store_note": [],
         "employee_list": {
+            "*White Camry needs oil changed": [
+                "",
+                "",
+                "none"
+            ],
             "Lashaun": [
                 "",
                 "",
@@ -1324,7 +1324,7 @@
             ],
             "Lashaun": [
                 "9)",
-                "Driver,\nOptima\nTrainer",
+                "Driver,\nOptima,\nTrainer",
                 "none"
             ],
             "Paul": [
