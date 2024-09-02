@@ -109,7 +109,7 @@
   },
   {
     "username": "jlee",
-    "password": "1089",
+    "password": "1234",
     "type": "user",
     "displayName": "Justin L",
     "office": "Rockford",
@@ -978,6 +978,15 @@
     "displayName": "Justin L",
     "office": "Milwaukee",
     "firstName": "Justin Learned",
+    "lastName": "Learned"
+  },
+  {
+    "username": "jlearned",
+    "password": "3803",
+    "type": "user",
+    "displayName": "Justin L",
+    "office": "Milwaukee",
+    "firstName": "Justin",
     "lastName": "Learned"
   }
 ]
