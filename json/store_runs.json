@@ -175,7 +175,7 @@
             ],
             "Carlie": [
                 "2)",
-                "(Driver),\nTrainer",
+                "",
                 "none"
             ],
             "Casey": [
@@ -193,58 +193,48 @@
                 "",
                 "none"
             ],
-            "Ethan": [
-                "6)",
-                "1st Scan,\nwork w/ Carlie",
-                "none"
-            ],
             "Greg": [
-                "7)",
+                "6)",
                 "",
                 "none"
             ],
             "Jerry D": [
-                "8)",
+                "7)",
                 "Rx (1st Rx)",
                 "Milwaukee"
             ],
-            "Justin Learned": [
-                "9)",
-                "1st Scan,\nwork w/ Stephanie",
-                "none"
-            ],
             "Katherine": [
-                "10)",
+                "8)",
                 "After Aurora",
                 "none"
             ],
             "Kim": [
-                "11)",
+                "9)",
                 "",
                 "none"
             ],
             "Lashaun": [
-                "12)",
+                "10)",
                 "Supv Rx",
                 "none"
             ],
             "Robyn": [
-                "13)",
+                "11)",
                 "",
                 "none"
             ],
             "Sonia": [
-                "14)",
+                "12)",
                 "",
                 "none"
             ],
             "Stephanie": [
-                "15)",
-                "Trainer",
+                "13)",
+                "",
                 "none"
             ],
             "Sue": [
-                "16)",
+                "14)",
                 "After Aurora",
                 "none"
             ]
@@ -516,43 +506,53 @@
                 "@ Store",
                 "none"
             ],
-            "Eva": [
+            "Emily L": [
                 "12)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
-            "Evelin": [
+            "Eva": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Joseph": [
+            "Evelin": [
                 "14)",
+                "@ Store,\nTrainer",
+                "none"
+            ],
+            "Joseph": [
+                "15)",
                 "@ Store",
                 "none"
             ],
             "Josh S": [
-                "15)",
+                "16)",
                 "@ Store",
                 "Rockford"
             ],
             "Justin": [
-                "16)",
+                "17)",
                 "@ Store,\nRx (1st Rx)",
                 "none"
             ],
+            "Lorena": [
+                "18)",
+                "@ Store,\n2nd Scan",
+                "none"
+            ],
             "Nate": [
-                "17)",
+                "19)",
                 "@ Store,\nSupv Rx",
                 "none"
             ],
             "Qiana": [
-                "18)",
+                "20)",
                 "@ Store",
                 "none"
             ],
             "Taylor": [
-                "19)",
+                "21)",
                 "@ Store",
                 "none"
             ]
@@ -884,7 +884,7 @@
             "https://goo.gl/maps/dL7sLochv5e9x5zB7"
         ],
         "store_note": [
-            "FEW RESETS-REMAPPED <br><hr id=\"note_separator\">5:45 am meet for Grafton crew"
+            "FEW RESETS-REMAPPED"
         ],
         "employee_list": {
             "DJ": [
@@ -894,7 +894,7 @@
             ],
             "Carlie": [
                 "2)",
-                "Driver",
+                "",
                 "none"
             ],
             "Cynthia": [
@@ -902,38 +902,33 @@
                 "",
                 "none"
             ],
-            "Ethan": [
-                "4)",
-                "w/ Carlie",
-                "none"
-            ],
             "Greg": [
-                "5)",
+                "4)",
                 "",
                 "none"
             ],
             "Ian": [
-                "6)",
+                "5)",
                 "",
                 "none"
             ],
             "Jerry D": [
-                "7)",
+                "6)",
                 "",
                 "Milwaukee"
             ],
             "Justin Learned": [
-                "8)",
+                "7)",
                 "",
                 "none"
             ],
             "Stephanie": [
-                "9)",
+                "8)",
                 "",
                 "none"
             ],
             "Sue": [
-                "10)",
+                "9)",
                 "",
                 "none"
             ]
@@ -1034,8 +1029,13 @@
                 "@ Store",
                 "none"
             ],
-            "Ron": [
+            "Lorena": [
                 "6)",
+                "@ Store,\n2nd Financial",
+                "none"
+            ],
+            "Ron": [
+                "7)",
                 "@ Store",
                 "none"
             ]
@@ -1255,7 +1255,7 @@
             ],
             "Stephanie": [
                 "12)",
-                "",
+                "Trainer",
                 "none"
             ],
             "Sue": [
@@ -1271,6 +1271,11 @@
             "Keilah": [
                 "15)",
                 "@ Store",
+                "none"
+            ],
+            "Lorena": [
+                "16)",
+                "@ Store,\n3rd Scan",
                 "none"
             ]
         }
@@ -1291,9 +1296,7 @@
         "link": [
             "https://goo.gl/maps/iCDNmqxp1Do"
         ],
-        "store_note": [
-            "4:15 am meet for Grafton crew"
-        ],
+        "store_note": [],
         "employee_list": {
             "Brianna": [
                 "1)",
@@ -1302,12 +1305,12 @@
             ],
             "Carlie": [
                 "2)",
-                "Driver,\nWhite Camry",
+                "@ Store,\nwork w/ Aivy",
                 "none"
             ],
-            "Ethan": [
+            "Aivy": [
                 "3)",
-                "",
+                "@ Store,\n2nd Scan",
                 "none"
             ],
             "Angela": [
@@ -1450,7 +1453,7 @@
             ],
             "Angela": [
                 "12)",
-                "@ Store",
+                "@ Store,\nTrainer",
                 "none"
             ],
             "Eva": [
@@ -1468,8 +1471,13 @@
                 "@ Store",
                 "none"
             ],
-            "Taylor": [
+            "Lorena": [
                 "16)",
+                "@ Store,\n2nd week",
+                "none"
+            ],
+            "Taylor": [
+                "17)",
                 "@ Store",
                 "none"
             ]
@@ -1544,39 +1552,44 @@
                 "@ Store",
                 "none"
             ],
-            "Anisha": [
+            "Aivy": [
                 "3)",
+                "@ Store,\n2nd Financial",
+                "none"
+            ],
+            "Anisha": [
+                "4)",
                 "@ Store",
                 "none"
             ],
             "Ashley P": [
-                "4)",
+                "5)",
                 "@ Store",
                 "Rockford"
             ],
             "Brianna": [
-                "5)",
-                "@ Store",
-                "none"
-            ],
-            "Evelin": [
                 "6)",
                 "@ Store",
                 "none"
             ],
-            "Joseph": [
+            "Evelin": [
                 "7)",
                 "@ Store",
                 "none"
             ],
-            "Josh S": [
+            "Joseph": [
                 "8)",
+                "@ Store",
+                "none"
+            ],
+            "Josh S": [
+                "9)",
                 "@ Store",
                 "Rockford"
             ],
             "Michael N": [
-                "9)",
-                "@ Store",
+                "10)",
+                "@ Store,\nwork w/ Aivy",
                 "Rockford"
             ]
         }
