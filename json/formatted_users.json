@@ -979,5 +979,41 @@
     "office": "Milwaukee",
     "firstName": "Justin Learned",
     "lastName": "Learned"
+  },
+  {
+    "username": "jlee",
+    "password": "1089",
+    "type": "user",
+    "displayName": "Justin L",
+    "office": "Rockford",
+    "firstName": "Justin",
+    "lastName": "Lee"
+  },
+  {
+    "username": "jlearned",
+    "password": "3803",
+    "type": "user",
+    "displayName": "Justin L",
+    "office": "Milwaukee",
+    "firstName": "Justin",
+    "lastName": "Learned"
+  },
+  {
+    "username": "lrivas-lopez",
+    "password": "1357",
+    "type": "user",
+    "displayName": "Lorena R",
+    "office": "Rockford",
+    "firstName": "Lorena",
+    "lastName": "Rivas-lopez"
+  },
+  {
+    "username": "ata",
+    "password": "1358",
+    "type": "user",
+    "displayName": "Aivy T",
+    "office": "Madison",
+    "firstName": "Aivy",
+    "lastName": "Ta"
   }
 ]
