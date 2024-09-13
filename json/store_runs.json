@@ -1426,22 +1426,24 @@
     },
     {
         "date": "Wed, Sep 18",
-        "meet_time": [],
-        "start_time": "*OUTSIDE AUDITORS",
-        "inv_type": [
+        "meet_time": [
             "4:30 AM MEET COLLEGE (SOUTHWEST)"
         ],
-        "store_name": [
-            "6:00 AM START"
-        ],
-        "address": [
+        "start_time": "6:00 AM START",
+        "inv_type": [
             "DC5-ITEM LEVEL"
         ],
-        "link": [
+        "store_name": [
             "MARIANO'S #517 +FUEL CTR-RX, OAK LAWN"
         ],
+        "address": [
+            "11000 S CICERO AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/n5qPPg3gEsC2"
+        ],
         "store_note": [
-            "11000 S CICERO AVE <br><hr id=\"note_separator\">https://goo.gl/maps/n5qPPg3gEsC2 <br><hr id=\"note_separator\">SET UP ON REG #1 <br><hr id=\"note_separator\">HABA & LIQUOR RESET-REMAPPED"
+            "SET UP ON REG #1 <br><hr id=\"note_separator\">HABA & LIQUOR RESET-REMAPPED <br><hr id=\"note_separator\">*OUTSIDE AUDITORS"
         ],
         "employee_list": {
             "DJ": [
@@ -1551,16 +1553,16 @@
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "*NEW LOCATION"
-        ],
-        "address": [
             "AURORA OUTPATIENT RX #1516, OAK LAWN"
         ],
-        "link": [
+        "address": [
             "4440 W 95TH ST, SUITE 1109E"
         ],
+        "link": [
+            "https://maps.app.goo.gl/AhoCjas551Y24soH7"
+        ],
         "store_note": [
-            "https://maps.app.goo.gl/AhoCjas551Y24soH7 <br><hr id=\"note_separator\">Per Lena (pharmacist) they are in a temp area in the main lobby of Hosp.  She mentioned they have frosted doors. <br><hr id=\"note_separator\">Suite number is the same 1109E. Lena will be there at 6:00 am if you need to call her (708) 520-8460"
+            "Per Lena (pharmacist) they are in a temp area in the main lobby of Hosp.  She mentioned they have frosted doors. <br><hr id=\"note_separator\">Suite number is the same 1109E. Lena will be there at 6:00 am if you need to call her (708) 520-8460 <br><hr id=\"note_separator\">*NEW LOCATION"
         ],
         "employee_list": {
             "Katherine": [
