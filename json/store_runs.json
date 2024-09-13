@@ -657,68 +657,63 @@
                 "",
                 "Milwaukee"
             ],
-            "Justin Learned": [
-                "6)",
-                "",
-                "none"
-            ],
             "Katherine": [
-                "7)",
+                "6)",
                 "@ Store,\nAfter Aurora",
                 "none"
             ],
             "Lashaun": [
-                "8)",
+                "7)",
                 "Driver,\nOptima,\nSupv Rx",
                 "none"
             ],
             "Paul": [
-                "9)",
+                "8)",
                 "",
                 "none"
             ],
             "Robyn": [
-                "10)",
+                "9)",
                 "",
                 "none"
             ],
             "Sonia": [
-                "11)",
+                "10)",
                 "",
                 "none"
             ],
             "Angela": [
-                "12)",
+                "11)",
                 "@ Store,\nwork w/ Lorena",
                 "none"
             ],
             "Eva": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Justin Lee": [
-                "14)",
+                "13)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Keilah": [
-                "15)",
+                "14)",
                 "@ Store",
                 "none"
             ],
             "Keshawn": [
-                "16)",
+                "15)",
                 "@ Store,\n2nd week",
                 "none"
             ],
             "Lorena": [
-                "17)",
+                "16)",
                 "@ Store,\n2nd week",
                 "none"
             ],
             "Taylor": [
-                "18)",
+                "17)",
                 "@ Store",
                 "none"
             ]
@@ -889,7 +884,7 @@
             ],
             "Katherine": [
                 "8)",
-                "",
+                "@ Store,\nAfter Aurora",
                 "none"
             ],
             "Kim": [
@@ -1431,24 +1426,22 @@
     },
     {
         "date": "Wed, Sep 18",
-        "meet_time": [
+        "meet_time": [],
+        "start_time": "*OUTSIDE AUDITORS",
+        "inv_type": [
             "4:30 AM MEET COLLEGE (SOUTHWEST)"
         ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
         "store_name": [
-            "MARIANO'S #517 +FUEL CTR-RX, OAK LAWN"
+            "6:00 AM START"
         ],
         "address": [
-            "11000 S CICERO AVE"
+            "DC5-ITEM LEVEL"
         ],
         "link": [
-            "https://goo.gl/maps/n5qPPg3gEsC2"
+            "MARIANO'S #517 +FUEL CTR-RX, OAK LAWN"
         ],
         "store_note": [
-            "SET UP ON REG #1 <br><hr id=\"note_separator\">HABA & LIQUOR RESET-REMAPPED <br><hr id=\"note_separator\">*OUTSIDE AUDITORS"
+            "11000 S CICERO AVE <br><hr id=\"note_separator\">https://goo.gl/maps/n5qPPg3gEsC2 <br><hr id=\"note_separator\">SET UP ON REG #1 <br><hr id=\"note_separator\">HABA & LIQUOR RESET-REMAPPED"
         ],
         "employee_list": {
             "DJ": [
@@ -1558,16 +1551,16 @@
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "AURORA OUTPATIENT RX #1516, OAK LAWN"
+            "*NEW LOCATION"
         ],
         "address": [
-            "4440 W 95TH ST, SUITE 1109E"
+            "AURORA OUTPATIENT RX #1516, OAK LAWN"
         ],
         "link": [
-            "https://maps.app.goo.gl/AhoCjas551Y24soH7"
+            "4440 W 95TH ST, SUITE 1109E"
         ],
         "store_note": [
-            "Per Lena (pharmacist) they are in a temp area in the main lobby of Hosp.  She mentioned they have frosted doors. <br><hr id=\"note_separator\">Suite number is the same 1109E. Lena will be there at 6:00 am if you need to call her (708) 520-8460 <br><hr id=\"note_separator\">*NEW LOCATION"
+            "https://maps.app.goo.gl/AhoCjas551Y24soH7 <br><hr id=\"note_separator\">Per Lena (pharmacist) they are in a temp area in the main lobby of Hosp.  She mentioned they have frosted doors. <br><hr id=\"note_separator\">Suite number is the same 1109E. Lena will be there at 6:00 am if you need to call her (708) 520-8460"
         ],
         "employee_list": {
             "Katherine": [
@@ -2087,6 +2080,965 @@
     },
     {
         "date": "Sat, Sep 21",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {}
+    },
+    {
+        "date": "Sun, Sep 22",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {}
+    },
+    {
+        "date": "Mon, Sep 23",
+        "meet_time": [
+            "5:45 AM MEET COLLEGE (SOUTHWEST)"
+        ],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "FESTIVAL #2705, KENOSHA - LIFO"
+        ],
+        "address": [
+            "3207 80TH ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/zvVRztkrfs42"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "",
+                "none"
+            ],
+            "Carlie": [
+                "2)",
+                "",
+                "none"
+            ],
+            "DJ": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Greg": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "5)",
+                "",
+                "Milwaukee"
+            ],
+            "Justin Learned": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Lashaun": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Paul": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Stephanie": [
+                "10)",
+                "",
+                "none"
+            ],
+            "Robyn": [
+                "11)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Sep 23",
+        "meet_time": [
+            "5:15 AM MEET SOUTH RACINE COURT (HWY 43 & Y)"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "ROTE OIL #03 TWIN LAKES",
+            "ROTE OIL #04 GENOA CITY",
+            "ROTE OIL #05  LAKE GENEVA"
+        ],
+        "address": [
+            "475 N LAKE AVE",
+            "100 ELIZABETH LANE",
+            "300 PELLER RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/jNgJR8hii6jJGZQP7",
+            "https://goo.gl/maps/DitGJzEvTVhJPxkJ8",
+            "https://goo.gl/maps/6fegzT1PbyY5VkDR6"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "",
+                "none"
+            ],
+            "Ian": [
+                "2)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Sep 24",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "GOOD HARVEST MARKET, PEWAUKEE"
+        ],
+        "address": [
+            "2205 SILVERNAIL RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/dbog9UtxNWp"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "",
+                "none"
+            ],
+            "Cynthia": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Lashaun": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Michael N": [
+                "5)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Justin Lee": [
+                "6)",
+                "@ Store",
+                "none"
+            ],
+            "Aivy": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Lori": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Sarah": [
+                "9)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Sep 24",
+        "meet_time": [],
+        "start_time": "5:30 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL",
+            "EXCEL FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "ROTE OIL #6 HUBERTUS",
+            "ROTE OIL #7 MILWAUKEE",
+            "ROTE OIL #8 ELM GROVE",
+            "ROTE OIL #09 GREENFIELD"
+        ],
+        "address": [
+            "1306 HWY 175",
+            "5931 N 91ST ST",
+            "13395 WATERTOWN PLANK RD",
+            "12345 W LAYTON AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/SZRuQ4FHA1cX2ZmC8",
+            "https://goo.gl/maps/cw58s7atAhTAGHNd7",
+            "https://goo.gl/maps/5zXAKpcRHDmA17UK9",
+            "https://goo.gl/maps/TSgMUriHbJPX9hGE7"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "2)",
+                "",
+                "Milwaukee"
+            ],
+            "Carlie": [
+                "3)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Sep 24",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "CONCORD GENERAL STORE, OCONOMOWOC"
+        ],
+        "address": [
+            "N6485 COUNTY RD F"
+        ],
+        "link": [
+            "https://goo.gl/maps/X4xEoL3zCRA2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Ian": [
+                "1)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Sep 24",
+        "meet_time": [
+            "6:30 AM MEET SOUTH RACINE COURT (HWY 43 & Y)"
+        ],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "MILLGATE GENERAL STORE, BURLINGTON"
+        ],
+        "address": [
+            "151 MILLGATE DR"
+        ],
+        "link": [
+            "https://goo.gl/maps/JmyTfGd26bD2FKyR8"
+        ],
+        "store_note": [
+            "EXPORT NEEDS TO BE LEFT ON COMPUTER AT STORE"
+        ],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "",
+                "none"
+            ],
+            "Greg": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Justin Learned": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Paul": [
+                "4)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Sep 25",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "SENDIK'S, WHITEFISH BAY"
+        ],
+        "address": [
+            "500 E SILVER SPRING DR"
+        ],
+        "link": [
+            "https://goo.gl/maps/vzSQwdms9GJ2"
+        ],
+        "store_note": [
+            "FEW RESETS-REMAPPED"
+        ],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "",
+                "none"
+            ],
+            "Carlie": [
+                "2)",
+                "",
+                "none"
+            ],
+            "DJ": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Greg": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Lashaun": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Justin Learned": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Stephanie": [
+                "8)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Sep 25",
+        "meet_time": [],
+        "start_time": "5:30 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "ROTE OIL #10 MUKWONAGO - ROCHESTER",
+            "ROTE OIL #12 MUKWONAGO - (AMOCO) GREENWALD",
+            "ROTE OIL  #11 MUKWONAGO - (BP) ARROWHEAD"
+        ],
+        "address": [
+            "1060 N ROCHESTER ST",
+            "909 GREENWALD CT",
+            "122 ARROWHEAD DR"
+        ],
+        "link": [
+            "https://goo.gl/maps/dmvR5bTHLs1Cbjcr5",
+            "https://goo.gl/maps/ejQSLoz2D8EmzKVq6",
+            "https://goo.gl/maps/7XkTFZtDFDgGBctz7"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "2)",
+                "",
+                "Milwaukee"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Sep 25",
+        "meet_time": [
+            "?? AM MEET COLLEGE (SOUTHWEST)"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "BUTERA MARKET #588, ALGONQUIN"
+        ],
+        "address": [
+            "100 SOUTH RANDALL RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/agPr8wkY55me3Sq7A"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Sue": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Paul": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Anisha": [
+                "4)",
+                "@ Store",
+                "none"
+            ],
+            "Joseph": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Josh S": [
+                "6)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Evelin": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Keilah": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Keshawn": [
+                "9)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Sep 25",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "CONDON OIL #275, COLOMA",
+            "CONDON OIL #240, MONTELLO",
+            "CONDON OIL #265, PRINCETON"
+        ],
+        "address": [
+            "215 W FOLLETT",
+            "128 CHURCH ST",
+            "933 W MAIN ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/HSrKs8rHk8J2",
+            "https://goo.gl/maps/2gfTTs4ptyC2",
+            "https://goo.gl/maps/jHf29Lb5Uuo"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Michelle": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Ian": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Jacqui": [
+                "3)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Sep 26",
+        "meet_time": [
+            "5:30 AM MEET WATERTOWN PLANK"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "SENDIK'S, WEST BEND"
+        ],
+        "address": [
+            "280 NORTH 18TH AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/yycubiparBs"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "",
+                "none"
+            ],
+            "Carlie": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Cynthia": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Ian": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "5)",
+                "",
+                "Milwaukee"
+            ],
+            "Justin Learned": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Paul": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Robyn": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Curt": [
+                "10)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Sep 26",
+        "meet_time": [
+            "5:30 AM MEET COLLEGE (SOUTHWEST)"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "ROTE OIL #1 PADDOCK LAKE- BRASS BALL",
+            "ROTE OIL #2 PADDOCK LAKE- 75TH ST"
+        ],
+        "address": [
+            "25406 75TH ST",
+            "25555 75TH ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/LTa4ckcczx5qc8269",
+            "https://goo.gl/maps/5UyWWXXbzXMaVnv99"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "",
+                "none"
+            ],
+            "Sue": [
+                "2)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Sep 26",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "DHILLON'S BP, FOND DU LAC-PROSPECT"
+        ],
+        "address": [
+            "330 PROSPECT AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/fpFifzkM3ePQqS786"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Jeremiah": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Lashaun": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Taya": [
+                "3)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Sep 26",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [
+            "Office"
+        ],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Sep 27",
+        "meet_time": [],
+        "start_time": "5:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "ALBRECHT'S DELAFIELD MARKET"
+        ],
+        "address": [
+            "3255 GOLF RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/UZh6uE9Zs2H2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "",
+                "none"
+            ],
+            "Carlie": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Cynthia": [
+                "3)",
+                "",
+                "none"
+            ],
+            "DJ": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Greg": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Paul": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Robyn": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Stephanie": [
+                "9)",
+                "Until 10:00",
+                "none"
+            ],
+            "Curt": [
+                "10)",
+                "",
+                "none"
+            ],
+            "Aivy": [
+                "11)",
+                "Trainer w/ Aivy here? ",
+                "none"
+            ],
+            "Lori": [
+                "12)",
+                "",
+                "none"
+            ],
+            "Sarah": [
+                "13)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Sep 27",
+        "meet_time": [
+            "5:15 AM MEET COLLEGE (SOUTHWEST)"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "ROTE OIL #14 TREVOR (CITGO)",
+            "ROTE OIL #13 TREVOR (BP)"
+        ],
+        "address": [
+            "12617 ANTIOCH RD",
+            "12511 ANTIOCH RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/xA9YMzPGc6Vhxi5r8",
+            "https://goo.gl/maps/iu3xzNwgJ32esP5RA"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "",
+                "none"
+            ],
+            "Ian": [
+                "2)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Sep 27",
+        "meet_time": [],
+        "start_time": "6:00 AM ST START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "SULLIVAN'S FOODS #295 +ACE, WINNEBAGO"
+        ],
+        "address": [
+            "703 N ELIDA STREET"
+        ],
+        "link": [
+            "https://goo.gl/maps/XJm8iLALryeWSpAZ6"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, \nSupv Groc\nEquip",
+                "none"
+            ],
+            "Lashaun": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "3)",
+                "",
+                "Milwaukee"
+            ],
+            "Nate": [
+                "4)",
+                "@ Store",
+                "none"
+            ],
+            "Justin Lee": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Angela": [
+                "6)",
+                "@ Store",
+                "none"
+            ],
+            "Anisha": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Ashley P": [
+                "8)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Elijah": [
+                "9)",
+                "@ Store",
+                "none"
+            ],
+            "Eva": [
+                "10)",
+                "@ Store",
+                "none"
+            ],
+            "Evelin": [
+                "11)",
+                "@ Store",
+                "none"
+            ],
+            "Joseph": [
+                "12)",
+                "@ Store",
+                "none"
+            ],
+            "Josh S": [
+                "13)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Keilah": [
+                "14)",
+                "@ Store",
+                "none"
+            ],
+            "Qiana": [
+                "15)",
+                "@ Store",
+                "none"
+            ],
+            "Taylor": [
+                "16)",
+                "@ Store",
+                "none"
+            ],
+            "Emily L": [
+                "17)",
+                "@ Store",
+                "Rockford"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Sep 27",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "STANDING PINES AMOCO, SHAWANO",
+            "STANDING CEDARS CONVENIENCE STORE, KESHENA"
+        ],
+        "address": [
+            "N209 WI STATE HWY 55",
+            "N929 WI-47"
+        ],
+        "link": [
+            "https://goo.gl/maps/QgQ6oqtvxiADbPyn9",
+            "https://maps.app.goo.gl/13L9dUKevBxiLLvW9"
+        ],
+        "store_note": [
+            "*Please check in with the Save-a-lot store after if help is needed"
+        ],
+        "employee_list": {
+            "Jerry": [
+                "1)",
+                "Driver",
+                "none"
+            ],
+            "Michelle": [
+                "2)",
+                "Driver, pick up Trevor",
+                "none"
+            ],
+            "Trevor": [
+                "3)",
+                "meet Michelle 4:45am @ Point Target",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Sat, Sep 28",
         "meet_time": [],
         "start_time": null,
         "inv_type": [],
