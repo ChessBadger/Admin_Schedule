@@ -163,7 +163,7 @@
             ],
             "Stephanie": [
                 "5)",
-                "",
+                "@ Store",
                 "none"
             ],
             "Evelin": [
@@ -378,24 +378,22 @@
     },
     {
         "date": "Wed, Sep 18",
-        "meet_time": [
+        "meet_time": [],
+        "start_time": "*OUTSIDE AUDITORS",
+        "inv_type": [
             "4:30 AM MEET COLLEGE (SOUTHWEST)"
         ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
         "store_name": [
-            "MARIANO'S #517 +FUEL CTR-RX, OAK LAWN"
+            "6:00 AM START"
         ],
         "address": [
-            "11000 S CICERO AVE"
+            "DC5-ITEM LEVEL"
         ],
         "link": [
-            "https://goo.gl/maps/n5qPPg3gEsC2"
+            "MARIANO'S #517 +FUEL CTR-RX, OAK LAWN"
         ],
         "store_note": [
-            "SET UP ON REG #1 <br><hr id=\"note_separator\">HABA & LIQUOR RESET-REMAPPED"
+            "11000 S CICERO AVE <br><hr id=\"note_separator\">https://goo.gl/maps/n5qPPg3gEsC2 <br><hr id=\"note_separator\">SET UP ON REG #1 <br><hr id=\"note_separator\">HABA & LIQUOR RESET-REMAPPED"
         ],
         "employee_list": {
             "DJ": [
@@ -468,28 +466,33 @@
                 "@ Store",
                 "Rockford"
             ],
-            "Eva": [
+            "Elijah": [
                 "15)",
                 "@ Store",
                 "none"
             ],
-            "Evelin": [
+            "Eva": [
                 "16)",
                 "@ Store",
                 "none"
             ],
-            "Keshawn": [
+            "Evelin": [
                 "17)",
                 "@ Store",
                 "none"
             ],
-            "Lorena": [
+            "Keshawn": [
                 "18)",
                 "@ Store",
                 "none"
             ],
-            "Qiana": [
+            "Lorena": [
                 "19)",
+                "@ Store",
+                "none"
+            ],
+            "Qiana": [
+                "20)",
                 "@ Store,\nSupv Rx",
                 "none"
             ]
@@ -857,7 +860,7 @@
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "DHILLON'S MOBIL, COLGATE"
+            "DHILLON'S  STATION LAKE 5 (MOBIL), COLGATE"
         ],
         "address": [
             "4522 HWY Q"
@@ -1293,7 +1296,7 @@
         "meet_time": [],
         "start_time": "7:00 AM START",
         "inv_type": [
-            "DC5-FINANCIAL"
+            "EXCEL FINANCIAL"
         ],
         "store_name": [
             "CONCORD GENERAL STORE, OCONOMOWOC"
