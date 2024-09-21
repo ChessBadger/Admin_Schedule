@@ -378,24 +378,22 @@
     },
     {
         "date": "Wed, Sep 18",
-        "meet_time": [
+        "meet_time": [],
+        "start_time": "*OUTSIDE AUDITORS",
+        "inv_type": [
             "4:30 AM MEET COLLEGE (SOUTHWEST)"
         ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
         "store_name": [
-            "MARIANO'S #517 +FUEL CTR-RX, OAK LAWN"
+            "6:00 AM START"
         ],
         "address": [
-            "11000 S CICERO AVE"
+            "DC5-ITEM LEVEL"
         ],
         "link": [
-            "https://goo.gl/maps/n5qPPg3gEsC2"
+            "MARIANO'S #517 +FUEL CTR-RX, OAK LAWN"
         ],
         "store_note": [
-            "SET UP ON REG #1 <br><hr id=\"note_separator\">HABA & LIQUOR RESET-REMAPPED"
+            "11000 S CICERO AVE <br><hr id=\"note_separator\">https://goo.gl/maps/n5qPPg3gEsC2 <br><hr id=\"note_separator\">SET UP ON REG #1 <br><hr id=\"note_separator\">HABA & LIQUOR RESET-REMAPPED"
         ],
         "employee_list": {
             "DJ": [
@@ -483,18 +481,13 @@
                 "@ Store",
                 "none"
             ],
-            "Keshawn": [
+            "Lorena": [
                 "18)",
                 "@ Store",
                 "none"
             ],
-            "Lorena": [
-                "19)",
-                "@ Store",
-                "none"
-            ],
             "Qiana": [
-                "20)",
+                "19)",
                 "@ Store,\nSupv Rx",
                 "none"
             ]
@@ -674,28 +667,23 @@
                 "@ Store",
                 "none"
             ],
-            "Keshawn": [
+            "Lorena": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Lorena": [
+            "Makeda": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Makeda": [
-                "15)",
-                "@ Store",
-                "none"
-            ],
             "Michael N": [
-                "16)",
+                "15)",
                 "@ Store",
                 "Rockford"
             ],
             "Nate": [
-                "17)",
+                "16)",
                 "@ Store,\nRx",
                 "none"
             ]
@@ -825,28 +813,23 @@
                 "@ Store",
                 "none"
             ],
-            "Joseph": [
-                "8)",
-                "@ Store",
-                "none"
-            ],
             "Josh S": [
-                "9)",
+                "8)",
                 "@ Store",
                 "Rockford"
             ],
             "Makeda": [
-                "10)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Nate": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Taylor": [
-                "12)",
+                "11)",
                 "@ Store",
                 "none"
             ]
@@ -961,88 +944,6 @@
         }
     },
     {
-        "date": "Fri, Sep 20",
-        "meet_time": [],
-        "start_time": "6:30 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "FESTIVAL #2693, STEVENS POINT - LIFO"
-        ],
-        "address": [
-            "1600 ACADEMY DR"
-        ],
-        "link": [
-            "https://goo.gl/maps/9atNgUjfZf2FLKDK9"
-        ],
-        "store_note": [
-            "SOME FLIPPING OF PRODUCT IN BEV CORNER-NOT REMAPPED <br><hr id=\"note_separator\">*Trevor - no meet for this Stevens Point store"
-        ],
-        "employee_list": {
-            "Jeremiah": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Aivy": [
-                "2)",
-                "@ Store",
-                "none"
-            ],
-            "Jacqui": [
-                "3)",
-                "@ Store",
-                "none"
-            ],
-            "Jerry S": [
-                "4)",
-                "@ Store",
-                "Fox Valley"
-            ],
-            "Josie": [
-                "5)",
-                "@ Store",
-                "none"
-            ],
-            "Kirsten": [
-                "6)",
-                "@ Store",
-                "none"
-            ],
-            "Lori": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
-            "Marcia": [
-                "8)",
-                "@ Store",
-                "none"
-            ],
-            "Michelle": [
-                "9)",
-                "@ Store",
-                "none"
-            ],
-            "Nagui": [
-                "10)",
-                "@ Store",
-                "none"
-            ],
-            "Sarah": [
-                "11)",
-                "@ Store",
-                "none"
-            ],
-            "Trevor": [
-                "12)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
         "date": "Sat, Sep 21",
         "meet_time": [],
         "start_time": null,
@@ -1091,7 +992,7 @@
             ],
             "Carlie": [
                 "2)",
-                "",
+                "Driver,\nWhite Camry, Trainer",
                 "none"
             ],
             "DJ": [
@@ -1119,23 +1020,28 @@
                 "Driver,\nRed Van",
                 "none"
             ],
-            "Paul": [
+            "Lexi": [
                 "8)",
-                "",
+                "1st Day,\nwork w/ Carlie",
                 "none"
             ],
-            "Robyn": [
+            "Paul": [
                 "9)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Robyn": [
                 "10)",
                 "",
                 "none"
             ],
-            "Stephanie": [
+            "Sonia": [
                 "11)",
+                "",
+                "none"
+            ],
+            "Stephanie": [
+                "12)",
                 "",
                 "none"
             ]
@@ -1357,7 +1263,7 @@
             ],
             "Paul": [
                 "4)",
-                "",
+                "@ Store",
                 "none"
             ]
         }
@@ -1389,7 +1295,7 @@
             ],
             "Carlie": [
                 "2)",
-                "",
+                "Trainer",
                 "none"
             ],
             "DJ": [
@@ -1412,13 +1318,18 @@
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Lexi": [
                 "7)",
+                "2nd Day,\nwork w/ Carlie",
+                "none"
+            ],
+            "Sonia": [
+                "8)",
                 "",
                 "none"
             ],
             "Stephanie": [
-                "8)",
+                "9)",
                 "",
                 "none"
             ]
@@ -1522,13 +1433,8 @@
                 "@ Store",
                 "none"
             ],
-            "Keshawn": [
-                "9)",
-                "@ Store",
-                "none"
-            ],
             "Makeda": [
-                "10)",
+                "9)",
                 "@ Store",
                 "none"
             ]
@@ -1604,7 +1510,7 @@
             ],
             "Carlie": [
                 "2)",
-                "@ Store",
+                "@ Store,\nTrainer",
                 "none"
             ],
             "Curt": [
@@ -1632,18 +1538,23 @@
                 "",
                 "none"
             ],
-            "Paul": [
+            "Lexi": [
                 "8)",
-                "",
+                "3rd Day,\nwork w/ Carlie",
                 "none"
             ],
-            "Robyn": [
+            "Paul": [
                 "9)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Robyn": [
                 "10)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "11)",
                 "",
                 "none"
             ]
@@ -1733,28 +1644,23 @@
                 "@ Store",
                 "none"
             ],
-            "Keshawn": [
+            "Lori": [
                 "7)",
                 "@ Store",
                 "none"
             ],
-            "Lori": [
-                "8)",
-                "@ Store",
-                "none"
-            ],
             "Michael N": [
-                "9)",
+                "8)",
                 "@ Store,\nTrainer",
                 "Rockford"
             ],
             "Sarah": [
-                "10)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Seth": [
-                "11)",
+                "10)",
                 "@ Store,\nwork w/ Michael",
                 "none"
             ]
@@ -1827,38 +1733,43 @@
                 "",
                 "none"
             ],
-            "Paul": [
+            "Lexi": [
                 "7)",
-                "",
+                "4th Day,\nwork w/ Carlie",
                 "none"
             ],
-            "Robyn": [
+            "Paul": [
                 "8)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Robyn": [
                 "9)",
                 "",
                 "none"
             ],
-            "Stephanie": [
+            "Sonia": [
                 "10)",
-                "Until 10:00",
+                "",
+                "none"
+            ],
+            "Stephanie": [
+                "11)",
+                "Until 10:00,\nTrainer",
                 "none"
             ],
             "Aivy": [
-                "11)",
-                "@ Store,\nwork w/ Carlie",
+                "12)",
+                "@ Store,\nwork w/ Stephanie",
                 "none"
             ],
             "Lori": [
-                "12)",
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Sarah": [
-                "13)",
+                "14)",
                 "@ Store",
                 "none"
             ]
