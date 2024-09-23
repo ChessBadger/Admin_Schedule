@@ -37,57 +37,52 @@
             ],
             "Carlie": [
                 "2)",
-                "Driver,\nWhite Camry, Trainer",
-                "none"
-            ],
-            "DJ": [
-                "3)",
-                "Driver,\nAltima",
+                "Driver,\nWhite Camry,\nTrainer",
                 "none"
             ],
             "Greg": [
-                "4)",
+                "3)",
                 "",
                 "none"
             ],
             "Jerry D": [
-                "5)",
+                "4)",
                 "",
                 "Milwaukee"
             ],
             "Justin Learned": [
-                "6)",
+                "5)",
                 "",
                 "none"
             ],
             "Lashaun": [
-                "7)",
+                "6)",
                 "Driver,\nRed Van",
                 "none"
             ],
             "Lexi": [
-                "8)",
+                "7)",
                 "1st Day,\nwork w/ Carlie",
                 "none"
             ],
             "Paul": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Robyn": [
                 "9)",
                 "",
                 "none"
             ],
-            "Robyn": [
+            "Sonia": [
                 "10)",
                 "",
                 "none"
             ],
-            "Sonia": [
-                "11)",
-                "",
-                "none"
-            ],
             "Stephanie": [
-                "12)",
-                "",
+                "11)",
+                "@ Store",
                 "none"
             ]
         }
@@ -125,9 +120,9 @@
                 "Equip",
                 "none"
             ],
-            "Ian": [
+            "DJ": [
                 "2)",
-                "Driver,\nOptima",
+                "Driver,\nAltima",
                 "none"
             ]
         }
@@ -1051,12 +1046,12 @@
                 "",
                 "none"
             ],
-            "Paul": [
+            "Lashaun": [
                 "4)",
                 "",
                 "none"
             ],
-            "Stephanie": [
+            "Paul": [
                 "5)",
                 "",
                 "none"
@@ -1136,33 +1131,28 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Lashaun": [
-                "2)",
-                "",
-                "none"
-            ],
             "Anisha": [
-                "3)",
+                "2)",
                 "@ Store",
                 "none"
             ],
             "Keilah": [
-                "4)",
+                "3)",
                 "@ Store",
                 "none"
             ],
             "Josh S": [
-                "5)",
+                "4)",
                 "@ Store",
                 "Rockford"
             ],
             "Qiana": [
-                "6)",
+                "5)",
                 "@ Store",
                 "none"
             ],
             "Taylor": [
-                "7)",
+                "6)",
                 "@ Store",
                 "none"
             ]
