@@ -1600,16 +1600,16 @@
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "*SALE INVENTORY"
-        ],
-        "address": [
             "DHILLON'S STATION 60 LLC, GRAFTON"
         ],
-        "link": [
+        "address": [
             "1185 N PORT WASHINGTON RD"
         ],
-        "store_note": [
+        "link": [
             "https://maps.app.goo.gl/j6V8me3CPcLfC84u6"
+        ],
+        "store_note": [
+            "*SALE INVENTORY"
         ],
         "employee_list": {
             "Sarah": [
@@ -1652,16 +1652,16 @@
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "*SALE INVENTORY"
-        ],
-        "address": [
             "DHILLON'S STATION CEDARBURG LLC"
         ],
-        "link": [
+        "address": [
             "W62 N174 WASHINGTON AVE"
         ],
+        "link": [
+            "https://maps.app.goo.gl/ain85BzcPhd22Kb39"
+        ],
         "store_note": [
-            "https://maps.app.goo.gl/ain85BzcPhd22Kb39 <br><hr id=\"note_separator\">Please check in with bigger Grafton store after finishing"
+            "Please check in with bigger Grafton store after finishing <br><hr id=\"note_separator\">*SALE INVENTORY"
         ],
         "employee_list": {
             "DJ": [
