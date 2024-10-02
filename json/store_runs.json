@@ -1672,16 +1672,16 @@
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "*SALE INVENTORY"
-        ],
-        "address": [
             "DHILLON'S STATION CEDARBURG LLC"
         ],
-        "link": [
+        "address": [
             "W62 N174 WASHINGTON AVE"
         ],
+        "link": [
+            "https://maps.app.goo.gl/ain85BzcPhd22Kb39"
+        ],
         "store_note": [
-            "https://maps.app.goo.gl/ain85BzcPhd22Kb39 <br><hr id=\"note_separator\">Please check in with bigger Grafton store after finishing"
+            "Please check in with bigger Grafton store after finishing <br><hr id=\"note_separator\">*SALE INVENTORY"
         ],
         "employee_list": {
             "DJ": [
