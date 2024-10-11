@@ -128,7 +128,41 @@
             ],
             "Stephanie": [
                 "10)",
-                "",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Oct 7",
+        "meet_time": "5:45 AM OFFICE LEAVE TIME",
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "CONDON OIL #115, OSHKOSH",
+            "CONDON OIL #125, OSHKOSH"
+        ],
+        "address": [
+            "4733 HWY 45 S",
+            "415 W MURDOCK"
+        ],
+        "link": [
+            "https://goo.gl/maps/ogWshZHQaJA2",
+            "https://goo.gl/maps/MN9h4JXUjeC2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Gold Camry, Equip",
+                "none"
+            ],
+            "Lori": [
+                "2)",
+                "@ Store",
                 "none"
             ]
         }
@@ -185,7 +219,7 @@
                 "",
                 "none"
             ],
-            "Katie": [
+            "Annette": [
                 "7)",
                 "@ Store",
                 "none"
@@ -259,7 +293,7 @@
             ],
             "Paul": [
                 "5)",
-                "",
+                "@ Store",
                 "none"
             ],
             "Sonia": [
@@ -398,88 +432,83 @@
                 "",
                 "none"
             ],
-            "Stephanie": [
-                "10)",
-                "",
-                "none"
-            ],
             "Sue": [
-                "11)",
+                "10)",
                 "After Aurora,\nIf needed",
                 "none"
             ],
             "Angela": [
-                "12)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Anisha": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Ashley P": [
-                "14)",
+                "13)",
                 "@ Store,\nSupv Rx",
                 "Rockford"
             ],
             "Bonnie": [
-                "15)",
+                "14)",
                 "@ Store, work w/ Michael",
                 "none"
             ],
             "Brianna": [
-                "16)",
+                "15)",
                 "@ Store",
                 "none"
             ],
             "Eva": [
-                "17)",
+                "16)",
                 "@ Store",
                 "none"
             ],
             "Evelin": [
-                "18)",
+                "17)",
                 "@ Store",
                 "none"
             ],
             "Jenny": [
-                "19)",
+                "18)",
                 "@ Store",
                 "none"
             ],
             "Joseph": [
-                "20)",
+                "19)",
                 "@ Store",
                 "none"
             ],
             "Josh S": [
-                "21)",
+                "20)",
                 "@ Store",
                 "Rockford"
             ],
             "Justin Lee": [
-                "22)",
+                "21)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Lorena": [
-                "23)",
+                "22)",
                 "@ Store",
                 "none"
             ],
             "Makeda": [
-                "24)",
+                "23)",
                 "@ Store",
                 "none"
             ],
             "Michael N": [
-                "25)",
+                "24)",
                 "@ Store,\nTrainer",
                 "Rockford"
             ],
             "Taylor": [
-                "26)",
+                "25)",
                 "@ Store",
                 "none"
             ]
@@ -509,7 +538,7 @@
         "employee_list": {
             "Ian": [
                 "1)",
-                "Optima available, Equip",
+                "Gold Camry available, Equip",
                 "none"
             ],
             "Sue": [
@@ -551,7 +580,7 @@
             ],
             "Katherine": [
                 "3)",
-                "Gold Camry available",
+                "Optima available",
                 "none"
             ],
             "Aivy": [
@@ -588,7 +617,8 @@
             "https://maps.app.goo.gl/ain85BzcPhd22Kb39"
         ],
         "store_note": [
-            "Please check in with bigger Grafton store after finishing <br><hr id=\"note_separator\">*SALE INVENTORY"
+            "*SALE INVENTORY",
+            "Please check in with bigger Grafton store after finishing"
         ],
         "employee_list": {
             "DJ": [
@@ -677,23 +707,18 @@
                 "",
                 "none"
             ],
-            "Nataun": [
-                "7)",
-                "2nd Scan, work w/ Nate",
-                "none"
-            ],
             "Sonia": [
-                "8)",
+                "7)",
                 "",
                 "none"
             ],
             "Nate": [
-                "9)",
+                "8)",
                 "@ Store,\nTrainer",
                 "none"
             ],
             "Taylor": [
-                "10)",
+                "9)",
                 "@ Store",
                 "none"
             ]
@@ -855,7 +880,7 @@
             ],
             "Lashaun": [
                 "8)",
-                "",
+                "@ Store",
                 "none"
             ],
             "Lexi": [
@@ -885,16 +910,11 @@
             ],
             "Ashley P": [
                 "14)",
-                "@ Store,\nTrainer",
+                "@ Store",
                 "Rockford"
             ],
-            "Bonnie": [
-                "15)",
-                "@ Store, work w/ Ashley",
-                "none"
-            ],
             "Taylor": [
-                "16)",
+                "15)",
                 "@ Store",
                 "none"
             ]
@@ -1220,7 +1240,9 @@
         "link": [
             "https://goo.gl/maps/oh7TcXwsTBYkDsmw5"
         ],
-        "store_note": [],
+        "store_note": [
+            "ENTER THROUGH EMERGENCY DOORS"
+        ],
         "employee_list": {
             "Katherine": [
                 "1)",
@@ -1434,65 +1456,21 @@
             ],
             "Angela": [
                 "13)",
-                "@ Store,\nTrainer",
+                "@ Store",
                 "none"
             ],
-            "Bonnie": [
+            "Nate": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Jenny": [
-                "15)",
-                "@ Store,\n3rd week, work w/ Angela",
-                "none"
-            ],
-            "Nate": [
-                "16)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, Oct 16",
-        "meet_time": [
-            "4:45 AM OFFICE MEET"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "DHILLON'S STATION TAYCHEEDAH"
-        ],
-        "address": [
-            "N7593 TAYCHEEDAH WAY"
-        ],
-        "link": [
-            "https://maps.app.goo.gl/AikGemvbip7Snoju7"
-        ],
-        "store_note": [
-            "*SALE INVENTORY"
-        ],
-        "employee_list": {
-            "Katherine": [
-                "1)",
-                "Equip",
-                "none"
-            ],
-            "Sue": [
-                "2)",
-                "Driver,\nOptima",
-                "none"
-            ],
             "Annette": [
-                "3)",
+                "15)",
                 "@ Store",
                 "none"
             ],
             "Lena": [
-                "4)",
+                "16)",
                 "@ Store",
                 "none"
             ]
@@ -1580,18 +1558,13 @@
                 "",
                 "none"
             ],
-            "Jenny": [
-                "10)",
-                "@ Store,\n3rd week, work w/ Qiana",
-                "none"
-            ],
             "Qiana": [
-                "11)",
-                "@ Store,\nTrainer",
+                "10)",
+                "@ Store",
                 "none"
             ],
             "Taylor": [
-                "12)",
+                "11)",
                 "@ Store",
                 "none"
             ]

@@ -351,8 +351,11 @@ if folders:
                                     break_outer_loop = True
                                     break
 
+                        if value and "sale inventory" in value.lower():
+                            store_run.add_store_note(value)
+                            current_state = current_state
                         # Assuming value is the string containing the meet times
-                        if value and current_state == 'searching' and 'courtesy meet' in value.lower():
+                        elif value and current_state == 'searching' and 'courtesy meet' in value.lower():
                             current_state == 'searching'
                             courtesy_meet = True
                         elif value and current_state == 'searching' and 'meet' in value.lower():
