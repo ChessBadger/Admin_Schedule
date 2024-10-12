@@ -3,7 +3,7 @@ name: Automate Site Updates
 # Schedule the action to run every day at midnight
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '5 20 * * *'  # 8:05 PM UTC
 
 jobs:
   update-site:
