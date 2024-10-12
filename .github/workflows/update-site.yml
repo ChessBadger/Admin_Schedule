@@ -1,9 +1,9 @@
 name: Automate Site Updates
 
-# Schedule the action to run every day at midnight
+# Schedule the action to run every 4 hours
 on:
   schedule:
-    - cron: '5 20 * * *'  # 8:05 PM UTC
+    - cron: '0 */4 * * *'
 
 jobs:
   update-site:
