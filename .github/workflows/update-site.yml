@@ -1,0 +1,31 @@
+name: Automate Site Updates
+
+# Schedule the action to run every day at midnight
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update-site:
+    runs-on: ubuntu-latest  # You can use Ubuntu as the OS if no Windows-specific steps are needed
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Run Python Script
+      run: |
+        python ./Schedule_V3.py
+
+    - name: Commit and Push Changes
+      run: |
+        git config --global user.name 'ChessBadger'
+        git config --global user.email 'clarklas831@gmail.com'
+        git add .
+        git commit -m "Automated site update"
+        git push
