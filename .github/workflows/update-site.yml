@@ -29,9 +29,11 @@ jobs:
         python ./Schedule_V3.py
 
     - name: Commit and Push Changes
+      env:
+        GH_PAT: ${{ secrets.GH_PAT }}  # Use the GitHub PAT secret
       run: |
         git config --global user.name 'your-username'
-        git config --global user.email 'your-email'
+        git config --global user.email 'your-email@example.com'
         git add .
         git commit -m "Automated site update"
-        git push
+        git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/ChessBadger/Admin_Schedule.git HEAD:main
