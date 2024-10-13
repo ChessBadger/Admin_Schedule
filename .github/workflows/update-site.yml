@@ -1,13 +1,12 @@
 name: Automate Site Updates
 
-# Schedule the action to run every 4 hours
 on:
   schedule:
     - cron: '0 */4 * * *'
 
 jobs:
   update-site:
-    runs-on: ubuntu-latest  # Use Ubuntu unless Windows-specific steps are needed
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
@@ -20,11 +19,10 @@ jobs:
 
     - name: Install Dependencies
       run: |
-        pip install gspread
-        pip install google-auth google-auth-oauthlib google-auth-httplib2
-        pip install google-api-python-client
-        pip install openpyxl
-        pip install pandas
+        pip install gspread google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client openpyxl pandas
+
+    - name: Set up Google Cloud Credentials
+      run: echo "${{ secrets.GOOGLE_CLOUD_CREDENTIALS }}" > config.json
 
     - name: Run Python Script
       run: |
