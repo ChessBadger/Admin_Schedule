@@ -1,13 +1,13 @@
 name: Automate Site Updates
 
-# Schedule the action to run every 4 hours
 on:
+  workflow_dispatch:  # This enables manual runs
   schedule:
     - cron: '0 */4 * * *'
 
 jobs:
   update-site:
-    runs-on: ubuntu-latest  # You can use Ubuntu as the OS if no Windows-specific steps are needed
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
@@ -18,14 +18,22 @@ jobs:
       with:
         python-version: '3.x'
 
+    - name: Install Dependencies
+      run: |
+        pip install gspread google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client openpyxl pandas
+
+    - name: Set up Google Cloud Credentials
+      run: echo "${{ secrets.GOOGLE_CLOUD_CREDENTIALS }}" > config.json
+
     - name: Run Python Script
       run: |
         python ./Schedule_V3.py
 
     - name: Commit and Push Changes
       run: |
-        git config --global user.name 'ChessBadger'
-        git config --global user.email 'clarklas831@gmail.com'
+        git config --global user.name 'your-username'
+        git config --global user.email 'your-email'
         git add .
         git commit -m "Automated site update"
         git push
+
