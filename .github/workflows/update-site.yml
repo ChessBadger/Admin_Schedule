@@ -7,7 +7,7 @@ on:
 
 jobs:
   update-site:
-    runs-on: ubuntu-latest  # You can use Ubuntu as the OS if no Windows-specific steps are needed
+    runs-on: ubuntu-latest  # Use Ubuntu unless Windows-specific steps are needed
 
     steps:
     - name: Checkout repository
@@ -18,14 +18,22 @@ jobs:
       with:
         python-version: '3.x'
 
+    - name: Install Dependencies
+      run: |
+        pip install gspread
+        pip install google-auth google-auth-oauthlib google-auth-httplib2
+        pip install google-api-python-client
+        pip install openpyxl
+        pip install pandas
+
     - name: Run Python Script
       run: |
         python ./Schedule_V3.py
 
     - name: Commit and Push Changes
       run: |
-        git config --global user.name 'ChessBadger'
-        git config --global user.email 'clarklas831@gmail.com'
+        git config --global user.name 'your-username'
+        git config --global user.email 'your-email'
         git add .
         git commit -m "Automated site update"
         git push
