@@ -35,3 +35,8 @@ jobs:
         git add .
         git commit -m "Automated site update"
         git push
+
+on:
+  workflow_dispatch:  # This enables manual runs
+  schedule:
+    - cron: '0 */4 * * *'  # Keep your existing cron schedule
