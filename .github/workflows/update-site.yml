@@ -1,9 +1,9 @@
 name: Automate Site Updates
 
 on:
-  workflow_dispatch:  # This enables manual runs
   schedule:
     - cron: '0 */4 * * *'
+  workflow_dispatch:  # Allows you to manually run the workflow
 
 jobs:
   update-site:
@@ -22,10 +22,9 @@ jobs:
       run: |
         pip install gspread google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client openpyxl pandas
 
-    - name: Set up Google Cloud Credentials
-      run: echo "${{ secrets.GOOGLE_CLOUD_CREDENTIALS }}" > config.json
-
     - name: Run Python Script
+      env:
+        GOOGLE_CLOUD_CREDENTIALS: ${{ secrets.GOOGLE_CLOUD_CREDENTIALS }}  # Pass the secret as an environment variable
       run: |
         python ./Schedule_V3.py
 
@@ -36,4 +35,3 @@ jobs:
         git add .
         git commit -m "Automated site update"
         git push
-
