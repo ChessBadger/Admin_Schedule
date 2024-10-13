@@ -3,7 +3,7 @@ name: Automate Site Updates
 on:
   schedule:
     - cron: '0 */4 * * *'
-  workflow_dispatch:  # Allows you to manually run the workflow
+  workflow_dispatch:  # Allows manual trigger
 
 jobs:
   update-site:
@@ -24,13 +24,13 @@ jobs:
 
     - name: Run Python Script
       env:
-        GOOGLE_CLOUD_CREDENTIALS: ${{ secrets.GOOGLE_CLOUD_CREDENTIALS }}  # Pass the secret as an environment variable
+        GOOGLE_CLOUD_CREDENTIALS: ${{ secrets.GOOGLE_CLOUD_CREDENTIALS }}
       run: |
         python ./Schedule_V3.py
 
     - name: Commit and Push Changes
       env:
-        GH_PAT: ${{ secrets.GH_PAT }}  # Use the GitHub PAT secret
+        GH_PAT: ${{ secrets.GH_PAT }}
       run: |
         git config --global user.name 'your-username'
         git config --global user.email 'your-email@example.com'
