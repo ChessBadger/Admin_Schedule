@@ -742,7 +742,7 @@
             ],
             "Jerry D": [
                 "3)",
-                "Driver,\nRed Van",
+                "Driver,\nGold Camry",
                 "Milwaukee"
             ],
             "Katherine": [
@@ -752,7 +752,7 @@
             ],
             "Kim": [
                 "5)",
-                "",
+                "Driver,\nSante Fe",
                 "none"
             ],
             "Lexi": [
@@ -824,43 +824,48 @@
                 "",
                 "none"
             ],
-            "Greg": [
+            "Cynthia": [
                 "4)",
                 "",
                 "none"
             ],
-            "Lashaun": [
+            "Greg": [
                 "5)",
-                "Driver,\nGold Camry",
+                "",
+                "none"
+            ],
+            "Lashaun": [
+                "6)",
+                "Driver,\nRed Van",
                 "none"
             ],
             "Dan": [
-                "6)",
+                "7)",
                 "@ Store",
                 "none"
             ],
             "Jerry S": [
-                "7)",
+                "8)",
                 "@ Store",
                 "Fox Valley"
             ],
             "Kirsten": [
-                "8)",
-                "@ Store",
-                "none"
-            ],
-            "Lena": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Michelle": [
+            "Lena": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Nagui": [
+            "Michelle": [
                 "11)",
+                "@ Store",
+                "none"
+            ],
+            "Nagui": [
+                "12)",
                 "@ Store",
                 "none"
             ]
