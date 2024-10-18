@@ -742,7 +742,7 @@
             ],
             "Jerry D": [
                 "3)",
-                "Driver,\nGold Camry",
+                "Driver,\nGold Camry,\nTrainer",
                 "Milwaukee"
             ],
             "Katherine": [
@@ -762,7 +762,7 @@
             ],
             "Leyna": [
                 "7)",
-                "2nd Financial, work w/ Ian",
+                "2nd Financial, work w/ Jerry",
                 "none"
             ],
             "Paul": [
@@ -1024,7 +1024,7 @@
             ],
             "Jerry D": [
                 "3)",
-                "Driver,\nRed Van",
+                "Driver,\nRed Van,\nTrainer",
                 "Milwaukee"
             ],
             "Justin Learned": [
@@ -1037,18 +1037,23 @@
                 "",
                 "none"
             ],
-            "Paul": [
+            "Leyna": [
                 "6)",
-                "",
+                "3rd Financial, work w/ \nJerry D",
                 "none"
             ],
-            "Sonia": [
+            "Paul": [
                 "7)",
                 "",
                 "none"
             ],
-            "Sue": [
+            "Sonia": [
                 "8)",
+                "",
+                "none"
+            ],
+            "Sue": [
+                "9)",
                 "Driver,\nGold Camry",
                 "none"
             ]
@@ -1138,18 +1143,23 @@
                 "",
                 "none"
             ],
-            "Aivy": [
+            "Sydney": [
                 "10)",
+                "3rd Scan",
+                "none"
+            ],
+            "Aivy": [
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Sarah": [
-                "11)",
+                "12)",
                 "@ Store,\nSupv Rx",
                 "none"
             ],
             "Seth": [
-                "12)",
+                "13)",
                 "@ Store",
                 "none"
             ]
@@ -1182,7 +1192,7 @@
             ],
             "Carlie": [
                 "2)",
-                "@ Store",
+                "@ Store,\nTrainer",
                 "none"
             ],
             "Jerry D": [
@@ -1195,53 +1205,58 @@
                 "Driver,\nRed Van",
                 "none"
             ],
-            "Robyn": [
+            "Leyna": [
                 "5)",
-                "",
+                "4th Financial, work w/ Carlie",
                 "none"
             ],
-            "Sue": [
+            "Robyn": [
                 "6)",
                 "",
                 "none"
             ],
-            "Annette": [
+            "Sue": [
                 "7)",
-                "@ Store",
+                "",
                 "none"
             ],
-            "Dan": [
+            "Annette": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Katie": [
+            "Dan": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Lena": [
+            "Katie": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Lori": [
+            "Lena": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Marcia": [
+            "Lori": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Serena": [
+            "Marcia": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Taya": [
+            "Serena": [
                 "14)",
+                "@ Store",
+                "none"
+            ],
+            "Taya": [
+                "15)",
                 "@ Store",
                 "none"
             ]
@@ -1332,43 +1347,48 @@
                 "",
                 "none"
             ],
-            "Angela": [
+            "Sydney": [
                 "5)",
+                "4th Scan, work w/ Anisha",
+                "none"
+            ],
+            "Angela": [
+                "6)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Anisha": [
-                "6)",
-                "@ Store",
+                "7)",
+                "@ Store,\nTrainer",
                 "none"
             ],
             "Evelin": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
-            "Joseph": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Josh S": [
+            "Joseph": [
                 "9)",
+                "@ Store",
+                "none"
+            ],
+            "Josh S": [
+                "10)",
                 "@ Store",
                 "Rockford"
             ],
             "Kayla": [
-                "10)",
-                "@ Store",
-                "none"
-            ],
-            "Lorena": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Makeda": [
+            "Lorena": [
                 "12)",
+                "@ Store",
+                "none"
+            ],
+            "Makeda": [
+                "13)",
                 "@ Store",
                 "none"
             ]
@@ -1401,7 +1421,7 @@
             ],
             "Carlie": [
                 "2)",
-                "@ Store",
+                "@ Store,\nTrainer",
                 "none"
             ],
             "Curt": [
@@ -1439,38 +1459,43 @@
                 "",
                 "none"
             ],
-            "Paul": [
+            "Leyna": [
                 "10)",
-                "",
+                "3rd Scan, work w/ Carlie",
                 "none"
             ],
-            "Robyn": [
+            "Paul": [
                 "11)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Robyn": [
                 "12)",
                 "",
                 "none"
             ],
-            "Stephanie": [
+            "Sonia": [
                 "13)",
                 "",
                 "none"
             ],
-            "Sue": [
+            "Stephanie": [
                 "14)",
                 "",
                 "none"
             ],
-            "Michael N": [
+            "Sue": [
                 "15)",
+                "",
+                "none"
+            ],
+            "Michael N": [
+                "16)",
                 "@ Store,\nRx",
                 "Rockford"
             ],
             "Taylor": [
-                "16)",
+                "17)",
                 "@ Store",
                 "none"
             ]
@@ -1541,12 +1566,12 @@
             ],
             "Carlie": [
                 "2)",
-                "@ Store,\nAfter Aurora",
+                "Driver,\nWhite Camry,\nTrainer",
                 "none"
             ],
             "Cynthia": [
                 "3)",
-                "",
+                "@ Store,\nAfter Aurora",
                 "none"
             ],
             "Ian": [
@@ -1556,7 +1581,7 @@
             ],
             "Jerry D": [
                 "5)",
-                "Driver,\nRed Van",
+                "Driver,\nRed Van,\nTrainer",
                 "Milwaukee"
             ],
             "Justin Learned": [
@@ -1574,24 +1599,34 @@
                 "",
                 "none"
             ],
-            "Monica": [
+            "Leyna": [
                 "9)",
-                "",
+                "2nd week, work w/ Jerry",
                 "none"
             ],
-            "Nataun": [
+            "Monica": [
                 "10)",
                 "",
                 "none"
             ],
-            "Paul": [
+            "Nataun": [
                 "11)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Paul": [
                 "12)",
                 "",
+                "none"
+            ],
+            "Sonia": [
+                "13)",
+                "",
+                "none"
+            ],
+            "Sydney": [
+                "14)",
+                "2nd Financial, work w/ Carlie",
                 "none"
             ]
         }
@@ -1657,7 +1692,7 @@
                 "Driver,\nSante Fe,\nEquip",
                 "none"
             ],
-            "Carlie": [
+            "Cynthia": [
                 "2)",
                 "",
                 "none"
@@ -1820,7 +1855,7 @@
             ],
             "Carlie": [
                 "2)",
-                "",
+                "Trainer",
                 "none"
             ],
             "Ian": [
@@ -1830,7 +1865,7 @@
             ],
             "Jerry D": [
                 "4)",
-                "",
+                "Trainer",
                 "Milwaukee"
             ],
             "Lexi": [
@@ -1838,48 +1873,58 @@
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Leyna": [
                 "6)",
+                "4th Scan, work w/ Jerry",
+                "none"
+            ],
+            "Sonia": [
+                "7)",
                 "",
                 "none"
             ],
             "Stephanie": [
-                "7)",
+                "8)",
                 "Until 10:00",
                 "none"
             ],
+            "Sydney": [
+                "9)",
+                "2nd week,\nwork w/ Carlie",
+                "none"
+            ],
             "Aivy": [
-                "8)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Angela": [
-                "9)",
-                "@ Store",
-                "none"
-            ],
-            "Eva": [
-                "10)",
-                "@ Store,\nRx",
-                "none"
-            ],
-            "Evelin": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Lorena": [
+            "Eva": [
                 "12)",
-                "@ Store",
+                "@ Store,\nRx",
                 "none"
             ],
-            "Qiana": [
+            "Evelin": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Sarah": [
+            "Lorena": [
                 "14)",
+                "@ Store",
+                "none"
+            ],
+            "Qiana": [
+                "15)",
+                "@ Store",
+                "none"
+            ],
+            "Sarah": [
+                "16)",
                 "@ Store",
                 "none"
             ]
