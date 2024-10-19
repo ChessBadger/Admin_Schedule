@@ -365,7 +365,7 @@ if folders:
                                     break_outer_loop = True
                                     break
 
-                        if value and "sale inventory" in value.lower():
+                        if value and "*" in value.lower():
                             store_run.add_store_note(value)
                             current_state = current_state
                         # Assuming value is the string containing the meet times
