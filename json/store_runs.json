@@ -1786,16 +1786,16 @@
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "*FIRST INVENTORY"
-        ],
-        "address": [
             "FESTIVAL #2741, KIMBERLY - LIFO"
         ],
-        "link": [
+        "address": [
             "800 EAST MAES AVE"
         ],
-        "store_note": [
+        "link": [
             "https://maps.app.goo.gl/kfzahrSKjQJjuiV29"
+        ],
+        "store_note": [
+            "*FIRST INVENTORY"
         ],
         "employee_list": {
             "Jeremiah": [
