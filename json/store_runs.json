@@ -1572,64 +1572,25 @@
     },
     {
         "date": "Tue, Oct 29",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [
-            "4:15 AM OFFICE LAVE TIME"
-        ],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {
-            "7:00 AM START": [
-                "",
-                "",
-                "none"
-            ],
-            "DC5-ITEM LEVEL": [
-                "",
-                "",
-                "none"
-            ],
-            "AURORA OUTPATIENT RX #1157, STURGEON BAY": [
-                "",
-                "",
-                "none"
-            ],
-            "1910 ALABAMA ST": [
-                "",
-                "",
-                "none"
-            ],
-            "https://goo.gl/maps/PT62tX3aqSWcCC5G6": [
-                "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Oct 29",
-        "meet_time": [],
-        "start_time": "Katherine",
+        "meet_time": "4:15 AM OFFICE LEAVE TIME",
+        "start_time": "7:00 AM START",
         "inv_type": [
-            ""
+            "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            ""
+            "AURORA OUTPATIENT RX #1157, STURGEON BAY"
         ],
         "address": [
-            ""
+            "1910 ALABAMA ST"
         ],
         "link": [
-            ""
+            "https://goo.gl/maps/PT62tX3aqSWcCC5G6"
         ],
         "store_note": [],
         "employee_list": {
-            "": [
-                "",
-                "",
+            "Katherine": [
+                "1)",
+                "Optima, Equip",
                 "none"
             ]
         }
