@@ -43,7 +43,7 @@
                 "Equip",
                 "none"
             ],
-            "Ian": [
+            "Lashaun": [
                 "2)",
                 "Driver,\nOptima",
                 "none"
@@ -172,25 +172,6 @@
             "Sue": [
                 "9)",
                 "Driver,\nGold Camry",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Oct 21",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [
-            "Office"
-        ],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {
-            "Lashaun": [
-                "",
-                "",
                 "none"
             ]
         }
@@ -982,7 +963,7 @@
             ],
             "Jerry D": [
                 "4)",
-                "Trainer",
+                "Trainer, Until 11:45",
                 "Milwaukee"
             ],
             "Lexi": [
