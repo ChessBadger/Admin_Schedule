@@ -859,68 +859,63 @@
                 "",
                 "none"
             ],
-            "Lashaun": [
-                "6)",
-                "Supv Rx",
-                "none"
-            ],
             "Monica": [
-                "7)",
+                "6)",
                 "",
                 "none"
             ],
             "Paul": [
-                "8)",
+                "7)",
                 "",
                 "none"
             ],
             "Robyn": [
-                "9)",
+                "8)",
                 "",
                 "none"
             ],
             "Anisha": [
-                "10)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Ashley P": [
-                "11)",
-                "@ Store",
+                "10)",
+                "@ Store,\nSupv Rx",
                 "Rockford"
             ],
             "Elijah": [
-                "12)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Joseph": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Josh S": [
-                "14)",
+                "13)",
                 "@ Store",
                 "Rockford"
             ],
             "Justin Lee": [
-                "15)",
+                "14)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Kayla": [
-                "16)",
+                "15)",
                 "@ Store",
                 "none"
             ],
             "Makeda": [
-                "17)",
+                "16)",
                 "@ Store",
                 "none"
             ],
             "Taylor": [
-                "18)",
+                "17)",
                 "@ Store",
                 "none"
             ]
@@ -1058,6 +1053,25 @@
             "Katherine": [
                 "2)",
                 "Optima",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Oct 25",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [
+            "Office"
+        ],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {
+            "Lashaun": [
+                "",
+                "",
                 "none"
             ]
         }
