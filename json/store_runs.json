@@ -1620,7 +1620,7 @@
             ],
             "Jerry D": [
                 "4)",
-                "",
+                "*get DC's after store",
                 "Milwaukee"
             ],
             "Justin Learned": [
@@ -1938,7 +1938,9 @@
         "link": [
             "https://goo.gl/maps/57s41PSXiLJ2"
         ],
-        "store_note": [],
+        "store_note": [
+            "*Jerry - machine bags into the Optima trunk after getting back"
+        ],
         "employee_list": {
             "Jeremiah": [
                 "1)",
