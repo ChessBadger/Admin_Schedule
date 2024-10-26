@@ -2115,22 +2115,24 @@
     },
     {
         "date": "Fri, Nov 8",
-        "meet_time": [],
-        "start_time": "THEY NOW HAVE SIGNS UP NO STREET PARKING",
-        "inv_type": [
+        "meet_time": [
             "11:00 REQUIRED MEET AT MENOMONEE FALLS PICK N SAVE"
         ],
-        "store_name": [
-            "ADDRESS TO THE MEET:\nN77 W14435 APPLETON AVE, MENOMONEE FALLS"
-        ],
-        "address": [
+        "start_time": "ADDRESS TO THE MEET:\nN77 W14435 APPLETON AVE, MENOMONEE FALLS",
+        "inv_type": [
             "11:30 AM START"
         ],
-        "link": [
+        "store_name": [
             "DC5-ITEM LEVEL"
         ],
+        "address": [
+            "AURORA OUTPATIENT RX #1119, MENOMONEE FALLS"
+        ],
+        "link": [
+            "N93 W14575 WHITTAKER WAY"
+        ],
         "store_note": [
-            "AURORA OUTPATIENT RX #1119, MENOMONEE FALLS <br><hr id=\"note_separator\">N93 W14575 WHITTAKER WAY <br><hr id=\"note_separator\">https://goo.gl/maps/CLqauUgd2u12 <br><hr id=\"note_separator\">Area tickets are used here, Supv will need to arrive one hour early at 10:30 to post them",
+            "https://goo.gl/maps/CLqauUgd2u12 <br><hr id=\"note_separator\">Area tickets are used here, Supv will need to arrive one hour early at 10:30 to post them",
             "Make sure to bring folders for both sites - *notes* - Items over $1,000 count as tenths - Count big dollar sections 1st for auditing. <br><hr id=\"note_separator\">Make sure to tag each location when completed. Try to start large Drawer sections early - they take a lot of time. <br><hr id=\"note_separator\">DC5-ITEM LEVEL <br><hr id=\"note_separator\">AURORA OUTPATIENT RX #1143 MENOMONEE FALLS <br><hr id=\"note_separator\">N93 W14575 WHITTAKER WAY <br><hr id=\"note_separator\">https://goo.gl/maps/AJgcVD6yx75Kq3yS6 <br><hr id=\"note_separator\">Need to go up a flight of stairs for this site"
         ],
         "employee_list": {
