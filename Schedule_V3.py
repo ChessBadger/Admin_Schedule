@@ -479,6 +479,8 @@ if folders:
                                 current_state = 'to_follow'
                             elif value and 'APPROX' in value:
                                 current_state = 'to_follow'
+                            elif value and 'DC5' in value:
+                                current_state = 'to_follow'
                             elif value:
                                 store_run.add_store_note(value, concat=True)
                             else:
