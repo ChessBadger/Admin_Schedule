@@ -460,6 +460,10 @@ if folders:
                                 current_state = 'to_follow'
                             elif value and 'APPROX' in value:
                                 current_state = 'to_follow'
+                            elif value and 'DC5-FINANCIAL' in value:
+                                current_state = 'to follow'
+                            elif value and 'MODAS' in value:
+                                current_state = 'to follow'
                             elif value:
                                 store_run.add_store_note(value)
                                 current_state = 'found_store_note'
