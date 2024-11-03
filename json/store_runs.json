@@ -6,13 +6,13 @@
         ],
         "start_time": "7:00 AM START",
         "inv_type": [
-            "INVENTORY TYPE"
+            "DC5-FINANCIAL"
         ],
         "store_name": [
-            "LOCATION"
+            "WEBSTER'S MARKETPLACE, RIPON"
         ],
         "address": [
-            "Address"
+            "1188 W FOND DU LAC STREET"
         ],
         "link": [
             "https://goo.gl/maps/EWZS96J1G93UVQgi7"
@@ -68,13 +68,13 @@
         "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
-            "INVENTORY TYPE"
+            "DC5-FINANCIAL"
         ],
         "store_name": [
-            "LOCATION"
+            "FOX BROS PIGGLY WIGGLY #093, OCONOMOWOC"
         ],
         "address": [
-            "Address"
+            "1300 BROWN ST"
         ],
         "link": [
             "https://goo.gl/maps/2K5yALCcUdM2"
@@ -246,13 +246,13 @@
         ],
         "start_time": "6:00 AM START",
         "inv_type": [
-            "INVENTORY TYPE"
+            "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "LOCATION"
+            "MARIANO'S #503, CHICAGO - LAKESHORE EAST"
         ],
         "address": [
-            "Address"
+            "333 EAST BENTON PL, SUITE 206"
         ],
         "link": [
             "https://goo.gl/maps/Gwa8pwADYxr"
@@ -489,13 +489,13 @@
         ],
         "start_time": "6:00 AM START",
         "inv_type": [
-            "INVENTORY TYPE"
+            "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "LOCATION"
+            "MARIANO'S #534 +RX, \nNEW CITY"
         ],
         "address": [
-            "Address"
+            "1500 N CLYBOURN AVE"
         ],
         "link": [
             "https://goo.gl/maps/jSfCth27mhJ2"
@@ -739,13 +739,13 @@
         ],
         "start_time": "6:00 AM START",
         "inv_type": [
-            "INVENTORY TYPE"
+            "DC5-FINANCIAL"
         ],
         "store_name": [
-            "LOCATION"
+            "FOX BROS PIGGLY WIGGLY #090, JACKSON"
         ],
         "address": [
-            "Address"
+            "W194 N16774 EAGLE DR"
         ],
         "link": [
             "https://goo.gl/maps/8bY4qRuqZNT2"
@@ -953,11 +953,11 @@
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "LOCATION",
+            "AURORA OUTPATIENT RX #1119, MENOMONEE FALLS",
             "AURORA OUTPATIENT RX #1143 MENOMONEE FALLS"
         ],
         "address": [
-            "Address",
+            "N93 W14575 WHITTAKER WAY",
             "N93 W14575 WHITTAKER WAY"
         ],
         "link": [
