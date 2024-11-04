@@ -957,25 +957,26 @@
         "meet_time": [
             "TIPP ST PARK AND RIDE"
         ],
-        "start_time": "ADDRESS TO THE MEET:\nW156N9277 TIPP ST, MENOMONEE FALLS, WI",
+        "start_time": "11:30 AM START",
         "inv_type": [
-            "11:30 AM START",
+            "DC5-ITEM LEVEL",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "DC5-ITEM LEVEL",
+            "AURORA OUTPATIENT RX #1119, MENOMONEE FALLS",
             "AURORA OUTPATIENT RX #1143 MENOMONEE FALLS"
         ],
         "address": [
-            "AURORA OUTPATIENT RX #1119, MENOMONEE FALLS",
+            "N93 W14575 WHITTAKER WAY",
             "N93 W14575 WHITTAKER WAY"
         ],
         "link": [
-            "N93 W14575 WHITTAKER WAY",
+            "https://goo.gl/maps/CLqauUgd2u12",
             "https://goo.gl/maps/AJgcVD6yx75Kq3yS6"
         ],
         "store_note": [
-            "https://goo.gl/maps/CLqauUgd2u12 <br><hr id=\"note_separator\">Area tickets are used here, Supv will need to arrive one hour early at 10:30 to post them",
+            "*ADDRESS TO THE MEET:\nW156N9277 TIPP ST, MENOMONEE FALLS, WI",
+            "Area tickets are used here, Supv will need to arrive one hour early at 10:30 to post them",
             "Make sure to bring folders for both sites - *notes* - Items over $1,000 count as tenths - Count big dollar sections 1st for auditing. <br><hr id=\"note_separator\">Make sure to tag each location when completed. Try to start large Drawer sections early - they take a lot of time.",
             "Need to go up a flight of stairs for this site"
         ],
