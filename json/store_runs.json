@@ -955,28 +955,27 @@
     {
         "date": "Fri, Nov 8",
         "meet_time": [
-            "11:00 REQUIRED MEET AT MENOMONEE FALLS PICK N SAVE"
+            "TIPP ST PARK AND RIDE"
         ],
-        "start_time": "11:30 AM START",
+        "start_time": "ADDRESS TO THE MEET:\nW156N9277 TIPP ST, MENOMONEE FALLS, WI",
         "inv_type": [
-            "DC5-ITEM LEVEL",
+            "11:30 AM START",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "AURORA OUTPATIENT RX #1119, MENOMONEE FALLS",
+            "DC5-ITEM LEVEL",
             "AURORA OUTPATIENT RX #1143 MENOMONEE FALLS"
         ],
         "address": [
-            "N93 W14575 WHITTAKER WAY",
+            "AURORA OUTPATIENT RX #1119, MENOMONEE FALLS",
             "N93 W14575 WHITTAKER WAY"
         ],
         "link": [
-            "https://goo.gl/maps/CLqauUgd2u12",
+            "N93 W14575 WHITTAKER WAY",
             "https://goo.gl/maps/AJgcVD6yx75Kq3yS6"
         ],
         "store_note": [
-            "*ADDRESS TO THE MEET:\nN77 W14435 APPLETON AVE, MENOMONEE FALLS",
-            "Area tickets are used here, Supv will need to arrive one hour early at 10:30 to post them",
+            "https://goo.gl/maps/CLqauUgd2u12 <br><hr id=\"note_separator\">Area tickets are used here, Supv will need to arrive one hour early at 10:30 to post them",
             "Make sure to bring folders for both sites - *notes* - Items over $1,000 count as tenths - Count big dollar sections 1st for auditing. <br><hr id=\"note_separator\">Make sure to tag each location when completed. Try to start large Drawer sections early - they take a lot of time.",
             "Need to go up a flight of stairs for this site"
         ],
