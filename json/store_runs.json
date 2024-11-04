@@ -416,43 +416,48 @@
                 "",
                 "none"
             ],
-            "Aivy": [
+            "Victor": [
                 "12)",
+                "1st Day, work w/ Michael",
+                "none"
+            ],
+            "Aivy": [
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Eva": [
-                "13)",
+                "14)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Lori": [
-                "14)",
+                "15)",
                 "@ Store",
                 "none"
             ],
             "Michael N": [
-                "15)",
-                "@ Store",
+                "16)",
+                "@ Store,\nTrainer",
                 "Rockford"
             ],
             "Qiana": [
-                "16)",
+                "17)",
                 "@ Store",
                 "none"
             ],
             "Sarah": [
-                "17)",
+                "18)",
                 "@ Store,\nSupv Rx",
                 "none"
             ],
             "Savannah": [
-                "18)",
+                "19)",
                 "@ Store",
                 "none"
             ],
             "Taylor": [
-                "19)",
+                "20)",
                 "@ Store",
                 "none"
             ]
@@ -673,23 +678,28 @@
                 "",
                 "none"
             ],
-            "Josie": [
+            "Victor": [
                 "14)",
-                "@ Store",
+                "2nd Day, work w/ Michael",
                 "none"
             ],
-            "Lori": [
+            "Josie": [
                 "15)",
                 "@ Store",
                 "none"
             ],
-            "Michael N": [
+            "Lori": [
                 "16)",
                 "@ Store",
+                "none"
+            ],
+            "Michael N": [
+                "17)",
+                "@ Store,\nTrainer",
                 "Rockford"
             ],
             "Qiana": [
-                "17)",
+                "18)",
                 "@ Store",
                 "none"
             ]
@@ -851,44 +861,49 @@
                 "",
                 "none"
             ],
-            "Anisha": [
+            "Victor": [
                 "10)",
-                "@ Store",
+                "3rd Day, work w/ Nate",
                 "none"
             ],
-            "Evelin": [
+            "Anisha": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Joseph": [
+            "Evelin": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Josh S": [
+            "Joseph": [
                 "13)",
+                "@ Store",
+                "none"
+            ],
+            "Josh S": [
+                "14)",
                 "@ Store",
                 "Rockford"
             ],
             "Justin Lee": [
-                "14)",
-                "@ Store",
-                "none"
-            ],
-            "Lorena": [
                 "15)",
                 "@ Store",
                 "none"
             ],
-            "Makeda": [
+            "Lorena": [
                 "16)",
                 "@ Store",
                 "none"
             ],
-            "Nate": [
+            "Makeda": [
                 "17)",
                 "@ Store",
+                "none"
+            ],
+            "Nate": [
+                "18)",
+                "@ Store,\nTrainer",
                 "none"
             ]
         }
