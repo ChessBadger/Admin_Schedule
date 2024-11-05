@@ -516,7 +516,7 @@
             ],
             "Ian": [
                 "3)",
-                "Driver,\nGold Camry",
+                "Driver,\nGold Camry,\nSupv Rx",
                 "none"
             ],
             "Jerry D": [
@@ -539,53 +539,48 @@
                 "@ Store",
                 "none"
             ],
-            "Ashley P": [
-                "8)",
-                "@ Store,\nSupv Rx",
-                "Rockford"
-            ],
             "Brianna": [
-                "9)",
+                "8)",
                 "@ Store",
                 "none"
             ],
             "Eva": [
-                "10)",
+                "9)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Evelin": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Joseph": [
-                "12)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Josh S": [
-                "13)",
+                "12)",
                 "@ Store",
                 "Rockford"
             ],
             "Justin Lee": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Kayla": [
-                "15)",
+                "14)",
                 "@ Store",
                 "none"
             ],
             "Lorena": [
-                "16)",
+                "15)",
                 "@ Store",
                 "none"
             ],
             "Makeda": [
-                "17)",
+                "16)",
                 "@ Store",
                 "none"
             ]
@@ -1403,11 +1398,6 @@
                 "19) ",
                 "@ Store",
                 "Rockford"
-            ],
-            "Qiana": [
-                "20)",
-                "@ Store",
-                "none"
             ]
         }
     },
