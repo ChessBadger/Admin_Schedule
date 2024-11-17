@@ -26,27 +26,27 @@
     },
     {
         "date": "Mon, Nov 18",
-        "meet_time": [
-            "6:30 AM MEET BAYSHORE"
-        ],
-        "start_time": "7:00 AM START",
+        "meet_time": [],
+        "start_time": "Lashaun",
         "inv_type": [
-            "DC5-ITEM LEVEL",
+            "6:30 AM MEET BAYSHORE",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "AURORA OUTPATIENT RX #1264, PORT WASHINGTON",
+            "7:00 AM START",
             "AURORA VISION #1167, PORT WASHINGTON"
         ],
         "address": [
-            "1475 W GRAND AVE",
+            "DC5-ITEM LEVEL",
             "1475 W GRAND AVE"
         ],
         "link": [
-            "https://goo.gl/maps/eMESBveZrkcjkpYJ8",
+            "AURORA OUTPATIENT RX #1264, PORT WASHINGTON",
             "https://goo.gl/maps/zCaBSLnNiNJz1Gyv5"
         ],
-        "store_note": [],
+        "store_note": [
+            "1475 W GRAND AVE <br><hr id=\"note_separator\">https://goo.gl/maps/eMESBveZrkcjkpYJ8"
+        ],
         "employee_list": {
             "DJ": [
                 "1)",
