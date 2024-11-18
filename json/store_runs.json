@@ -773,26 +773,21 @@
     {
         "date": "Thu, Nov 21",
         "meet_time": [],
-        "start_time": "2 AT WI AVE CAMPUS, 5 AT SPRING ST CAMPUS (NEED MINI POST IT NOTES)",
+        "start_time": "(NEED MINI POST IT NOTES)",
         "inv_type": [
-            "6:15 AM MEET RYAN RD PNR (HWY 100 & 94)",
-            "DC5-ITEM LEVEL"
+            "6:15 AM MEET RYAN RD PNR (HWY 100 & 94)"
         ],
         "store_name": [
-            "7:00 AM START",
-            "ASCENSION ALL SAINTS HOSP SPRING ST CAMPUS, RACINE"
+            "7:00 AM START"
         ],
         "address": [
-            "DC5-ITEM LEVEL",
-            "3801 SPRING ST"
+            "DC5-ITEM LEVEL"
         ],
         "link": [
-            "ENTER THRU SURGICAL CENTER",
-            "https://goo.gl/maps/PjumoiJbqD62"
+            "ASCENSION ALL SAINTS HOSP SPRING ST CAMPUS, RACINE"
         ],
         "store_note": [
-            "ASCENSION ALL SAINTS HOSP WI AVE CAMPUS, RACINE <br><hr id=\"note_separator\">1320 WISCONSIN AVE <br><hr id=\"note_separator\">https://goo.gl/maps/raiuDa4wRko <br><hr id=\"note_separator\">7:00 AM START",
-            "NO CELL RECEPTION AT THESE TWO LOCATIONS"
+            "3801 SPRING ST <br><hr id=\"note_separator\">https://goo.gl/maps/PjumoiJbqD62 <br><hr id=\"note_separator\">NO CELL RECEPTION AT THESE TWO LOCATIONS"
         ],
         "employee_list": {
             "": [
