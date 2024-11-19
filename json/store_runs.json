@@ -544,10 +544,10 @@
                 "Red Camry available, Equip",
                 "none"
             ],
-            "Carlie": [
+            "Jerry D": [
                 "2)",
                 "",
-                "none"
+                "Milwaukee"
             ]
         }
     },
@@ -582,10 +582,10 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Jerry D": [
+            "Ian": [
                 "2)",
                 "",
-                "Milwaukee"
+                "none"
             ]
         }
     },
@@ -614,7 +614,7 @@
                 "Optima available, Equip",
                 "none"
             ],
-            "Ian": [
+            "Carlie": [
                 "2)",
                 "",
                 "none"
@@ -1166,7 +1166,7 @@
             ],
             "Jerry D": [
                 "2)",
-                "1st Aurora",
+                "",
                 "Milwaukee"
             ]
         }
@@ -1394,7 +1394,7 @@
             ],
             "Jerry D": [
                 "2)",
-                "2nd Aurora",
+                "",
                 "Milwaukee"
             ]
         }
