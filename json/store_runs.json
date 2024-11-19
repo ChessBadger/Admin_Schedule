@@ -881,7 +881,7 @@
         ],
         "store_note": [],
         "employee_list": {
-            "Kim": [
+            "Ian": [
                 "1)",
                 "Red Van available, Equip",
                 "none"
@@ -986,38 +986,6 @@
             ],
             "Monica": [
                 "4)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Nov 22",
-        "meet_time": [],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "EXCEL FINANCIAL"
-        ],
-        "store_name": [
-            "CONTACT IS SINGH"
-        ],
-        "address": [
-            "DESI MARKET, MILWAUKEE"
-        ],
-        "link": [
-            "9807 W OKLAHOMA AVE"
-        ],
-        "store_note": [
-            "https://maps.app.goo.gl/ZHCFnFGyQ7eMXwRH7"
-        ],
-        "employee_list": {
-            "Ian": [
-                "1)",
-                "Gold Camry, available, Equip",
-                "none"
-            ],
-            "Curt": [
-                "2)",
                 "",
                 "none"
             ]
