@@ -692,7 +692,7 @@
         "employee_list": {
             "Ian": [
                 "1)",
-                "@ Store,\nGold Camry, Equip",
+                "@ Store,\nRed Van, Equip",
                 "none"
             ],
             "Michael N": [
@@ -797,7 +797,7 @@
             ],
             "Katherine": [
                 "1)",
-                "@ Store,\nOptima,\nSpring St (Take both your pc's) Cancer Cntr process",
+                "Meeting Kim @ Office\nSpring St (Take both your pc's) Cancer Cntr process",
                 "none"
             ],
             "Cynthia": [
@@ -807,7 +807,7 @@
             ],
             "Kim": [
                 "3)",
-                "Driver,\nRed Van",
+                "Driver,\nOptima",
                 "none"
             ],
             "Aivy": [
@@ -1120,7 +1120,7 @@
         "employee_list": {
             "Katherine": [
                 "1)",
-                "Gold Camry available, Equip",
+                "Red Camry available, Equip",
                 "none"
             ],
             "Cynthia": [
