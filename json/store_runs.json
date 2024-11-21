@@ -1116,20 +1116,62 @@
         "link": [
             "https://goo.gl/maps/tEp1me7ygtj"
         ],
-        "store_note": [],
+        "store_note": [
+            "Call Laura - to access building 262-470-0648 <br><hr id=\"note_separator\">Katherine <br><hr id=\"note_separator\">Cynthia <br><hr id=\"note_separator\">Monica"
+        ],
         "employee_list": {
-            "Katherine": [
-                "1)",
-                "Red Camry available, Equip",
-                "none"
-            ],
-            "Cynthia": [
-                "2)",
+            "": [
+                "",
                 "",
                 "none"
             ],
-            "Monica": [
-                "3)",
+            "5:30 AM MEET RYAN RD PNR (HWY 100 & 94)": [
+                "",
+                "",
+                "none"
+            ],
+            "6:00 AM START": [
+                "",
+                "",
+                "none"
+            ],
+            "DC5-ITEM LEVEL": [
+                "",
+                "",
+                "none"
+            ],
+            "AURORA OUTPATIENT RX #1150, KENOSHA": [
+                "",
+                "",
+                "none"
+            ],
+            "10400 75TH ST": [
+                "",
+                "",
+                "none"
+            ],
+            "https://goo.gl/maps/K5ZSZyLo7jH2": [
+                "",
+                "",
+                "none"
+            ],
+            "APPROX 9:30 AM START": [
+                "",
+                "",
+                "none"
+            ],
+            "AURORA VISION #1150, KENOSHA": [
+                "",
+                "",
+                "none"
+            ],
+            "6815 118TH AVE": [
+                "",
+                "",
+                "none"
+            ],
+            "https://goo.gl/maps/zRYCmicZWfv": [
+                "",
                 "",
                 "none"
             ]
@@ -1137,59 +1179,27 @@
     },
     {
         "date": "Mon, Nov 25",
-        "meet_time": [
-            "5:30 AM MEET RYAN RD PNR (HWY 100 & 94)"
-        ],
-        "start_time": "6:00 AM START",
+        "meet_time": [],
+        "start_time": "Lashaun",
         "inv_type": [
-            "DC5-ITEM LEVEL",
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "AURORA OUTPATIENT RX #1150, KENOSHA",
-            "AURORA VISION #1150, KENOSHA"
-        ],
-        "address": [
-            "10400 75TH ST",
-            "6815 118TH AVE"
-        ],
-        "link": [
-            "https://goo.gl/maps/K5ZSZyLo7jH2",
-            "https://goo.gl/maps/zRYCmicZWfv"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Lashaun": [
-                "1)",
-                "Driver,\nOptima, Equip",
-                "none"
-            ],
-            "Jerry D": [
-                "2)",
-                "",
-                "Milwaukee"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Nov 25",
-        "meet_time": [
-            "6:30 AM MEET OFFICE"
-        ],
-        "start_time": "7:00 AM START",
-        "inv_type": [
+            "Jerry D",
             "DC5-FINANCIAL"
         ],
         "store_name": [
+            "",
             "GAUGERT'S BUSS STOP, SULLIVAN"
         ],
         "address": [
+            "",
             "141 MAIN ST"
         ],
         "link": [
+            "6:30 AM MEET OFFICE",
             "https://goo.gl/maps/TEUfEX2J1AE2"
         ],
-        "store_note": [],
+        "store_note": [
+            "7:00 AM START"
+        ],
         "employee_list": {
             "Ian": [
                 "1)",
