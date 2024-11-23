@@ -311,8 +311,9 @@ if folders:
         if workbook:
             for process_col in process_columns:
 
+    
                 # Starting from row 8 in column B
-                min_row = 8
+                min_row = 6
                 current_state = 'searching'  # Initial state before setting any values
                 break_outer_loop = False  # Flag to control breaking out of the outer loop
                 header_value = sheet.cell(row=1, column=process_col - 1).value
