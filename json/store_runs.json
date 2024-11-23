@@ -687,20 +687,22 @@
     {
         "date": "Tue, Dec 3",
         "meet_time": [],
-        "start_time": "DC5-ITEM LEVEL",
+        "start_time": "6:00 AM START",
         "inv_type": [
-            "PICK #889 +RX, MENOMONEE FALLS"
+            "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "N77 W14435 APPLETON AVE"
+            "PICK #889 +RX, MENOMONEE FALLS"
         ],
         "address": [
-            "https://goo.gl/maps/DRPXRoV3zNE2"
+            "N77 W14435 APPLETON AVE"
         ],
         "link": [
+            "https://goo.gl/maps/DRPXRoV3zNE2"
+        ],
+        "store_note": [
             "SET UP ON REG #6"
         ],
-        "store_note": [],
         "employee_list": {
             "Brianna": [
                 "1)",
@@ -994,55 +996,28 @@
     {
         "date": "Wed, Dec 4",
         "meet_time": [],
-        "start_time": "EXCEL FINANCIAL",
+        "start_time": "7:00 AM START",
         "inv_type": [
-            "DAYBREAK, DELAFIELD"
+            "EXCEL FINANCIAL"
         ],
         "store_name": [
-            "622 GENESEE ST"
+            "DAYBREAK, DELAFIELD"
         ],
         "address": [
-            "https://goo.gl/maps/dNtyDnuiw6J2"
+            "622 GENESEE ST"
         ],
         "link": [
-            ""
+            "https://goo.gl/maps/dNtyDnuiw6J2"
         ],
-        "store_note": [
-            "Ian <br><hr id=\"note_separator\">Paul"
-        ],
+        "store_note": [],
         "employee_list": {
-            "": [
-                "",
-                "",
+            "Ian": [
+                "1)",
+                "Optima available, Equip",
                 "none"
             ],
-            "4:45 AM OFFICE MEET": [
-                "",
-                "",
-                "none"
-            ],
-            "6:00 AM START": [
-                "",
-                "",
-                "none"
-            ],
-            "DC5-ITEM LEVEL": [
-                "",
-                "",
-                "none"
-            ],
-            "METRO #180, SHOREWOOD HILLS-UNIVERSITY": [
-                "",
-                "",
-                "none"
-            ],
-            "3650 UNIVERSITY AVENUE": [
-                "",
-                "",
-                "none"
-            ],
-            "https://goo.gl/maps/BuM3RhBQEKw": [
-                "",
+            "Paul": [
+                "2)",
                 "",
                 "none"
             ]
@@ -1050,34 +1025,128 @@
     },
     {
         "date": "Wed, Dec 4",
-        "meet_time": [],
-        "start_time": "Sarah",
+        "meet_time": [
+            "4:45 AM OFFICE MEET"
+        ],
+        "start_time": "6:00 AM START",
         "inv_type": [
-            "Carlie"
+            "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "DJ"
+            "METRO #180, SHOREWOOD HILLS-UNIVERSITY"
         ],
         "address": [
-            "Jerry D"
+            "3650 UNIVERSITY AVENUE"
         ],
         "link": [
-            "Lexi"
+            "https://goo.gl/maps/BuM3RhBQEKw"
         ],
-        "store_note": [
-            "Stephanie <br><hr id=\"note_separator\">Aivy <br><hr id=\"note_separator\">Anisha <br><hr id=\"note_separator\">Brianna <br><hr id=\"note_separator\">Dan <br><hr id=\"note_separator\">Josh S <br><hr id=\"note_separator\">Josie <br><hr id=\"note_separator\">Justin Lee <br><hr id=\"note_separator\">Lori <br><hr id=\"note_separator\">Makeda <br><hr id=\"note_separator\">Savannah <br><hr id=\"note_separator\">Seth <br><hr id=\"note_separator\">Terri"
-        ],
+        "store_note": [],
         "employee_list": {
-            "": [
-                "",
+            "Sarah": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Carlie": [
+                "2)",
                 "",
                 "none"
             ],
-            "Office": [
-                "",
+            "DJ": [
+                "3)",
                 "",
                 "none"
             ],
+            "Jerry D": [
+                "4)",
+                "Driver,\nRed Van",
+                "Milwaukee"
+            ],
+            "Lexi": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Stephanie": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Aivy": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Anisha": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Brianna": [
+                "9)",
+                "@ Store",
+                "none"
+            ],
+            "Dan": [
+                "10)",
+                "@ Store",
+                "none"
+            ],
+            "Josh S": [
+                "11)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Josie": [
+                "12)",
+                "@ Store",
+                "none"
+            ],
+            "Justin Lee": [
+                "13)",
+                "@ Store",
+                "none"
+            ],
+            "Lori": [
+                "14)",
+                "@ Store",
+                "none"
+            ],
+            "Makeda": [
+                "15)",
+                "@ Store",
+                "none"
+            ],
+            "Savannah": [
+                "16)",
+                "@ Store",
+                "none"
+            ],
+            "Seth": [
+                "17)",
+                "@ Store",
+                "none"
+            ],
+            "Terri": [
+                "18)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Dec 4",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [
+            "Office"
+        ],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {
             "Kim": [
                 "",
                 "",
@@ -1085,7 +1154,7 @@
             ],
             "Lashaun": [
                 "",
-                "Until 1:00",
+                "",
                 "none"
             ]
         }
@@ -1093,20 +1162,22 @@
     {
         "date": "Thu, Dec 5",
         "meet_time": [],
-        "start_time": "DC5-ITEM LEVEL",
+        "start_time": "6:00 AM START",
         "inv_type": [
-            "PICK #846 +RX, WEST ALLIS - 108TH ST"
+            "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "2625 S 108TH ST"
+            "PICK #846 +RX, WEST ALLIS - 108TH ST"
         ],
         "address": [
-            "https://goo.gl/maps/BUUQissbQNk"
+            "2625 S 108TH ST"
         ],
         "link": [
+            "https://goo.gl/maps/BUUQissbQNk"
+        ],
+        "store_note": [
             "SET UP ON REG CLOSEST TO PICK UP DEPT"
         ],
-        "store_note": [],
         "employee_list": {
             "Kim": [
                 "1)",
@@ -1227,20 +1298,22 @@
     {
         "date": "Fri, Dec 6",
         "meet_time": [],
-        "start_time": "DC5-ITEM LEVEL",
+        "start_time": "6:00 AM START",
         "inv_type": [
-            "PICK #374, PEWAUKEE - CAPITOL DR"
+            "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "1405 CAPITOL DRIVE"
+            "PICK #374, PEWAUKEE - CAPITOL DR"
         ],
         "address": [
-            "https://goo.gl/maps/fM2WtjtDye32"
+            "1405 CAPITOL DRIVE"
         ],
         "link": [
+            "https://goo.gl/maps/fM2WtjtDye32"
+        ],
+        "store_note": [
             "SET UP ON REG #5"
         ],
-        "store_note": [],
         "employee_list": {
             "DJ": [
                 "1)",
