@@ -1040,6 +1040,2086 @@
         "employee_list": {}
     },
     {
+        "date": "Sun, Nov 17",
+        "meet_time": [],
+        "start_time": "No Kroger Pick N Save or Mariano stores can have inventories this week",
+        "inv_type": [
+            "due to the Thanksgiving Holiday coming up next week"
+        ],
+        "store_name": [
+            ""
+        ],
+        "address": [
+            ""
+        ],
+        "link": [
+            ""
+        ],
+        "store_note": [],
+        "employee_list": {
+            "": [
+                "",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Nov 18",
+        "meet_time": [],
+        "start_time": "Lashaun",
+        "inv_type": [
+            "6:30 AM MEET BAYSHORE",
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "7:00 AM START",
+            "AURORA VISION #1167, PORT WASHINGTON"
+        ],
+        "address": [
+            "DC5-ITEM LEVEL",
+            "1475 W GRAND AVE"
+        ],
+        "link": [
+            "AURORA OUTPATIENT RX #1264, PORT WASHINGTON",
+            "https://goo.gl/maps/zCaBSLnNiNJz1Gyv5"
+        ],
+        "store_note": [
+            "1475 W GRAND AVE <br><hr id=\"note_separator\">https://goo.gl/maps/eMESBveZrkcjkpYJ8"
+        ],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Driver,\nAltima, Equip",
+                "none"
+            ],
+            "Monica": [
+                "2)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Nov 18",
+        "meet_time": "5:30 AM OFFICE LEAVE TIME",
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1042, MANITOWOC"
+        ],
+        "address": [
+            "3509 DEWEY ST,  SUITE 100"
+        ],
+        "link": [
+            "https://goo.gl/maps/a6JdzRvBpKR2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Ian": [
+                "1)",
+                "Sante Fe,\nEquip",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Nov 18",
+        "meet_time": "5:00 AM OFFICE LEAVE TIME",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "ROTE OIL #03 TWIN LAKES",
+            "ROTE OIL #04 GENOA CITY",
+            "ROTE OIL #05  LAKE GENEVA"
+        ],
+        "address": [
+            "475 N LAKE AVE",
+            "100 ELIZABETH LANE",
+            "300 PELLER RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/jNgJR8hii6jJGZQP7",
+            "https://goo.gl/maps/DitGJzEvTVhJPxkJ8",
+            "https://goo.gl/maps/6fegzT1PbyY5VkDR6"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Jerry D": [
+                "2)",
+                "@ Store,\nOptima",
+                "Milwaukee"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Nov 18",
+        "meet_time": [
+            "6:30 AM MEET RYAN RD PNR (HWY 100 & 94)"
+        ],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "OPEN PANTRY #493, RACINE"
+        ],
+        "address": [
+            "3441 SPRING ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/8i7XHemjTpL2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Equip",
+                "none"
+            ],
+            "Carlie": [
+                "2)",
+                "Driver,\nWhite Camry",
+                "none"
+            ],
+            "Cynthia": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "4)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Nov 18",
+        "meet_time": [
+            "7:00 AM OFFICE MEET"
+        ],
+        "start_time": "8:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "WOLLER'S TRUE VALUE HARDWARE"
+        ],
+        "address": [
+            "455 E GENEVA ST, ELKHORN"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/jmxyo6xgZCqqFBsp9"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "Driver,\nRed Van, Equip",
+                "none"
+            ],
+            "Greg": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Justin Learned": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Lexi": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Sydney": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Evelin": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Joseph": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Lorena": [
+                "9)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Nov 18",
+        "meet_time": "5:45 AM OFFICE LEAVE TIME",
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "HARRY'S MOBIL, BELOIT - SHOPIERE",
+            "HARRY'S MOBIL, BELOIT-PARK"
+        ],
+        "address": [
+            "1902 SHOPIERE RD",
+            "1771 PARK AVENUE"
+        ],
+        "link": [
+            "https://goo.gl/maps/ENk9ERQQnFMmUtd77",
+            "https://goo.gl/maps/1TXLxcEZEMRAMkHL6"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Lashaun": [
+                "1)",
+                "@ Store,\nRed Camry, Equip",
+                "none"
+            ],
+            "Eva": [
+                "2)",
+                "@ Store",
+                "none"
+            ],
+            "Justin Lee": [
+                "3)",
+                "@ Store,\nTrain w/ Lashaun",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Nov 19",
+        "meet_time": [
+            "5:15 AM MEET BAYSHORE"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL",
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "DOORS WILL BE LOCKED BUT KELLY WILL MEET YOU AT NORTH ENTRANCE",
+            "AURORA VISION #1155, SHEBOYGAN"
+        ],
+        "address": [
+            "AURORA OUTPATIENT RX #1223, SHEBOYGAN",
+            "2414 KOHLER MEMORIAL DR"
+        ],
+        "link": [
+            "2414 KOHLER MEMORIAL DR",
+            "https://goo.gl/maps/ZjX4QR1pcB32"
+        ],
+        "store_note": [
+            "https://goo.gl/maps/j2hZ78wMHxk"
+        ],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Driver,\nAltima, Equip",
+                "none"
+            ],
+            "Carlie": [
+                "2)",
+                "@ Store",
+                "none"
+            ],
+            "Cynthia": [
+                "3)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Nov 19",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1012, CUDAHY"
+        ],
+        "address": [
+            "5900 S LAKE DRIVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/gJd9TeY5Upy"
+        ],
+        "store_note": [
+            "This is an ORG site with a different price file"
+        ],
+        "employee_list": {
+            "Lashaun": [
+                "1)",
+                "Red Camry available, Equip",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Nov 19",
+        "meet_time": [],
+        "start_time": "5:30 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL",
+            "EXCEL FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "ROTE OIL #6 HUBERTUS",
+            "ROTE OIL #7 MILWAUKEE",
+            "ROTE OIL #8 ELM GROVE",
+            "ROTE OIL #09 GREENFIELD"
+        ],
+        "address": [
+            "1306 HWY 175",
+            "5931 N 91ST ST",
+            "13395 WATERTOWN PLANK RD",
+            "12345 W LAYTON AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/SZRuQ4FHA1cX2ZmC8",
+            "https://goo.gl/maps/cw58s7atAhTAGHNd7",
+            "https://goo.gl/maps/5zXAKpcRHDmA17UK9",
+            "https://goo.gl/maps/TSgMUriHbJPX9hGE7"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Jerry D": [
+                "2)",
+                "",
+                "Milwaukee"
+            ],
+            "Sonia": [
+                "3)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Nov 19",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "OPEN PANTRY #614, MILWAUKEE"
+        ],
+        "address": [
+            "3100 S 76TH ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/fpg1rAd58h22"
+        ],
+        "store_note": [
+            "1st time as a scan for this site!"
+        ],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Optima available, Equip",
+                "none"
+            ],
+            "Curt": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Greg": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "4)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Nov 19",
+        "meet_time": "5:45 AM OFFICE LEAVE TIME",
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "HARRY'S MOBIL, BELOIT - RIVERSIDE",
+            "HARRY'S MOBIL, BELOIT - LIBERTY"
+        ],
+        "address": [
+            "2405 S RIVERSIDE",
+            "1407 LIBERTY AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/TYGRw8Jk6TJmec1V8",
+            "https://goo.gl/maps/bqynFZtDk9LorYqT6"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Ian": [
+                "1)",
+                "@ Store, Sante Fe, Equip",
+                "none"
+            ],
+            "Justin Lee": [
+                "2)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Nov 19",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [
+            "Office"
+        ],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Nov 20",
+        "meet_time": [
+            "5:00 AM MEET WATERTOWN PLANK"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL",
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1032 FOND DU LAC",
+            "AURORA VISION #1153, FOND DU LAC"
+        ],
+        "address": [
+            "210 WISCONSIN AMERICAN DR STE 24",
+            "210 WISCONSIN AMERICAN DR STE 230"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/7eYhgLDismavDcYj6",
+            "https://goo.gl/maps/oGZe6tQ8u5u"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Driver,\nAltima, Equip",
+                "none"
+            ],
+            "Monica": [
+                "2)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Nov 20",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1085 MILWAUKEE"
+        ],
+        "address": [
+            "945 N 12TH ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/ocvCohDG8tChEG7r9"
+        ],
+        "store_note": [
+            "PARK IN THE PARKING STRUCTURE AND ENTER THRU THE MAIN ENTRANCE <br><hr id=\"note_separator\">This is an ORG site with a different price file"
+        ],
+        "employee_list": {
+            "Lashaun": [
+                "1)",
+                "Red Camry available, Equip",
+                "none"
+            ],
+            "Jerry D": [
+                "2)",
+                "",
+                "Milwaukee"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Nov 20",
+        "meet_time": [],
+        "start_time": "5:30 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "ROTE OIL #10 MUKWONAGO - ROCHESTER",
+            "ROTE OIL #12 MUKWONAGO - (AMOCO) GREENWALD",
+            "ROTE OIL  #11 MUKWONAGO - (BP) ARROWHEAD"
+        ],
+        "address": [
+            "1060 N ROCHESTER ST",
+            "909 GREENWALD CT",
+            "122 ARROWHEAD DR"
+        ],
+        "link": [
+            "https://goo.gl/maps/dmvR5bTHLs1Cbjcr5",
+            "https://goo.gl/maps/ejQSLoz2D8EmzKVq6",
+            "https://goo.gl/maps/7XkTFZtDFDgGBctz7"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Ian": [
+                "2)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Nov 20",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "OPEN PANTRY #612, BROOKFIELD"
+        ],
+        "address": [
+            "17235 W BLUEMOUND RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/awRYbmypZ4H2"
+        ],
+        "store_note": [
+            "1st time as a scan for this site!"
+        ],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Optima available, Equip",
+                "none"
+            ],
+            "Carlie": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Lexi": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "4)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Nov 20",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL",
+            "DC5-ITEM LEVEL",
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "ASCENSION ELMBROOK HOSPITAL RX #1104",
+            "ASCENSION ST JOSEPH-MAYFAIR RX #1106, TOSA",
+            "ASCENSION AMG RAWSON AVE RX #1116, FRANKLIN"
+        ],
+        "address": [
+            "19333 W NORTH AVE  SUITE 390",
+            "201 N MAYFAIR RD",
+            "7400 W RAWSON AVE, SUITE 140"
+        ],
+        "link": [
+            "https://goo.gl/maps/HnZswssC8QL2",
+            "https://goo.gl/maps/efsuGG591Ms",
+            "https://goo.gl/maps/JDSt1uteEWoVQ3wg8"
+        ],
+        "store_note": [
+            "GO IN THROUGH EMERG ENTRANCE FOR ELMBROOK",
+            "ENTER NEAR THE PARKING GARAGE FOR MAYFAIR"
+        ],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "Red Van available, Equip",
+                "none"
+            ],
+            "Cynthia": [
+                "2)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Nov 21",
+        "meet_time": "5:15 AM OFFICE LEAVE TIME",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1145 ELKHORN"
+        ],
+        "address": [
+            "W3985 COUNTY ROAD NN"
+        ],
+        "link": [
+            "https://goo.gl/maps/DNeRzd2PfnuGBCUo6"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Ian": [
+                "1)",
+                "@ Store,\nRed Van, Equip",
+                "none"
+            ],
+            "Michael N": [
+                "2)",
+                "@ Store",
+                "Rockford"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Nov 21",
+        "meet_time": [
+            "4:15 AM MEET AT SLINGER PIGGLY WIGGLY"
+        ],
+        "start_time": "Pig address:\n1100 E Commerce Blvd, Slinger",
+        "inv_type": [
+            "6:00 AM START"
+        ],
+        "store_name": [
+            "DC5-ITEM LEVEL"
+        ],
+        "address": [
+            "AURORA OUTPATIENT RX #1300 WAUTOMA"
+        ],
+        "link": [
+            "900 E DIVISION ST"
+        ],
+        "store_note": [
+            "https://goo.gl/maps/JhUR6bvog6YmBrm48 <br><hr id=\"note_separator\">NEED SCANNER HOODS FOR THIS STORE"
+        ],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Driver,\nAltima, Equip",
+                "none"
+            ],
+            "Carlie": [
+                "2)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Nov 21",
+        "meet_time": "5:00 AM OFFICE LEAVE TIME",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "ROTE OIL #1 PADDOCK LAKE- BRASS BALL",
+            "ROTE OIL #2 PADDOCK LAKE- 75TH ST"
+        ],
+        "address": [
+            "25406 75TH ST",
+            "25555 75TH ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/LTa4ckcczx5qc8269",
+            "https://goo.gl/maps/5UyWWXXbzXMaVnv99"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Jerry D": [
+                "2)",
+                "@ Store,\nSante Fe",
+                "Milwaukee"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Nov 21",
+        "meet_time": [],
+        "start_time": "(NEED MINI POST IT NOTES)",
+        "inv_type": [
+            "6:15 AM MEET RYAN RD PNR (HWY 100 & 94)"
+        ],
+        "store_name": [
+            "7:00 AM START"
+        ],
+        "address": [
+            "DC5-ITEM LEVEL"
+        ],
+        "link": [
+            "ASCENSION ALL SAINTS HOSP SPRING ST CAMPUS, RACINE"
+        ],
+        "store_note": [
+            "3801 SPRING ST <br><hr id=\"note_separator\">https://goo.gl/maps/PjumoiJbqD62 <br><hr id=\"note_separator\">NO CELL RECEPTION AT THESE TWO LOCATIONS"
+        ],
+        "employee_list": {
+            "": [
+                "",
+                "",
+                "none"
+            ],
+            "Katherine": [
+                "1)",
+                "Meeting Kim @ Office\nSpring St (Take both your pc's) Cancer Cntr process",
+                "none"
+            ],
+            "Cynthia": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Kim": [
+                "3)",
+                "Driver,\nOptima",
+                "none"
+            ],
+            "Aivy": [
+                "4)",
+                "@ Store",
+                "none"
+            ],
+            "Sarah": [
+                "5)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Nov 21",
+        "meet_time": [
+            "5:45 AM OFFICE MEET"
+        ],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "HARRY'S MARATHON, BELOIT",
+            "HARRY'S CITGO, BELOIT"
+        ],
+        "address": [
+            "2760 PRAIRIE AVE",
+            "1888 SHOPIERE RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/oWwbVkmjDjHGEoNr5",
+            "https://goo.gl/maps/unBzKKpt6UgbiniP6"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Lashaun": [
+                "1)",
+                "Driver,\nRed Camry, Equip",
+                "none"
+            ],
+            "Sonia": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Justin Lee": [
+                "3)",
+                "@ Store,\nTrain w/ Lashaun",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Nov 22",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1067, HARTLAND"
+        ],
+        "address": [
+            "600 WALNUT RIDGE DR"
+        ],
+        "link": [
+            "https://goo.gl/maps/sZu3Qrsu6zC2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Ian": [
+                "1)",
+                "Red Van available, Equip",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Nov 22",
+        "meet_time": [],
+        "start_time": "8:30 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA VISION #1171, CALEDONIA"
+        ],
+        "address": [
+            "5333 DOUGLAS AVE"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/5RuWP2LTzc14c9Ut7"
+        ],
+        "store_note": [
+            "*NEW LOCATION"
+        ],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Equip",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Nov 22",
+        "meet_time": "5:00 AM OFFICE LEAVE TIME",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "ROTE OIL #14 TREVOR (CITGO)",
+            "ROTE OIL #13 TREVOR (BP)"
+        ],
+        "address": [
+            "12617 ANTIOCH RD",
+            "12511 ANTIOCH RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/xA9YMzPGc6Vhxi5r8",
+            "https://goo.gl/maps/iu3xzNwgJ32esP5RA"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Jerry D": [
+                "2)",
+                "@ Store,\nSante Fe",
+                "Milwaukee"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Nov 22",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "OPEN PANTRY #605, BAYSIDE"
+        ],
+        "address": [
+            "501 W BROWN DEER RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/pQaSRAn88Vh6DAQ58"
+        ],
+        "store_note": [
+            "1st time as a scan for this site!"
+        ],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Optima available, Equip",
+                "none"
+            ],
+            "Cynthia": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Greg": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Monica": [
+                "4)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Nov 22",
+        "meet_time": [
+            "5:45 AM MEET AT OFFICE"
+        ],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "HARRY'S MADISON RD MART (CITGO), BELOIT"
+        ],
+        "address": [
+            "1343 S  MADISON RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/6ffuuVmu3W1yc8UYA"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Lashaun": [
+                "1)",
+                "Driver,\nRed Camry, Equip",
+                "none"
+            ],
+            "Lexi": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "3)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Sat, Nov 23",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {}
+    },
+    {
+        "date": "Sun, Nov 17",
+        "meet_time": [],
+        "start_time": "No Kroger Pick N Save or Mariano stores can have inventories this week",
+        "inv_type": [
+            "due to the Thanksgiving Holiday coming up next week"
+        ],
+        "store_name": [
+            ""
+        ],
+        "address": [
+            ""
+        ],
+        "link": [
+            ""
+        ],
+        "store_note": [],
+        "employee_list": {
+            "": [
+                "",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Nov 18",
+        "meet_time": [],
+        "start_time": "Lashaun",
+        "inv_type": [
+            "6:30 AM MEET BAYSHORE",
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "7:00 AM START",
+            "AURORA VISION #1167, PORT WASHINGTON"
+        ],
+        "address": [
+            "DC5-ITEM LEVEL",
+            "1475 W GRAND AVE"
+        ],
+        "link": [
+            "AURORA OUTPATIENT RX #1264, PORT WASHINGTON",
+            "https://goo.gl/maps/zCaBSLnNiNJz1Gyv5"
+        ],
+        "store_note": [
+            "1475 W GRAND AVE <br><hr id=\"note_separator\">https://goo.gl/maps/eMESBveZrkcjkpYJ8"
+        ],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Driver,\nAltima, Equip",
+                "none"
+            ],
+            "Monica": [
+                "2)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Nov 18",
+        "meet_time": "5:30 AM OFFICE LEAVE TIME",
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1042, MANITOWOC"
+        ],
+        "address": [
+            "3509 DEWEY ST,  SUITE 100"
+        ],
+        "link": [
+            "https://goo.gl/maps/a6JdzRvBpKR2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Ian": [
+                "1)",
+                "Sante Fe,\nEquip",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Nov 18",
+        "meet_time": "5:00 AM OFFICE LEAVE TIME",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "ROTE OIL #03 TWIN LAKES",
+            "ROTE OIL #04 GENOA CITY",
+            "ROTE OIL #05  LAKE GENEVA"
+        ],
+        "address": [
+            "475 N LAKE AVE",
+            "100 ELIZABETH LANE",
+            "300 PELLER RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/jNgJR8hii6jJGZQP7",
+            "https://goo.gl/maps/DitGJzEvTVhJPxkJ8",
+            "https://goo.gl/maps/6fegzT1PbyY5VkDR6"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Jerry D": [
+                "2)",
+                "@ Store,\nOptima",
+                "Milwaukee"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Nov 18",
+        "meet_time": [
+            "6:30 AM MEET RYAN RD PNR (HWY 100 & 94)"
+        ],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "OPEN PANTRY #493, RACINE"
+        ],
+        "address": [
+            "3441 SPRING ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/8i7XHemjTpL2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Equip",
+                "none"
+            ],
+            "Carlie": [
+                "2)",
+                "Driver,\nWhite Camry",
+                "none"
+            ],
+            "Cynthia": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "4)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Nov 18",
+        "meet_time": [
+            "7:00 AM OFFICE MEET"
+        ],
+        "start_time": "8:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "WOLLER'S TRUE VALUE HARDWARE"
+        ],
+        "address": [
+            "455 E GENEVA ST, ELKHORN"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/jmxyo6xgZCqqFBsp9"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "Driver,\nRed Van, Equip",
+                "none"
+            ],
+            "Greg": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Justin Learned": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Lexi": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Sydney": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Evelin": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Joseph": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Lorena": [
+                "9)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Nov 18",
+        "meet_time": "5:45 AM OFFICE LEAVE TIME",
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "HARRY'S MOBIL, BELOIT - SHOPIERE",
+            "HARRY'S MOBIL, BELOIT-PARK"
+        ],
+        "address": [
+            "1902 SHOPIERE RD",
+            "1771 PARK AVENUE"
+        ],
+        "link": [
+            "https://goo.gl/maps/ENk9ERQQnFMmUtd77",
+            "https://goo.gl/maps/1TXLxcEZEMRAMkHL6"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Lashaun": [
+                "1)",
+                "@ Store,\nRed Camry, Equip",
+                "none"
+            ],
+            "Eva": [
+                "2)",
+                "@ Store",
+                "none"
+            ],
+            "Justin Lee": [
+                "3)",
+                "@ Store,\nTrain w/ Lashaun",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Nov 19",
+        "meet_time": [
+            "5:15 AM MEET BAYSHORE"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL",
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "DOORS WILL BE LOCKED BUT KELLY WILL MEET YOU AT NORTH ENTRANCE",
+            "AURORA VISION #1155, SHEBOYGAN"
+        ],
+        "address": [
+            "AURORA OUTPATIENT RX #1223, SHEBOYGAN",
+            "2414 KOHLER MEMORIAL DR"
+        ],
+        "link": [
+            "2414 KOHLER MEMORIAL DR",
+            "https://goo.gl/maps/ZjX4QR1pcB32"
+        ],
+        "store_note": [
+            "https://goo.gl/maps/j2hZ78wMHxk"
+        ],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Driver,\nAltima, Equip",
+                "none"
+            ],
+            "Carlie": [
+                "2)",
+                "@ Store",
+                "none"
+            ],
+            "Cynthia": [
+                "3)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Nov 19",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1012, CUDAHY"
+        ],
+        "address": [
+            "5900 S LAKE DRIVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/gJd9TeY5Upy"
+        ],
+        "store_note": [
+            "This is an ORG site with a different price file"
+        ],
+        "employee_list": {
+            "Lashaun": [
+                "1)",
+                "Red Camry available, Equip",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Nov 19",
+        "meet_time": [],
+        "start_time": "5:30 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL",
+            "EXCEL FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "ROTE OIL #6 HUBERTUS",
+            "ROTE OIL #7 MILWAUKEE",
+            "ROTE OIL #8 ELM GROVE",
+            "ROTE OIL #09 GREENFIELD"
+        ],
+        "address": [
+            "1306 HWY 175",
+            "5931 N 91ST ST",
+            "13395 WATERTOWN PLANK RD",
+            "12345 W LAYTON AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/SZRuQ4FHA1cX2ZmC8",
+            "https://goo.gl/maps/cw58s7atAhTAGHNd7",
+            "https://goo.gl/maps/5zXAKpcRHDmA17UK9",
+            "https://goo.gl/maps/TSgMUriHbJPX9hGE7"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Jerry D": [
+                "2)",
+                "",
+                "Milwaukee"
+            ],
+            "Sonia": [
+                "3)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Nov 19",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "OPEN PANTRY #614, MILWAUKEE"
+        ],
+        "address": [
+            "3100 S 76TH ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/fpg1rAd58h22"
+        ],
+        "store_note": [
+            "1st time as a scan for this site!"
+        ],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Optima available, Equip",
+                "none"
+            ],
+            "Curt": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Greg": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "4)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Nov 19",
+        "meet_time": "5:45 AM OFFICE LEAVE TIME",
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "HARRY'S MOBIL, BELOIT - RIVERSIDE",
+            "HARRY'S MOBIL, BELOIT - LIBERTY"
+        ],
+        "address": [
+            "2405 S RIVERSIDE",
+            "1407 LIBERTY AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/TYGRw8Jk6TJmec1V8",
+            "https://goo.gl/maps/bqynFZtDk9LorYqT6"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Ian": [
+                "1)",
+                "@ Store, Sante Fe, Equip",
+                "none"
+            ],
+            "Justin Lee": [
+                "2)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Nov 19",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [
+            "Office"
+        ],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Nov 20",
+        "meet_time": [
+            "5:00 AM MEET WATERTOWN PLANK"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL",
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1032 FOND DU LAC",
+            "AURORA VISION #1153, FOND DU LAC"
+        ],
+        "address": [
+            "210 WISCONSIN AMERICAN DR STE 24",
+            "210 WISCONSIN AMERICAN DR STE 230"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/7eYhgLDismavDcYj6",
+            "https://goo.gl/maps/oGZe6tQ8u5u"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Driver,\nAltima, Equip",
+                "none"
+            ],
+            "Monica": [
+                "2)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Nov 20",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1085 MILWAUKEE"
+        ],
+        "address": [
+            "945 N 12TH ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/ocvCohDG8tChEG7r9"
+        ],
+        "store_note": [
+            "PARK IN THE PARKING STRUCTURE AND ENTER THRU THE MAIN ENTRANCE <br><hr id=\"note_separator\">This is an ORG site with a different price file"
+        ],
+        "employee_list": {
+            "Lashaun": [
+                "1)",
+                "Red Camry available, Equip",
+                "none"
+            ],
+            "Jerry D": [
+                "2)",
+                "",
+                "Milwaukee"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Nov 20",
+        "meet_time": [],
+        "start_time": "5:30 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "ROTE OIL #10 MUKWONAGO - ROCHESTER",
+            "ROTE OIL #12 MUKWONAGO - (AMOCO) GREENWALD",
+            "ROTE OIL  #11 MUKWONAGO - (BP) ARROWHEAD"
+        ],
+        "address": [
+            "1060 N ROCHESTER ST",
+            "909 GREENWALD CT",
+            "122 ARROWHEAD DR"
+        ],
+        "link": [
+            "https://goo.gl/maps/dmvR5bTHLs1Cbjcr5",
+            "https://goo.gl/maps/ejQSLoz2D8EmzKVq6",
+            "https://goo.gl/maps/7XkTFZtDFDgGBctz7"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Ian": [
+                "2)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Nov 20",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "OPEN PANTRY #612, BROOKFIELD"
+        ],
+        "address": [
+            "17235 W BLUEMOUND RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/awRYbmypZ4H2"
+        ],
+        "store_note": [
+            "1st time as a scan for this site!"
+        ],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Optima available, Equip",
+                "none"
+            ],
+            "Carlie": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Lexi": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "4)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Nov 20",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL",
+            "DC5-ITEM LEVEL",
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "ASCENSION ELMBROOK HOSPITAL RX #1104",
+            "ASCENSION ST JOSEPH-MAYFAIR RX #1106, TOSA",
+            "ASCENSION AMG RAWSON AVE RX #1116, FRANKLIN"
+        ],
+        "address": [
+            "19333 W NORTH AVE  SUITE 390",
+            "201 N MAYFAIR RD",
+            "7400 W RAWSON AVE, SUITE 140"
+        ],
+        "link": [
+            "https://goo.gl/maps/HnZswssC8QL2",
+            "https://goo.gl/maps/efsuGG591Ms",
+            "https://goo.gl/maps/JDSt1uteEWoVQ3wg8"
+        ],
+        "store_note": [
+            "GO IN THROUGH EMERG ENTRANCE FOR ELMBROOK",
+            "ENTER NEAR THE PARKING GARAGE FOR MAYFAIR"
+        ],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "Red Van available, Equip",
+                "none"
+            ],
+            "Cynthia": [
+                "2)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Nov 21",
+        "meet_time": "5:15 AM OFFICE LEAVE TIME",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1145 ELKHORN"
+        ],
+        "address": [
+            "W3985 COUNTY ROAD NN"
+        ],
+        "link": [
+            "https://goo.gl/maps/DNeRzd2PfnuGBCUo6"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Ian": [
+                "1)",
+                "@ Store,\nRed Van, Equip",
+                "none"
+            ],
+            "Michael N": [
+                "2)",
+                "@ Store",
+                "Rockford"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Nov 21",
+        "meet_time": [
+            "4:15 AM MEET AT SLINGER PIGGLY WIGGLY"
+        ],
+        "start_time": "Pig address:\n1100 E Commerce Blvd, Slinger",
+        "inv_type": [
+            "6:00 AM START"
+        ],
+        "store_name": [
+            "DC5-ITEM LEVEL"
+        ],
+        "address": [
+            "AURORA OUTPATIENT RX #1300 WAUTOMA"
+        ],
+        "link": [
+            "900 E DIVISION ST"
+        ],
+        "store_note": [
+            "https://goo.gl/maps/JhUR6bvog6YmBrm48 <br><hr id=\"note_separator\">NEED SCANNER HOODS FOR THIS STORE"
+        ],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Driver,\nAltima, Equip",
+                "none"
+            ],
+            "Carlie": [
+                "2)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Nov 21",
+        "meet_time": "5:00 AM OFFICE LEAVE TIME",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "ROTE OIL #1 PADDOCK LAKE- BRASS BALL",
+            "ROTE OIL #2 PADDOCK LAKE- 75TH ST"
+        ],
+        "address": [
+            "25406 75TH ST",
+            "25555 75TH ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/LTa4ckcczx5qc8269",
+            "https://goo.gl/maps/5UyWWXXbzXMaVnv99"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Jerry D": [
+                "2)",
+                "@ Store,\nSante Fe",
+                "Milwaukee"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Nov 21",
+        "meet_time": [],
+        "start_time": "(NEED MINI POST IT NOTES)",
+        "inv_type": [
+            "6:15 AM MEET RYAN RD PNR (HWY 100 & 94)"
+        ],
+        "store_name": [
+            "7:00 AM START"
+        ],
+        "address": [
+            "DC5-ITEM LEVEL"
+        ],
+        "link": [
+            "ASCENSION ALL SAINTS HOSP SPRING ST CAMPUS, RACINE"
+        ],
+        "store_note": [
+            "3801 SPRING ST <br><hr id=\"note_separator\">https://goo.gl/maps/PjumoiJbqD62 <br><hr id=\"note_separator\">NO CELL RECEPTION AT THESE TWO LOCATIONS"
+        ],
+        "employee_list": {
+            "": [
+                "",
+                "",
+                "none"
+            ],
+            "Katherine": [
+                "1)",
+                "Meeting Kim @ Office\nSpring St (Take both your pc's) Cancer Cntr process",
+                "none"
+            ],
+            "Cynthia": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Kim": [
+                "3)",
+                "Driver,\nOptima",
+                "none"
+            ],
+            "Aivy": [
+                "4)",
+                "@ Store",
+                "none"
+            ],
+            "Sarah": [
+                "5)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Nov 21",
+        "meet_time": [
+            "5:45 AM OFFICE MEET"
+        ],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "HARRY'S MARATHON, BELOIT",
+            "HARRY'S CITGO, BELOIT"
+        ],
+        "address": [
+            "2760 PRAIRIE AVE",
+            "1888 SHOPIERE RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/oWwbVkmjDjHGEoNr5",
+            "https://goo.gl/maps/unBzKKpt6UgbiniP6"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Lashaun": [
+                "1)",
+                "Driver,\nRed Camry, Equip",
+                "none"
+            ],
+            "Sonia": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Justin Lee": [
+                "3)",
+                "@ Store,\nTrain w/ Lashaun",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Nov 22",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1067, HARTLAND"
+        ],
+        "address": [
+            "600 WALNUT RIDGE DR"
+        ],
+        "link": [
+            "https://goo.gl/maps/sZu3Qrsu6zC2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Ian": [
+                "1)",
+                "Red Van available, Equip",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Nov 22",
+        "meet_time": [],
+        "start_time": "8:30 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA VISION #1171, CALEDONIA"
+        ],
+        "address": [
+            "5333 DOUGLAS AVE"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/5RuWP2LTzc14c9Ut7"
+        ],
+        "store_note": [
+            "*NEW LOCATION"
+        ],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Equip",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Nov 22",
+        "meet_time": "5:00 AM OFFICE LEAVE TIME",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "ROTE OIL #14 TREVOR (CITGO)",
+            "ROTE OIL #13 TREVOR (BP)"
+        ],
+        "address": [
+            "12617 ANTIOCH RD",
+            "12511 ANTIOCH RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/xA9YMzPGc6Vhxi5r8",
+            "https://goo.gl/maps/iu3xzNwgJ32esP5RA"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Jerry D": [
+                "2)",
+                "@ Store,\nSante Fe",
+                "Milwaukee"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Nov 22",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "OPEN PANTRY #605, BAYSIDE"
+        ],
+        "address": [
+            "501 W BROWN DEER RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/pQaSRAn88Vh6DAQ58"
+        ],
+        "store_note": [
+            "1st time as a scan for this site!"
+        ],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Optima available, Equip",
+                "none"
+            ],
+            "Cynthia": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Greg": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Monica": [
+                "4)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Nov 22",
+        "meet_time": [
+            "5:45 AM MEET AT OFFICE"
+        ],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "HARRY'S MADISON RD MART (CITGO), BELOIT"
+        ],
+        "address": [
+            "1343 S  MADISON RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/6ffuuVmu3W1yc8UYA"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Lashaun": [
+                "1)",
+                "Driver,\nRed Camry, Equip",
+                "none"
+            ],
+            "Lexi": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "3)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Sat, Nov 23",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {}
+    },
+    {
         "date": "Sun, Nov 24",
         "meet_time": [],
         "start_time": "No Kroger Pick N Save or Mariano stores can have inventories this week",
