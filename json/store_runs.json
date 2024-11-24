@@ -299,23 +299,23 @@
     },
     {
         "date": "Tue, Nov 26",
-        "meet_time": [
-            "8:00 AM MEET WATERTOWN PLANK"
-        ],
-        "start_time": "8:30 AM START",
+        "meet_time": [],
+        "start_time": "Katherine",
         "inv_type": [
-            "DC5-ITEM LEVEL"
+            ""
         ],
         "store_name": [
-            "AURORA VISION #1152, HARTFORD"
+            "8:00 AM MEET WATERTOWN PLANK"
         ],
         "address": [
-            "1640 E SUMNER ST"
+            "8:30 AM START"
         ],
         "link": [
-            "https://goo.gl/maps/umuyQZyC8FT2"
+            "DC5-ITEM LEVEL"
         ],
-        "store_note": [],
+        "store_note": [
+            "AURORA VISION #1152, HARTFORD <br><hr id=\"note_separator\">1640 E SUMNER ST <br><hr id=\"note_separator\">https://goo.gl/maps/umuyQZyC8FT2"
+        ],
         "employee_list": {
             "Lashaun": [
                 "1)",
