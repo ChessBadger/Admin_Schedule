@@ -1214,59 +1214,84 @@
                 "",
                 "none"
             ],
-            "Katherine": [
+            "Lexi": [
                 "9)",
                 "",
                 "none"
             ],
-            "Lexi": [
+            "Leyna": [
                 "10)",
                 "",
                 "none"
             ],
-            "Leyna": [
+            "Monica": [
                 "11)",
                 "",
                 "none"
             ],
-            "Monica": [
+            "Paul": [
                 "12)",
                 "",
                 "none"
             ],
-            "Paul": [
+            "Sonia": [
                 "13)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Sydney": [
                 "14)",
                 "",
                 "none"
             ],
-            "Sue": [
+            "Victor": [
                 "15)",
                 "",
                 "none"
             ],
-            "Sydney": [
-                "16)",
-                "",
-                "none"
-            ],
-            "Victor": [
-                "17)",
-                "",
-                "none"
-            ],
             "Angela": [
-                "18)",
+                "16)",
+                "@ Store",
+                "none"
+            ],
+            "Jeremiah": [
+                "17)",
                 "@ Store",
                 "none"
             ],
             "Justin Lee": [
-                "19)",
+                "18)",
                 "@ Store,\nRx, Train w/ Ian",
+                "none"
+            ],
+            "Katie": [
+                "19)",
+                "@ Store",
+                "none"
+            ],
+            "Kirsten": [
+                "20)",
+                "@ Store",
+                "none"
+            ],
+            "Lena": [
+                "21)",
+                "@ Store",
+                "none"
+            ],
+            "Mai": [
+                "22)",
+                "@ Store",
+                "none"
+            ],
+            "Marcia": [
+                "23)",
+                "@ Store",
+                "none"
+            ],
+            "Serena": [
+                "24)",
+                "@ Store",
                 "none"
             ]
         }
