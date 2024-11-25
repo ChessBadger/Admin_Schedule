@@ -488,23 +488,23 @@
     },
     {
         "date": "Mon, Dec 2",
-        "meet_time": [
-            "5:30 AM MEET RYAN RD PNR (HWY 100 & 94)"
-        ],
-        "start_time": "6:00 AM START",
+        "meet_time": [],
+        "start_time": "Katherine",
         "inv_type": [
-            "DC5-FINANCIAL"
+            ""
         ],
         "store_name": [
-            "PIGGLY WIGGLY #355, RACINE"
+            "5:30 AM MEET RYAN RD PNR (HWY 100 & 94)"
         ],
         "address": [
-            "3900 ERIE ST"
+            "6:00 AM START"
         ],
         "link": [
-            "https://goo.gl/maps/pSDNmBRxXrQ2"
+            "DC5-FINANCIAL"
         ],
-        "store_note": [],
+        "store_note": [
+            "PIGGLY WIGGLY #355, RACINE <br><hr id=\"note_separator\">3900 ERIE ST <br><hr id=\"note_separator\">https://goo.gl/maps/pSDNmBRxXrQ2"
+        ],
         "employee_list": {
             "DJ": [
                 "1)",
