@@ -1116,24 +1116,22 @@
     {
         "date": "Mon, Dec 9",
         "meet_time": [
-            "EVERYONE MUST USE THE MEET EVEN THOUGH IT'S LOCAL - RX IS HARD TO FIND IN HOSPITAL"
+            "7:45 AM MEET WATERTOWN PLANK"
         ],
-        "start_time": "7:45 AM MEET WATERTOWN PLANK",
+        "start_time": "8:00 AM START",
         "inv_type": [
-            "8:00 AM START"
-        ],
-        "store_name": [
             "DC5-ITEM LEVEL"
         ],
-        "address": [
+        "store_name": [
             "CHILDREN'S HOSPITAL OF WI, MILWAUKEE"
         ],
-        "link": [
+        "address": [
             "9000 W WISCONSIN AVE"
         ],
-        "store_note": [
+        "link": [
             "https://goo.gl/maps/xKN8zVikPpP2"
         ],
+        "store_note": [],
         "employee_list": {
             "Kim": [
                 "1)",
