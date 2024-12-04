@@ -1162,31 +1162,25 @@
     },
     {
         "date": "Mon, Dec 9",
-        "meet_time": [
-            "5:00 AM MEET RYAN RD PNR (HWY 100 & 94)"
-        ],
-        "start_time": "6:00 AM START",
+        "meet_time": [],
+        "start_time": "8:00 AM START",
         "inv_type": [
-            "EXCEL FINANCIAL",
-            "EXCEL FINANCIAL"
+            "DC5-FINANCIAL"
         ],
         "store_name": [
-            "MARATHON - LAKE VILLA",
-            "MARATHON - ANTIOCH"
+            "ANDY LIQUOR STORE - MUKWONAGO"
         ],
         "address": [
-            "36809 NORTH ROUTE 83",
-            "24480 W GRASS LAKE RD"
+            "411 MAIN ST"
         ],
         "link": [
-            "https://maps.app.goo.gl/AFwDzGXuiYz3oZbS9",
-            "https://maps.app.goo.gl/DqdxWMC8Zv9Rysoa7"
+            "https://maps.app.goo.gl/PrnTLtbRXx7W2zQg8"
         ],
         "store_note": [],
         "employee_list": {
             "Ian": [
                 "1)",
-                "Driver,\nOptima, Equip",
+                "Optima available, Equip",
                 "none"
             ],
             "Paul": [
