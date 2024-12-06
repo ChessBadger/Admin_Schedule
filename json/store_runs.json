@@ -1391,79 +1391,106 @@
                 "",
                 "none"
             ],
-            "Katherine": [
+            "Lexi": [
                 "3)",
                 "",
                 "none"
             ],
-            "Lexi": [
+            "Leyna": [
                 "4)",
                 "",
                 "none"
             ],
-            "Leyna": [
+            "Paul": [
                 "5)",
                 "",
                 "none"
             ],
-            "Paul": [
+            "Sonia": [
                 "6)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Sydney": [
                 "7)",
                 "",
                 "none"
             ],
-            "Sydney": [
+            "Victor": [
                 "8)",
                 "",
                 "none"
             ],
-            "Victor": [
-                "9)",
-                "",
-                "none"
-            ],
             "Anisha": [
-                "10)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Evelin": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Joseph": [
-                "12)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Josh S": [
-                "13)",
+                "12)",
                 "@ Store",
                 "Rockford"
             ],
             "Justin Lee": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Makeda": [
-                "15)",
+                "14)",
                 "@ Store",
                 "none"
             ],
             "MIchael N": [
-                "16)",
+                "15)",
                 "@ Store",
                 "Rockford"
             ],
             "Nate": [
-                "17)",
+                "16)",
                 "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Dec 11",
+        "meet_time": [
+            "6:00 AM OFFICE MEET"
+        ],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "AYRA'S LIQUOR & CIGAR - KENOSHA"
+        ],
+        "address": [
+            "1900 22ND AVE"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/d27we3q78ZcM2bW96"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Equip",
+                "none"
+            ],
+            "Sue": [
+                "2)",
+                "Driver,\nCamry",
                 "none"
             ]
         }
