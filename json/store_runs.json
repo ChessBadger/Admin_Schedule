@@ -1311,22 +1311,21 @@
     {
         "date": "Wed, Dec 11",
         "meet_time": [],
-        "start_time": "Optima Oil Change",
+        "start_time": "6:00 AM START",
         "inv_type": [
-            ""
-        ],
-        "store_name": [
-            "6:00 AM START"
-        ],
-        "address": [
             "DC5-FINANCIAL"
         ],
-        "link": [
+        "store_name": [
             "MONTERRY MARKET, MILWAUKEE"
         ],
+        "address": [
+            "3014 S 13TH ST"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/FK82YGUL5p42ptnG9"
+        ],
         "store_note": [
-            "*NEW ACCOUNT",
-            "3014 S 13TH ST <br><hr id=\"note_separator\">https://maps.app.goo.gl/FK82YGUL5p42ptnG9"
+            "*NEW ACCOUNT"
         ],
         "employee_list": {
             "Kim": [
