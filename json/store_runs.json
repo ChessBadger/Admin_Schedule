@@ -725,7 +725,7 @@
             "https://goo.gl/maps/XJm8iLALryeWSpAZ6"
         ],
         "store_note": [
-            "*If Jerry's car leaves before store is over (at 12:00) Victor and Greg also leave w/ him"
+            "*If Jerry's car leaves before store is over (at 12:00) Greg also leave w/ him"
         ],
         "employee_list": {
             "Brianna": [
@@ -738,15 +738,15 @@
                 "Until 12:00",
                 "none"
             ],
-            "Ian": [
-                "3)",
-                "Driver,\nRed Van,\nAce Side",
-                "none"
-            ],
             "Jerry D": [
-                "4)",
+                "3)",
                 "Driver,\nRed Camry,\nUntil 12:00",
                 "Milwaukee"
+            ],
+            "Lashaun": [
+                "4)",
+                "Driver,\nRed Van,\nAce Side",
+                "none"
             ],
             "Lexi": [
                 "5)",
@@ -773,103 +773,79 @@
                 "",
                 "none"
             ],
-            "Victor": [
-                "10)",
-                "Until 12:00",
-                "none"
-            ],
             "Angela": [
-                "11)",
+                "10)",
                 "@ Store,\nAce Side",
                 "none"
             ],
             "Anisha": [
-                "12)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Elijah": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Emily L": [
-                "14)",
+                "13)",
                 "@ Store,\nAce Side",
                 "Rockford"
             ],
             "Eva": [
-                "15)",
+                "14)",
                 "@ Store,\nAce Side",
                 "none"
             ],
             "Evelin": [
-                "16)",
+                "15)",
                 "@ Store",
                 "none"
             ],
             "Joseph": [
-                "17)",
+                "16)",
                 "@ Store",
                 "none"
             ],
             "Josh S": [
-                "18)",
+                "17)",
                 "@ Store",
                 "Rockford"
             ],
             "Justin Lee": [
-                "19)",
+                "18)",
                 "@ Store,\nAce Side",
                 "none"
             ],
             "Kayla": [
-                "20)",
+                "19)",
                 "@ Store",
                 "none"
             ],
             "Lorena": [
-                "21)",
+                "20)",
                 "@ Store",
                 "none"
             ],
             "Makeda": [
-                "22)",
+                "21)",
                 "@ Store",
                 "none"
             ],
             "Nate": [
-                "23)",
+                "22)",
                 "@ Store,\nSupv Ace",
                 "none"
             ],
             "Qiana": [
-                "24)",
+                "23)",
                 "@ Store",
                 "none"
             ],
             "Taylor": [
-                "25)",
+                "24)",
                 "@ Store,\nAce Side",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Dec 13",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [
-            "Office"
-        ],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {
-            "Lashaun": [
-                "",
-                "",
                 "none"
             ]
         }
