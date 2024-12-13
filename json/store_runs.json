@@ -1377,23 +1377,23 @@
     },
     {
         "date": "Wed, Dec 18",
-        "meet_time": [],
-        "start_time": "7:00 AM START",
+        "meet_time": [
+            "7:15 AM MEET RYAN RD PNR (HWY 100 & 94)\n(COURTESY MEET)"
+        ],
+        "start_time": "8:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "CONTACT IS ASAAD-THE BUYER"
+            "UPTOWN PANTRY - KENOSHA"
         ],
         "address": [
-            "MILWAUKEE VAPOR"
+            "6119 22ND AVE"
         ],
         "link": [
-            "3470 N OAKLAND AVE"
+            "https://maps.app.goo.gl/e61UcPGEwR68Z7Jt6"
         ],
-        "store_note": [
-            "https://maps.app.goo.gl/wwu4upr3gzq8iguB7"
-        ],
+        "store_note": [],
         "employee_list": {
             "DJ": [
                 "1)",
