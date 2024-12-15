@@ -237,32 +237,34 @@
     {
         "date": "Tue, Dec 17",
         "meet_time": [],
-        "start_time": "5:30 AM START",
+        "start_time": "Kim",
         "inv_type": [
-            "DC5-FINANCIAL",
+            "",
             "DC5-FINANCIAL",
             "EXCEL FINANCIAL",
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "ROTE OIL #6 HUBERTUS",
+            "",
             "ROTE OIL #7 MILWAUKEE",
             "ROTE OIL #8 ELM GROVE",
             "ROTE OIL #09 GREENFIELD"
         ],
         "address": [
-            "1306 HWY 175",
+            "5:30 AM START",
             "5931 N 91ST ST",
             "13395 WATERTOWN PLANK RD",
             "12345 W LAYTON AVE"
         ],
         "link": [
-            "https://goo.gl/maps/SZRuQ4FHA1cX2ZmC8",
+            "DC5-FINANCIAL",
             "https://goo.gl/maps/cw58s7atAhTAGHNd7",
             "https://goo.gl/maps/5zXAKpcRHDmA17UK9",
             "https://goo.gl/maps/TSgMUriHbJPX9hGE7"
         ],
-        "store_note": [],
+        "store_note": [
+            "ROTE OIL #6 HUBERTUS <br><hr id=\"note_separator\">1306 HWY 175 <br><hr id=\"note_separator\">https://goo.gl/maps/SZRuQ4FHA1cX2ZmC8"
+        ],
         "employee_list": {
             "Katherine": [
                 "1)",
@@ -387,28 +389,30 @@
     {
         "date": "Wed, Dec 18",
         "meet_time": [],
-        "start_time": "5:30 AM START",
+        "start_time": "Kim",
         "inv_type": [
-            "DC5-FINANCIAL",
+            "DJ",
             "DC5-FINANCIAL",
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "ROTE OIL #10 MUKWONAGO - ROCHESTER",
+            "",
             "ROTE OIL #12 MUKWONAGO - (AMOCO) GREENWALD",
             "ROTE OIL  #11 MUKWONAGO - (BP) ARROWHEAD"
         ],
         "address": [
-            "1060 N ROCHESTER ST",
+            "5:30 AM START",
             "909 GREENWALD CT",
             "122 ARROWHEAD DR"
         ],
         "link": [
-            "https://goo.gl/maps/dmvR5bTHLs1Cbjcr5",
+            "DC5-FINANCIAL",
             "https://goo.gl/maps/ejQSLoz2D8EmzKVq6",
             "https://goo.gl/maps/7XkTFZtDFDgGBctz7"
         ],
-        "store_note": [],
+        "store_note": [
+            "ROTE OIL #10 MUKWONAGO - ROCHESTER <br><hr id=\"note_separator\">1060 N ROCHESTER ST <br><hr id=\"note_separator\">https://goo.gl/maps/dmvR5bTHLs1Cbjcr5"
+        ],
         "employee_list": {
             "Katherine": [
                 "1)",
