@@ -551,6 +551,46 @@
     },
     {
         "date": "Wed, Dec 18",
+        "meet_time": "5:00 AM OFFICE LEAVE TIME\n(COURTESY MEET)",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "DHILLON'S BP, IRON RIDGE"
+        ],
+        "address": [
+            "210 W PLEASANT ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/qwc1LRfmy572"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Nate": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Sue": [
+                "2)",
+                "Sante Fe",
+                "none"
+            ],
+            "Michael N": [
+                "3)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Qiana": [
+                "4)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Dec 18",
         "meet_time": [],
         "start_time": null,
         "inv_type": [],
