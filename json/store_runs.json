@@ -200,6 +200,61 @@
         }
     },
     {
+        "date": "Fri, Dec 27",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "CAPITOL CENTRE MARKET, MADISON"
+        ],
+        "address": [
+            "111 N BROOM ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/dNaovNNmnMG2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Nate": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Lashaun": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Brianna": [
+                "3)",
+                "@ Store",
+                "none"
+            ],
+            "Eva": [
+                "4)",
+                "@ Store",
+                "none"
+            ],
+            "Evelin": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Justin Lee": [
+                "6)",
+                "@ Store",
+                "none"
+            ],
+            "Lori": [
+                "7)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
         "date": "Sat, Dec 28",
         "meet_time": [],
         "start_time": null,
