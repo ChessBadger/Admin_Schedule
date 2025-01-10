@@ -1,336 +1,25 @@
 [
     {
-        "date": "Sun, Dec 22",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {}
-    },
-    {
-        "date": "Mon, Dec 23",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {}
-    },
-    {
-        "date": "Thu, Dec 26",
-        "meet_time": [
-            "6:15 AM MEET OFFICE"
-        ],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "EXCEL FINANCIAL"
-        ],
-        "store_name": [
-            "WATERTOWN BP MART INC"
-        ],
-        "address": [
-            "330 SUMMIT AVE"
-        ],
-        "link": [
-            "https://maps.app.goo.gl/ixqrWsSBrmsGF1Xc6"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Ian": [
-                "1)",
-                "Driver,\nOptima, Equip",
-                "none"
-            ],
-            "Jerry D": [
-                "2)",
-                "",
-                "Milwaukee"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Dec 26",
-        "meet_time": [
-            "6:30 AM MEET SOUTH RACINE COURT (HWY 43 & Y)"
-        ],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "MILLGATE GENERAL STORE, BURLINGTON"
-        ],
-        "address": [
-            "151 MILLGATE DR"
-        ],
-        "link": [
-            "https://goo.gl/maps/JmyTfGd26bD2FKyR8"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "Driver,\nAltima, \nEquip",
-                "none"
-            ],
-            "Lexi": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Leyna": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Paul": [
-                "4)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Dec 26",
-        "meet_time": [],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL",
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "KARL'S COUNTRY MARKET, MENOMONEE FALLS",
-            "KARL'S COUNTRY MART GAS STATION, MENOMONEE FALLS"
-        ],
-        "address": [
-            "W156 N5645 PILGRIM RD",
-            "N56 W15654 SILVER SPRING DR"
-        ],
-        "link": [
-            "https://goo.gl/maps/zL8HEmfSEtR2",
-            "https://maps.app.goo.gl/eVhY1gyT1JDFaLmT9"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Kim": [
-                "1)",
-                "Sante Fe available, Equip",
-                "none"
-            ],
-            "Cynthia": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Katherine": [
-                "3)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Dec 27",
+        "date": "Sun, Jan 5",
         "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
-            "DC5-ITEM LEVEL"
+            "DC5-FINANCIAL"
         ],
         "store_name": [
-            "SKYWALK PHARMACY, MILWAUKEE (IN CHILDREN'S HOSPITAL)"
+            "PIGGLY WIGGLY #201, CEDARBURG"
         ],
         "address": [
-            "9000 W WISCONSIN AVE"
+            "W61 N286 WASHINGTON AVE"
         ],
         "link": [
-            "https://goo.gl/maps/qcvSsqFGhMp"
+            "https://goo.gl/maps/QamMdWSr16N2"
         ],
         "store_note": [],
         "employee_list": {
             "DJ": [
                 "1)",
                 "Equip",
-                "none"
-            ],
-            "Carlie": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Paul": [
-                "3)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Dec 27",
-        "meet_time": [],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "EXCEL FINANCIAL"
-        ],
-        "store_name": [
-            "SAI MART, CALEDONIA"
-        ],
-        "address": [
-            "13600 7 MILE RD"
-        ],
-        "link": [
-            "https://maps.app.goo.gl/PJ1zkc8GEH1Q3B4G7"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Ian": [
-                "1)",
-                "Optima available, Equip",
-                "none"
-            ],
-            "Jerry D": [
-                "2)",
-                "",
-                "Milwaukee"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Dec 27",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "CAPITOL CENTRE MARKET, MADISON"
-        ],
-        "address": [
-            "111 N BROOM ST"
-        ],
-        "link": [
-            "https://goo.gl/maps/dNaovNNmnMG2"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Nate": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Lashaun": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Brianna": [
-                "3)",
-                "@ Store",
-                "none"
-            ],
-            "Eva": [
-                "4)",
-                "@ Store",
-                "none"
-            ],
-            "Evelin": [
-                "5)",
-                "@ Store",
-                "none"
-            ],
-            "Justin Lee": [
-                "6)",
-                "@ Store",
-                "none"
-            ],
-            "Lori": [
-                "7)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Sat, Dec 28",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {}
-    },
-    {
-        "date": "Sun, Dec 29",
-        "meet_time": [],
-        "start_time": "5:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "OUTPOST NATURAL FOODS, BAY VIEW"
-        ],
-        "address": [
-            "2826 S KINNICKINNC AVE"
-        ],
-        "link": [
-            "https://goo.gl/maps/5hiyyxywjiH2"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Katherine": [
-                "1)",
-                "Optima available, Equip",
-                "none"
-            ],
-            "Ian": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Lashaun": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Lexi": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Paul": [
-                "5)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Sun, Dec 29",
-        "meet_time": [],
-        "start_time": "5:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "OUTPOST NATURAL FOODS, MEQUON"
-        ],
-        "address": [
-            "7590 W MEQUON RD"
-        ],
-        "link": [
-            "https://goo.gl/maps/do2xmdVUL8z"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Kim": [
-                "1)",
-                "Sante Fe available, Equip",
                 "none"
             ],
             "Curt": [
@@ -338,7 +27,7 @@
                 "",
                 "none"
             ],
-            "Cynthia": [
+            "Greg": [
                 "3)",
                 "",
                 "none"
@@ -348,169 +37,214 @@
                 "",
                 "Milwaukee"
             ],
-            "Leyna": [
+            "Katherine": [
                 "5)",
+                "",
+                "none"
+            ],
+            "Paul": [
+                "6)",
                 "",
                 "none"
             ],
             "Sonia": [
-                "6)",
+                "7)",
                 "",
                 "none"
             ]
         }
     },
     {
-        "date": "Sun, Dec 29",
-        "meet_time": [],
-        "start_time": "5:00 AM START",
+        "date": "Mon, Jan 6",
+        "meet_time": [
+            "5:30 AM MEET RYAN RD (HWY 100 & 94)"
+        ],
+        "start_time": "6:00 AM START",
         "inv_type": [
-            "DC5-ITEM LEVEL"
+            "DC5-FINANCIAL"
         ],
         "store_name": [
-            "OUTPOST NATURAL FOODS, MILWAUKEE"
+            "PIGGLY WIGGLY #209, KENOSHA"
         ],
         "address": [
-            "100 E CAPITOL DR"
+            "7600 PERSHING BLVD"
         ],
         "link": [
-            "https://goo.gl/maps/n94xpFtHzvE2"
+            "https://goo.gl/maps/JzRgLG7fbbR2"
+        ],
+        "store_note": [
+            "4:45 am meet for Carlie, Amber, Trevor at Grafton park and ride"
+        ],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Driver,\nAltima, Equip",
+                "none"
+            ],
+            "Amber": [
+                "2)",
+                "@ Store, \nw/ Carlie,\n1st Day",
+                "none"
+            ],
+            "Carlie": [
+                "3)",
+                "@ Store,\nDriver,\nWhite Camry,\nTrainer",
+                "none"
+            ],
+            "Cynthia": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "5)",
+                "Driver,\nRed Van",
+                "Milwaukee"
+            ],
+            "Justin Learned": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Kim": [
+                "7)",
+                "Driver,\nSante Fe",
+                "none"
+            ],
+            "Lexi": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Monica": [
+                "10)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "11)",
+                "",
+                "none"
+            ],
+            "Sydney": [
+                "12)",
+                "",
+                "none"
+            ],
+            "Trevor": [
+                "13)",
+                "@ Store, \nw/ Carlie",
+                "none"
+            ],
+            "Victor": [
+                "14)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Jan 6",
+        "meet_time": [
+            "5:15 AM OFFICE MEET"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "PIGGLY WIGGLY #207, LAKE GENEVA"
+        ],
+        "address": [
+            "1001 E GENEVA SQUARE"
+        ],
+        "link": [
+            "https://goo.gl/maps/Tbkoc8cC9Nr"
         ],
         "store_note": [],
         "employee_list": {
-            "Brianna": [
+            "Nate": [
                 "1)",
                 "@ Store, Equip",
                 "none"
             ],
-            "Angela": [
+            "Greg": [
                 "2)",
-                "@ Store",
+                "",
                 "none"
             ],
-            "Eva": [
+            "Ian": [
                 "3)",
+                "Driver,\nOptima",
+                "none"
+            ],
+            "Katherine": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Paul": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Lashaun": [
+                "6)",
+                "@ Store,\nRed Camry",
+                "none"
+            ],
+            "Elijah": [
+                "7)",
                 "@ Store",
                 "none"
             ],
             "Kayla": [
-                "4)",
+                "8)",
                 "@ Store",
                 "none"
             ],
             "Lorena": [
-                "5)",
+                "9)",
                 "@ Store",
                 "none"
             ],
-            "Qiana": [
-                "6)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Sun, Dec 29",
-        "meet_time": [],
-        "start_time": "5:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "OUTPOST NATURAL FOODS, WAUWATOSA"
-        ],
-        "address": [
-            "7000 W STATE ST"
-        ],
-        "link": [
-            "https://goo.gl/maps/9Apjjj8M6672"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "Equip",
-                "none"
-            ],
-            "Anisha": [
-                "2)",
-                "@ Store",
-                "none"
-            ],
-            "Evelin": [
-                "3)",
-                "@ Store",
-                "none"
-            ],
-            "Joseph": [
-                "4)",
-                "@ Store",
-                "none"
-            ],
-            "Josh S": [
-                "5)",
+            "Michael N": [
+                "10)",
                 "@ Store",
                 "Rockford"
             ],
-            "Nate": [
-                "6)",
+            "Qiana": [
+                "11)",
+                "@ Store",
+                "none"
+            ],
+            "Taylor": [
+                "12)",
                 "@ Store",
                 "none"
             ]
         }
     },
     {
-        "date": "Mon, Dec 30",
-        "meet_time": [
-            "5:15 AM MEET OFFICE"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "EXCEL FINANICAL",
-            "EXCEL FINANCIAL"
-        ],
-        "store_name": [
-            "KOHN'S FILLING STATION, KEWASKUM",
-            "KOHN'S FILLING STATION 259, CAMPBELLSPORT"
-        ],
-        "address": [
-            "890 FOND DU LAC AVE",
-            "259 N FOND DU LAC AVE"
-        ],
-        "link": [
-            "https://goo.gl/maps/CJnRNDyortw",
-            "https://goo.gl/maps/WCsZpx5SMsA2"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Katherine": [
-                "1)",
-                "Equip",
-                "none"
-            ],
-            "Sue": [
-                "2)",
-                "Driver,\nOptima",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Dec 30",
+        "date": "Tue, Jan 7",
         "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "GOOD HARVEST MARKET, PEWAUKEE"
+            "SENDIK'S, HARTLAND"
         ],
         "address": [
-            "2205 SILVERNAIL RD"
+            "606 HARTBROOK AVE"
         ],
         "link": [
-            "https://goo.gl/maps/dbog9UtxNWp"
+            "https://goo.gl/maps/KfEhy9qyAAw"
         ],
         "store_note": [],
         "employee_list": {
@@ -519,7 +253,281 @@
                 "Equip",
                 "none"
             ],
+            "Cynthia": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "3)",
+                "",
+                "Milwaukee"
+            ],
+            "Lashaun": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Lexi": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Monica": [
+                "7)",
+                "Until noon",
+                "none"
+            ],
+            "Paul": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "9)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Jan 7",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "METRO #893 +RX, SHOREWOOD"
+        ],
+        "address": [
+            "4075 N OAKLAND AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/boWQLVTF2mS2"
+        ],
+        "store_note": [
+            "5:30 am meet for Carlie, Amber, Trevor at Grafton park and ride"
+        ],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "Sante Fe available, Equip",
+                "none"
+            ],
+            "Amber": [
+                "2)",
+                "w/ Carlie\n2nd Day",
+                "none"
+            ],
             "Carlie": [
+                "3)",
+                "Driver,\nTrainer",
+                "none"
+            ],
+            "Greg": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Ian": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Sydney": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Trevor": [
+                "7)",
+                "w/ Carlie",
+                "none"
+            ],
+            "Angela": [
+                "8)",
+                "@ Store,\nRx",
+                "none"
+            ],
+            "Dan": [
+                "9)",
+                "@ Store",
+                "none"
+            ],
+            "Jerry S": [
+                "10)",
+                "@ Store",
+                "Fox Valley"
+            ],
+            "Kirsten": [
+                "11)",
+                "@ Store",
+                "none"
+            ],
+            "Lena": [
+                "12)",
+                "@ Store",
+                "none"
+            ],
+            "Mai": [
+                "13)",
+                "@ Store",
+                "none"
+            ],
+            "Marcia": [
+                "14)",
+                "@ Store, work w/ Terri",
+                "none"
+            ],
+            "Qiana": [
+                "15)",
+                "@ Store,\nSupv Rx",
+                "none"
+            ],
+            "Terri": [
+                "16)",
+                "@ Store, work w/ Marcia",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Jan 8",
+        "meet_time": [],
+        "start_time": "Lashaun bringing White Camry to swap back w/ Carlie today",
+        "inv_type": [
+            ""
+        ],
+        "store_name": [
+            "6:00 AM START"
+        ],
+        "address": [
+            "DC5-FINANCIAL"
+        ],
+        "link": [
+            "SENDIK'S, MEQUON"
+        ],
+        "store_note": [
+            "10930 N PORT WASHINGTON RD <br><hr id=\"note_separator\">https://goo.gl/maps/9khShk1hnMC2 <br><hr id=\"note_separator\">STORE RESET-REMAPPED",
+            "*No Grafton crew meet, meet at the store*"
+        ],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Equip",
+                "none"
+            ],
+            "Amber": [
+                "2)",
+                "1st Sendik's",
+                "none"
+            ],
+            "Carlie": [
+                "3)",
+                "Trainer",
+                "none"
+            ],
+            "Greg": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Ian": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "6)",
+                "",
+                "Milwaukee"
+            ],
+            "Katherine": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Sydney": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Trevor": [
+                "10)",
+                "1st Sendik's",
+                "none"
+            ],
+            "Victor": [
+                "11)",
+                "",
+                "none"
+            ],
+            "Eva": [
+                "12)",
+                "@ Store",
+                "none"
+            ],
+            "Jerry S": [
+                "13)",
+                "@ Store",
+                "Fox Valley"
+            ],
+            "Kirsten": [
+                "14)",
+                "@ Store",
+                "none"
+            ],
+            "Marcia": [
+                "15)",
+                "@ Store",
+                "none"
+            ],
+            "Nate": [
+                "16)",
+                "@ Store,\nTrainer",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Jan 8",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "SENDIK'S FRESH2GO, BAYSIDE",
+            "SENDIK'S FRESH2GO, MILWAUKEE-MARQUETTE"
+        ],
+        "address": [
+            "340 W BROWN DEER RD",
+            "824 N 16TH STREET"
+        ],
+        "link": [
+            "https://goo.gl/maps/CmpDt8x8rNKaMffi6",
+            "https://goo.gl/maps/vvRFWmX5pX32"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "Sante Fe available, Equip",
+                "none"
+            ],
+            "Cynthia": [
                 "2)",
                 "",
                 "none"
@@ -529,61 +537,157 @@
                 "",
                 "none"
             ],
-            "Leyna": [
+            "Monica": [
+                "4)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Jan 9",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "SENDIK'S, WAUKESHA"
+        ],
+        "address": [
+            "701 MEADOWBROOK RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/nTzjcbrWXSU2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "Sante Fe available, Equip",
+                "none"
+            ],
+            "Carlie": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Cynthia": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Ian": [
                 "4)",
                 "",
                 "none"
             ],
-            "Monica": [
+            "Jerry D": [
                 "5)",
                 "",
-                "none"
+                "Milwaukee"
             ],
-            "Sonia": [
+            "Katherine": [
                 "6)",
                 "",
                 "none"
+            ],
+            "Lexi": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Paul": [
+                "9)",
+                "",
+                "none"
             ]
         }
     },
     {
-        "date": "Mon, Dec 30",
-        "meet_time": [
-            "6:30 AM MEET OFFICE"
-        ],
-        "start_time": "7:00 AM START",
+        "date": "Fri, Jan 10",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
         "inv_type": [
-            "DC5-FINANCIAL",
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "GAUGERT'S BUSS STOP, SULLIVAN",
-            "RON'S MARKET, HELENVILLE"
+            "SENDIK'S, NEW BERLIN"
         ],
         "address": [
-            "141 MAIN ST",
-            "W3094 HWY 18"
+            "3600 S MOORLAND RD"
         ],
         "link": [
-            "APPROX 9:00/10:00 AM START",
-            "https://goo.gl/maps/pyYX7wkpwom"
+            "https://goo.gl/maps/FETDnDoxdxA2"
         ],
-        "store_note": [],
+        "store_note": [
+            "STORE RESET-REMAPPED <br><hr id=\"note_separator\">5:15 am meet for Carlie, Amber, Trevor at Grafton park and ride"
+        ],
         "employee_list": {
-            "Ian": [
+            "DJ": [
                 "1)",
-                "Driver,\nRed Camry, Equip",
+                "Equip",
+                "none"
+            ],
+            "Amber": [
+                "2)",
+                "w/ Carlie,\n2nd Sendiks",
+                "none"
+            ],
+            "Carlie": [
+                "3)",
+                "Driver,\nTrainer",
+                "none"
+            ],
+            "Ian": [
+                "4)",
+                "",
                 "none"
             ],
             "Jerry D": [
-                "2)",
-                "",
+                "5)",
+                "until 12:00",
                 "Milwaukee"
+            ],
+            "Katherine": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Monica": [
+                "7)",
+                "Until 11:00",
+                "none"
+            ],
+            "Sonia": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Sydney": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Trevor": [
+                "10)",
+                "w/ Carlie,\n2nd Sendiks",
+                "none"
+            ],
+            "Victor": [
+                "11)",
+                "",
+                "none"
             ]
         }
     },
     {
-        "date": "Mon, Dec 30",
+        "date": "Fri, Jan 10",
         "meet_time": [],
         "start_time": null,
         "inv_type": [],
@@ -602,365 +706,72 @@
         }
     },
     {
-        "date": "Tue, Dec 31",
+        "date": "Sat, Jan 11",
         "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL",
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "SERVE YOU PHARMACY, MILWAUKEE",
-            "WI HEALTH FUND, MILWAUKEE"
-        ],
-        "address": [
-            "10201 INNOVATION DR, SUIT 100",
-            "6118 W BLUEMOUND RD"
-        ],
-        "link": [
-            "https://goo.gl/maps/KoXB6dUABdyxHvCT9",
-            "https://goo.gl/maps/obe9aWcnusE2"
-        ],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [],
+        "address": [],
+        "link": [],
         "store_note": [],
-        "employee_list": {
-            "Kim": [
-                "1)",
-                "Sante Fe available, Equip",
-                "none"
-            ],
-            "Cynthia": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Monica": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "4)",
-                "",
-                "none"
-            ]
-        }
+        "employee_list": {}
     },
     {
-        "date": "Tue, Dec 31",
+        "date": "Sun, Jan 12",
         "meet_time": [
-            "6:15 AM MEET OFFICE"
-        ],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "EXCEL FINANCIAL",
-            "EXCEL FINANCIAL",
-            "EXCEL FINANCIAL"
-        ],
-        "store_name": [
-            "KANSASVILLE CITGO QUICK MART",
-            "TWIN LAKES CITGO",
-            "SALEM MINI MART"
-        ],
-        "address": [
-            "23010 DURAND AVE",
-            "410 N LAKE AVE",
-            "8246 ANTIOCH RD"
-        ],
-        "link": [
-            "https://goo.gl/maps/QZs8ZSjv9eL2",
-            "https://goo.gl/maps/k9s2GwpMbH32",
-            ""
-        ],
-        "store_note": [
-            "Katherine <br><hr id=\"note_separator\">Carlie <br><hr id=\"note_separator\">Paul"
-        ],
-        "employee_list": {
-            "": [
-                "",
-                "",
-                "none"
-            ],
-            "8:30 AM MEET BAYSHORE": [
-                "",
-                "",
-                "none"
-            ],
-            "9:00 AM START": [
-                "",
-                "",
-                "none"
-            ],
-            "EXCEL FINANCIAL": [
-                "",
-                "",
-                "none"
-            ],
-            "BELGIUM PLAZA BP": [
-                "",
-                "",
-                "none"
-            ],
-            "105 LAKE VIEW DR": [
-                "",
-                "",
-                "none"
-            ],
-            "https://goo.gl/maps/Tm8LjACbUe42": [
-                "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Dec 31",
-        "meet_time": [],
-        "start_time": "Ian",
-        "inv_type": [
-            "Lashaun",
-            "EXCEL FINANCIAL"
-        ],
-        "store_name": [
-            "",
-            "CONCORD GENERAL STORE, OCONOMOWOC"
-        ],
-        "address": [
-            "",
-            "N6485 COUNTY RD F"
-        ],
-        "link": [
-            "6:15 AM MEET OFFICE",
-            "https://goo.gl/maps/X4xEoL3zCRA2"
-        ],
-        "store_note": [
-            "7:00 AM START <br><hr id=\"note_separator\">EXCEL FINANCIAL <br><hr id=\"note_separator\">RAPID MART HARTFORD <br><hr id=\"note_separator\">2712 E SUMNER ST <br><hr id=\"note_separator\">https://goo.gl/maps/5dpExsTUAgz"
-        ],
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "Driver,\nAltima, Equip",
-                "none"
-            ],
-            "Jerry D": [
-                "2)",
-                "",
-                "Milwaukee"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Jan 2",
-        "meet_time": [],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "PRO CLIP USA, MADISON"
-        ],
-        "address": [
-            "4915 VOGES RD"
-        ],
-        "link": [
-            "https://goo.gl/maps/kcG2Q7HcnDk3eYT17"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Jan 2",
-        "meet_time": "6:15 AM OFFICE LEAVE TIME",
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "EXCEL FINANCIAL"
-        ],
-        "store_name": [
-            "EAST SIDE MART, JACKSON"
-        ],
-        "address": [
-            "N168 W1940 MAIN ST"
-        ],
-        "link": [
-            "https://goo.gl/maps/hgxGLx2srCs"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Ian": [
-                "1)",
-                "@ Store,\nRed Camry, Equip",
-                "none"
-            ],
-            "Carlie": [
-                "2)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Jan 2",
-        "meet_time": "8:00 AM OFFICE LEAVE TIME",
-        "start_time": "9:00 AM START",
-        "inv_type": [
-            "EXCEL FINANCIAL"
-        ],
-        "store_name": [
-            "GENOA CITY LIQUOR"
-        ],
-        "address": [
-            "413 WALWORTH ST"
-        ],
-        "link": [
-            "https://goo.gl/maps/QYdP7kbfGaDdoJ5u6"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Kim": [
-                "1)",
-                "Sante Fe, Equip",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Jan 3",
-        "meet_time": [
-            "5:30 AM MEET BAYSHORE\n(COURTESY MEET)"
+            "4:30 AM OFFICE MEET"
         ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "SENDIK'S, GRAFTON"
+            "MILLER & SONS SUPERMARKET, MT HOREB"
         ],
         "address": [
-            "2195 1ST AVE"
+            "1845 SPRINGDALE ST"
         ],
         "link": [
-            "https://goo.gl/maps/7S8pmjp4vMm"
+            "https://goo.gl/maps/zSVBPqJx7dR2"
         ],
         "store_note": [],
         "employee_list": {
-            "DJ": [
+            "Sarah": [
                 "1)",
                 "@ Store, Equip",
-                "none"
-            ],
-            "Carlie": [
-                "2)",
-                "@ Store",
-                "none"
-            ],
-            "Curt": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Jerry D": [
-                "4)",
-                "Driver,\nRed Van",
-                "Milwaukee"
-            ],
-            "Lashaun": [
-                "5)",
-                "Driver,\nOptima",
-                "none"
-            ],
-            "Lexi": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Leyna": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Monica": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Paul": [
-                "9)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "10)",
-                "",
-                "none"
-            ],
-            "Sydney": [
-                "11)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Jan 3",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "SENDIK'S, FRANKLIN"
-        ],
-        "address": [
-            "5200 W RAWSON AVE"
-        ],
-        "link": [
-            "https://goo.gl/maps/KnaHZCnxjJy"
-        ],
-        "store_note": [
-            "STORE RESET-REMAPPED"
-        ],
-        "employee_list": {
-            "Nate": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Cynthia": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Greg": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Ian": [
-                "4)",
-                "Help w/ Training",
                 "none"
             ],
             "Katherine": [
-                "5)",
+                "2)",
                 "",
                 "none"
             ],
-            "Stephanie": [
+            "Kim": [
+                "3)",
+                "Driver,\nSante Fe",
+                "none"
+            ],
+            "Paul": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Aivy": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Angela": [
                 "6)",
-                "Until 10:00",
+                "@ Store",
                 "none"
             ],
-            "Victor": [
+            "Anisha": [
                 "7)",
-                "1st Sendiks",
+                "@ Store",
                 "none"
             ],
-            "Elijah": [
+            "Brianna": [
                 "8)",
                 "@ Store",
                 "none"
@@ -970,43 +781,360 @@
                 "@ Store",
                 "none"
             ],
-            "Evelin": [
+            "Lori": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Joseph": [
+            "Nate": [
                 "11)",
-                "@ Store,\n1st Sendiks",
+                "@ Store",
                 "none"
             ],
-            "Josh S": [
+            "Qiana": [
                 "12)",
                 "@ Store",
-                "Rockford"
+                "none"
             ],
-            "Justin Lee": [
+            "Taylor": [
                 "13)",
-                "@ Store,\nHelp w/ Training",
+                "@ Store",
                 "none"
             ]
         }
     },
     {
-        "date": "Sat, Jan 4",
+        "date": "Mon, Jan 13",
         "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "PIGGLY WIGGLY #200, MEQUON"
+            "SENDIK'S, GREENFIELD"
         ],
         "address": [
-            "6111 W MEQUON RD"
+            "7901 W LAYTON AVE"
         ],
         "link": [
-            "https://goo.gl/maps/vQEGbDwowNJ7UTyo7"
+            "https://goo.gl/maps/3HPJKid7f7Q2"
+        ],
+        "store_note": [
+            "5:15 am meet for Carlie, Amber, Trevor at Grafton park and ride"
+        ],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Equip",
+                "none"
+            ],
+            "Amber": [
+                "2)",
+                "w/ Carlie,\n2nd week",
+                "none"
+            ],
+            "Carlie": [
+                "3)",
+                "Driver,\nTrainer",
+                "none"
+            ],
+            "Cynthia": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Greg": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Ian": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "7)",
+                "",
+                "Milwaukee"
+            ],
+            "Katherine": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Lexi": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "10)",
+                "",
+                "none"
+            ],
+            "Monica": [
+                "11)",
+                "",
+                "none"
+            ],
+            "Paul": [
+                "12)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "13)",
+                "",
+                "none"
+            ],
+            "Sydney": [
+                "14)",
+                "",
+                "none"
+            ],
+            "Trevor": [
+                "15)",
+                "w/ Carlie",
+                "none"
+            ],
+            "Victor": [
+                "16)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Jan 14",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "SENDIK'S, OCONOMOWOC"
+        ],
+        "address": [
+            "1450 OLYMPIA FIELDS DRIVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/fGkbRfEuC1Cuvpzp6"
+        ],
+        "store_note": [
+            "5:00 am meet for Carlie, Amber, Trevor at Grafton park and ride"
+        ],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "Sante Fe available, Equip",
+                "none"
+            ],
+            "Amber": [
+                "2)",
+                "w/ Carlie,\n2nd week",
+                "none"
+            ],
+            "Carlie": [
+                "3)",
+                "Driver,\nTrainer",
+                "none"
+            ],
+            "Cynthia": [
+                "4)",
+                "",
+                "none"
+            ],
+            "DJ": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Greg": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Ian": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "8)",
+                "",
+                "Milwaukee"
+            ],
+            "Justin Learned": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Katherine": [
+                "10)",
+                "",
+                "none"
+            ],
+            "Lexi": [
+                "11)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "12)",
+                "",
+                "none"
+            ],
+            "Monica": [
+                "13)",
+                "",
+                "none"
+            ],
+            "Paul": [
+                "14)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "15)",
+                "",
+                "none"
+            ],
+            "Trevor": [
+                "16)",
+                "w/ Carlie",
+                "none"
+            ],
+            "Victor": [
+                "17)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Jan 15",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "PICK #357 +RX, GERMANTOWN"
+        ],
+        "address": [
+            "N112 W16200 MEQUON RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/EHNPxYdtCp82"
+        ],
+        "store_note": [
+            "SET UP ON REG CLOSEST TOWARDS SERVICE COUNTER <br><hr id=\"note_separator\">FEW RESETS-REMAPPED",
+            "*No Grafton crew meet, meet at the store*"
+        ],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Equip",
+                "none"
+            ],
+            "Amber": [
+                "2)",
+                "2nd week",
+                "none"
+            ],
+            "Carlie": [
+                "3)",
+                "Trainer",
+                "none"
+            ],
+            "Cynthia": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Greg": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Ian": [
+                "6)",
+                "Supv Rx",
+                "none"
+            ],
+            "Jerry D": [
+                "7)",
+                "Rx",
+                "Milwaukee"
+            ],
+            "Katherine": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Kim": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Lexi": [
+                "10)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "11)",
+                "",
+                "none"
+            ],
+            "Monica": [
+                "12)",
+                "",
+                "none"
+            ],
+            "Paul": [
+                "13)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "14)",
+                "",
+                "none"
+            ],
+            "Sydney": [
+                "15)",
+                "",
+                "none"
+            ],
+            "Trevor": [
+                "16)",
+                "",
+                "none"
+            ],
+            "Victor": [
+                "17)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Jan 16",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "SENDIK'S, BROOKFIELD-THE CORNERS"
+        ],
+        "address": [
+            "20222 LOWER UNION ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/h7XxESD1ean"
         ],
         "store_note": [],
         "employee_list": {
@@ -1015,36 +1143,143 @@
                 "Sante Fe available, Equip",
                 "none"
             ],
-            "Cynthia": [
+            "Carlie": [
                 "2)",
                 "",
                 "none"
             ],
-            "Jerry D": [
+            "Cynthia": [
                 "3)",
-                "Until 10:30",
-                "Milwaukee"
+                "",
+                "none"
             ],
-            "Justin Learned": [
+            "DJ": [
                 "4)",
                 "",
                 "none"
+            ],
+            "Ian": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "6)",
+                "",
+                "Milwaukee"
+            ],
+            "Lexi": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Sydney": [
+                "9)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Jan 17",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "SENDIK'S, ELM GROVE"
+        ],
+        "address": [
+            "13425 W WATERTOWN PLANK RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/3hkzePSppuz"
+        ],
+        "store_note": [
+            "STORE RESET-REMAPPED"
+        ],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Equip",
+                "none"
+            ],
+            "Carlie": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Ian": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "4)",
+                "",
+                "Milwaukee"
             ],
             "Katherine": [
                 "5)",
                 "",
                 "none"
             ],
-            "Lexi": [
+            "Leyna": [
                 "6)",
                 "",
                 "none"
             ],
-            "Paul": [
+            "Monica": [
                 "7)",
+                "",
+                "none"
+            ],
+            "Paul": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Sydney": [
+                "9)",
                 "",
                 "none"
             ]
         }
+    },
+    {
+        "date": "Fri, Jan 17",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [
+            "Office"
+        ],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Sat, Jan 18",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {}
     }
 ]
