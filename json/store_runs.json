@@ -591,9 +591,9 @@
             "SET UP ON REG #1"
         ],
         "employee_list": {
-            "Kim": [
+            "DJ": [
                 "1)",
-                "Sante Fe available, Equip",
+                "",
                 "none"
             ],
             "Carlie": [
@@ -611,25 +611,25 @@
                 "",
                 "none"
             ],
-            "DJ": [
+            "Greg": [
                 "5)",
                 "",
                 "none"
             ],
-            "Greg": [
-                "6)",
-                "",
-                "none"
-            ],
             "Ian": [
-                "7)",
+                "6)",
                 "Supv Rx",
                 "none"
             ],
             "Jerry D": [
-                "8)",
+                "7)",
                 "Rx",
                 "Milwaukee"
+            ],
+            "Justin Learned": [
+                "8)",
+                "",
+                "none"
             ],
             "Lexi": [
                 "9)",
@@ -690,9 +690,9 @@
             "SET UP ON REG #5; THIS STORE DIRECTOR TAKES AT LEAST 15 MINUTES TO LOOK AT EACH AISLE (HE COUNTS SKUs)"
         ],
         "employee_list": {
-            "DJ": [
+            "Kim": [
                 "1)",
-                "@ Store, Equip",
+                "@ Store,\nOptima,\nEquip",
                 "none"
             ],
             "Carlie": [
@@ -712,12 +712,12 @@
             ],
             "Jerry D": [
                 "5)",
-                "Driver,\nOptima\nRx",
+                "Rx",
                 "Milwaukee"
             ],
-            "Kim": [
+            "DJ": [
                 "6)",
-                "",
+                "Driver,\nAltima",
                 "none"
             ],
             "Lexi": [
