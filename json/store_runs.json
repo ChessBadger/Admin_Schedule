@@ -533,8 +533,8 @@
         ],
         "start_time": "6:00 AM START",
         "inv_type": [
-            "EXCEL FINANCIAL",
-            "EXCEL FINANCIAL"
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
         ],
         "store_name": [
             "KOHN'S FILLING STATION, KEWASKUM",
@@ -825,7 +825,7 @@
         "meet_time": [],
         "start_time": "7:00 AM START",
         "inv_type": [
-            "EXCEL FINANCIAL"
+            "DC5-FINANCIAL"
         ],
         "store_name": [
             "CONCORD GENERAL STORE, OCONOMOWOC"
@@ -1196,7 +1196,7 @@
         ],
         "start_time": "7:00 AM START",
         "inv_type": [
-            "EXCEL FINANCIAL"
+            "DC5-FINANCIAL"
         ],
         "store_name": [
             "RAPID MART HARTFORD"
