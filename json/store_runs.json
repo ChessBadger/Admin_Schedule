@@ -1,521 +1,5 @@
 [
     {
-        "date": "Sun, Jan 19",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {}
-    },
-    {
-        "date": "Mon, Jan 20",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "PICK #867 +RX, BROWN DEER"
-        ],
-        "address": [
-            "9200 N GREEN BAY RD"
-        ],
-        "link": [
-            "https://goo.gl/maps/CW7zvhV8HSR2"
-        ],
-        "store_note": [
-            "SET UP ON REG #1"
-        ],
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "",
-                "none"
-            ],
-            "Carlie": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Curt": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Cynthia": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Greg": [
-                "5)",
-                "",
-                "none"
-            ],
-            "Ian": [
-                "6)",
-                "Supv Rx",
-                "none"
-            ],
-            "Jerry D": [
-                "7)",
-                "Rx",
-                "Milwaukee"
-            ],
-            "Justin Learned": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Lexi": [
-                "9)",
-                "",
-                "none"
-            ],
-            "Leyna": [
-                "10)",
-                "",
-                "none"
-            ],
-            "Monica": [
-                "11)",
-                "",
-                "none"
-            ],
-            "Paul": [
-                "12)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "13)",
-                "",
-                "none"
-            ],
-            "Sydney": [
-                "14)",
-                "",
-                "none"
-            ],
-            "Victor": [
-                "15)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Jan 21",
-        "meet_time": [
-            "5:30 AM MEET RYAN RD (HWY 100 & 94)"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "PICK #891 +RX, RACINE-\nMT PLEASANT - SOUTH"
-        ],
-        "address": [
-            "2820 S GREEN BAY ROAD"
-        ],
-        "link": [
-            "https://goo.gl/maps/82wgqsh41W62"
-        ],
-        "store_note": [
-            "SET UP ON REG #5; THIS STORE DIRECTOR TAKES AT LEAST 15 MINUTES TO LOOK AT EACH AISLE (HE COUNTS SKUs)"
-        ],
-        "employee_list": {
-            "Kim": [
-                "1)",
-                "@ Store,\nOptima,\nEquip",
-                "none"
-            ],
-            "Carlie": [
-                "2)",
-                "Driver,\nWhite Camry",
-                "none"
-            ],
-            "Cynthia": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Ian": [
-                "4)",
-                "Driver,\nRed Van,\nSupv Rx",
-                "none"
-            ],
-            "Jerry D": [
-                "5)",
-                "Rx",
-                "Milwaukee"
-            ],
-            "DJ": [
-                "6)",
-                "Driver,\nAltima",
-                "none"
-            ],
-            "Lexi": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Leyna": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Monica": [
-                "9)",
-                "",
-                "none"
-            ],
-            "Paul": [
-                "10)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "11)",
-                "",
-                "none"
-            ],
-            "Sue": [
-                "12)",
-                "",
-                "none"
-            ],
-            "Sydney": [
-                "13)",
-                "",
-                "none"
-            ],
-            "Brianna": [
-                "14)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, Jan 22",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "PICK #348 +RX, OAK CREEK - 27TH ST"
-        ],
-        "address": [
-            "6462 S 27TH ST"
-        ],
-        "link": [
-            "https://goo.gl/maps/Ya5hSzVYqX42"
-        ],
-        "store_note": [
-            "SET UP ON REG FAR RIGHT BY OFFICE"
-        ],
-        "employee_list": {
-            "Brianna": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Carlie": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Cynthia": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Greg": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Ian": [
-                "5)",
-                "",
-                "none"
-            ],
-            "Jerry D": [
-                "6)",
-                "",
-                "Milwaukee"
-            ],
-            "Lexi": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Paul": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Sydney": [
-                "9)",
-                "",
-                "none"
-            ],
-            "Victor": [
-                "10)",
-                "",
-                "none"
-            ],
-            "Eva": [
-                "11)",
-                "@ Store",
-                "none"
-            ],
-            "Evelin": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
-            "Justin Lee": [
-                "13)",
-                "@ Store,\nRx",
-                "none"
-            ],
-            "Michael N": [
-                "14)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Nate": [
-                "15)",
-                "@ Store,\nSupv Rx",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, Jan 22",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [
-            "Office"
-        ],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {
-            "Kim": [
-                "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Jan 23",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "PICK #847 +FC-RX, \nWEST ALLIS - MARKET SQ"
-        ],
-        "address": [
-            "6760 W NATIONAL AVE"
-        ],
-        "link": [
-            "https://goo.gl/maps/G4vnZ7jFLF1ooLXD8"
-        ],
-        "store_note": [
-            "SETUP ON REG #6; FUEL CENTER USUALLY DBS, BUT ASK <br><hr id=\"note_separator\">FEW RESETS-REMAPPED"
-        ],
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "Equip",
-                "none"
-            ],
-            "Carlie": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Curt": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Cynthia": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Greg": [
-                "5)",
-                "",
-                "none"
-            ],
-            "Ian": [
-                "6)",
-                "Supv Rx",
-                "none"
-            ],
-            "Jerry D": [
-                "7)",
-                "Rx",
-                "Milwaukee"
-            ],
-            "Justin Learned": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Kim": [
-                "9)",
-                "",
-                "none"
-            ],
-            "Lexi": [
-                "10)",
-                "",
-                "none"
-            ],
-            "Leyna": [
-                "11)",
-                "",
-                "none"
-            ],
-            "Paul": [
-                "12)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "13)",
-                "",
-                "none"
-            ],
-            "Sydney": [
-                "14)",
-                "",
-                "none"
-            ],
-            "Victor": [
-                "15)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Jan 24",
-        "meet_time": [],
-        "start_time": "5:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "ALBRECHT'S DELAFIELD MARKET"
-        ],
-        "address": [
-            "3255 GOLF RD"
-        ],
-        "link": [
-            "https://goo.gl/maps/UZh6uE9Zs2H2"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Kim": [
-                "1)",
-                "Sante Fe available, Equip",
-                "none"
-            ],
-            "Carlie": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Cynthia": [
-                "3)",
-                "",
-                "none"
-            ],
-            "DJ": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Greg": [
-                "5)",
-                "",
-                "none"
-            ],
-            "Ian": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Jerry D": [
-                "7)",
-                "",
-                "Milwaukee"
-            ],
-            "Lexi": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Leyna": [
-                "9)",
-                "",
-                "none"
-            ],
-            "Monica": [
-                "10)",
-                "",
-                "none"
-            ],
-            "Paul": [
-                "11)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "12)",
-                "",
-                "none"
-            ],
-            "Nate": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
-            "Qiana": [
-                "14)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Sat, Jan 25",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {}
-    },
-    {
         "date": "Sun, Jan 26",
         "meet_time": [],
         "start_time": null,
@@ -1280,6 +764,884 @@
     },
     {
         "date": "Sat, Feb 1",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {}
+    },
+    {
+        "date": "Sun, Feb 2",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {}
+    },
+    {
+        "date": "Mon, Feb 3",
+        "meet_time": [],
+        "start_time": "11:30 AM START",
+        "inv_type": [
+            "PAID SUPV APPRECIATION LUNCH"
+        ],
+        "store_name": [
+            "GREAT DANE PUB & BREWING CO., MADISON"
+        ],
+        "address": [
+            "876 JUPITER DR"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/JRhP3a9ZEqppeBgL9"
+        ],
+        "store_note": [
+            "https://www.greatdanepub.com/menu/"
+        ],
+        "employee_list": {
+            "Ashley P": [
+                "1)",
+                "",
+                "Rockford"
+            ],
+            "Brianna": [
+                "2)",
+                "",
+                "none"
+            ],
+            "DJ": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Heidi": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Ian": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Jeremiah": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Jerry S": [
+                "7)",
+                "",
+                "Fox Valley"
+            ],
+            "Katherine": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Kim": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Lashaun": [
+                "10)",
+                "",
+                "none"
+            ],
+            "Michelle": [
+                "11)",
+                "",
+                "none"
+            ],
+            "Mike G": [
+                "12)",
+                "",
+                "Rockford"
+            ],
+            "Nate": [
+                "13)",
+                "",
+                "none"
+            ],
+            "Nick": [
+                "14)",
+                "",
+                "none"
+            ],
+            "Qiana": [
+                "15)",
+                "",
+                "none"
+            ],
+            "Ron": [
+                "16)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Feb 4",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "METRO #384 +RX, MUKWONAGO"
+        ],
+        "address": [
+            "1010 ROCHESTER STREET"
+        ],
+        "link": [
+            "https://goo.gl/maps/t3wTJ4RYJq82"
+        ],
+        "store_note": [
+            "SET UP ON REG #5"
+        ],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Equip",
+                "none"
+            ],
+            "Carlie": [
+                "2)",
+                " ",
+                "none"
+            ],
+            "Cynthia": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Greg": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Ian": [
+                "5)",
+                "Supv Rx",
+                "none"
+            ],
+            "Jerry D": [
+                "6)",
+                "Rx",
+                "Milwaukee"
+            ],
+            "Justin Learned": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Katherine": [
+                "8)",
+                "After Aurora",
+                "none"
+            ],
+            "Lexi": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "10)",
+                "",
+                "none"
+            ],
+            "Monica": [
+                "11)",
+                "",
+                "none"
+            ],
+            "Paul": [
+                "12)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "13)",
+                "",
+                "none"
+            ],
+            "Sydney": [
+                "14)",
+                "",
+                "none"
+            ],
+            "Victor": [
+                "15)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Feb 4",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1750 ELKHORN"
+        ],
+        "address": [
+            "201 E MORRISSEY DRIVE, SUITE 100"
+        ],
+        "link": [
+            "https://goo.gl/maps/xYN7FT5gMzQk78dv6"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Optima, Equip",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Feb 4",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [
+            "Office"
+        ],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Feb 5",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "METRO #380 +RX, SUSSEX"
+        ],
+        "address": [
+            "N65 W24838 MAIN ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/9vhkJiNzSVT2"
+        ],
+        "store_note": [
+            "SET UP ON REG #1"
+        ],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "Sante Fe available, Equip",
+                "none"
+            ],
+            "Carlie": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Cynthia": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Greg": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Ian": [
+                "5)",
+                "Supv Rx",
+                "none"
+            ],
+            "Jerry D": [
+                "6)",
+                "Rx",
+                "Milwaukee"
+            ],
+            "Justin Learned": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Monica": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Paul": [
+                "10)",
+                "",
+                "none"
+            ],
+            "Sydney": [
+                "11)",
+                "",
+                "none"
+            ],
+            "Victor": [
+                "12)",
+                "",
+                "none"
+            ],
+            "Jerry S": [
+                "13)",
+                "@ Store",
+                "Fox Valley"
+            ],
+            "Kirsten": [
+                "14)",
+                "@ Store",
+                "none"
+            ],
+            "Marcia": [
+                "15)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Feb 5",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "PICK #386 +RX, WALES"
+        ],
+        "address": [
+            "405 N WALES ROAD"
+        ],
+        "link": [
+            "https://goo.gl/maps/xJzSH7YKuiD2"
+        ],
+        "store_note": [
+            "SET UP ON REG #5 <br><hr id=\"note_separator\">STORE RESET-REMAPPED"
+        ],
+        "employee_list": {
+            "Nate": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "DJ": [
+                "2)",
+                "Supv Rx",
+                "none"
+            ],
+            "Katherine": [
+                "3)",
+                "After Aurora",
+                "none"
+            ],
+            "Lashaun": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Lexi": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Sue": [
+                "7)",
+                "After Aurora",
+                "none"
+            ],
+            "Anisha": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Brianna": [
+                "9)",
+                "@ Store",
+                "none"
+            ],
+            "Eva": [
+                "10)",
+                "@ Store",
+                "none"
+            ],
+            "Evelin": [
+                "11)",
+                "@ Store",
+                "none"
+            ],
+            "Joseph": [
+                "12)",
+                "@ Store",
+                "none"
+            ],
+            "Justin Lee": [
+                "13)",
+                "@ Store,\nRx",
+                "none"
+            ],
+            "Kayla": [
+                "14)",
+                "@ Store",
+                "none"
+            ],
+            "Lorena": [
+                "15)",
+                "@ Store",
+                "none"
+            ],
+            "Michael N": [
+                "16)",
+                "@ Store",
+                "Rockford"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Feb 5",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1335, SUMMIT"
+        ],
+        "address": [
+            "36500 AURORA DRIVE, SUITE 100"
+        ],
+        "link": [
+            "https://goo.gl/maps/ZCBnSuQHz8ghtBeU6"
+        ],
+        "store_note": [
+            "USE MOB ENTRANCE. DOORS OPEN AT 6:00 AM"
+        ],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Optima available, Equip",
+                "none"
+            ],
+            "Sue": [
+                "2)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Feb 6",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "PICK #871 +RX, KENOSHA - NORTH"
+        ],
+        "address": [
+            "2811 - 18TH STREET"
+        ],
+        "link": [
+            "https://goo.gl/maps/tq1opM5rw242"
+        ],
+        "store_note": [
+            "SET UP ON REG #1 <br><hr id=\"note_separator\">DAIRY & LIQUOR RESET-REMAPPED"
+        ],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Katherine": [
+                "2)",
+                "After Aurora",
+                "none"
+            ],
+            "Angela": [
+                "3)",
+                "@ Store",
+                "none"
+            ],
+            "Anisha": [
+                "4)",
+                "@ Store",
+                "none"
+            ],
+            "Eva": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Evelin": [
+                "6)",
+                "@ Store",
+                "none"
+            ],
+            "Joseph": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Justin Lee": [
+                "8)",
+                "@ Store,\nRx",
+                "none"
+            ],
+            "Kayla": [
+                "9)",
+                "@ Store",
+                "none"
+            ],
+            "Lorena": [
+                "10)",
+                "@ Store",
+                "none"
+            ],
+            "Michael N": [
+                "11)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Qiana": [
+                "12)",
+                "@ Store,\nSupv Rx",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Feb 6",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "PICK #366 +RX, HALES CORNERS"
+        ],
+        "address": [
+            "5800 S 108TH ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/zX1XvNMo8SU2"
+        ],
+        "store_note": [
+            "SET UP ON REG #1 <br><hr id=\"note_separator\">DAIRY RESET-REMAPPED"
+        ],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Equip",
+                "none"
+            ],
+            "Cynthia": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Greg": [
+                "3)",
+                "Until 10:00",
+                "none"
+            ],
+            "Ian": [
+                "4)",
+                "Supv Rx",
+                "none"
+            ],
+            "Jerry D": [
+                "5)",
+                "Rx",
+                "Milwaukee"
+            ],
+            "Justin Learned": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Lexi": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Monica": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Paul": [
+                "10)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "11)",
+                "",
+                "none"
+            ],
+            "Sydney": [
+                "12)",
+                "",
+                "none"
+            ],
+            "Jerry S": [
+                "13)",
+                "@ Store",
+                "Fox Valley"
+            ],
+            "Kirsten": [
+                "14)",
+                "@ Store",
+                "none"
+            ],
+            "Lena": [
+                "15)",
+                "@ Store",
+                "none"
+            ],
+            "Taya": [
+                "16)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Feb 6",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1179, KENOSHA"
+        ],
+        "address": [
+            "7540 22ND AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/66CQ3FRNP6o"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Optima, Equip",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Feb 6",
+        "meet_time": "7:15 AM OFFICE LEAVE TIME",
+        "start_time": "8:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "ADDISON STATION MOBIL, HARTFORD"
+        ],
+        "address": [
+            "5022 ADDISON RD"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/nLpfnynwKxnnBFrw5"
+        ],
+        "store_note": [
+            "*SALE INVENTORY - SELLING TO LAKHBIR"
+        ],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "Sante Fe, Equip",
+                "none"
+            ],
+            "Carlie": [
+                "2)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Feb 7",
+        "meet_time": [
+            "5:30 AM MEET RYAN RD PNR (HWY 100 & 94)"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1115 UNION GROVE"
+        ],
+        "address": [
+            "4310 67TH DRIVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/T7d8P5BJ5vQyPjos7"
+        ],
+        "store_note": [
+            "NEED THE 4208 SCANNERS DUE TO THE LIGHTING IN THIS STORE - ALSO NEED SCANNER HOODS"
+        ],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Driver,\nAltima, Equip",
+                "none"
+            ],
+            "Jerry D": [
+                "2)",
+                "",
+                "Milwaukee"
+            ],
+            "Monica": [
+                "3)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Feb 7",
+        "meet_time": "6:00 AM OFFICE LEAVE TIME",
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1108, LOMIRA",
+            "CONDON OIL #195, THERESA"
+        ],
+        "address": [
+            "375 EAST AVENUE, SUITE 1",
+            "213 N MILWAUKEE"
+        ],
+        "link": [
+            "https://goo.gl/maps/HZvTzhm2zfv",
+            "https://goo.gl/maps/dBrycqMgUwF2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Optima, Equip",
+                "none"
+            ],
+            "Lori": [
+                "2)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Feb 7",
+        "meet_time": "5:15 AM OFFICE LEAVE TIME",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "KEWASKUM CORNER MART CITGO",
+            "THIENSVILLE BP - S MAIN ST"
+        ],
+        "address": [
+            "516 MAIN ST",
+            "246 S MAIN ST"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/NV3ysJwfEsdYWXJn8",
+            "https://maps.app.goo.gl/HZadE4wzwohiwsrW8"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Ian": [
+                "1)",
+                "Red Van, Equip",
+                "none"
+            ],
+            "Carlie": [
+                "2)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Feb 7",
+        "meet_time": "5:15 AM OFFICE LEAVE TIME",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "WEST BEND BP - \nE WASHINGTON",
+            "WEST BEND MOBIL - \nW WASHINGTON"
+        ],
+        "address": [
+            "2825 E WASHINGTON ST",
+            "2333 W WASHINGTON ST"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/sJ7713JXpChSCzWL7",
+            "https://maps.app.goo.gl/zLH23SGbN7oN6MhA6"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "Sante Fe, Equip",
+                "none"
+            ],
+            "Brianna": [
+                "2)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Sat, Feb 8",
         "meet_time": [],
         "start_time": null,
         "inv_type": [],
