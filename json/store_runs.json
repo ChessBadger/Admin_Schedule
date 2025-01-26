@@ -195,21 +195,25 @@
     {
         "date": "Tue, Jan 28",
         "meet_time": [],
-        "start_time": "DJ dropping Altima at Lutters after the store",
+        "start_time": "Katherine",
         "inv_type": [
-            ""
-        ],
-        "store_name": [
-            "6:00 AM START"
-        ],
-        "address": [
+            "",
             "DC5-ITEM LEVEL"
         ],
-        "link": [
+        "store_name": [
+            "DJ dropping Altima at Lutters after the store",
             "PICK #878 +RX, MILWAUKEE-HOLT"
         ],
+        "address": [
+            "",
+            "250 W HOLT AVE"
+        ],
+        "link": [
+            "6:00 AM START",
+            "https://goo.gl/maps/Cym6uGHHdf92"
+        ],
         "store_note": [
-            "250 W HOLT AVE <br><hr id=\"note_separator\">https://goo.gl/maps/Cym6uGHHdf92 <br><hr id=\"note_separator\">SETUP ON REG #1"
+            "SETUP ON REG #1"
         ],
         "employee_list": {
             "DJ": [
@@ -597,17 +601,21 @@
     {
         "date": "Fri, Jan 31",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "DJ",
         "inv_type": [
+            "",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
+            "",
             "PICK #845 +RX, MILWAUKEE-LOOMIS"
         ],
         "address": [
+            "",
             "3701 S 27TH ST"
         ],
         "link": [
+            "6:00 AM START",
             "https://goo.gl/maps/BLy8vMxXBsA2"
         ],
         "store_note": [
