@@ -420,63 +420,6 @@
     },
     {
         "date": "Wed, Jan 29",
-        "meet_time": [
-            "4:30 AM MEET RYAN RD (HWY 100 & 94)"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "FRANK'S FRESHWAY MARKET, SOUTH ELGIN, IL"
-        ],
-        "address": [
-            "1175 W Spring St"
-        ],
-        "link": [
-            "https://maps.app.goo.gl/8bGoNpJNFvdvbLTN8"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Brianna": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Ian": [
-                "2)",
-                "Driver,\nRed Van",
-                "none"
-            ],
-            "Jerry D": [
-                "3)",
-                "",
-                "Milwaukee"
-            ],
-            "Monica": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Paul": [
-                "5)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Sydney": [
-                "7)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, Jan 29",
         "meet_time": [],
         "start_time": null,
         "inv_type": [],
