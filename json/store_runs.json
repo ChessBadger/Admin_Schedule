@@ -695,7 +695,8 @@
             "https://maps.app.goo.gl/nLpfnynwKxnnBFrw5"
         ],
         "store_note": [
-            "*SALE INVENTORY - SELLING TO LAKHBIR"
+            "*SALE INVENTORY - SELLING TO LAKHBIR",
+            "Beer needs to be split into seperate categories"
         ],
         "employee_list": {
             "Kim": [
@@ -754,19 +755,15 @@
         "meet_time": "6:00 AM OFFICE LEAVE TIME",
         "start_time": "7:00 AM START",
         "inv_type": [
-            "DC5-ITEM LEVEL",
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "AURORA OUTPATIENT RX #1108, LOMIRA",
             "CONDON OIL #195, THERESA"
         ],
         "address": [
-            "375 EAST AVENUE, SUITE 1",
             "213 N MILWAUKEE"
         ],
         "link": [
-            "https://goo.gl/maps/HZvTzhm2zfv",
             "https://goo.gl/maps/dBrycqMgUwF2"
         ],
         "store_note": [],
