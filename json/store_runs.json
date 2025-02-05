@@ -472,21 +472,21 @@
     {
         "date": "Thu, Feb 6",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "Kim",
         "inv_type": [
-            "DC5-ITEM LEVEL"
+            ""
         ],
         "store_name": [
-            "PICK #871 +RX, KENOSHA - NORTH"
+            ""
         ],
         "address": [
-            "2811 - 18TH STREET"
+            "6:00 AM START"
         ],
         "link": [
-            "https://goo.gl/maps/tq1opM5rw242"
+            "DC5-ITEM LEVEL"
         ],
         "store_note": [
-            "SET UP ON REG #1 <br><hr id=\"note_separator\">DAIRY & LIQUOR RESET-REMAPPED"
+            "PICK #871 +RX, KENOSHA - NORTH <br><hr id=\"note_separator\">2811 - 18TH STREET <br><hr id=\"note_separator\">https://goo.gl/maps/tq1opM5rw242 <br><hr id=\"note_separator\">SET UP ON REG #1 <br><hr id=\"note_separator\">DAIRY & LIQUOR RESET-REMAPPED"
         ],
         "employee_list": {
             "Brianna": [
@@ -713,20 +713,22 @@
     },
     {
         "date": "Fri, Feb 7",
-        "meet_time": [
-            "5:30 AM MEET RYAN RD PNR (HWY 100 & 94)"
-        ],
-        "start_time": "6:00 AM START",
+        "meet_time": [],
+        "start_time": "Ian",
         "inv_type": [
+            "Katherine",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
+            "",
             "AURORA OUTPATIENT RX #1115 UNION GROVE"
         ],
         "address": [
+            "5:30 AM MEET RYAN RD PNR (HWY 100 & 94)",
             "4310 67TH DRIVE"
         ],
         "link": [
+            "6:00 AM START",
             "https://goo.gl/maps/T7d8P5BJ5vQyPjos7"
         ],
         "store_note": [
