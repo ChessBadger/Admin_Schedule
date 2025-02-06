@@ -818,7 +818,9 @@
     },
     {
         "date": "Fri, Feb 7",
-        "meet_time": "5:15 AM OFFICE LEAVE TIME",
+        "meet_time": [
+            "5:15 AM OFFICE MEET"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL",
@@ -841,6 +843,11 @@
             "Kim": [
                 "1)",
                 "Sante Fe, Equip",
+                "none"
+            ],
+            "Leyna": [
+                "2)",
+                "",
                 "none"
             ]
         }
