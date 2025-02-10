@@ -46,13 +46,97 @@
     {
         "date": "Thu, Feb 13",
         "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [],
-        "address": [],
-        "link": [],
+        "start_time": "DJ",
+        "inv_type": [
+            "",
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "",
+            "OPEN PANTRY #9570, RACINE"
+        ],
+        "address": [
+            "",
+            "2731 DURAND AVE"
+        ],
+        "link": [
+            "6:30 AM MEET RYAN RD PNR (HWY 100 & 94)",
+            "https://goo.gl/maps/boUkpED44a62"
+        ],
+        "store_note": [
+            "7:00 AM START"
+        ],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Equip",
+                "none"
+            ],
+            "Carlie": [
+                "2)",
+                "Driver,\nRed Camry",
+                "none"
+            ],
+            "Ian": [
+                "3)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Feb 13",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1012, CUDAHY",
+            "WEST ALLIS LIQUOR & TOBACCO"
+        ],
+        "address": [
+            "5900 S LAKE DRIVE",
+            "7218 W GREENFIELD AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/gJd9TeY5Upy",
+            "https://maps.app.goo.gl/xytYtemVCGCLFfWC6"
+        ],
         "store_note": [],
-        "employee_list": {}
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Equip",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Feb 13",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1312 KAUKAUNA"
+        ],
+        "address": [
+            "1500 ARBOR WAY, SUITE 100"
+        ],
+        "link": [
+            "https://goo.gl/maps/PziVgs1f7GUmVioX6"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "Sante Fe, Equip",
+                "none"
+            ]
+        }
     },
     {
         "date": "Fri, Feb 14",
