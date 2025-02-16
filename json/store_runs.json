@@ -292,20 +292,22 @@
     },
     {
         "date": "Wed, Feb 19",
-        "meet_time": [
-            "5:30 AM MEET BAYSHORE\n(COURTESY MEET)"
-        ],
-        "start_time": "6:00 AM START",
+        "meet_time": [],
+        "start_time": "Katherine",
         "inv_type": [
+            "",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
+            "COURTESY MEET",
             "PICK #886 +RX, GRAFTON"
         ],
         "address": [
+            "5:30 AM MEET BAYSHORE",
             "301 FALLS ROAD"
         ],
         "link": [
+            "6:00 AM START",
             "https://goo.gl/maps/fn4iD1j5W632"
         ],
         "store_note": [
