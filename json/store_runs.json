@@ -1127,58 +1127,58 @@
             ],
             "Cynthia": [
                 "2)",
-                "After Aurora",
+                "",
                 "none"
             ],
             "Jerry D": [
                 "3)",
-                "After Aurora",
+                "",
                 "Milwaukee"
             ],
-            "Monica": [
+            "Leyna": [
                 "4)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Monica": [
                 "5)",
                 "",
                 "none"
             ],
-            "Sydney": [
+            "Sonia": [
                 "6)",
                 "",
                 "none"
             ],
-            "Anisha": [
+            "Sydney": [
                 "7)",
-                "@ Store",
+                "",
                 "none"
             ],
-            "Dan": [
+            "Anisha": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Joseph": [
+            "Dan": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Kayla": [
+            "Joseph": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Michael N": [
+            "Kayla": [
                 "11)",
                 "@ Store",
-                "Rockford"
-            ],
-            "Qiana": [
-                "12)",
-                "@ Store, After Aurora",
                 "none"
+            ],
+            "Michael N": [
+                "12)",
+                "@ Store",
+                "Rockford"
             ],
             "Terri": [
                 "13)",
@@ -1215,42 +1215,42 @@
                 "Supv Rx",
                 "none"
             ],
-            "Leyna": [
-                "3)",
-                "",
-                "none"
-            ],
             "Aivy": [
-                "4)",
+                "3)",
                 "@ Store",
                 "none"
             ],
             "Angela": [
-                "5)",
+                "4)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Annette": [
-                "6)",
+                "5)",
                 "@ Store",
                 "none"
             ],
             "Elijah": [
-                "7)",
+                "6)",
                 "@ Store",
                 "none"
             ],
             "Eva": [
-                "8)",
+                "7)",
                 "@ Store",
                 "none"
             ],
             "Lori": [
-                "9)",
+                "8)",
                 "@ Store",
                 "none"
             ],
             "Mai": [
+                "9)",
+                "@ Store",
+                "none"
+            ],
+            "Qiana": [
                 "10)",
                 "@ Store",
                 "none"
@@ -1269,41 +1269,6 @@
                 "13)",
                 "@ Store",
                 "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Feb 25",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "AURORA OUTPATIENT RX #1014, SOUTH MILWAUKEE"
-        ],
-        "address": [
-            "2414 10TH AVENUE"
-        ],
-        "link": [
-            "https://goo.gl/maps/RKFe5ejXrhF2"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Qiana": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Cynthia": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Jerry D": [
-                "3)",
-                "",
-                "Milwaukee"
             ]
         }
     },
