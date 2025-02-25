@@ -741,19 +741,23 @@
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL",
-            "DC5-FINANCIAL"
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL (SALE INV)"
         ],
         "store_name": [
             "ROTE OIL #1 PADDOCK LAKE- BRASS BALL",
-            "ROTE OIL #2 PADDOCK LAKE- 75TH ST"
+            "ROTE OIL #2 PADDOCK LAKE- 75TH ST",
+            "SALEM MINI MART"
         ],
         "address": [
             "25406 75TH ST",
-            "25555 75TH ST"
+            "25555 75TH ST",
+            "8246 ANTIOCH RD"
         ],
         "link": [
             "https://goo.gl/maps/LTa4ckcczx5qc8269",
-            "https://goo.gl/maps/5UyWWXXbzXMaVnv99"
+            "https://goo.gl/maps/5UyWWXXbzXMaVnv99",
+            "https://maps.app.goo.gl/LVwrNLey8PAE2Cdo7"
         ],
         "store_note": [],
         "employee_list": {
@@ -764,7 +768,7 @@
             ],
             "Ian": [
                 "2)",
-                "Sante Fe",
+                "Sante Fe,\nSupv Salem",
                 "none"
             ]
         }
@@ -836,23 +840,18 @@
                 "",
                 "none"
             ],
-            "Sue": [
-                "10)",
-                "",
-                "none"
-            ],
             "Jeremiah": [
-                "11)",
+                "10)",
                 "@ Store,\nSupv Rx",
                 "none"
             ],
             "Mai": [
-                "12)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Nagui": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ]
@@ -860,7 +859,9 @@
     },
     {
         "date": "Thu, Feb 27",
-        "meet_time": "6:00 AM OFFICE LEAVE TIME",
+        "meet_time": [
+            "6:00 AM OFFICE MEET"
+        ],
         "start_time": "7:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL"
@@ -878,7 +879,12 @@
         "employee_list": {
             "Katherine": [
                 "1)",
-                "Optima, Equip",
+                "Equip",
+                "none"
+            ],
+            "Sue": [
+                "2)",
+                "Driver,\nOptima",
                 "none"
             ]
         }
