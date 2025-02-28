@@ -1145,20 +1145,22 @@
     },
     {
         "date": "Mon, Mar 3",
-        "meet_time": [
-            "6:00 AM MEET RYAN RD PNR (HWY 100 & 94)"
-        ],
-        "start_time": "6:30 AM START",
+        "meet_time": [],
+        "start_time": "Ian",
         "inv_type": [
+            "Katherine",
             "DC5-FINANCIAL"
         ],
         "store_name": [
+            "",
             "FESTIVAL #2728, SALEM - LIFO"
         ],
         "address": [
+            "6:00 AM MEET RYAN RD PNR (HWY 100 & 94)",
             "25300 75TH ST"
         ],
         "link": [
+            "6:30 AM START",
             "https://goo.gl/maps/fj81W3aDTcG2"
         ],
         "store_note": [],
@@ -1601,21 +1603,21 @@
     {
         "date": "Wed, Mar 5",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "DJ",
         "inv_type": [
-            "DC5-ITEM LEVEL"
+            "Katherine"
         ],
         "store_name": [
-            "PICK #368 +RX, BROOKFIELD CAL-CAP"
+            ""
         ],
         "address": [
-            "17295 WEST CAPITOL DR"
+            "6:00 AM START"
         ],
         "link": [
-            "https://goo.gl/maps/33rm1Fc6q4o"
+            "DC5-ITEM LEVEL"
         ],
         "store_note": [
-            "SET UP ON REG #1"
+            "PICK #368 +RX, BROOKFIELD CAL-CAP <br><hr id=\"note_separator\">17295 WEST CAPITOL DR <br><hr id=\"note_separator\">https://goo.gl/maps/33rm1Fc6q4o <br><hr id=\"note_separator\">SET UP ON REG #1"
         ],
         "employee_list": {
             "Kim": [
@@ -1918,20 +1920,22 @@
     },
     {
         "date": "Fri, Mar 7",
-        "meet_time": [
-            "4:30 AM MEET BAYSHORE"
-        ],
-        "start_time": "6:00 AM START",
+        "meet_time": [],
+        "start_time": "Katherine",
         "inv_type": [
+            "",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
+            "",
             "PICK #408, TWO RIVERS"
         ],
         "address": [
+            "4:30 AM MEET BAYSHORE",
             "1010 22ND STREET"
         ],
         "link": [
+            "6:00 AM START",
             "https://maps.app.goo.gl/5jsT8sqpo6yELUmX9"
         ],
         "store_note": [
