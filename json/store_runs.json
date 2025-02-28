@@ -1167,7 +1167,7 @@
         "employee_list": {
             "Kim": [
                 "1)",
-                "@ Store,\nWhite Camry, Equip",
+                "Driver,\nWhite Camry, Equip",
                 "none"
             ],
             "Carlie": [
@@ -1608,7 +1608,7 @@
             "Katherine"
         ],
         "store_name": [
-            ""
+            "Red Camry Oil"
         ],
         "address": [
             "6:00 AM START"
