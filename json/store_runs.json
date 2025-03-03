@@ -204,78 +204,83 @@
                 "@ Store,\nEquip",
                 "none"
             ],
-            "Kim": [
+            "Cynthia": [
                 "2)",
+                "",
+                "none"
+            ],
+            "Kim": [
+                "3)",
                 "Driver,\nWhite Camry",
                 "none"
             ],
             "Paul": [
-                "3)",
+                "4)",
                 "",
                 "none"
             ],
             "Angela": [
-                "4)",
-                "@ Store",
-                "none"
-            ],
-            "Anisha": [
                 "5)",
                 "@ Store",
                 "none"
             ],
-            "Brianna": [
+            "Anisha": [
                 "6)",
                 "@ Store",
                 "none"
             ],
-            "Elijah": [
+            "Brianna": [
                 "7)",
                 "@ Store",
                 "none"
             ],
-            "Emily L": [
+            "Elijah": [
                 "8)",
+                "@ Store",
+                "none"
+            ],
+            "Emily L": [
+                "9)",
                 "@ Store",
                 "Rockford"
             ],
             "Eva": [
-                "9)",
-                "@ Store",
-                "none"
-            ],
-            "Evelin": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Joseph": [
+            "Evelin": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Justin Lee": [
+            "Joseph": [
                 "12)",
+                "@ Store",
+                "none"
+            ],
+            "Justin Lee": [
+                "13)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Kayla": [
-                "13)",
+                "14)",
                 "@ Store",
                 "none"
             ],
             "Michael N": [
-                "14)",
+                "15)",
                 "@ Store",
                 "Rockford"
             ],
             "Qiana": [
-                "15)",
+                "16)",
                 "@ Store,\nSupv Rx",
                 "none"
             ],
             "Taylor": [
-                "16)",
+                "17)",
                 "@ Store",
                 "none"
             ]
