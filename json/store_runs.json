@@ -204,14 +204,14 @@
                 "@ Store,\nEquip",
                 "none"
             ],
-            "Paul": [
+            "Kim": [
                 "2)",
-                "",
+                "Driver,\nWhite Camry",
                 "none"
             ],
-            "Sue": [
+            "Paul": [
                 "3)",
-                "Driver,\nWhite Camry",
+                "",
                 "none"
             ],
             "Angela": [
@@ -434,25 +434,6 @@
             "Katherine": [
                 "1)",
                 "Optima, Equip",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Mar 4",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [
-            "Office"
-        ],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {
-            "Kim": [
-                "",
-                "",
                 "none"
             ]
         }
