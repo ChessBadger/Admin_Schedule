@@ -1259,42 +1259,48 @@
         "meet_time": "4:45 AM OFFICE LEAVE TIME",
         "start_time": "6:00 AM START",
         "inv_type": [
-            "DC5-ITEM LEVEL"
+            "DC5-ITEM LEVEL",
+            "DC5-FINANCIAL"
         ],
         "store_name": [
-            "DHILLON'S BP, FOND DU LAC-PROSPECT"
+            "DHILLON'S BP, FOND DU LAC-PROSPECT",
+            "APPROX 11:00 AM - 11:30 AM START"
         ],
         "address": [
-            "330 PROSPECT AVE"
+            "330 PROSPECT AVE",
+            "JACKSON MOBIL, OSHKOSH"
         ],
         "link": [
-            "https://goo.gl/maps/fpFifzkM3ePQqS786"
+            "https://goo.gl/maps/fpFifzkM3ePQqS786",
+            "5171 JACKSON ST"
         ],
-        "store_note": [],
+        "store_note": [
+            "https://maps.app.goo.gl/RQRsPjYWFZF5Lq6y7"
+        ],
         "employee_list": {
             "Katherine": [
                 "1)",
-                "Optima, Equip",
+                "Optima, Equip, help Jerry in Oshkosh after",
                 "none"
             ],
             "Annette": [
                 "2)",
-                "@ Store",
+                "@ Store, Dhillon only",
                 "none"
             ],
             "Mai": [
                 "3)",
-                "@ Store",
+                "@ Store, Dhillon only",
                 "none"
             ],
             "Nagui": [
                 "4)",
-                "@ Store",
+                "@ Store, Dhillon only",
                 "none"
             ],
             "Taya": [
                 "5)",
-                "@ Store",
+                "@ Store, Dhillon only",
                 "none"
             ]
         }
