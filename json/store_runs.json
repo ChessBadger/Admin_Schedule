@@ -684,53 +684,48 @@
                 "",
                 "none"
             ],
-            "Kim": [
+            "Lexi": [
                 "7)",
                 "",
                 "none"
             ],
-            "Lexi": [
+            "Leyna": [
                 "8)",
                 "",
                 "none"
             ],
-            "Leyna": [
+            "Monica": [
                 "9)",
                 "",
                 "none"
             ],
-            "Monica": [
+            "Paul": [
                 "10)",
                 "",
                 "none"
             ],
-            "Paul": [
+            "Sonia": [
                 "11)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Sydney": [
                 "12)",
                 "",
                 "none"
             ],
-            "Sydney": [
-                "13)",
-                "",
-                "none"
-            ],
             "Annette": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Jerry S": [
-                "15)",
+                "14)",
                 "@ Store",
                 "Fox Valley"
             ],
             "Taya": [
-                "16)",
+                "15)",
                 "@ Store",
                 "none"
             ]
@@ -757,6 +752,25 @@
             "Kim": [
                 "1)",
                 "White Camry available, Equip",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Mar 6",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [
+            "Office"
+        ],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "",
+                "After Aurora",
                 "none"
             ]
         }
