@@ -795,56 +795,54 @@
             "6:00 AM START",
             "https://maps.app.goo.gl/5jsT8sqpo6yELUmX9"
         ],
-        "store_note": [
-            "Lashaun - leave spot in the car for Carlie - Grafton PNR @ 4:50 am"
-        ],
+        "store_note": [],
         "employee_list": {
             "Kim": [
                 "1)",
                 "@ Store,\nWhite Camry, Equip",
                 "none"
             ],
-            "Carlie": [
-                "2)",
-                "@ Grafton PNR",
-                "none"
-            ],
             "Cynthia": [
-                "3)",
+                "2)",
                 "@ Store,\nAfter Aurora",
                 "none"
             ],
             "DJ": [
-                "4)",
+                "3)",
                 "Driver,\nAltima",
                 "none"
             ],
             "Greg": [
-                "5)",
+                "4)",
                 "",
                 "none"
             ],
             "Ian": [
-                "6)",
+                "5)",
                 "@ Store,\nAfter Aurora",
                 "none"
             ],
             "Lashaun": [
-                "7)",
+                "6)",
                 "Driver,\nRed Van",
                 "none"
             ],
             "Lexi": [
-                "8)",
+                "7)",
                 "",
                 "none"
             ],
             "Leyna": [
-                "9)",
+                "8)",
                 "",
                 "none"
             ],
             "Sonia": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Sue": [
                 "10)",
                 "",
                 "none"
@@ -878,7 +876,7 @@
         "employee_list": {
             "Ian": [
                 "1)",
-                "Driver,\nSante Fe, Equip",
+                "Driver,\nRed Camry, Equip",
                 "none"
             ],
             "Cynthia": [
