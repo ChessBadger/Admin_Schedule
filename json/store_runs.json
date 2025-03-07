@@ -777,22 +777,20 @@
     },
     {
         "date": "Fri, Mar 7",
-        "meet_time": [],
-        "start_time": "Katherine",
+        "meet_time": [
+            "4:30 AM MEET BAYSHORE"
+        ],
+        "start_time": "6:00 AM START",
         "inv_type": [
-            "",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "",
             "PICK #408, TWO RIVERS"
         ],
         "address": [
-            "4:30 AM MEET BAYSHORE",
             "1010 22ND STREET"
         ],
         "link": [
-            "6:00 AM START",
             "https://maps.app.goo.gl/5jsT8sqpo6yELUmX9"
         ],
         "store_note": [],
