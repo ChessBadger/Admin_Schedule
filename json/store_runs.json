@@ -1337,7 +1337,7 @@
         "employee_list": {
             "Kim": [
                 "1)",
-                "Driver,\nSante Fe, Equip",
+                "Driver,\nRed Camry, Equip",
                 "none"
             ],
             "Paul": [
@@ -1537,7 +1537,7 @@
         "employee_list": {
             "Kim": [
                 "1)",
-                "Sante Fe available, Equip",
+                "Red Camry available, Equip",
                 "none"
             ],
             "Carlie": [
@@ -1630,20 +1630,22 @@
     {
         "date": "Thu, Mar 13",
         "meet_time": [],
-        "start_time": "7:00 AM START",
+        "start_time": "RED CAMRY SERVICE AT LUTTERS",
         "inv_type": [
-            "DC5-ITEM LEVEL"
+            ""
         ],
         "store_name": [
-            "AURORA OUTPATIENT RX #1260, WAUWATOSA"
+            "7:00 AM START"
         ],
         "address": [
-            "1055 NORTH MAYFAIR RD SUITE 100"
+            "DC5-ITEM LEVEL"
         ],
         "link": [
-            "https://goo.gl/maps/NV3ZZdgjMJXbNG4s7"
+            "AURORA OUTPATIENT RX #1260, WAUWATOSA"
         ],
-        "store_note": [],
+        "store_note": [
+            "1055 NORTH MAYFAIR RD SUITE 100 <br><hr id=\"note_separator\">https://goo.gl/maps/NV3ZZdgjMJXbNG4s7"
+        ],
         "employee_list": {
             "Ian": [
                 "1)",
@@ -1714,7 +1716,7 @@
         "employee_list": {
             "Kim": [
                 "1)",
-                "Sante Fe available, Equip",
+                "Red Van available, Equip",
                 "none"
             ],
             "Cynthia": [
