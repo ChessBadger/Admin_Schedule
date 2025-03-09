@@ -12,228 +12,37 @@
     },
     {
         "date": "Mon, Mar 10",
-        "meet_time": [
-            "5:15 AM MEET RYAN RD PNR (HWY 100 & 94)"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "PIGGLY WIGGLY #204, KENOSHA"
-        ],
-        "address": [
-            "2801 14TH PLACE"
-        ],
-        "link": [
-            "https://goo.gl/maps/qpmx5KbNekBXgfTh9"
-        ],
-        "store_note": [
-            "*SALE INVENTORY"
-        ],
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Greg": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Ian": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Jerry D": [
-                "4)",
-                "Driver,\nWhite Camry",
-                "Milwaukee"
-            ],
-            "Monica": [
-                "5)",
-                "",
-                "none"
-            ],
-            "Anisha": [
-                "6)",
-                "@ Store",
-                "none"
-            ],
-            "Joseph": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
-            "Justin Lee": [
-                "8)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Mar 10",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "PIGGLY WIGGLY #272, UNION GROVE"
-        ],
-        "address": [
-            "4400 67TH AVE"
-        ],
-        "link": [
-            "https://maps.app.goo.gl/ZWbA1C6sND9D64WT7"
-        ],
-        "store_note": [
-            "SET UP ON REG #5"
-        ],
-        "employee_list": {
-            "Nate": [
-                "1)",
-                "@ Store,\nEquip",
-                "none"
-            ],
-            "Angela": [
-                "2)",
-                "@ Store",
-                "none"
-            ],
-            "Kayla": [
-                "3)",
-                "@ Store",
-                "none"
-            ],
-            "Lorena": [
-                "4)",
-                "@ Store",
-                "none"
-            ],
-            "Michael N": [
-                "5)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Taylor": [
-                "6)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Mar 10",
-        "meet_time": [],
-        "start_time": "6:30 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "FESTIVAL #2697, WEST ALLIS - LIFO"
-        ],
-        "address": [
-            "11111 W GREENFIELD AVE"
-        ],
-        "link": [
-            "https://goo.gl/maps/dL7sLochv5e9x5zB7"
-        ],
-        "store_note": [
-            "STORE RESET-REMAPPED"
-        ],
-        "employee_list": {
-            "Brianna": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Carlie": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Cynthia": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Katherine": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Lexi": [
-                "5)",
-                "",
-                "none"
-            ],
-            "Leyna": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Paul": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Sue": [
-                "9)",
-                "",
-                "none"
-            ],
-            "Sydney": [
-                "10)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Mar 10",
         "meet_time": [],
         "start_time": null,
         "inv_type": [],
-        "store_name": [
-            "Office"
-        ],
+        "store_name": [],
         "address": [],
         "link": [],
         "store_note": [],
-        "employee_list": {
-            "Kim": [
-                "",
-                "",
-                "none"
-            ]
-        }
+        "employee_list": {}
     },
     {
         "date": "Tue, Mar 11",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "Ian",
         "inv_type": [
+            "Katherine",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
+            "Kim",
             "PICK #308, WAUKESHA - SUNSET EAST"
         ],
         "address": [
+            "",
             "220 E SUNSET DR"
         ],
         "link": [
+            "",
             "https://goo.gl/maps/jn6VPu5yR4C2"
         ],
         "store_note": [
+            "6:00 AM START",
             "SET UP ON REG #5"
         ],
         "employee_list": {
@@ -419,23 +228,26 @@
     },
     {
         "date": "Wed, Mar 12",
-        "meet_time": [
-            "4:45 AM MEET BAYSHORE"
-        ],
-        "start_time": "6:30 AM START",
+        "meet_time": [],
+        "start_time": "Katherine",
         "inv_type": [
+            "",
             "DC5-FINANCIAL"
         ],
         "store_name": [
+            "",
             "SUPER RON'S FOOD CENTER, PULASKI"
         ],
         "address": [
+            "",
             "960 CTY RD B"
         ],
         "link": [
+            "",
             "https://maps.app.goo.gl/VjqdAYQoTcRL3bpD6"
         ],
         "store_note": [
+            "4:45 AM MEET BAYSHORE <br><hr id=\"note_separator\">6:30 AM START",
             "STORE RESET-REMAPPED"
         ],
         "employee_list": {
@@ -695,21 +507,25 @@
     {
         "date": "Thu, Mar 13",
         "meet_time": [],
-        "start_time": "RED CAMRY SERVICE AT LUTTERS",
+        "start_time": "DJ",
         "inv_type": [
-            ""
-        ],
-        "store_name": [
-            "7:00 AM START"
-        ],
-        "address": [
+            "Kim",
             "DC5-ITEM LEVEL"
         ],
-        "link": [
+        "store_name": [
+            "Katherine",
             "AURORA OUTPATIENT RX #1260, WAUWATOSA"
         ],
+        "address": [
+            "",
+            "1055 NORTH MAYFAIR RD SUITE 100"
+        ],
+        "link": [
+            "RED CAMRY SERVICE AT LUTTERS",
+            "https://goo.gl/maps/NV3ZZdgjMJXbNG4s7"
+        ],
         "store_note": [
-            "1055 NORTH MAYFAIR RD SUITE 100 <br><hr id=\"note_separator\">https://goo.gl/maps/NV3ZZdgjMJXbNG4s7"
+            "7:00 AM START"
         ],
         "employee_list": {
             "Ian": [
@@ -838,20 +654,25 @@
     {
         "date": "Fri, Mar 14",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "Katherine",
         "inv_type": [
+            "Ian",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
+            "",
             "PICK #431, FRANKLIN-S LOVERS LANE RD"
         ],
         "address": [
+            "",
             "7780 S LOVERS LANE ROAD"
         ],
         "link": [
+            "",
             "https://goo.gl/maps/vq4QCMAV1rj"
         ],
         "store_note": [
+            "6:00 AM START",
             "SET UP ON REG CLOSEST TOWARDS RESTROOMS"
         ],
         "employee_list": {
