@@ -1681,33 +1681,27 @@
                 "1)",
                 "@ Store, Equip",
                 "none"
-            ],
-            "Carlie": [
-                "2)",
-                "@ Store",
-                "none"
-            ],
-            "Aivy": [
-                "3)",
-                "@ Store",
-                "none"
             ]
         }
     },
     {
         "date": "Thu, Mar 20",
-        "meet_time": "5:00 AM OFFICE LEAVE TIME",
-        "start_time": "6:00 AM START",
+        "meet_time": [],
+        "start_time": "Aivy",
         "inv_type": [
+            "",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
+            "",
             "DHILLON'S STATION WILD GOOSE, JUNEAU"
         ],
         "address": [
+            "5:00 AM OFFICE LEAVE TIME",
             "W5948 WI-33"
         ],
         "link": [
+            "6:00 AM START",
             "https://maps.app.goo.gl/9TPQcR9AP9Sc5xxUA"
         ],
         "store_note": [],
@@ -1825,7 +1819,7 @@
             "1200 W NORTHLAND AVE"
         ],
         "store_note": [
-            "https://goo.gl/maps/eRWs6b1N24m <br><hr id=\"note_separator\">Carlie / Trevor meet at Grafton Park n Ride 1st @ 4:45 am"
+            "https://goo.gl/maps/eRWs6b1N24m <br><hr id=\"note_separator\">Kim / Trevor meet at Pig in Slinger"
         ],
         "employee_list": {
             "Jeremiah": [
@@ -1833,68 +1827,63 @@
                 "@ Store,\nEquip",
                 "none"
             ],
-            "Carlie": [
-                "2)",
-                "Grafton 1st",
-                "none"
-            ],
             "Kim": [
-                "3)",
+                "2)",
                 "Driver,\nSante Fe",
                 "none"
             ],
             "Trevor": [
-                "4)",
-                "w/ Carlie",
+                "3)",
+                "",
                 "none"
             ],
             "Jerry S": [
-                "5)",
+                "4)",
                 "@ Store",
                 "Fox Valley"
             ],
             "Josie": [
-                "6)",
+                "5)",
                 "@ Store",
                 "none"
             ],
             "Kirsten": [
-                "7)",
+                "6)",
                 "@ Store",
                 "none"
             ],
             "Lena": [
-                "8)",
+                "7)",
                 "@ Store",
                 "none"
             ],
             "Lori": [
-                "9)",
+                "8)",
                 "@ Store",
                 "none"
             ],
             "Mai": [
-                "10)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Marcia": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Michelle": [
-                "12)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Nagui": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Terri": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ]
