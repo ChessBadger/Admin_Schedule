@@ -1149,7 +1149,7 @@
             "https://goo.gl/maps/W4WAvaTk74U2"
         ],
         "store_note": [
-            "SET UP ON REG #1"
+            "SET UP ON REG #1 <br><hr id=\"note_separator\">Carlie / Trevor to meet at 5:30 am at Grafton Park n Ride"
         ],
         "employee_list": {
             "Kim": [
@@ -1159,7 +1159,7 @@
             ],
             "Carlie": [
                 "2)",
-                "",
+                "w/ Trevor",
                 "none"
             ],
             "Cynthia": [
@@ -1205,6 +1205,11 @@
             "Sydney": [
                 "11)",
                 "",
+                "none"
+            ],
+            "Trevor": [
+                "12)",
+                "w/ Carlie",
                 "none"
             ]
         }
@@ -1814,7 +1819,7 @@
             "1200 W NORTHLAND AVE"
         ],
         "store_note": [
-            "https://goo.gl/maps/eRWs6b1N24m"
+            "https://goo.gl/maps/eRWs6b1N24m <br><hr id=\"note_separator\">Carlie / Trevor meet at Grafton Park n Ride 1st @ 4:45 am"
         ],
         "employee_list": {
             "Jeremiah": [
@@ -1824,7 +1829,7 @@
             ],
             "Carlie": [
                 "2)",
-                "",
+                "Grafton 1st",
                 "none"
             ],
             "Kim": [
@@ -1832,53 +1837,58 @@
                 "Driver,\nSante Fe",
                 "none"
             ],
-            "Jerry S": [
+            "Trevor": [
                 "4)",
+                "w/ Carlie",
+                "none"
+            ],
+            "Jerry S": [
+                "5)",
                 "@ Store",
                 "Fox Valley"
             ],
             "Josie": [
-                "5)",
-                "@ Store",
-                "none"
-            ],
-            "Kirsten": [
                 "6)",
                 "@ Store",
                 "none"
             ],
-            "Lena": [
+            "Kirsten": [
                 "7)",
                 "@ Store",
                 "none"
             ],
-            "Lori": [
+            "Lena": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Mai": [
+            "Lori": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Marcia": [
+            "Mai": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Michelle": [
+            "Marcia": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Nagui": [
+            "Michelle": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Terri": [
+            "Nagui": [
                 "13)",
+                "@ Store",
+                "none"
+            ],
+            "Terri": [
+                "14)",
                 "@ Store",
                 "none"
             ]
