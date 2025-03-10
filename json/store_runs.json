@@ -877,7 +877,10 @@
         "link": [
             "https://goo.gl/maps/zvVRztkrfs42"
         ],
-        "store_note": [],
+        "store_note": [
+            "Carlie / Trevor to meet at 5:00 am at Grafton Park n Ride",
+            "*Carlie - still need to head to Ryan Rd PNR too"
+        ],
         "employee_list": {
             "DJ": [
                 "1)",
@@ -937,6 +940,11 @@
             "Sydney": [
                 "12)",
                 "",
+                "none"
+            ],
+            "Trevor": [
+                "13)",
+                "w/ Carlie",
                 "none"
             ]
         }
