@@ -1368,7 +1368,8 @@
             "https://goo.gl/maps/ABtzAZ2uGxT2"
         ],
         "store_note": [
-            "SET UP ON REG #1 <br><hr id=\"note_separator\">5:00 am meet for DJ / Greg / Katherine"
+            "SET UP ON REG #1 <br><hr id=\"note_separator\">5:00 am meet for DJ / Greg / Katherine",
+            "**If anyone is planning to drive to the store - please let Jake know**"
         ],
         "employee_list": {
             "DJ": [
@@ -1444,6 +1445,11 @@
             "Sydney": [
                 "15)",
                 "",
+                "none"
+            ],
+            "Trevor": [
+                "16)",
+                "@ Store",
                 "none"
             ]
         }
