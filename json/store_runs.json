@@ -1661,47 +1661,18 @@
     },
     {
         "date": "Thu, Mar 20",
-        "meet_time": [],
+        "meet_time": "5:00 AM OFFICE LEAVE TIME",
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "DHILLON'S STATION HUSTIS"
-        ],
-        "address": [
-            "326 W JUNEAU ST"
-        ],
-        "link": [
-            "https://goo.gl/maps/2MvPuCPioicrHiKc6"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Sarah": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Mar 20",
-        "meet_time": [],
-        "start_time": "Aivy",
-        "inv_type": [
-            "",
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "",
             "DHILLON'S STATION WILD GOOSE, JUNEAU"
         ],
         "address": [
-            "5:00 AM OFFICE LEAVE TIME",
             "W5948 WI-33"
         ],
         "link": [
-            "6:00 AM START",
             "https://maps.app.goo.gl/9TPQcR9AP9Sc5xxUA"
         ],
         "store_note": [],
