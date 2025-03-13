@@ -846,6 +846,11 @@
                 "2)",
                 "",
                 "none"
+            ],
+            "Sonia": [
+                "3)",
+                "1st Aurora",
+                "none"
             ]
         }
     },
@@ -884,7 +889,7 @@
             ],
             "Cynthia": [
                 "3)",
-                "",
+                "@ Store,\nAfter Aurora",
                 "none"
             ],
             "Greg": [
@@ -894,7 +899,7 @@
             ],
             "Ian": [
                 "5)",
-                "",
+                "@ Store,\nAfter Aurora",
                 "none"
             ],
             "Jerry D": [
@@ -924,7 +929,7 @@
             ],
             "Sonia": [
                 "11)",
-                "",
+                "@ Store,\nAfter Aurora",
                 "none"
             ],
             "Sydney": [
@@ -1339,7 +1344,7 @@
             ],
             "Cynthia": [
                 "2)",
-                "After Aurora",
+                "@ Store, After Aurora",
                 "none"
             ],
             "Greg": [
@@ -1349,7 +1354,7 @@
             ],
             "Ian": [
                 "4)",
-                "After Aurora",
+                "@ Store, After Aurora",
                 "none"
             ],
             "Jerry D": [
@@ -1394,7 +1399,7 @@
             ],
             "Sonia": [
                 "13)",
-                "",
+                "@ Store, After Aurora",
                 "none"
             ],
             "Sue": [
@@ -1442,6 +1447,11 @@
             "Cynthia": [
                 "2)",
                 "",
+                "none"
+            ],
+            "Sonia": [
+                "3)",
+                "2nd Aurora",
                 "none"
             ]
         }
