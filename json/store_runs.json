@@ -1070,53 +1070,63 @@
                 "Driver,\nOptima",
                 "none"
             ],
-            "Anisha": [
+            "Angela": [
                 "5)",
                 "@ Store",
                 "none"
             ],
-            "Elijah": [
+            "Anisha": [
                 "6)",
                 "@ Store",
                 "none"
             ],
-            "Emily L": [
+            "Elijah": [
                 "7)",
+                "@ Store",
+                "none"
+            ],
+            "Emily L": [
+                "8)",
                 "@ Store",
                 "Rockford"
             ],
             "Eva": [
-                "8)",
-                "@ Store",
-                "none"
-            ],
-            "Joseph": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Justin Lee": [
+            "Evelin": [
                 "10)",
-                "@ Store,\nRx",
+                "@ Store",
                 "none"
             ],
-            "Kayla": [
+            "Joseph": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Michael N": [
+            "Justin Lee": [
                 "12)",
+                "@ Store,\nRx",
+                "none"
+            ],
+            "Kayla": [
+                "13)",
+                "@ Store",
+                "none"
+            ],
+            "Michael N": [
+                "14) ",
                 "@ Store",
                 "Rockford"
             ],
             "Nate": [
-                "13)",
+                "15)",
                 "@ Store,\nSupv Rx",
                 "none"
             ],
             "Taylor": [
-                "14) ",
+                "16)",
                 "@ Store",
                 "none"
             ]
@@ -1157,48 +1167,53 @@
                 "",
                 "none"
             ],
-            "Greg": [
+            "DJ": [
                 "4)",
+                "",
+                "none"
+            ],
+            "Greg": [
+                "5)",
                 "Until 10:00",
                 "none"
             ],
             "Ian": [
-                "5)",
+                "6)",
                 "",
                 "none"
             ],
             "Jerry D": [
-                "6)",
+                "7)",
                 "",
                 "Milwaukee"
             ],
             "Lexi": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Monica": [
                 "8)",
                 "",
                 "none"
             ],
-            "Paul": [
+            "Monica": [
                 "9)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Paul": [
                 "10)",
                 "",
                 "none"
             ],
-            "Sydney": [
+            "Sonia": [
                 "11)",
                 "",
                 "none"
             ],
-            "Trevor": [
+            "Sydney": [
                 "12)",
+                "",
+                "none"
+            ],
+            "Trevor": [
+                "13)",
                 "w/ Carlie",
                 "none"
             ]
@@ -1227,113 +1242,68 @@
                 "@ Store",
                 "none"
             ],
-            "Jerry S": [
+            "Aivy": [
                 "2)",
+                "@ Store",
+                "none"
+            ],
+            "Jerry S": [
+                "3)",
                 "@ Store",
                 "Fox Valley"
             ],
             "Josie": [
-                "3)",
+                "4)",
                 "@ Store",
                 "none"
             ],
             "Kirsten": [
-                "4)",
+                "5)",
                 "@ Store",
                 "none"
             ],
             "Lena": [
-                "5)",
+                "6)",
                 "@ Store",
                 "none"
             ],
             "Lori": [
-                "6)",
+                "7)",
                 "@ Store",
                 "none"
             ],
             "Mai": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
-            "Marcia": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Michelle": [
+            "Marcia": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Nagui": [
+            "Michelle": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Taya": [
+            "Nagui": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Terri": [
+            "Sarah": [
                 "12)",
                 "@ Store",
                 "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Mar 18",
-        "meet_time": [],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "NEW - AMAN'S BEER + WINE, MUKWONAGO"
-        ],
-        "address": [
-            "110 CHAPMAN FARM BLVD"
-        ],
-        "link": [
-            "https://maps.app.goo.gl/z31tcvQnoT3Tmp4T9"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "@ Store, Equip",
-                "none"
             ],
-            "Lashaun": [
-                "2)",
-                "White Camry",
-                "none"
-            ],
-            "Aivy": [
-                "3)",
+            "Taya": [
+                "13)",
                 "@ Store",
                 "none"
             ],
-            "Angela": [
-                "4)",
-                "@ Store",
-                "none"
-            ],
-            "Evelin": [
-                "5)",
-                "@ Store",
-                "none"
-            ],
-            "Palmer": [
-                "6)",
-                "@ Store",
-                "none"
-            ],
-            "Sarah": [
-                "7)",
+            "Terri": [
+                "14)",
                 "@ Store",
                 "none"
             ]
