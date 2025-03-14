@@ -839,7 +839,7 @@
         "employee_list": {
             "Ian": [
                 "1)",
-                "Driver,\nSante Fe, Equip",
+                "Driver,\nRed Camry, Equip",
                 "none"
             ],
             "Cynthia": [
@@ -884,7 +884,7 @@
             ],
             "Carlie": [
                 "2)",
-                "Driver,\nRed Camry",
+                "Driver,\nSante Fe,\nTrain Sophia",
                 "none"
             ],
             "Cynthia": [
@@ -932,13 +932,18 @@
                 "@ Store,\nAfter Aurora",
                 "none"
             ],
-            "Sydney": [
+            "Sophia": [
                 "12)",
+                "1st Day, work w/ Carlie",
+                "none"
+            ],
+            "Sydney": [
+                "13)",
                 "",
                 "none"
             ],
             "Trevor": [
-                "13)",
+                "14)",
                 "w/ Carlie",
                 "none"
             ]
@@ -1162,63 +1167,73 @@
                 "Sante Fe available, Equip",
                 "none"
             ],
-            "Carlie": [
+            "Brenda": [
                 "2)",
-                "w/ Trevor",
+                "1st Day, work w/ Carlie",
+                "none"
+            ],
+            "Carlie": [
+                "3)",
+                "w/ Trevor,\nTrain Brenda",
                 "none"
             ],
             "Cynthia": [
-                "3)",
-                "",
-                "none"
-            ],
-            "DJ": [
                 "4)",
                 "",
                 "none"
             ],
-            "Greg": [
+            "DJ": [
                 "5)",
+                "",
+                "none"
+            ],
+            "Greg": [
+                "6)",
                 "Until 10:00",
                 "none"
             ],
             "Ian": [
-                "6)",
-                "",
+                "7)",
+                "Train Sophia",
                 "none"
             ],
             "Jerry D": [
-                "7)",
+                "8)",
                 "Until 11:45",
                 "Milwaukee"
             ],
             "Lexi": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Monica": [
                 "9)",
                 "",
                 "none"
             ],
-            "Paul": [
+            "Monica": [
                 "10)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Paul": [
                 "11)",
                 "",
                 "none"
             ],
-            "Sydney": [
+            "Sonia": [
                 "12)",
                 "",
                 "none"
             ],
-            "Trevor": [
+            "Sophia": [
                 "13)",
+                "1st Scan, work w/ Ian",
+                "none"
+            ],
+            "Sydney": [
+                "14)",
+                "",
+                "none"
+            ],
+            "Trevor": [
+                "15)",
                 "w/ Carlie",
                 "none"
             ]
@@ -1333,7 +1348,7 @@
             "https://goo.gl/maps/ABtzAZ2uGxT2"
         ],
         "store_note": [
-            "SET UP ON REG #1 <br><hr id=\"note_separator\">5:00 am meet for DJ / Greg / Katherine",
+            "SET UP ON REG #1 <br><hr id=\"note_separator\">5:00 am meet at Watertown Plank for DJ / Greg / Katherine",
             "**If anyone is planning to drive to the store - please let Jake know**"
         ],
         "employee_list": {
@@ -1342,78 +1357,83 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Cynthia": [
+            "Brenda": [
                 "2)",
+                "2nd Scan, work w/ Monica",
+                "none"
+            ],
+            "Cynthia": [
+                "3)",
                 "@ Store, After Aurora",
                 "none"
             ],
             "Greg": [
-                "3)",
+                "4)",
                 "@ Store,\nw/ DJ",
                 "none"
             ],
             "Ian": [
-                "4)",
+                "5)",
                 "@ Store, After Aurora",
                 "none"
             ],
             "Jerry D": [
-                "5)",
+                "6)",
                 "Driver,\nRed Van,\nRx",
                 "Milwaukee"
             ],
             "Justin Learned": [
-                "6)",
+                "7)",
                 "",
                 "none"
             ],
             "Katherine": [
-                "7)",
+                "8)",
                 "@ Store,\nw/ DJ",
                 "none"
             ],
             "Kim": [
-                "8)",
+                "9)",
                 "Driver,\nSante Fe,\nSupv Rx",
                 "none"
             ],
             "Lexi": [
-                "9)",
-                "",
-                "none"
-            ],
-            "Leyna": [
                 "10)",
                 "",
                 "none"
             ],
-            "Monica": [
+            "Leyna": [
                 "11)",
                 "",
                 "none"
             ],
-            "Paul": [
+            "Monica": [
                 "12)",
+                "Train Brenda",
+                "none"
+            ],
+            "Paul": [
+                "13)",
                 "",
                 "none"
             ],
             "Sonia": [
-                "13)",
+                "14) ",
                 "@ Store, After Aurora",
                 "none"
             ],
             "Sue": [
-                "14) ",
-                "",
-                "none"
-            ],
-            "Sydney": [
                 "15)",
                 "",
                 "none"
             ],
-            "Trevor": [
+            "Sydney": [
                 "16)",
+                "",
+                "none"
+            ],
+            "Trevor": [
+                "17)",
                 "@ Store",
                 "none"
             ]
@@ -1689,53 +1709,63 @@
                 "Equip",
                 "none"
             ],
-            "Cynthia": [
+            "Brenda": [
                 "2)",
-                "",
+                "3rd Scan, work w/ Lashaun",
                 "none"
             ],
-            "Greg": [
+            "Cynthia": [
                 "3)",
                 "",
                 "none"
             ],
-            "Jerry D": [
+            "Greg": [
                 "4)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "5)",
                 "",
                 "Milwaukee"
             ],
             "Lashaun": [
-                "5)",
-                "",
+                "6)",
+                "Trainer",
                 "none"
             ],
             "Lexi": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Leyna": [
                 "7)",
                 "",
                 "none"
             ],
-            "Monica": [
+            "Leyna": [
                 "8)",
                 "",
                 "none"
             ],
-            "Paul": [
+            "Monica": [
                 "9)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Paul": [
                 "10)",
                 "",
                 "none"
             ],
-            "Sydney": [
+            "Sonia": [
                 "11)",
+                "",
+                "none"
+            ],
+            "Sophia": [
+                "12)",
+                "2nd Scan, work w/ Lashaun",
+                "none"
+            ],
+            "Sydney": [
+                "13)",
                 "",
                 "none"
             ]
