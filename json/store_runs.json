@@ -723,23 +723,23 @@
     },
     {
         "date": "Thu, Mar 20",
-        "meet_time": [
-            "5:45 AM MEET BAYSHORE"
-        ],
-        "start_time": "6:30 AM START",
+        "meet_time": [],
+        "start_time": "Katherine",
         "inv_type": [
-            "DC5-FINANCIAL"
+            ""
         ],
         "store_name": [
-            "FESTIVAL #2704, SHEBOYGAN - LIFO"
+            "5:45 AM MEET BAYSHORE"
         ],
         "address": [
-            "595 S TAYLOR DR"
+            "6:30 AM START"
         ],
         "link": [
-            "https://goo.gl/maps/4PUH7pFz6i52"
+            "DC5-FINANCIAL"
         ],
-        "store_note": [],
+        "store_note": [
+            "FESTIVAL #2704, SHEBOYGAN - LIFO <br><hr id=\"note_separator\">595 S TAYLOR DR <br><hr id=\"note_separator\">https://goo.gl/maps/4PUH7pFz6i52"
+        ],
         "employee_list": {
             "Kim": [
                 "1)",
