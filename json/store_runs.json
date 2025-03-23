@@ -12,31 +12,31 @@
     },
     {
         "date": "Mon, Mar 24",
-        "meet_time": [
-            "5:00 AM MEET OFFICE"
-        ],
-        "start_time": "6:00 AM START",
+        "meet_time": [],
+        "start_time": "Kim",
         "inv_type": [
-            "DC5-FINANCIAL",
+            "",
             "DC5-FINANCIAL",
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "ROTE OIL #03 TWIN LAKES",
+            "5:00 AM MEET OFFICE",
             "ROTE OIL #04 GENOA CITY",
             "ROTE OIL #05  LAKE GENEVA"
         ],
         "address": [
-            "475 N LAKE AVE",
+            "6:00 AM START",
             "100 ELIZABETH LANE",
             "300 PELLER RD"
         ],
         "link": [
-            "https://goo.gl/maps/jNgJR8hii6jJGZQP7",
+            "DC5-FINANCIAL",
             "https://goo.gl/maps/DitGJzEvTVhJPxkJ8",
             "https://goo.gl/maps/6fegzT1PbyY5VkDR6"
         ],
-        "store_note": [],
+        "store_note": [
+            "ROTE OIL #03 TWIN LAKES <br><hr id=\"note_separator\">475 N LAKE AVE <br><hr id=\"note_separator\">https://goo.gl/maps/jNgJR8hii6jJGZQP7"
+        ],
         "employee_list": {
             "Katherine": [
                 "1)",
@@ -222,32 +222,34 @@
     {
         "date": "Tue, Mar 25",
         "meet_time": [],
-        "start_time": "5:30 AM START",
+        "start_time": "DJ",
         "inv_type": [
-            "DC5-FINANCIAL",
+            "",
             "DC5-FINANCIAL",
             "EXCEL FINANCIAL",
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "ROTE OIL #6 HUBERTUS",
+            "5:30 AM START",
             "ROTE OIL #7 MILWAUKEE",
             "ROTE OIL #8 ELM GROVE",
             "ROTE OIL #09 GREENFIELD"
         ],
         "address": [
-            "1306 HWY 175",
+            "DC5-FINANCIAL",
             "5931 N 91ST ST",
             "13395 WATERTOWN PLANK RD",
             "12345 W LAYTON AVE"
         ],
         "link": [
-            "https://goo.gl/maps/SZRuQ4FHA1cX2ZmC8",
+            "ROTE OIL #6 HUBERTUS",
             "https://goo.gl/maps/cw58s7atAhTAGHNd7",
             "https://goo.gl/maps/5zXAKpcRHDmA17UK9",
             "https://goo.gl/maps/TSgMUriHbJPX9hGE7"
         ],
-        "store_note": [],
+        "store_note": [
+            "1306 HWY 175 <br><hr id=\"note_separator\">https://goo.gl/maps/SZRuQ4FHA1cX2ZmC8"
+        ],
         "employee_list": {
             "Katherine": [
                 "1)",
