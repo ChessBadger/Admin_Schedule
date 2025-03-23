@@ -132,7 +132,7 @@
             ],
             "Brenda": [
                 "2)",
-                "1st Financial,\nTrain w/ Aivy",
+                "1st Financial,\nTrain w/ Jerry",
                 "none"
             ],
             "Cynthia": [
@@ -142,7 +142,7 @@
             ],
             "Jerry D": [
                 "4)",
-                "",
+                "Train Brenda",
                 "Milwaukee"
             ],
             "Justin Learned": [
@@ -160,24 +160,19 @@
                 "",
                 "none"
             ],
-            "Paul": [
+            "Nick": [
                 "8)",
                 "",
                 "none"
             ],
-            "Sophia": [
+            "Paul": [
                 "9)",
-                "2nd Financial,\nTrain w/ Lashaun",
+                "",
                 "none"
             ],
-            "Aivy": [
+            "Sophia": [
                 "10)",
-                "@ Store,\nTrain Brenda",
-                "none"
-            ],
-            "Sarah": [
-                "11)",
-                "@ Store",
+                "2nd Financial,\nTrain w/ Lashaun",
                 "none"
             ]
         }
