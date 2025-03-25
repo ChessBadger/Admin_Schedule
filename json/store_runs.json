@@ -465,12 +465,12 @@
             ],
             "Brenda": [
                 "2)",
-                "5th Scan,\nTrain w/ Carlie",
+                "5th Scan,\nTrain w/ Jerry",
                 "none"
             ],
             "Carlie": [
                 "3)",
-                "Train Brenda",
+                "Train Pamela",
                 "none"
             ],
             "Cynthia": [
@@ -490,7 +490,7 @@
             ],
             "Jerry D": [
                 "7)",
-                "",
+                "Train Brenda",
                 "Milwaukee"
             ],
             "Lexi": [
@@ -508,18 +508,23 @@
                 "",
                 "none"
             ],
-            "Paul": [
+            "Pamela": [
                 "11)",
-                "",
+                "1st Scan,\nwork w/ Carlie",
                 "none"
             ],
-            "Sonia": [
+            "Paul": [
                 "12)",
                 "",
                 "none"
             ],
-            "Sydney": [
+            "Sonia": [
                 "13)",
+                "",
+                "none"
+            ],
+            "Sydney": [
+                "14)",
                 "",
                 "none"
             ]
@@ -648,7 +653,7 @@
             ],
             "Carlie": [
                 "3)",
-                "Train Sophia",
+                "Train Pamela",
                 "none"
             ],
             "Cynthia": [
@@ -658,7 +663,7 @@
             ],
             "Ian": [
                 "5)",
-                "Train Brenda",
+                "Trainer",
                 "none"
             ],
             "Jerry D": [
@@ -686,19 +691,24 @@
                 "",
                 "none"
             ],
-            "Paul": [
+            "Pamela": [
                 "11)",
-                "",
+                "2nd Scan,\nwork w/ Carlie",
                 "none"
             ],
-            "Sonia": [
+            "Paul": [
                 "12)",
                 "",
                 "none"
             ],
-            "Sophia": [
+            "Sonia": [
                 "13)",
-                "4th Scan,\nTrain w/ Carlie",
+                "",
+                "none"
+            ],
+            "Sophia": [
+                "14)",
+                "4th Scan,\nTrain w/ Ian",
                 "none"
             ]
         }
@@ -785,12 +795,12 @@
             ],
             "Brenda": [
                 "2)",
-                "7th Scan,\nTrain w/ Carlie",
+                "7th Scan,\nTrain w/ Jerry",
                 "none"
             ],
             "Carlie": [
                 "3)",
-                "Trainer",
+                "Train Pamela",
                 "none"
             ],
             "Cynthia": [
@@ -805,7 +815,7 @@
             ],
             "Jerry D": [
                 "6)",
-                "",
+                "Trainer",
                 "Milwaukee"
             ],
             "Lexi": [
@@ -823,19 +833,24 @@
                 "",
                 "none"
             ],
-            "Paul": [
+            "Pamela": [
                 "10)",
-                "",
+                "3rd Scan,\nwork w/ Carlie",
                 "none"
             ],
-            "Sonia": [
+            "Paul": [
                 "11)",
                 "",
                 "none"
             ],
-            "Sophia": [
+            "Sonia": [
                 "12)",
-                "5th Scan,\nTrain w/ Carlie",
+                "",
+                "none"
+            ],
+            "Sophia": [
+                "13)",
+                "5th Scan,\nTrain w/ Jerry",
                 "none"
             ]
         }
