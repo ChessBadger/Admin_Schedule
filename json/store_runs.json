@@ -1024,23 +1024,28 @@
                 "Equip",
                 "none"
             ],
-            "Eva": [
+            "Ashley P": [
                 "2)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
-            "Evelin": [
+            "Eva": [
                 "3)",
                 "@ Store",
                 "none"
             ],
-            "Joseph": [
+            "Evelin": [
                 "4)",
                 "@ Store",
                 "none"
             ],
-            "Nate": [
+            "Joseph": [
                 "5)",
+                "@ Store",
+                "none"
+            ],
+            "Nate": [
+                "6)",
                 "@ Store",
                 "none"
             ]
@@ -1179,7 +1184,7 @@
             ],
             "Carlie": [
                 "2)",
-                "",
+                "Train Pamela",
                 "none"
             ],
             "Cynthia": [
@@ -1197,8 +1202,13 @@
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Pamela": [
                 "6)",
+                "1st Financial work w/ Carlie",
+                "none"
+            ],
+            "Sonia": [
+                "7)",
                 "",
                 "none"
             ]
@@ -1461,7 +1471,7 @@
             ],
             "Jerry D": [
                 "5)",
-                "Driver,\nRed Van",
+                "Driver,\nRed Van,\nTrain Pamela",
                 "Milwaukee"
             ],
             "Justin Learned": [
@@ -1484,43 +1494,48 @@
                 "",
                 "none"
             ],
-            "Paul": [
+            "Pamela": [
                 "10)",
-                "",
+                "4th Scan work w/ Jerry",
                 "none"
             ],
-            "Sonia": [
+            "Paul": [
                 "11)",
                 "",
                 "none"
             ],
-            "Sophia": [
+            "Sonia": [
                 "12)",
+                "",
+                "none"
+            ],
+            "Sophia": [
+                "13)",
                 "3rd week",
                 "none"
             ],
             "Sydney": [
-                "13)",
+                "14)",
                 "",
                 "none"
             ],
             "Angela": [
-                "14)",
-                "@ Store",
-                "none"
-            ],
-            "Anisha": [
                 "15)",
                 "@ Store",
                 "none"
             ],
-            "Josh S": [
+            "Anisha": [
                 "16)",
+                "@ Store",
+                "none"
+            ],
+            "Josh S": [
+                "17)",
                 "@ Store",
                 "Rockford"
             ],
             "Justin Lee": [
-                "17)",
+                "18)",
                 "@ Store",
                 "none"
             ]
@@ -1581,48 +1596,53 @@
                 "@ Store",
                 "none"
             ],
-            "Kirsten": [
+            "Josie": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Lena": [
+            "Kirsten": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Lori": [
+            "Lena": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Mai": [
+            "Lori": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Michelle": [
+            "Mai": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Nagui": [
+            "Michelle": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Nikki": [
+            "Nagui": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Sarah": [
+            "Nikki": [
                 "15)",
                 "@ Store",
                 "none"
             ],
-            "Taya": [
+            "Sarah": [
                 "16)",
+                "@ Store",
+                "none"
+            ],
+            "Taya": [
+                "17)",
                 "@ Store",
                 "none"
             ]
@@ -1798,7 +1818,7 @@
             ],
             "Jerry D": [
                 "7)",
-                "Driver,\nRed Van",
+                "Driver,\nRed Van,\nTrain Pamela",
                 "Milwaukee"
             ],
             "Katherine": [
@@ -1821,13 +1841,18 @@
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Pamela": [
                 "12)",
+                "5th Scan work w/ Jerry",
+                "none"
+            ],
+            "Sonia": [
+                "13)",
                 "",
                 "none"
             ],
             "Sophia": [
-                "13)",
+                "14)",
                 "3rd week",
                 "none"
             ]
