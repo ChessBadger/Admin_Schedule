@@ -668,7 +668,7 @@
             ],
             "Jerry D": [
                 "6)",
-                "",
+                "Train NasZire",
                 "Milwaukee"
             ],
             "Justin Learned": [
@@ -691,23 +691,28 @@
                 "",
                 "none"
             ],
-            "Pamela": [
+            "NasZire": [
                 "11)",
+                "1st Scan, work w/ Jerry",
+                "none"
+            ],
+            "Pamela": [
+                "12)",
                 "2nd Scan,\nwork w/ Carlie",
                 "none"
             ],
             "Paul": [
-                "12)",
-                "",
-                "none"
-            ],
-            "Sonia": [
                 "13)",
                 "",
                 "none"
             ],
-            "Sophia": [
+            "Sonia": [
                 "14)",
+                "",
+                "none"
+            ],
+            "Sophia": [
+                "15)",
                 "4th Scan,\nTrain w/ Ian",
                 "none"
             ]
@@ -795,7 +800,7 @@
             ],
             "Brenda": [
                 "2)",
-                "7th Scan,\nTrain w/ Jerry",
+                "7th Scan",
                 "none"
             ],
             "Carlie": [
@@ -815,7 +820,7 @@
             ],
             "Jerry D": [
                 "6)",
-                "Trainer",
+                "Train Pamela",
                 "Milwaukee"
             ],
             "Lexi": [
@@ -833,24 +838,29 @@
                 "",
                 "none"
             ],
-            "Pamela": [
+            "NasZire": [
                 "10)",
-                "3rd Scan,\nwork w/ Carlie",
+                "2nd Scan work w/ Carlie",
+                "none"
+            ],
+            "Pamela": [
+                "11)",
+                "3rd Scan,\nwork w/ Jerry",
                 "none"
             ],
             "Paul": [
-                "11)",
-                "",
-                "none"
-            ],
-            "Sonia": [
                 "12)",
                 "",
                 "none"
             ],
-            "Sophia": [
+            "Sonia": [
                 "13)",
-                "5th Scan,\nTrain w/ Jerry",
+                "",
+                "none"
+            ],
+            "Sophia": [
+                "14)",
+                "5th Scan",
                 "none"
             ]
         }
@@ -1301,68 +1311,73 @@
                 "",
                 "none"
             ],
-            "Sophia": [
+            "NasZire": [
                 "7)",
+                "3rd Scan, work w/ Michael",
+                "none"
+            ],
+            "Sophia": [
+                "8)",
                 "3rd week",
                 "none"
             ],
             "Sydney": [
-                "8)",
+                "9)",
                 "",
                 "none"
             ],
             "Anisha": [
-                "9)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Ashley P": [
-                "10)",
+                "11)",
                 "@ Store,\nSupv Rx",
                 "Rockford"
             ],
             "Elijah": [
-                "11)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Emily L": [
-                "12)",
+                "13)",
                 "@ Store",
                 "Rockford"
             ],
             "Eva": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
-            "Evelin": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Joseph": [
+            "Evelin": [
                 "15)",
                 "@ Store",
                 "none"
             ],
-            "Josh S": [
+            "Joseph": [
                 "16)",
+                "@ Store",
+                "none"
+            ],
+            "Josh S": [
+                "17)",
                 "@ Store",
                 "Rockford"
             ],
             "Kayla": [
-                "17)",
+                "18)",
                 "@ Store",
                 "none"
             ],
             "Michael N": [
-                "18)",
-                "@ Store,\nTrain Sophia",
+                "19)",
+                "@ Store,\nTrain NasZire",
                 "Rockford"
             ],
             "Taylor": [
-                "19)",
+                "20)",
                 "@ Store",
                 "none"
             ]
@@ -1798,7 +1813,7 @@
             ],
             "Carlie": [
                 "2)",
-                "Train Sophia",
+                "Train NasZire",
                 "none"
             ],
             "Cynthia": [
@@ -1846,18 +1861,23 @@
                 "",
                 "none"
             ],
-            "Pamela": [
+            "NasZire": [
                 "12)",
+                "4th Scan, work w/ Carlie",
+                "none"
+            ],
+            "Pamela": [
+                "13)",
                 "6th Scan work w/ Jerry",
                 "none"
             ],
             "Sonia": [
-                "13)",
+                "14)",
                 "",
                 "none"
             ],
             "Sophia": [
-                "14)",
+                "15)",
                 "3rd week",
                 "none"
             ]
