@@ -931,6 +931,11 @@
             "This manager is very recount happy, so just be prepared. SET UP ON REG #1 OR 2"
         ],
         "employee_list": {
+            "": [
+                "",
+                "",
+                "none"
+            ],
             "Kim": [
                 "1)",
                 "@ Store,\nSante Fe, Equip",
