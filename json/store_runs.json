@@ -904,24 +904,22 @@
     },
     {
         "date": "Fri, Apr 4",
-        "meet_time": [
-            "5:00 AM MEET OFFICE"
-        ],
-        "start_time": "6:00 AM START",
+        "meet_time": [],
+        "start_time": "Sante Fe went to Lutters - low tire",
         "inv_type": [
-            "DC5-ITEM LEVEL"
+            ""
         ],
         "store_name": [
-            "PICK #396, FORT ATKINSON"
+            "5:00 AM MEET OFFICE"
         ],
         "address": [
-            "1505 MADISON AVENUE"
+            "6:00 AM START"
         ],
         "link": [
-            "https://goo.gl/maps/AXaUiQoEDp72"
+            "DC5-ITEM LEVEL"
         ],
         "store_note": [
-            "This manager is very recount happy, so just be prepared. SET UP ON REG #1 OR 2"
+            "PICK #396, FORT ATKINSON <br><hr id=\"note_separator\">1505 MADISON AVENUE <br><hr id=\"note_separator\">https://goo.gl/maps/AXaUiQoEDp72 <br><hr id=\"note_separator\">This manager is very recount happy, so just be prepared. SET UP ON REG #1 OR 2"
         ],
         "employee_list": {
             "": [
@@ -1030,24 +1028,22 @@
     },
     {
         "date": "Mon, Apr 7",
-        "meet_time": [
-            "4:15 AM MEET BAYSHORE"
-        ],
-        "start_time": "6:00 AM START",
+        "meet_time": [],
+        "start_time": "Sante Fe should be done at Lutters (low tire on Friday)",
         "inv_type": [
-            "DC5-FINANCIAL"
+            ""
         ],
         "store_name": [
-            "PIGGLY WIGGLY #383, DEPERE"
+            "4:15 AM MEET BAYSHORE"
         ],
         "address": [
-            "575 SWAN ROAD"
+            "6:00 AM START"
         ],
         "link": [
-            "https://goo.gl/maps/YM5hDJLPMhE2"
+            "DC5-FINANCIAL"
         ],
         "store_note": [
-            "Ian hold open a spot to pick up Carlie @ Grafton 4:35 am"
+            "PIGGLY WIGGLY #383, DEPERE <br><hr id=\"note_separator\">575 SWAN ROAD <br><hr id=\"note_separator\">https://goo.gl/maps/YM5hDJLPMhE2 <br><hr id=\"note_separator\">Ian hold open a spot to pick up Carlie @ Grafton 4:35 am"
         ],
         "employee_list": {
             "DJ": [
@@ -1067,7 +1063,7 @@
             ],
             "Ian": [
                 "4)",
-                "Driver,\nSante Fe",
+                "Driver,\nOptima",
                 "none"
             ],
             "Katherine": [
@@ -1807,7 +1803,7 @@
             ],
             "Paul": [
                 "12)",
-                "",
+                "Until 12:45",
                 "none"
             ],
             "Sydney": [
