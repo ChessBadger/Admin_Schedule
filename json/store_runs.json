@@ -1014,7 +1014,7 @@
             "https://goo.gl/maps/ynTuKFekbGQ2"
         ],
         "store_note": [
-            "STORE RESET-REMAPPED"
+            "STORE RESET-REMAPPED <br><hr id=\"note_separator\">Lashaun hold open a spot to pick up Carlie @ Grafton 5:35 am"
         ],
         "employee_list": {
             "DJ": [
@@ -1027,54 +1027,54 @@
                 "",
                 "none"
             ],
-            "Greg": [
+            "Carlie": [
                 "3)",
                 "",
                 "none"
             ],
-            "Jerry D": [
+            "Greg": [
                 "4)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "5)",
                 "Driver,\nRed Van",
                 "Milwaukee"
             ],
             "Katherine": [
-                "5)",
+                "6)",
                 "@ Store, After Aurora",
                 "none"
             ],
             "Lashaun": [
-                "6)",
+                "7)",
                 "Driver,\nWhite Camry",
                 "none"
             ],
             "Leyna": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Monica": [
                 "8)",
                 "",
                 "none"
             ],
-            "Pamela": [
+            "Monica": [
                 "9)",
                 "",
                 "none"
             ],
-            "Paul": [
+            "Pamela": [
                 "10)",
                 "",
                 "none"
             ],
-            "Sophia": [
+            "Paul": [
                 "11)",
                 "",
                 "none"
             ],
-            "Terri": [
+            "Sophia": [
                 "12)",
-                "@ Store",
+                "",
                 "none"
             ]
         }
@@ -1138,40 +1138,18 @@
     },
     {
         "date": "Mon, Apr 14",
-        "meet_time": [
-            "5:30 AM MEET RYAN RD PNR (HWY 100 & 94)"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL",
-            "DC5-ITEM LEVEL"
-        ],
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
         "store_name": [
-            "ASCENSION COMMUNITY RX #1100-WISC, RACINE",
-            "ASCENSION COMMUNITY RX #1101-SPRING ST, RACINE"
+            "Office"
         ],
-        "address": [
-            "1244 WISCONSIN AVE",
-            "3807 SPRING ST"
-        ],
-        "link": [
-            "https://goo.gl/maps/tu42wujVwN92",
-            "https://goo.gl/maps/345cLtjsHsD2"
-        ],
+        "address": [],
+        "link": [],
         "store_note": [],
         "employee_list": {
             "Kim": [
-                "1)",
-                "Equip",
-                "none"
-            ],
-            "Carlie": [
-                "2)",
-                "Driver,\nRed Camry",
-                "none"
-            ],
-            "Cynthia": [
-                "3)",
+                "",
                 "",
                 "none"
             ]
@@ -1607,18 +1585,35 @@
     },
     {
         "date": "Fri, Apr 18",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [
-            "Office"
+        "meet_time": [
+            "5:30 AM MEET RYAN RD PNR (HWY 100 & 94)"
         ],
-        "address": [],
-        "link": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL",
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "ASCENSION COMMUNITY RX #1100-WISC, RACINE",
+            "ASCENSION COMMUNITY RX #1101-SPRING ST, RACINE"
+        ],
+        "address": [
+            "1244 WISCONSIN AVE",
+            "3807 SPRING ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/tu42wujVwN92",
+            "https://goo.gl/maps/345cLtjsHsD2"
+        ],
         "store_note": [],
         "employee_list": {
             "Kim": [
-                "",
+                "1)",
+                "Driver,\nWhite Camry, Equip",
+                "none"
+            ],
+            "Cynthia": [
+                "2)",
                 "",
                 "none"
             ]
