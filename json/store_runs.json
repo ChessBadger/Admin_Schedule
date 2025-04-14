@@ -401,15 +401,17 @@
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "SHELL (DINO STOP), MANITOWOC"
+            "CONTACT IS MARVIN"
         ],
         "address": [
-            "5050 HECKER RD"
+            "SHELL (DINO STOP), MANITOWOC"
         ],
         "link": [
+            "5050 HECKER RD"
+        ],
+        "store_note": [
             "https://maps.app.goo.gl/FpQmW7uTjKMUDrpe8"
         ],
-        "store_note": [],
         "employee_list": {
             "Ian": [
                 "1)",
