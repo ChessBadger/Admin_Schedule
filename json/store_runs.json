@@ -924,23 +924,25 @@
     },
     {
         "date": "Fri, Apr 25",
-        "meet_time": [
-            "5:00 AM MEET OFFICE"
-        ],
-        "start_time": "6:00 AM START",
+        "meet_time": [],
+        "start_time": "DJ",
         "inv_type": [
+            "",
             "DC5-FINANCIAL",
             "DC5-FINANCIAL"
         ],
         "store_name": [
+            "",
             "ROTE OIL #14 TREVOR (CITGO)",
             "ROTE OIL #13 TREVOR (BP)"
         ],
         "address": [
+            "5:00 AM MEET OFFICE",
             "12617 ANTIOCH RD",
             "12511 ANTIOCH RD"
         ],
         "link": [
+            "6:00 AM START",
             "https://goo.gl/maps/xA9YMzPGc6Vhxi5r8",
             "https://goo.gl/maps/iu3xzNwgJ32esP5RA"
         ],
@@ -1270,20 +1272,22 @@
     },
     {
         "date": "Mon, Apr 28",
-        "meet_time": [
-            "5:15 AM MEET OFFICE"
-        ],
-        "start_time": "6:00 AM START",
+        "meet_time": [],
+        "start_time": "DJ",
         "inv_type": [
+            "Kim",
             "DC5-FINANCIAL"
         ],
         "store_name": [
+            "",
             "PIGGLY WIGGLY #077, WATERTOWN"
         ],
         "address": [
+            "5:15 AM MEET OFFICE",
             "1330 MEMORIAL DR"
         ],
         "link": [
+            "6:00 AM START",
             "https://goo.gl/maps/MeUw1KTwPtx"
         ],
         "store_note": [],
@@ -1553,20 +1557,22 @@
     },
     {
         "date": "Wed, Apr 30",
-        "meet_time": [
-            "6:15 AM MEET OFFICE"
-        ],
-        "start_time": "7:00 AM START",
+        "meet_time": [],
+        "start_time": "Kim",
         "inv_type": [
+            "Katherine",
             "DC5-FINANCIAL"
         ],
         "store_name": [
+            "",
             "LAKE MILLS MARKET - LIFO"
         ],
         "address": [
+            "6:15 AM MEET OFFICE",
             "375 W TYRANENA PARK RD"
         ],
         "link": [
+            "7:00 AM START",
             "https://goo.gl/maps/cfS4PK9kPnv2ivfa8"
         ],
         "store_note": [
