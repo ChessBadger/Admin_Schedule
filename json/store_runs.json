@@ -1093,11 +1093,6 @@
                 "6)",
                 "@ Store",
                 "none"
-            ],
-            "Nagui": [
-                "7)",
-                "@ Store",
-                "none"
             ]
         }
     },
@@ -1119,7 +1114,7 @@
         ],
         "store_note": [
             "**TEST SITE",
-            "Jeremiah <br><hr id=\"note_separator\">Kirsten <br><hr id=\"note_separator\">Lashaun <br><hr id=\"note_separator\">Marcia <br><hr id=\"note_separator\">Palmer"
+            "Jeremiah <br><hr id=\"note_separator\">Kirsten <br><hr id=\"note_separator\">Lashaun <br><hr id=\"note_separator\">Marcia <br><hr id=\"note_separator\">Nagui <br><hr id=\"note_separator\">Palmer"
         ],
         "employee_list": {
             "": [
