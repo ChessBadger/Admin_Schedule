@@ -1228,17 +1228,17 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "DJ": [
+            "Cynthia": [
                 "2)",
+                "",
+                "none"
+            ],
+            "DJ": [
+                "3)",
                 "Driver,\nAltima",
                 "none"
             ],
             "Katherine": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Sonia": [
                 "4)",
                 "",
                 "none"
@@ -1253,13 +1253,8 @@
                 "@ Store",
                 "none"
             ],
-            "Evelin": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
             "Qiana": [
-                "8)",
+                "7)",
                 "@ Store",
                 "none"
             ]
