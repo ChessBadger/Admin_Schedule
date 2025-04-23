@@ -773,7 +773,7 @@
                 "Driver,\nSante Fe,\nSupv Rx",
                 "none"
             ],
-            "Kim": [
+            "Lashaun": [
                 "6)",
                 "Driver,\nWhite Camry",
                 "none"
@@ -864,60 +864,32 @@
                 "5)",
                 "",
                 "none"
-            ],
-            "Lashaun": [
-                "6)",
+            ]
+        }
+    },
+    {
+        "date": "Thu, Apr 24",
+        "meet_time": [],
+        "start_time": "Leyna",
+        "inv_type": [
+            "Kirsten"
+        ],
+        "store_name": [
+            "Lena"
+        ],
+        "address": [
+            "Madison"
+        ],
+        "link": [
+            "Mai"
+        ],
+        "store_note": [
+            "Marcia <br><hr id=\"note_separator\">Michelle <br><hr id=\"note_separator\">Nagui <br><hr id=\"note_separator\">Taya <br><hr id=\"note_separator\">Terri"
+        ],
+        "employee_list": {
+            "": [
                 "",
-                "none"
-            ],
-            "Leyna": [
-                "7)",
                 "",
-                "none"
-            ],
-            "Kirsten": [
-                "8)",
-                "@ Store",
-                "none"
-            ],
-            "Lena": [
-                "9)",
-                "@ Store",
-                "none"
-            ],
-            "Madison": [
-                "10)",
-                "@ Store",
-                "none"
-            ],
-            "Mai": [
-                "11)",
-                "@ Store",
-                "none"
-            ],
-            "Marcia": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
-            "Michelle": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
-            "Nagui": [
-                "14)",
-                "@ Store",
-                "none"
-            ],
-            "Taya": [
-                "15)",
-                "@ Store",
-                "none"
-            ],
-            "Terri": [
-                "16)",
-                "@ Store",
                 "none"
             ]
         }
