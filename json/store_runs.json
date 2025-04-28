@@ -246,7 +246,7 @@
         "employee_list": {
             "Kim": [
                 "1)",
-                "@ Store,\nWhite Camry, Equip",
+                "Driver\nRed Van, Equip",
                 "none"
             ],
             "Caitlin": [
@@ -269,53 +269,48 @@
                 "Driver,\nSante Fe",
                 "none"
             ],
-            "Jerry D": [
-                "6)",
-                "Driver,\nRed Van",
-                "Milwaukee"
-            ],
             "Justin Learned": [
-                "7)",
+                "6)",
                 "",
                 "none"
             ],
             "Lexi": [
-                "8)",
+                "7)",
                 "",
                 "none"
             ],
             "Leyna": [
-                "9)",
+                "8)",
                 "",
                 "none"
             ],
             "Monica": [
-                "10)",
+                "9)",
                 "",
                 "none"
             ],
             "NasZire": [
-                "11)",
+                "10)",
                 "",
                 "none"
             ],
             "Pamela": [
-                "12)",
+                "11)",
                 "",
                 "none"
             ],
             "Paul": [
-                "13)",
+                "12)",
                 "",
                 "none"
             ],
             "Sonia": [
-                "14)",
+                "13)",
                 "",
                 "none"
             ],
             "Sydney": [
-                "15)",
+                "14)",
                 "",
                 "none"
             ]
@@ -563,9 +558,7 @@
     },
     {
         "date": "Thu, May 1",
-        "meet_time": [
-            "4:45 AM MEET WATERTOWN PLANK"
-        ],
+        "meet_time": "4:30 AM OFFICE LEAVE TIME",
         "start_time": "6:30 AM START",
         "inv_type": [
             "DC5-FINANCIAL"
@@ -609,43 +602,53 @@
                 "@ Store",
                 "Fox Valley"
             ],
-            "Kirsten": [
+            "Josie": [
                 "6)",
                 "@ Store",
                 "none"
             ],
-            "Lena": [
+            "Kirsten": [
                 "7)",
                 "@ Store",
                 "none"
             ],
-            "Madison": [
+            "Lena": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Mai": [
+            "Lori": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Michelle": [
+            "Madison": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Nagui": [
+            "Mai": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Taya": [
+            "Michelle": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Terri": [
+            "Nagui": [
                 "13)",
+                "@ Store",
+                "none"
+            ],
+            "Taya": [
+                "14)",
+                "@ Store",
+                "none"
+            ],
+            "Terri": [
+                "15)",
                 "@ Store",
                 "none"
             ]
