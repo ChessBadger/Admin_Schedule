@@ -387,7 +387,7 @@
             ],
             "Jerry D": [
                 "4)",
-                "Driver,\nRed Van",
+                "Driver,\nOptima",
                 "Milwaukee"
             ],
             "Monica": [
@@ -517,30 +517,32 @@
     {
         "date": "Thu, May 1",
         "meet_time": [],
-        "start_time": "6:30 AM RACINE COURT(HWY 43 & Y)",
+        "start_time": "Red Van at Lutters",
         "inv_type": [
-            "SAME OWNER (ROOP) FOR ALL 3 STORES NOW",
+            "",
+            "DC5-FINANCIAL",
             "DC5-FINANCIAL",
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "7:00 AM START",
+            "6:30 AM RACINE COURT(HWY 43 & Y)",
+            "KANSASVILLE CITGO QUICK MART, KANSASVILLE",
             "TWIN LAKES CITGO, TWIN LAKES",
             "SALEM MINI MART, SALEM LAKES"
         ],
         "address": [
-            "DC5-FINANCIAL",
+            "SAME OWNER (ROOP) FOR ALL 3 STORES NOW",
+            "23010 DURAND AVE",
             "410 N LAKE AVE",
             "8246 ANTIOCH RD"
         ],
         "link": [
-            "KANSASVILLE CITGO QUICK MART, KANSASVILLE",
+            "7:00 AM START",
+            "https://goo.gl/maps/QZs8ZSjv9eL2",
             "https://goo.gl/maps/k9s2GwpMbH32",
             "https://maps.app.goo.gl/ZEqzzGe3bVPyYJ6BA"
         ],
-        "store_note": [
-            "23010 DURAND AVE <br><hr id=\"note_separator\">https://goo.gl/maps/QZs8ZSjv9eL2"
-        ],
+        "store_note": [],
         "employee_list": {
             "Katherine": [
                 "1)",
@@ -602,58 +604,53 @@
                 "Driver,\nWhite Camry",
                 "Milwaukee"
             ],
-            "Monica": [
-                "5)",
-                "",
-                "none"
-            ],
             "Annette": [
-                "6)",
+                "5)",
                 "@ Store",
                 "none"
             ],
             "Jerry S": [
-                "7)",
+                "6)",
                 "@ Store",
                 "Fox Valley"
             ],
             "Kirsten": [
-                "8)",
+                "7)",
                 "@ Store",
                 "none"
             ],
             "Lena": [
-                "9)",
+                "8)",
                 "@ Store",
                 "none"
             ],
             "Madison": [
-                "10)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Mai": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Michelle": [
-                "12)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Nagui": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Taya": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Terri": [
-                "15)",
+                "14)",
                 "@ Store",
                 "none"
             ]
@@ -757,7 +754,7 @@
             ],
             "Jerry D": [
                 "6)",
-                "Driver,\nRed Van",
+                "Driver,\nOptima",
                 "Milwaukee"
             ],
             "Kim": [
@@ -1576,7 +1573,7 @@
                 "",
                 "none"
             ],
-            "Monica": [
+            "Leyna": [
                 "8)",
                 "",
                 "none"
@@ -1645,9 +1642,9 @@
                 "",
                 "none"
             ],
-            "Leyna": [
+            "Monica": [
                 "3)",
-                "",
+                "Until noon",
                 "none"
             ]
         }
