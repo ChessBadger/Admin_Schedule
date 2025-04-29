@@ -362,7 +362,7 @@
         "employee_list": {
             "DJ": [
                 "1)",
-                "@ Store, Equip",
+                "Driver, Altima, Equip",
                 "none"
             ],
             "Cynthia": [
@@ -375,38 +375,33 @@
                 "",
                 "none"
             ],
-            "Jerry D": [
-                "4)",
-                "Driver,\nOptima",
-                "Milwaukee"
-            ],
             "Monica": [
-                "5)",
+                "4)",
                 "",
                 "none"
             ],
             "Angela": [
-                "6)",
+                "5)",
                 "@ Store",
                 "none"
             ],
             "Anisha": [
-                "7)",
+                "6)",
                 "@ Store",
                 "none"
             ],
             "Evelin": [
-                "8)",
+                "7)",
                 "@ Store",
                 "none"
             ],
             "Michael N": [
-                "9)",
+                "8)",
                 "@ Store",
                 "Rockford"
             ],
             "Nate": [
-                "10)",
+                "9)",
                 "@ Store",
                 "none"
             ]
