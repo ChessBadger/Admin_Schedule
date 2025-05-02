@@ -1040,24 +1040,22 @@
     },
     {
         "date": "Tue, May 6",
-        "meet_time": [
-            "4:30 AM MEET RYAN RD PNR (HWY 100 & 94)"
-        ],
-        "start_time": "6:00 AM START",
+        "meet_time": [],
+        "start_time": "Oil change for Optima",
         "inv_type": [
-            "DC5-ITEM LEVEL"
+            ""
         ],
         "store_name": [
-            "MARIANO'S #515 +RX, CHICAGO - LAWRENCE AND RAVENSWOOD"
+            "4:30 AM MEET RYAN RD PNR (HWY 100 & 94)"
         ],
         "address": [
-            "1800 WEST LAWRENCE AVE"
+            "6:00 AM START"
         ],
         "link": [
-            "https://goo.gl/maps/fhp2WWuMFCQ2"
+            "DC5-ITEM LEVEL"
         ],
         "store_note": [
-            "SET UP ON REG #1"
+            "MARIANO'S #515 +RX, CHICAGO - LAWRENCE AND RAVENSWOOD <br><hr id=\"note_separator\">1800 WEST LAWRENCE AVE <br><hr id=\"note_separator\">https://goo.gl/maps/fhp2WWuMFCQ2 <br><hr id=\"note_separator\">SET UP ON REG #1"
         ],
         "employee_list": {
             "Nate": [
@@ -1288,34 +1286,34 @@
                 "",
                 "none"
             ],
-            "Greg": [
+            "Cynthia": [
                 "3)",
+                "@ Store, After Aurora",
+                "none"
+            ],
+            "Greg": [
+                "4)",
                 "",
                 "none"
             ],
             "Ian": [
-                "4)",
+                "5)",
                 "@ Store, After Aurora",
                 "none"
             ],
             "Jerry D": [
-                "5)",
+                "6)",
                 "Driver,\nRed Van,\nRx",
                 "Milwaukee"
             ],
             "Lexi": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Leyna": [
                 "7)",
                 "",
                 "none"
             ],
-            "Monica": [
+            "Leyna": [
                 "8)",
-                "@ Store, After Aurora",
+                "",
                 "none"
             ],
             "Sonia": [
@@ -1398,9 +1396,9 @@
                 "",
                 "none"
             ],
-            "Cynthia": [
+            "Monica": [
                 "3)",
-                "",
+                "Until 11:00",
                 "none"
             ]
         }
@@ -1469,7 +1467,7 @@
                 "Driver,\nSante Fe, Equip",
                 "none"
             ],
-            "Monica": [
+            "Cynthia": [
                 "2)",
                 "",
                 "none"
@@ -1627,7 +1625,7 @@
             ],
             "Cynthia": [
                 "2)",
-                "",
+                "Until 11:00",
                 "none"
             ],
             "Paul": [
