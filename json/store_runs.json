@@ -1021,18 +1021,23 @@
                 "",
                 "none"
             ],
-            "Lena": [
+            "Sue": [
                 "5)",
-                "@ Store",
+                "",
                 "none"
             ],
-            "Lori": [
+            "Lena": [
                 "6)",
                 "@ Store",
                 "none"
             ],
-            "Nagui": [
+            "Lori": [
                 "7)",
+                "@ Store",
+                "none"
+            ],
+            "Nagui": [
+                "8)",
                 "@ Store",
                 "none"
             ]
@@ -1539,23 +1544,28 @@
                 "",
                 "none"
             ],
-            "Sydney": [
+            "Sue": [
                 "9)",
                 "",
                 "none"
             ],
-            "Angela": [
+            "Sydney": [
                 "10)",
+                "",
+                "none"
+            ],
+            "Angela": [
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Ashley P": [
-                "11)",
+                "12)",
                 "@ Store",
                 "Rockford"
             ],
             "Joseph": [
-                "12)",
+                "13)",
                 "@ Store",
                 "none"
             ]
