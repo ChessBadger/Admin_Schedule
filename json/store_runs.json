@@ -951,7 +951,7 @@
         "meet_time": [],
         "start_time": "7:00 AM START",
         "inv_type": [
-            "DC5-FINANCIAL"
+            "DC5-ITEM LEVEL"
         ],
         "store_name": [
             "OPEN PANTRY #612, BROOKFIELD"
@@ -1415,7 +1415,7 @@
         ],
         "start_time": "7:00 AM START",
         "inv_type": [
-            "DC5-ITEM LEVEL SCAN"
+            "DC5-ITEM LEVEL"
         ],
         "store_name": [
             "OPEN PANTRY #493, RACINE"
@@ -1615,7 +1615,7 @@
         "meet_time": [],
         "start_time": "7:00 AM START",
         "inv_type": [
-            "DC5-FINANCIAL"
+            "DC5-ITEM LEVEL"
         ],
         "store_name": [
             "OPEN PANTRY #614, MILWAUKEE"
@@ -1650,7 +1650,7 @@
         "meet_time": [],
         "start_time": "7:00 AM START",
         "inv_type": [
-            "DC5-FINANCIAL"
+            "DC5-ITEM LEVEL"
         ],
         "store_name": [
             "OPEN PANTRY #605, BAYSIDE (MILWAUKEE)"
