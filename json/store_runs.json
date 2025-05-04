@@ -13,20 +13,22 @@
     {
         "date": "Mon, May 5",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "Katherine",
         "inv_type": [
-            "DC5-FINANCIAL"
+            "Ian"
         ],
         "store_name": [
-            "PIGGLY WIGGLY #071, MILWAUKEE"
+            ""
         ],
         "address": [
-            "123 W OKLAHOMA AVE"
+            "6:00 AM START"
         ],
         "link": [
-            "https://goo.gl/maps/yCWZ2yEy83T2"
+            "DC5-FINANCIAL"
         ],
-        "store_note": [],
+        "store_note": [
+            "PIGGLY WIGGLY #071, MILWAUKEE <br><hr id=\"note_separator\">123 W OKLAHOMA AVE <br><hr id=\"note_separator\">https://goo.gl/maps/yCWZ2yEy83T2"
+        ],
         "employee_list": {
             "DJ": [
                 "1)",
@@ -440,20 +442,22 @@
     },
     {
         "date": "Wed, May 7",
-        "meet_time": [
-            "4:15 AM MEET RYAN RD PNR (HWY 100 & 94)"
-        ],
-        "start_time": "6:00 AM START",
+        "meet_time": [],
+        "start_time": "Ian",
         "inv_type": [
+            "",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
+            "",
             "MARIANO'S #535 +RX, \nORLAND PARK"
         ],
         "address": [
+            "4:15 AM MEET RYAN RD PNR (HWY 100 & 94)",
             "9504 142ND ST"
         ],
         "link": [
+            "6:00 AM START",
             "https://goo.gl/maps/x3S76RraqQ82"
         ],
         "store_note": [
@@ -665,20 +669,22 @@
     },
     {
         "date": "Thu, May 8",
-        "meet_time": [
-            "5:15 AM MEET RYAN RD PNR (HWY 100 & 94)"
-        ],
-        "start_time": "6:00 AM START",
+        "meet_time": [],
+        "start_time": "Katherine",
         "inv_type": [
+            "",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
+            "",
             "MARIANO'S #523 +RX, GURNEE"
         ],
         "address": [
+            "5:15 AM MEET RYAN RD PNR (HWY 100 & 94)",
             "6655 GRAND AVE"
         ],
         "link": [
+            "6:00 AM START",
             "https://goo.gl/maps/SV1CeAGfq1s"
         ],
         "store_note": [],
@@ -827,20 +833,22 @@
     {
         "date": "Fri, May 9",
         "meet_time": [],
-        "start_time": "7:00 AM START",
+        "start_time": "Kim",
         "inv_type": [
-            "DC5-ITEM LEVEL"
+            ""
         ],
         "store_name": [
-            "OPEN PANTRY #605, BAYSIDE (MILWAUKEE)"
+            ""
         ],
         "address": [
-            "501 W BROWN DEER RD"
+            "7:00 AM START"
         ],
         "link": [
-            "https://goo.gl/maps/pQaSRAn88Vh6DAQ58"
+            "DC5-ITEM LEVEL"
         ],
-        "store_note": [],
+        "store_note": [
+            "OPEN PANTRY #605, BAYSIDE (MILWAUKEE) <br><hr id=\"note_separator\">501 W BROWN DEER RD <br><hr id=\"note_separator\">https://goo.gl/maps/pQaSRAn88Vh6DAQ58"
+        ],
         "employee_list": {
             "Katherine": [
                 "1)",
