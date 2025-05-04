@@ -372,43 +372,48 @@
                 "Rx",
                 "Milwaukee"
             ],
-            "NasZire": [
+            "Monica": [
                 "5)",
                 "",
                 "none"
             ],
-            "Paul": [
+            "NasZire": [
                 "6)",
+                "",
+                "none"
+            ],
+            "Paul": [
+                "7)",
                 "Until 9:30",
                 "none"
             ],
             "Sonia": [
-                "7)",
+                "8)",
                 "",
                 "none"
             ],
             "Annette": [
-                "8)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Jerry S": [
-                "9)",
+                "10)",
                 "@ Store",
                 "Fox Valley"
             ],
             "Josie": [
-                "10)",
-                "@ Store",
-                "none"
-            ],
-            "Lori": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Sarah": [
+            "Lori": [
                 "12)",
+                "@ Store",
+                "none"
+            ],
+            "Sarah": [
+                "13)",
                 "@ Store,\nSupv Rx",
                 "none"
             ]
