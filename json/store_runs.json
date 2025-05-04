@@ -1074,63 +1074,68 @@
                 "Driver,\nSante Fe",
                 "Milwaukee"
             ],
-            "Paul": [
+            "Monica": [
                 "3)",
                 "",
                 "none"
             ],
-            "Angela": [
+            "Paul": [
                 "4)",
-                "@ Store",
+                "",
                 "none"
             ],
-            "Anisha": [
+            "Angela": [
                 "5)",
                 "@ Store",
                 "none"
             ],
-            "Ashley P": [
+            "Anisha": [
                 "6)",
+                "@ Store",
+                "none"
+            ],
+            "Ashley P": [
+                "7)",
                 "@ Store,\nRx",
                 "Rockford"
             ],
             "Brianna": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
-            "Elijah": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Eva": [
+            "Elijah": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Joseph": [
+            "Eva": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Josh S": [
+            "Joseph": [
                 "11)",
+                "@ Store",
+                "none"
+            ],
+            "Josh S": [
+                "12)",
                 "@ Store",
                 "Rockford"
             ],
             "Justin Lee": [
-                "12)",
+                "13)",
                 "@ Store,\nSupv Rx",
                 "none"
             ],
             "Michael N": [
-                "13)",
+                "14)",
                 "@ Store",
                 "Rockford"
             ],
             "Taylor": [
-                "14)",
+                "15)",
                 "@ Store",
                 "none"
             ]
@@ -1552,78 +1557,83 @@
                 "Driver,\nSante Fe,\nRx",
                 "Milwaukee"
             ],
-            "Paul": [
+            "Monica": [
                 "3)",
                 "",
                 "none"
             ],
-            "Angela": [
+            "Paul": [
                 "4)",
-                "@ Store",
+                "",
                 "none"
             ],
-            "Anisha": [
+            "Angela": [
                 "5)",
                 "@ Store",
                 "none"
             ],
-            "Ashley P": [
+            "Anisha": [
                 "6)",
+                "@ Store",
+                "none"
+            ],
+            "Ashley P": [
+                "7)",
                 "@ Store,\nSupv Rx",
                 "Rockford"
             ],
             "Brianna": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
-            "Elijah": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Eva": [
+            "Elijah": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Evelin": [
+            "Eva": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Joseph": [
+            "Evelin": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Josh S": [
+            "Joseph": [
                 "12)",
+                "@ Store",
+                "none"
+            ],
+            "Josh S": [
+                "13)",
                 "@ Store",
                 "Rockford"
             ],
             "Justin Lee": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
-            "Kayla": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Michael N": [
+            "Kayla": [
                 "15)",
+                "@ Store",
+                "none"
+            ],
+            "Michael N": [
+                "16)",
                 "@ Store",
                 "Rockford"
             ],
             "Qiana": [
-                "16)",
+                "17)",
                 "@ Store",
                 "none"
             ],
             "Taylor": [
-                "17)",
+                "18)",
                 "@ Store",
                 "none"
             ]
@@ -1637,7 +1647,7 @@
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "PICK #880 +RX, GLENDALE-SILVER SPRING"
+            "PICK #880 +RX, GLENDALE - SILVER SPRING"
         ],
         "address": [
             "1735 W SILVER SPRING"
