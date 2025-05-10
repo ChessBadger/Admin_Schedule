@@ -1253,24 +1253,22 @@
     },
     {
         "date": "Wed, May 14",
-        "meet_time": [
-            "4:30 AM MEET RYAN RD PNR (HWY 100 & 94)"
-        ],
-        "start_time": "6:00 AM START",
+        "meet_time": [],
+        "start_time": "DJ",
         "inv_type": [
-            "DC5-ITEM LEVEL"
+            ""
         ],
         "store_name": [
-            "MARIANO'S #537 +RX, NAPERVILLE"
+            "4:30 AM MEET RYAN RD PNR (HWY 100 & 94)"
         ],
         "address": [
-            "1300 S NAPER BLVD"
+            "6:00 AM START"
         ],
         "link": [
-            "https://goo.gl/maps/zEFY7puewEn"
+            "DC5-ITEM LEVEL"
         ],
         "store_note": [
-            "SET UP ON REG #1"
+            "MARIANO'S #537 +RX, NAPERVILLE <br><hr id=\"note_separator\">1300 S NAPER BLVD <br><hr id=\"note_separator\">https://goo.gl/maps/zEFY7puewEn <br><hr id=\"note_separator\">SET UP ON REG #1"
         ],
         "employee_list": {
             "Brianna": [
