@@ -1917,7 +1917,7 @@
     {
         "date": "Fri, May 23",
         "meet_time": [],
-        "start_time": "12:30 PM START",
+        "start_time": "12:00 PM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
         ],
@@ -1932,12 +1932,12 @@
         ],
         "store_note": [
             "*SEE NOTES TO RIGHT*",
-            "*MUST USE THE MEET*  ----->\n12:00 PM MEET"
+            "*MUST USE THE MEET*  ----->\n11:30 AM MEET"
         ],
         "employee_list": {
             "Kim": [
                 "1)",
-                "@ Store (Noon arrival)",
+                "@ Store (10:30 am arrival)",
                 "none"
             ],
             "Carlie": [
