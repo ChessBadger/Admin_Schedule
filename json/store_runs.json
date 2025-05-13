@@ -1736,18 +1736,8 @@
                 "@ Store",
                 "none"
             ],
-            "Lori": [
-                "16)",
-                "@ Store",
-                "none"
-            ],
             "Mai": [
-                "17)",
-                "@ Store",
-                "none"
-            ],
-            "Sarah": [
-                "18)",
+                "16)",
                 "@ Store",
                 "none"
             ]
@@ -1917,7 +1907,7 @@
     {
         "date": "Fri, May 23",
         "meet_time": [],
-        "start_time": "12:00 PM START",
+        "start_time": "11:30 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
         ],
@@ -1932,7 +1922,7 @@
         ],
         "store_note": [
             "*SEE NOTES TO RIGHT*",
-            "*MUST USE THE MEET*  ----->\n11:30 AM MEET"
+            "*MUST USE THE MEET*  ----->\n11:15 AM MEET"
         ],
         "employee_list": {
             "Kim": [
