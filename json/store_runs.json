@@ -1876,7 +1876,7 @@
         "meet_time": [],
         "start_time": "7:00 AM START",
         "inv_type": [
-            "SCAN-ITEM LEVEL"
+            "MODAS-SCAN"
         ],
         "store_name": [
             "ROETTGERS SHOREWOOD ARC"
@@ -1891,7 +1891,7 @@
         "employee_list": {
             "Kim": [
                 "1)",
-                "White Camry available, Equip",
+                "White Camry available, Equip, (train w/ Jeremiah on Modas)",
                 "none"
             ],
             "Carlie": [
@@ -1902,6 +1902,11 @@
             "Monica": [
                 "3)",
                 "",
+                "none"
+            ],
+            "Jeremiah": [
+                "4)",
+                "@ Store (bring Modas equip)",
                 "none"
             ]
         }
