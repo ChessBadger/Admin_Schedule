@@ -1652,10 +1652,13 @@
         "link": [
             "https://goo.gl/maps/UGfMgfcMtR22"
         ],
-        "store_note": [
-            "Grafton meet at 5:00 am - Carlie / Tanner / Trevor"
-        ],
+        "store_note": [],
         "employee_list": {
+            "": [
+                "",
+                "",
+                "none"
+            ],
             "DJ": [
                 "1)",
                 "@ Store, Equip",
@@ -1668,7 +1671,7 @@
             ],
             "Carlie": [
                 "3)",
-                "@ Store\nFrom Grafton",
+                "No meet",
                 "none"
             ],
             "Greg": [
@@ -1708,12 +1711,12 @@
             ],
             "Tanner": [
                 "11)",
-                "@ Store\nFrom Grafton",
+                "@ Store\nNo meet",
                 "none"
             ],
             "Trevor": [
                 "12)",
-                "@ Store\nFrom Grafton",
+                "@ Store\nNo meet",
                 "none"
             ],
             "Jerry S": [
