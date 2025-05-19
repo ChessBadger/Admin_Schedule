@@ -547,28 +547,30 @@
     {
         "date": "Wed, May 21",
         "meet_time": [],
-        "start_time": "5:30 AM START",
+        "start_time": "Kim",
         "inv_type": [
-            "DC5-FINANCIAL",
+            "",
             "DC5-FINANCIAL",
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "ROTE OIL #10 MUKWONAGO - ROCHESTER",
+            "",
             "ROTE OIL #12 MUKWONAGO - (AMOCO) GREENWALD",
             "ROTE OIL  #11 MUKWONAGO - (BP) ARROWHEAD"
         ],
         "address": [
-            "1060 N ROCHESTER ST",
+            "5:30 AM START",
             "909 GREENWALD CT",
             "122 ARROWHEAD DR"
         ],
         "link": [
-            "https://goo.gl/maps/dmvR5bTHLs1Cbjcr5",
+            "DC5-FINANCIAL",
             "https://goo.gl/maps/ejQSLoz2D8EmzKVq6",
             "https://goo.gl/maps/7XkTFZtDFDgGBctz7"
         ],
-        "store_note": [],
+        "store_note": [
+            "ROTE OIL #10 MUKWONAGO - ROCHESTER <br><hr id=\"note_separator\">1060 N ROCHESTER ST <br><hr id=\"note_separator\">https://goo.gl/maps/dmvR5bTHLs1Cbjcr5"
+        ],
         "employee_list": {
             "Katherine": [
                 "1)",
@@ -731,20 +733,22 @@
     },
     {
         "date": "Thu, May 22",
-        "meet_time": [
-            "4:15 AM MEET OFFICE"
-        ],
-        "start_time": "6:30 AM START",
+        "meet_time": [],
+        "start_time": "Ian",
         "inv_type": [
+            "",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
+            "",
             "AURORA OUTPATIENT RX #1510, CHICAGO"
         ],
         "address": [
+            "4:15 AM MEET OFFICE",
             "836 W WELLINGTON AVE, SUITE 1801"
         ],
         "link": [
+            "6:30 AM START",
             "https://maps.app.goo.gl/WtfYT8XRgDrGBKx88"
         ],
         "store_note": [
