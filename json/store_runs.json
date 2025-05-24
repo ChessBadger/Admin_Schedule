@@ -1,951 +1,5 @@
 [
     {
-        "date": "Sun, May 18",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "PIGGLY WIGGLY #201, CEDARBURG"
-        ],
-        "address": [
-            "W61 N286 WASHINGTON AVE"
-        ],
-        "link": [
-            "https://goo.gl/maps/QamMdWSr16N2"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "Equip",
-                "none"
-            ],
-            "Cynthia": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Jerry D": [
-                "3)",
-                "",
-                "Milwaukee"
-            ],
-            "Katherine": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Monica": [
-                "5)",
-                "",
-                "none"
-            ],
-            "NasZire": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Jerry S": [
-                "7)",
-                "@ Store",
-                "Fox Valley"
-            ]
-        }
-    },
-    {
-        "date": "Mon, May 19",
-        "meet_time": [
-            "5:00 AM MEET OFFICE"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL",
-            "DC5-FINANCIAL",
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "ROTE OIL #03 TWIN LAKES",
-            "ROTE OIL #04 GENOA CITY",
-            "ROTE OIL #05  LAKE GENEVA"
-        ],
-        "address": [
-            "475 N LAKE AVE",
-            "100 ELIZABETH LANE",
-            "300 PELLER RD"
-        ],
-        "link": [
-            "https://goo.gl/maps/jNgJR8hii6jJGZQP7",
-            "https://goo.gl/maps/DitGJzEvTVhJPxkJ8",
-            "https://goo.gl/maps/6fegzT1PbyY5VkDR6"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Brianna": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Carlie": [
-                "2)",
-                "Driver,\nRed Camry",
-                "none"
-            ],
-            "Cynthia": [
-                "3)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Mon, May 19",
-        "meet_time": [
-            "4:45 AM MEET BAYSHORE PARK AND RIDE"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "PIGGLY WIGGLY #330, KIEL"
-        ],
-        "address": [
-            "80 E PARK AVE"
-        ],
-        "link": [
-            "https://goo.gl/maps/qVVbXbSua7m"
-        ],
-        "store_note": [
-            "FEW RESETS-REMAPPED"
-        ],
-        "employee_list": {
-            "Jerry S": [
-                "1)",
-                "@ Store, Equip",
-                "Fox Valley"
-            ],
-            "Greg": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Jerry D": [
-                "3)",
-                "Driver,\nWhite Camry",
-                "Milwaukee"
-            ],
-            "Kirsten": [
-                "4)",
-                "@ Store",
-                "none"
-            ],
-            "Lena": [
-                "5)",
-                "@ Store",
-                "none"
-            ],
-            "Mai": [
-                "6)",
-                "@ Store",
-                "none"
-            ],
-            "Marcia": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
-            "Nagui": [
-                "8)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Mon, May 19",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "PIGGLY WIGGLY #142, SUSSEX"
-        ],
-        "address": [
-            "N63 W23735 MAIN ST"
-        ],
-        "link": [
-            "https://maps.app.goo.gl/UHB7SgmVy27KNfWS7"
-        ],
-        "store_note": [
-            "PBJ MOVED TO AISLE 5 - NOT REMAPPED"
-        ],
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "Equip",
-                "none"
-            ],
-            "Lexi": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Monica": [
-                "3)",
-                "Until 11:00",
-                "none"
-            ],
-            "Pamela": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "5)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Mon, May 19",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "AURORA OUTPATIENT RX #1194, MILWAUKEE"
-        ],
-        "address": [
-            "3355 W FOREST HOME AVE"
-        ],
-        "link": [
-            "https://goo.gl/maps/nyTEMnH2h4tpY6i79"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Katherine": [
-                "1)",
-                "Optima available, Equip",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Mon, May 19",
-        "meet_time": [
-            "4:00 AM MEET WATERTOWN PLANK PNR"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "AURORA OUTPATIENT RX #1300 WAUTOMA"
-        ],
-        "address": [
-            "900 E DIVISION ST"
-        ],
-        "link": [
-            "https://goo.gl/maps/JhUR6bvog6YmBrm48"
-        ],
-        "store_note": [
-            "NEED SCANNER HOODS FOR THIS STORE"
-        ],
-        "employee_list": {
-            "Ian": [
-                "1)",
-                "Driver,\nSante Fe, Equip",
-                "none"
-            ],
-            "Paul": [
-                "2)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Mon, May 19",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [
-            "Office"
-        ],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {
-            "Kim": [
-                "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, May 20",
-        "meet_time": [],
-        "start_time": "5:30 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL",
-            "DC5-FINANCIAL",
-            "EXCEL FINANCIAL",
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "ROTE OIL #6 HUBERTUS",
-            "ROTE OIL #7 MILWAUKEE",
-            "ROTE OIL #8 ELM GROVE",
-            "ROTE OIL #09 GREENFIELD"
-        ],
-        "address": [
-            "1306 HWY 175",
-            "5931 N 91ST ST",
-            "13395 WATERTOWN PLANK RD",
-            "12345 W LAYTON AVE"
-        ],
-        "link": [
-            "https://goo.gl/maps/SZRuQ4FHA1cX2ZmC8",
-            "https://goo.gl/maps/cw58s7atAhTAGHNd7",
-            "https://goo.gl/maps/5zXAKpcRHDmA17UK9",
-            "https://goo.gl/maps/TSgMUriHbJPX9hGE7"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Katherine": [
-                "1)",
-                "Optima available, Equip",
-                "none"
-            ],
-            "Paul": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "3)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, May 20",
-        "meet_time": [
-            "5:00 AM MEET RYAN RD PNR (HWY 100 & 94)"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "MARIANO'S #542 +RX, BANNOCKBURN"
-        ],
-        "address": [
-            "2999 WAUKEGAN RD"
-        ],
-        "link": [
-            "https://goo.gl/maps/iQpQKzHwQVT2"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Brianna": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Caitlin": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Jerry D": [
-                "3)",
-                "Driver,\nWhite Camry",
-                "Milwaukee"
-            ],
-            "Sydney": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Angela": [
-                "5)",
-                "@ Store",
-                "none"
-            ],
-            "Anisha": [
-                "6)",
-                "@ Store",
-                "none"
-            ],
-            "Ashley P": [
-                "7)",
-                "@ Store,\nSupv Rx",
-                "Rockford"
-            ],
-            "Elijah": [
-                "8)",
-                "@ Store",
-                "none"
-            ],
-            "Eva": [
-                "9)",
-                "@ Store",
-                "none"
-            ],
-            "Evelin": [
-                "10)",
-                "@ Store",
-                "none"
-            ],
-            "Joseph": [
-                "11)",
-                "@ Store",
-                "none"
-            ],
-            "Josh S": [
-                "12)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Justin Lee": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
-            "Kayla": [
-                "14)",
-                "@ Store",
-                "none"
-            ],
-            "Michael N": [
-                "15)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Qiana": [
-                "16)",
-                "@ Store,\nRx",
-                "none"
-            ],
-            "Taylor": [
-                "17)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, May 20",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "PICK #416, WAUWATOSA - WALNUT"
-        ],
-        "address": [
-            "1717 N MAYFAIR ROAD"
-        ],
-        "link": [
-            "https://goo.gl/maps/96AWc1YH6do"
-        ],
-        "store_note": [
-            "Grafton meet at 5:15 am - Carlie / Tanner / Trevor"
-        ],
-        "employee_list": {
-            "Kim": [
-                "1)",
-                "Sante Fe available, Equip",
-                "none"
-            ],
-            "Carlie": [
-                "2)",
-                "Driver",
-                "none"
-            ],
-            "DJ": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Greg": [
-                "4)",
-                "Until 10:00",
-                "none"
-            ],
-            "Lexi": [
-                "5)",
-                "",
-                "none"
-            ],
-            "Leyna": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Monica": [
-                "7)",
-                "",
-                "none"
-            ],
-            "NasZire": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Pamela": [
-                "9)",
-                "",
-                "none"
-            ],
-            "Tanner": [
-                "10)",
-                "w/ Carlie",
-                "none"
-            ],
-            "Trevor": [
-                "11)",
-                "w/ Carlie",
-                "none"
-            ],
-            "Annette": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
-            "Jerry S": [
-                "13)",
-                "@ Store",
-                "Fox Valley"
-            ],
-            "Kirsten": [
-                "14)",
-                "@ Store",
-                "none"
-            ],
-            "Marcia": [
-                "15)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, May 21",
-        "meet_time": [],
-        "start_time": "Kim",
-        "inv_type": [
-            "",
-            "DC5-FINANCIAL",
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "",
-            "ROTE OIL #12 MUKWONAGO - (AMOCO) GREENWALD",
-            "ROTE OIL  #11 MUKWONAGO - (BP) ARROWHEAD"
-        ],
-        "address": [
-            "5:30 AM START",
-            "909 GREENWALD CT",
-            "122 ARROWHEAD DR"
-        ],
-        "link": [
-            "DC5-FINANCIAL",
-            "https://goo.gl/maps/ejQSLoz2D8EmzKVq6",
-            "https://goo.gl/maps/7XkTFZtDFDgGBctz7"
-        ],
-        "store_note": [
-            "ROTE OIL #10 MUKWONAGO - ROCHESTER <br><hr id=\"note_separator\">1060 N ROCHESTER ST <br><hr id=\"note_separator\">https://goo.gl/maps/dmvR5bTHLs1Cbjcr5"
-        ],
-        "employee_list": {
-            "Katherine": [
-                "1)",
-                "Optima available, Equip",
-                "none"
-            ],
-            "Paul": [
-                "2)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, May 21",
-        "meet_time": [
-            "5:30 AM MEET WATERTOWN PLANK PNR"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "PICK #417 +RX, WEST BEND - WASHINGTON"
-        ],
-        "address": [
-            "2518 W WASHINGTON STREET"
-        ],
-        "link": [
-            "https://goo.gl/maps/UGfMgfcMtR22"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "": [
-                "",
-                "",
-                "none"
-            ],
-            "DJ": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Caitlin": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Carlie": [
-                "3)",
-                "No meet",
-                "none"
-            ],
-            "Greg": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Ian": [
-                "5)",
-                "Driver,\nSante Fe,\nSupv Rx",
-                "none"
-            ],
-            "Jerry D": [
-                "6)",
-                "Driver,\nRed Van,\nRx",
-                "Milwaukee"
-            ],
-            "Lexi": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Pamela": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "9)",
-                "",
-                "none"
-            ],
-            "Sydney": [
-                "10)",
-                "",
-                "none"
-            ],
-            "Tanner": [
-                "11)",
-                "@ Store\nNo meet",
-                "none"
-            ],
-            "Trevor": [
-                "12)",
-                "@ Store\nNo meet",
-                "none"
-            ],
-            "Jerry S": [
-                "13)",
-                "@ Store",
-                "Fox Valley"
-            ],
-            "Kirsten": [
-                "14)",
-                "@ Store",
-                "none"
-            ],
-            "Lena": [
-                "15)",
-                "@ Store",
-                "none"
-            ],
-            "Mai": [
-                "16)",
-                "@ Store",
-                "none"
-            ],
-            "Marcia": [
-                "17)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, May 21",
-        "meet_time": [],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "SCAN-ITEM LEVEL"
-        ],
-        "store_name": [
-            "ROETTGERS BROWN DEER ARC"
-        ],
-        "address": [
-            "5125 W BROWN DEER RD"
-        ],
-        "link": [
-            "https://maps.app.goo.gl/DMBiAk5PFQCgFPED7"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Kim": [
-                "1)",
-                "White Camry available, Equip",
-                "none"
-            ],
-            "Cynthia": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Leyna": [
-                "3)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, May 22",
-        "meet_time": [],
-        "start_time": "Ian",
-        "inv_type": [
-            "",
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "",
-            "AURORA OUTPATIENT RX #1510, CHICAGO"
-        ],
-        "address": [
-            "4:15 AM MEET OFFICE",
-            "836 W WELLINGTON AVE, SUITE 1801"
-        ],
-        "link": [
-            "6:30 AM START",
-            "https://maps.app.goo.gl/WtfYT8XRgDrGBKx88"
-        ],
-        "store_note": [
-            "HAS PAID PARKING.  PARK IN WELLINGTON STRUCTURE ENTER THROUGH MAIN ENTRANCE (NEAR EMERG)"
-        ],
-        "employee_list": {
-            "Katherine": [
-                "1)",
-                "Equip",
-                "none"
-            ],
-            "Sue": [
-                "2)",
-                "Driver,\nOptima",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, May 22",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "AURORA OUTPATIENT RX #1068, WATERFORD"
-        ],
-        "address": [
-            "818 FORREST LANE, SUITE 101"
-        ],
-        "link": [
-            "https://goo.gl/maps/34AqDr4Gxcn8xkqSA"
-        ],
-        "store_note": [
-            "KIM FROM RX SAID TO ENTER THROUGH THE MAIN ENTRANCE AND SHE WILL MEET YOU THERE"
-        ],
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "Equip",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, May 22",
-        "meet_time": [
-            "7:30 AM MEET WATERTOWN PLANK PNR"
-        ],
-        "start_time": "8:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "AURORA OUTPATIENT RX #1053, SLINGER"
-        ],
-        "address": [
-            "1061 EAST COMMERCE BOULEVARD, SUITE 100"
-        ],
-        "link": [
-            "https://goo.gl/maps/7iYLLr5ukoS2"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Ian": [
-                "1)",
-                "Driver,\nSante Fe, Equip",
-                "none"
-            ],
-            "Leyna": [
-                "2)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, May 22",
-        "meet_time": [],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "MODAS-SCAN"
-        ],
-        "store_name": [
-            "ROETTGERS SHOREWOOD ARC"
-        ],
-        "address": [
-            "1513 E CAPITOL DRIVE"
-        ],
-        "link": [
-            "https://maps.app.goo.gl/JvTBo1JUL5gfYk126"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Kim": [
-                "1)",
-                "White Camry available, Equip, (train w/ Jeremiah on Modas)",
-                "none"
-            ],
-            "Carlie": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Monica": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Jeremiah": [
-                "4)",
-                "@ Store (bring Modas equip)",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Fri, May 23",
-        "meet_time": [],
-        "start_time": "11:30 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "AURORA OUTPATIENT RX #1119, MENOMONEE FALLS"
-        ],
-        "address": [
-            "N93 W14575 WHITTAKER WAY"
-        ],
-        "link": [
-            "https://goo.gl/maps/CLqauUgd2u12"
-        ],
-        "store_note": [
-            "*SEE NOTES TO RIGHT*",
-            "*MUST USE THE MEET*  ----->\n11:15 AM MEET"
-        ],
-        "employee_list": {
-            "Kim": [
-                "1)",
-                "@ Store (10:30 am arrival)",
-                "none"
-            ],
-            "Cynthia": [
-                "2)",
-                "",
-                "none"
-            ],
-            "DJ": [
-                "3)",
-                "Altima",
-                "none"
-            ],
-            "Ian": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Jerry D": [
-                "5)",
-                "Red Van",
-                "Milwaukee"
-            ],
-            "Katherine": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Lexi": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Leyna": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "9)",
-                "",
-                "none"
-            ],
-            "Lori": [
-                "10)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Sat, May 24",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {}
-    },
-    {
         "date": "Sun, May 25",
         "meet_time": [],
         "start_time": null,
@@ -1638,6 +692,972 @@
     },
     {
         "date": "Sat, May 31",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {}
+    },
+    {
+        "date": "Sun, Jun 1",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {}
+    },
+    {
+        "date": "Mon, Jun 2",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "PIGGLY WIGGLY #093, OCONOMOWOC"
+        ],
+        "address": [
+            "1300 BROWN ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/2K5yALCcUdM2"
+        ],
+        "store_note": [
+            "5:00 am Grafton meet for Carlie / Trevor"
+        ],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Equip",
+                "none"
+            ],
+            "Carlie": [
+                "2)",
+                "w/ Trevor",
+                "none"
+            ],
+            "Greg": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "4)",
+                "",
+                "Milwaukee"
+            ],
+            "Lexi": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Monica": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Pamela": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Trevor": [
+                "10)",
+                "w/ Carlie",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Jun 2",
+        "meet_time": [
+            "6:15 AM MEET OF THE OFFICE"
+        ],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "RAPID MART HARTFORD"
+        ],
+        "address": [
+            "2712 E SUMNER ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/5dpExsTUAgz"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Equip",
+                "none"
+            ],
+            "Ian": [
+                "2)",
+                "Driver, Optima, Equip",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Jun 2",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [
+            "Office"
+        ],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Jun 3",
+        "meet_time": [
+            "5:00 AM MEET RYAN RD PNR (HWY 100 & 94)"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "MARIANO'S #501 +RX +OFFSITE RX, ARLINGTON HEIGHTS"
+        ],
+        "address": [
+            "802 E NORTHWEST HWY"
+        ],
+        "link": [
+            "https://goo.gl/maps/ZNjAYKcq8772"
+        ],
+        "store_note": [
+            "**OFFSITE RX, ARLINGTON HEIGHTS",
+            "1250 VILLAGE DR <br><hr id=\"note_separator\">https://maps.app.goo.gl/vthwUcrXyYaj6dDj9"
+        ],
+        "employee_list": {
+            "Nate": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "NasZire": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Sue": [
+                "4)",
+                "Driver,\nRed Van",
+                "none"
+            ],
+            "Sydney": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Angela": [
+                "6)",
+                "@ Store,\nRx",
+                "none"
+            ],
+            "Anisha": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Ashley P": [
+                "8)",
+                "@ Store,\nRx",
+                "Rockford"
+            ],
+            "Brianna": [
+                "9)",
+                "@ Store",
+                "none"
+            ],
+            "Elijah": [
+                "10)",
+                "@ Store",
+                "none"
+            ],
+            "Emily L": [
+                "11)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Eva": [
+                "12)",
+                "@ Store",
+                "none"
+            ],
+            "Evelin": [
+                "13)",
+                "@ Store",
+                "none"
+            ],
+            "Joseph": [
+                "14)",
+                "@ Store",
+                "none"
+            ],
+            "Josh S": [
+                "15)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Justin Lee": [
+                "16)",
+                "@ Store",
+                "none"
+            ],
+            "Kayla": [
+                "17)",
+                "@ Store",
+                "none"
+            ],
+            "Michael N": [
+                "18)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Qiana": [
+                "19)",
+                "@ Store,\nSupv Rx",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Jun 3",
+        "meet_time": [
+            "5:30 AM MEET WATERTOWN PLANK"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "PIGGLY WIGGLY #091, SLINGER"
+        ],
+        "address": [
+            "1100 E COMMERCE BLVD"
+        ],
+        "link": [
+            "https://goo.gl/maps/WgMCr1tJCE12"
+        ],
+        "store_note": [
+            "DAIRY RESET-REMAPPED"
+        ],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Driver,\nAltima, Equip",
+                "none"
+            ],
+            "Caitlin": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Ian": [
+                "3)",
+                "Driver,\nSante Fe",
+                "none"
+            ],
+            "Katherine": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Lexi": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Pamela": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Josie": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Lori": [
+                "9)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Jun 3",
+        "meet_time": [
+            "5:15 AM MEET WATERTOWN PLANK"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "PIGGLY WIGGLY #090, JACKSON"
+        ],
+        "address": [
+            "W194 N16774 EAGLE DR"
+        ],
+        "link": [
+            "https://goo.gl/maps/8bY4qRuqZNT2"
+        ],
+        "store_note": [
+            "No Grafton area meet, meet at the store"
+        ],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "Driver,\nWhite Camry, Equip",
+                "none"
+            ],
+            "Carlie": [
+                "2)",
+                "@ Store",
+                "none"
+            ],
+            "Jerry D": [
+                "3)",
+                "",
+                "Milwaukee"
+            ],
+            "Monica": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Tanner": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Trevor": [
+                "6)",
+                "@ Store",
+                "none"
+            ],
+            "Annette": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Kirsten": [
+                "8)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Jun 4",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "METRO #876, GLENDALE - GREEN TREE"
+        ],
+        "address": [
+            "6969 N PORT WASHINGTON RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/ho2n746veYC2"
+        ],
+        "store_note": [
+            "SET UP ON REG #1 <br><hr id=\"note_separator\">5:30 am Grafton meet for Carlie / Trevor"
+        ],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store,\nEquip",
+                "none"
+            ],
+            "Caitlin": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Carlie": [
+                "3)",
+                "w/ Trevor",
+                "none"
+            ],
+            "Greg": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Ian": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Lexi": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Pamela": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Sydney": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Trevor": [
+                "9)",
+                "w/ Carlie",
+                "none"
+            ],
+            "Anisha": [
+                "10)",
+                "@ Store",
+                "none"
+            ],
+            "Josh S": [
+                "11)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Justin Lee": [
+                "12)",
+                "@ Store",
+                "none"
+            ],
+            "Lori": [
+                "13)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Jun 4",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1263 MENOMONEE FALLS"
+        ],
+        "address": [
+            "N84 W16889 MENOMONEE AVE   STE 140"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/DEn7pSEAbyNFZfT28"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Equip",
+                "none"
+            ],
+            "Sonia": [
+                "2)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Jun 4",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "SCAN-ITEM LEVEL",
+            "SCAN-ITEM LEVEL"
+        ],
+        "store_name": [
+            "ROETTGERS HIGHWAY 45 ARC (MILWAUKEE)",
+            "ROETTGERS TOSA ARC (WAUWATOSA)"
+        ],
+        "address": [
+            "5501 N LOVERS LANE",
+            "8806 W NORTH AVE"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/7F5cQ4UvGnWBLWHe9",
+            "https://maps.app.goo.gl/dskJKrYpRASQAByz8"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "White Camry available, Equip",
+                "none"
+            ],
+            "Cynthia": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "3)",
+                "",
+                "Milwaukee"
+            ],
+            "Leyna": [
+                "4)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Jun 4",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "DAYBREAK, DELAFIELD"
+        ],
+        "address": [
+            "622 GENESEE ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/dNtyDnuiw6J2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Optima available, Equip",
+                "none"
+            ],
+            "Monica": [
+                "2)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Jun 5",
+        "meet_time": [
+            "5:00 AM MEET OFFICE"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "PIGGLY WIGGLY #083, \nBEAVER DAM"
+        ],
+        "address": [
+            "810 PARK AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/y8AoS99KUVU2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Sarah": [
+                "1)",
+                "@ Store,\nEquip",
+                "none"
+            ],
+            "Greg": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "3)",
+                "Driver,\nSante Fe",
+                "Milwaukee"
+            ],
+            "Sydney": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Anisha": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Ashley P": [
+                "6)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Brianna": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Justin Lee": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Lori": [
+                "9)",
+                "@ Store,\nUntil 8:45",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Jun 5",
+        "meet_time": [
+            "5:00 AM MEET BAYSHORE"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "DHILLON'S STATION 26 HOWARDS GROVE"
+        ],
+        "address": [
+            "220 N WISCONSIN DR"
+        ],
+        "link": [
+            "https://goo.gl/maps/8Yb9mTahQpte986L6"
+        ],
+        "store_note": [
+            "Ian to pick up Carlie at Grafton park n ride @ 5:20 am"
+        ],
+        "employee_list": {
+            "Ian": [
+                "1)",
+                "Driver,\nOptima, Equip",
+                "none"
+            ],
+            "Carlie": [
+                "2)",
+                "@ Grafton meet",
+                "none"
+            ],
+            "Monica": [
+                "3)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Jun 5",
+        "meet_time": [
+            "4:30 AM MEET WATERTOWN PLANK"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "DHILLON'S BP, MARKESAN"
+        ],
+        "address": [
+            "N1894 WI-44 (HWY 44 & 73)"
+        ],
+        "link": [
+            "https://goo.gl/maps/uRQ5w6AXAun5KEMW7"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Driver,\nAltima, Equip",
+                "none"
+            ],
+            "Cynthia": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "4)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Jun 5",
+        "meet_time": [
+            "6:30 AM MEET SOUTH RACINE COURT (HWY 43 & Y)\n(COURTESY MEET)"
+        ],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "SCAN-ITEM LEVEL"
+        ],
+        "store_name": [
+            "ROETTGERS EAST TROY ARC"
+        ],
+        "address": [
+            "2097 DIVISION STREET"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/yHRRMXRkSnLcJJTt9"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "Driver,\nWhite Camry, Equip",
+                "none"
+            ],
+            "Katherine": [
+                "2)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Jun 6",
+        "meet_time": [
+            "5:15 AM MEET WATERTOWN PLANK"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "PIGGLY WIGGLY #084, \nWEST BEND"
+        ],
+        "address": [
+            "2575 E WASHINGTON ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/v6j5Md5UXg82"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Nate": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Jerry D": [
+                "2)",
+                "Driver,\nSante Fe",
+                "Milwaukee"
+            ],
+            "Lexi": [
+                "3)",
+                "",
+                "none"
+            ],
+            "NasZire": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Pamela": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Ashley P": [
+                "6)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Justin Lee": [
+                "7)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Jun 6",
+        "meet_time": [
+            "5:15 AM MEET BAYSHORE"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "PIGGLY WIGGLY #086, PORT WASHINGTON"
+        ],
+        "address": [
+            "101 W SEVEN HILLS RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/QTeeYs5i3hE2"
+        ],
+        "store_note": [
+            "No Grafton area meet, meet at the store"
+        ],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Driver,\nAltima, Equip",
+                "none"
+            ],
+            "Caitlin": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Carlie": [
+                "3)",
+                "@ Store",
+                "none"
+            ],
+            "Greg": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Sydney": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Tanner": [
+                "6)",
+                "@ Store",
+                "none"
+            ],
+            "Trevor": [
+                "7)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Jun 6",
+        "meet_time": [
+            "5:30 AM MEET BAYSHORE\n(COURTESY MEET)"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "DHILLON'S STATION CEDARBURG LLC"
+        ],
+        "address": [
+            "W62 N174 WASHINGTON AVE"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/ain85BzcPhd22Kb39"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Ian": [
+                "1)",
+                "Driver,\nOptima, Equip",
+                "none"
+            ],
+            "Cynthia": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "3)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Jun 6",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "SCAN-ITEM LEVEL",
+            "SCAN-ITEM LEVEL"
+        ],
+        "store_name": [
+            "ROETTGERS GLENDALE ARC",
+            "ROETTGERS PORT RD ARC (GLENDALE)"
+        ],
+        "address": [
+            "525 W SILVER SPRING DR",
+            "7010 N PORT WASHINGTON RD"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/8jXd2GwteuVWVutZ6",
+            "https://maps.app.goo.gl/fYLJgajhv8Lie4Qw5"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "White Camry available, Equip",
+                "none"
+            ],
+            "Katherine": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Monica": [
+                "4)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Sat, Jun 7",
         "meet_time": [],
         "start_time": null,
         "inv_type": [],
