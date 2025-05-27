@@ -541,73 +541,68 @@
                 "Rx",
                 "none"
             ],
-            "NasZire": [
+            "Pamela": [
                 "6)",
                 "",
                 "none"
             ],
-            "Pamela": [
-                "7)",
-                "",
-                "none"
-            ],
             "Angela": [
-                "8)",
+                "7)",
                 "@ Store",
                 "none"
             ],
             "Anisha": [
-                "9)",
+                "8)",
                 "@ Store",
                 "none"
             ],
             "Ashley P": [
-                "10)",
+                "9)",
                 "@ Store",
                 "Rockford"
             ],
             "Elijah": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Eva": [
-                "12)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Evelin": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Joseph": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Josh S": [
-                "15)",
+                "14)",
                 "@ Store",
                 "Rockford"
             ],
             "Justin Lee": [
-                "16)",
+                "15)",
                 "@ Store",
                 "none"
             ],
             "Kayla": [
-                "17)",
+                "16)",
                 "@ Store",
                 "none"
             ],
             "Qiana": [
-                "18)",
+                "17)",
                 "@ Store,\nSupv Rx",
                 "none"
             ],
             "Taylor": [
-                "19)",
+                "18)",
                 "@ Store",
                 "none"
             ]
@@ -720,7 +715,7 @@
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "PIGGLY WIGGLY #093, OCONOMOWOC"
+            "FOX BROS PIGGLY WIGGLY #093, OCONOMOWOC"
         ],
         "address": [
             "1300 BROWN ST"
@@ -965,7 +960,7 @@
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "PIGGLY WIGGLY #091, SLINGER"
+            "FOX BROS PIGGLY WIGGLY #091, SLINGER"
         ],
         "address": [
             "1100 E COMMERCE BLVD"
@@ -1034,7 +1029,7 @@
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "PIGGLY WIGGLY #090, JACKSON"
+            "FOX BROS PIGGLY WIGGLY #090, JACKSON"
         ],
         "address": [
             "W194 N16774 EAGLE DR"
@@ -1289,7 +1284,7 @@
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "PIGGLY WIGGLY #083, \nBEAVER DAM"
+            "FOX BROS PIGGLY WIGGLY #083, \nBEAVER DAM"
         ],
         "address": [
             "810 PARK AVE"
@@ -1469,7 +1464,7 @@
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "PIGGLY WIGGLY #084, \nWEST BEND"
+            "FOX BROS PIGGLY WIGGLY #084, \nWEST BEND"
         ],
         "address": [
             "2575 E WASHINGTON ST"
@@ -1526,7 +1521,7 @@
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "PIGGLY WIGGLY #086, PORT WASHINGTON"
+            "FOX BROS PIGGLY WIGGLY #086, PORT WASHINGTON"
         ],
         "address": [
             "101 W SEVEN HILLS RD"
