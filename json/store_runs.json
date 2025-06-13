@@ -1513,63 +1513,68 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Leyna": [
+            "Ian": [
                 "2)",
-                "Rx",
-                "none"
-            ],
-            "Sue": [
-                "3)",
                 "Driver,\nOptima",
                 "none"
             ],
-            "Angela": [
-                "4)",
-                "@ Store",
+            "Leyna": [
+                "3)",
+                "Rx",
                 "none"
             ],
-            "Anisha": [
+            "Sonia": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Angela": [
                 "5)",
                 "@ Store",
                 "none"
             ],
-            "Ashley P": [
+            "Anisha": [
                 "6)",
+                "@ Store",
+                "none"
+            ],
+            "Ashley P": [
+                "7)",
                 "@ Store",
                 "Rockford"
             ],
             "Eva": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
-            "Evelin": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Joseph": [
+            "Evelin": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Josh S": [
+            "Joseph": [
                 "10)",
+                "@ Store",
+                "none"
+            ],
+            "Josh S": [
+                "11)",
                 "@ Store",
                 "Rockford"
             ],
             "Justin Lee": [
-                "11)",
-                "@ Store",
-                "none"
-            ],
-            "Nate": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Qiana": [
+            "Nate": [
                 "13)",
+                "@ Store",
+                "none"
+            ],
+            "Qiana": [
+                "14)",
                 "@ Store,\nSupv Rx",
                 "none"
             ]
@@ -1647,13 +1652,23 @@
                 "",
                 "none"
             ],
-            "Lori": [
+            "Katherine": [
                 "11)",
+                "",
+                "none"
+            ],
+            "Sydney": [
+                "12)",
+                "",
+                "none"
+            ],
+            "Lori": [
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Sarah": [
-                "12)",
+                "14)",
                 "@ Store",
                 "none"
             ]
@@ -1661,46 +1676,18 @@
     },
     {
         "date": "Wed, Jun 18",
-        "meet_time": [
-            "5:15 AM MEET RYAN RD PNR (HWY 100 & 94)"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
         "store_name": [
-            "PIGGLY WIGGLY #102, ZION"
+            "Office"
         ],
-        "address": [
-            "3341 SHERIDAN RD"
-        ],
-        "link": [
-            "https://goo.gl/maps/RC9kMWnG1wn"
-        ],
+        "address": [],
+        "link": [],
         "store_note": [],
         "employee_list": {
             "Kim": [
-                "1)",
-                "@ Store,\nWhite Camry, Equip",
-                "none"
-            ],
-            "Ian": [
-                "2)",
-                "Driver,\nSante Fe",
-                "none"
-            ],
-            "Katherine": [
-                "3)",
                 "",
-                "none"
-            ],
-            "Sonia": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Sydney": [
-                "5)",
                 "",
                 "none"
             ]
