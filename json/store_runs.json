@@ -1019,20 +1019,26 @@
     {
         "date": "Sun, Jun 29",
         "meet_time": [],
-        "start_time": "5:00 AM START",
+        "start_time": "Scan product if shelf tag won't scan.\nUse Category 000\nNo prices on DCs - QTY only\n\nFOR NOT ON FILES: force in with quantity, put one item in cart w/ price on a sticky note",
         "inv_type": [
+            "",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
+            "",
             "OUTPOST NATURAL FOODS, BAY VIEW"
         ],
         "address": [
+            "",
             "2826 S KINNICKINNIC AVE"
         ],
         "link": [
+            "",
             "https://goo.gl/maps/5hiyyxywjiH2"
         ],
-        "store_note": [],
+        "store_note": [
+            "5:00 AM START"
+        ],
         "employee_list": {
             "Katherine": [
                 "1)",
@@ -1044,12 +1050,12 @@
                 "",
                 "none"
             ],
-            "Monica": [
+            "Jerry D": [
                 "3)",
                 "",
-                "none"
+                "Milwaukee"
             ],
-            "Sonia": [
+            "Monica": [
                 "4)",
                 "",
                 "none"
@@ -1084,18 +1090,13 @@
                 "",
                 "none"
             ],
-            "Jerry D": [
-                "3)",
-                "",
-                "Milwaukee"
-            ],
             "Lexi": [
-                "4)",
+                "3)",
                 "",
                 "none"
             ],
             "NasZire": [
-                "5)",
+                "4)",
                 "",
                 "none"
             ]
