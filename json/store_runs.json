@@ -879,28 +879,23 @@
                 "",
                 "none"
             ],
-            "Angela": [
+            "Eva": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Eva": [
+            "Joseph": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Joseph": [
+            "Justin Lee": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Justin Lee": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
             "Josie": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ]
@@ -959,7 +954,9 @@
         "link": [
             "https://maps.app.goo.gl/JvTBo1JUL5gfYk126"
         ],
-        "store_note": [],
+        "store_note": [
+            "Check in with DJ after (at Pewaukee)"
+        ],
         "employee_list": {
             "Kim": [
                 "1)",
@@ -991,7 +988,9 @@
         "link": [
             "https://goo.gl/maps/dBrycqMgUwF2"
         ],
-        "store_note": [],
+        "store_note": [
+            "Check in with DJ after (at Pewaukee)"
+        ],
         "employee_list": {
             "Katherine": [
                 "1)",
