@@ -1044,14 +1044,14 @@
                 "",
                 "none"
             ],
-            "Jerry D": [
+            "Monica": [
                 "3)",
                 "",
-                "Milwaukee"
+                "none"
             ],
-            "Monica": [
+            "Nate": [
                 "4)",
-                "",
+                "@ Store",
                 "none"
             ]
         }
@@ -1084,13 +1084,18 @@
                 "",
                 "none"
             ],
-            "Lexi": [
+            "Jerry D": [
                 "3)",
+                "",
+                "Milwaukee"
+            ],
+            "Lexi": [
+                "4)",
                 "",
                 "none"
             ],
             "NasZire": [
-                "4)",
+                "5)",
                 "",
                 "none"
             ]
@@ -1174,12 +1179,12 @@
                 "@ Store",
                 "Rockford"
             ],
-            "Evelin": [
+            "Emily L": [
                 "4)",
                 "@ Store",
-                "none"
+                "Rockford"
             ],
-            "Nate": [
+            "Evelin": [
                 "5)",
                 "@ Store",
                 "none"
