@@ -1,1016 +1,5 @@
 [
     {
-        "date": "Sun, Jun 22",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {}
-    },
-    {
-        "date": "Mon, Jun 23",
-        "meet_time": [
-            "5:00 AM MEET OFFICE"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL",
-            "DC5-FINANCIAL",
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "ROTE OIL #03 TWIN LAKES",
-            "ROTE OIL #04 GENOA CITY",
-            "ROTE OIL #05  LAKE GENEVA"
-        ],
-        "address": [
-            "475 N LAKE AVE",
-            "100 ELIZABETH LANE",
-            "300 PELLER RD"
-        ],
-        "link": [
-            "https://goo.gl/maps/jNgJR8hii6jJGZQP7",
-            "https://goo.gl/maps/DitGJzEvTVhJPxkJ8",
-            "https://goo.gl/maps/6fegzT1PbyY5VkDR6"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Katherine": [
-                "1)",
-                "Equip",
-                "none"
-            ],
-            "Carlie": [
-                "2)",
-                "Driver,\nRed Camry",
-                "none"
-            ],
-            "Monica": [
-                "3)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Jun 23",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "MODAS-SCAN"
-        ],
-        "store_name": [
-            "DHILLON'S STATION HWY 33, HARTFORD"
-        ],
-        "address": [
-            "W346 LUEDTKE LANE"
-        ],
-        "link": [
-            "https://goo.gl/maps/sBbGZTSeFYGcwxAe7"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Jeremiah": [
-                "1)",
-                "@ Store, Modas Equip",
-                "none"
-            ],
-            "DJ": [
-                "2)",
-                "Train w/ Modas",
-                "none"
-            ],
-            "Louisa": [
-                "3)",
-                "@ Store",
-                "none"
-            ],
-            "Marcia": [
-                "4)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Jun 23",
-        "meet_time": [
-            "5:15 AM MEET OFFICE"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "DHILLON'S STATION IXONIA"
-        ],
-        "address": [
-            "W1168 AMERICAN ST HWY 16"
-        ],
-        "link": [
-            "https://goo.gl/maps/YXYWpM5kCeT2"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Ian": [
-                "1)",
-                "Driver,\nSanta Fe, Equip",
-                "none"
-            ],
-            "Cynthia": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Jerry D": [
-                "3)",
-                "",
-                "Milwaukee"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Jun 23",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [
-            "Office"
-        ],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {
-            "Kim": [
-                "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Jun 24",
-        "meet_time": [],
-        "start_time": "5:30 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL",
-            "DC5-FINANCIAL",
-            "DC5-FINANCIAL",
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "ROTE OIL #6 HUBERTUS",
-            "ROTE OIL #7 MILWAUKEE",
-            "ROTE OIL #8 ELM GROVE",
-            "ROTE OIL #09 GREENFIELD"
-        ],
-        "address": [
-            "1306 HWY 175",
-            "5931 N 91ST ST",
-            "13395 WATERTOWN PLANK RD",
-            "12345 W LAYTON AVE"
-        ],
-        "link": [
-            "https://goo.gl/maps/SZRuQ4FHA1cX2ZmC8",
-            "https://goo.gl/maps/cw58s7atAhTAGHNd7",
-            "https://goo.gl/maps/5zXAKpcRHDmA17UK9",
-            "https://goo.gl/maps/TSgMUriHbJPX9hGE7"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Katherine": [
-                "1)",
-                "Optima available, Equip",
-                "none"
-            ],
-            "Cynthia": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Leyna": [
-                "3)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Jun 24",
-        "meet_time": [
-            "4:45 AM MEET RYAN RD PNR (HWY 100 & 94)"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "MARIANO'S #534 +RX, NEW CITY"
-        ],
-        "address": [
-            "1500 N CLYBOURN AVE"
-        ],
-        "link": [
-            "https://goo.gl/maps/jSfCth27mhJ2"
-        ],
-        "store_note": [
-            "SET UP ON REG #7 <br><hr id=\"note_separator\">Grafton crew meet at 4:00 am.  Ride to store w/ rest of crew"
-        ],
-        "employee_list": {
-            "Brianna": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Carlie": [
-                "2)",
-                "Driver to Ryan Rd",
-                "none"
-            ],
-            "DJ": [
-                "3)",
-                "Driver,\nAltima",
-                "none"
-            ],
-            "Jerry D": [
-                "4)",
-                "Driver,\nRed Van,\nRx",
-                "Milwaukee"
-            ],
-            "Lexi": [
-                "5)",
-                "",
-                "none"
-            ],
-            "NasZire": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Pamela": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Sydney": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Tanner": [
-                "9)",
-                "w/ Carlie",
-                "none"
-            ],
-            "Trevor": [
-                "10)",
-                "w/ Carlie",
-                "none"
-            ],
-            "Ashley P": [
-                "11)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Elijah": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
-            "Emily L": [
-                "13)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Justin Lee": [
-                "14)",
-                "@ Store,\nSupv Rx",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Jun 24",
-        "meet_time": [],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "MODAS/WINTAKES",
-            "MODAS/WINTAKES"
-        ],
-        "store_name": [
-            "ROETTGERS GLENDALE ARC",
-            "ROETTGERS PORT RD ARC"
-        ],
-        "address": [
-            "525 W SILVER SPRING DR",
-            "7010 N PORT WASHINGTON RD"
-        ],
-        "link": [
-            "https://maps.app.goo.gl/8jXd2GwteuVWVutZ6",
-            "https://maps.app.goo.gl/fYLJgajhv8Lie4Qw5"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Kim": [
-                "1)",
-                "White Camry available, Equip",
-                "none"
-            ],
-            "Monica": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "3)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Jun 24",
-        "meet_time": [],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "CONCORD GENERAL STORE, OCONOMOWOC"
-        ],
-        "address": [
-            "N6485 COUNTY RD F"
-        ],
-        "link": [
-            "https://goo.gl/maps/X4xEoL3zCRA2"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Ian": [
-                "1)",
-                "Santa Fe available, Equip",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, Jun 25",
-        "meet_time": [],
-        "start_time": "5:30 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL",
-            "DC5-FINANCIAL",
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "ROTE OIL #10 MUKWONAGO - ROCHESTER",
-            "ROTE OIL #12 MUKWONAGO - (AMOCO) GREENWALD",
-            "ROTE OIL  #11 MUKWONAGO - (BP) ARROWHEAD"
-        ],
-        "address": [
-            "1060 N ROCHESTER ST",
-            "909 GREENWALD CT",
-            "122 ARROWHEAD DR"
-        ],
-        "link": [
-            "https://goo.gl/maps/dmvR5bTHLs1Cbjcr5",
-            "https://goo.gl/maps/ejQSLoz2D8EmzKVq6",
-            "https://goo.gl/maps/7XkTFZtDFDgGBctz7"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Katherine": [
-                "1)",
-                "Optima available, Equip",
-                "none"
-            ],
-            "Ian": [
-                "2)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, Jun 25",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "PICK #889 +RX, MENOMONEE FALLS"
-        ],
-        "address": [
-            "N77 W14435 APPLETON AVE"
-        ],
-        "link": [
-            "https://goo.gl/maps/DRPXRoV3zNE2"
-        ],
-        "store_note": [
-            "SET UP ON REG #6"
-        ],
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "Equip",
-                "none"
-            ],
-            "Caitlin": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Cynthia": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Greg": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Jerry D": [
-                "5)",
-                "Rx",
-                "Milwaukee"
-            ],
-            "Lexi": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Leyna": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Monica": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Pamela": [
-                "9)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "10)",
-                "",
-                "none"
-            ],
-            "Sydney": [
-                "11)",
-                "",
-                "none"
-            ],
-            "Tanner": [
-                "12)",
-                "No meet",
-                "none"
-            ],
-            "Trevor": [
-                "13)",
-                "No meet",
-                "none"
-            ],
-            "Anisha": [
-                "14)",
-                "@ Store",
-                "none"
-            ],
-            "Annette": [
-                "15)",
-                "@ Store",
-                "none"
-            ],
-            "Ashley P": [
-                "16)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Joseph": [
-                "17)",
-                "@ Store",
-                "none"
-            ],
-            "Josh S": [
-                "18)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Justin Lee": [
-                "19)",
-                "@ Store,\nSupv Rx",
-                "none"
-            ],
-            "Kayla": [
-                "20)",
-                "@ Store",
-                "none"
-            ],
-            "Kirsten": [
-                "21)",
-                "@ Store",
-                "none"
-            ],
-            "Lena": [
-                "22)",
-                "@ Store",
-                "none"
-            ],
-            "Mai": [
-                "23)",
-                "@ Store",
-                "none"
-            ],
-            "Marcia": [
-                "24)",
-                "@ Store",
-                "none"
-            ],
-            "Taya": [
-                "25)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, Jun 25",
-        "meet_time": "LEAVE OFFICE 4:30 AM",
-        "start_time": "6:30 AM START",
-        "inv_type": [
-            "MODAS-SCAN",
-            "MODAS-SCAN"
-        ],
-        "store_name": [
-            "ONEIDA #2022 ONE STOP E & EE, DEPERE",
-            "ONEIDA #2025 ONE STOP PACKERLAND, GREEN BAY"
-        ],
-        "address": [
-            "790 COUNTY RD EE",
-            "3120 PACKERLAND DR"
-        ],
-        "link": [
-            "https://goo.gl/maps/VLR8RdvzGgF2",
-            "https://goo.gl/maps/ZGaeiY3ZxBS2"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Jerry S": [
-                "1)",
-                "@ Store, Equip",
-                "Fox Valley"
-            ],
-            "Kim": [
-                "2)",
-                "White Camry\nTrain w/ Jerry S",
-                "none"
-            ],
-            "Jeremiah": [
-                "3)",
-                "@ Store",
-                "none"
-            ],
-            "Madison": [
-                "4)",
-                "@ Store",
-                "none"
-            ],
-            "Michelle": [
-                "5)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Jun 26",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [
-            "Red Van getting windshield crack repaired at the office"
-        ],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {
-            "": [
-                "",
-                "",
-                "none"
-            ],
-            "5:00 AM MEET OFFICE": [
-                "",
-                "",
-                "none"
-            ],
-            "6:00 AM START": [
-                "",
-                "",
-                "none"
-            ],
-            "DC5-FINANCIAL": [
-                "",
-                "",
-                "none"
-            ],
-            "ROTE OIL #1 PADDOCK LAKE- BRASS BALL": [
-                "",
-                "",
-                "none"
-            ],
-            "25406 75TH ST": [
-                "",
-                "",
-                "none"
-            ],
-            "https://goo.gl/maps/LTa4ckcczx5qc8269": [
-                "",
-                "",
-                "none"
-            ],
-            "TO FOLLOW": [
-                "",
-                "",
-                "none"
-            ],
-            "ROTE OIL #2 PADDOCK LAKE- 75TH ST": [
-                "",
-                "",
-                "none"
-            ],
-            "25555 75TH ST": [
-                "",
-                "",
-                "none"
-            ],
-            "https://goo.gl/maps/5UyWWXXbzXMaVnv99": [
-                "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Jun 26",
-        "meet_time": [],
-        "start_time": "Katherine",
-        "inv_type": [
-            "Ian",
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "",
-            "PICK #846 +RX, WEST ALLIS - 108TH ST"
-        ],
-        "address": [
-            "",
-            "2625 S 108TH ST"
-        ],
-        "link": [
-            "6:00 AM START",
-            "https://goo.gl/maps/BUUQissbQNk"
-        ],
-        "store_note": [
-            "SET UP ON REG CLOSEST TO PICK UP DEPT <br><hr id=\"note_separator\">STORE RESET-REMAPPED <br><hr id=\"note_separator\">Grafton crew meet at 5:15 am."
-        ],
-        "employee_list": {
-            "Brianna": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Carlie": [
-                "2)",
-                "Driver,\nStools",
-                "none"
-            ],
-            "Cynthia": [
-                "3)",
-                "",
-                "none"
-            ],
-            "DJ": [
-                "4)",
-                "Stools",
-                "none"
-            ],
-            "Greg": [
-                "5)",
-                "",
-                "none"
-            ],
-            "Jerry D": [
-                "6)",
-                "Rx",
-                "Milwaukee"
-            ],
-            "Lexi": [
-                "7)",
-                "Until 11:00",
-                "none"
-            ],
-            "Leyna": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Monica": [
-                "9)",
-                "",
-                "none"
-            ],
-            "NasZire": [
-                "10)",
-                "",
-                "none"
-            ],
-            "Pamela": [
-                "11)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "12)",
-                "",
-                "none"
-            ],
-            "Sydney": [
-                "13)",
-                "",
-                "none"
-            ],
-            "Tanner": [
-                "14)",
-                "w/ Carlie",
-                "none"
-            ],
-            "Trevor": [
-                "15)",
-                "w/ Carlie",
-                "none"
-            ],
-            "Justin Lee": [
-                "16)",
-                "@ Store,\nSupv Rx",
-                "none"
-            ],
-            "Kayla": [
-                "17)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Jun 26",
-        "meet_time": "LEAVE OFFICE 4:15 AM",
-        "start_time": "6:30 AM START",
-        "inv_type": [
-            "MODAS-SCAN",
-            "MODAS-SCAN"
-        ],
-        "store_name": [
-            "ONEIDA #2021 ONE STOP 54, ONEIDA",
-            "ONEIDA #2024 TRAVEL CENTER, PULASKI"
-        ],
-        "address": [
-            "W180 HWY 54",
-            "5939 OLD 29 DRIVE"
-        ],
-        "link": [
-            "https://goo.gl/maps/kMzccLLaPd22",
-            "https://goo.gl/maps/P7gcbpqmHRw"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Jerry S": [
-                "1)",
-                "@ Store, Equip",
-                "Fox Valley"
-            ],
-            "Kim": [
-                "2)",
-                "White Camry\nTrain w/ Jerry S",
-                "none"
-            ],
-            "Annette": [
-                "3)",
-                "@ Store",
-                "none"
-            ],
-            "Jeremiah": [
-                "4)",
-                "@ Store",
-                "none"
-            ],
-            "Marcia": [
-                "5)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Jun 27",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "PICK #374, PEWAUKEE - CAPITOL DR"
-        ],
-        "address": [
-            "1405 CAPITOL DRIVE"
-        ],
-        "link": [
-            "https://goo.gl/maps/fM2WtjtDye32"
-        ],
-        "store_note": [
-            "SET UP ON REG #5"
-        ],
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "Equip",
-                "none"
-            ],
-            "Greg": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Jerry D": [
-                "3)",
-                "Until 11:30",
-                "Milwaukee"
-            ],
-            "Lexi": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Monica": [
-                "5)",
-                "",
-                "none"
-            ],
-            "NasZire": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Pamela": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Eva": [
-                "9)",
-                "@ Store",
-                "none"
-            ],
-            "Joseph": [
-                "10)",
-                "@ Store",
-                "none"
-            ],
-            "Justin Lee": [
-                "11)",
-                "@ Store",
-                "none"
-            ],
-            "Josie": [
-                "12)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Jun 27",
-        "meet_time": [
-            "5:30 AM MEET BAYSHORE\n(COURTESY MEET)"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "DHILLON'S STATION 60 LLC, GRAFTON"
-        ],
-        "address": [
-            "1185 N PORT WASHINGTON RD"
-        ],
-        "link": [
-            "https://maps.app.goo.gl/j6V8me3CPcLfC84u6"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Ian": [
-                "1)",
-                "Driver,\nSanta Fe, Equip",
-                "none"
-            ],
-            "Carlie": [
-                "2)",
-                "@ Store",
-                "none"
-            ],
-            "Leyna": [
-                "3)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Jun 27",
-        "meet_time": [],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "MODAS/WINTAKES"
-        ],
-        "store_name": [
-            "ROETTGERS SHOREWOOD ARC"
-        ],
-        "address": [
-            "1513 E CAPITOL DRIVE"
-        ],
-        "link": [
-            "https://maps.app.goo.gl/JvTBo1JUL5gfYk126"
-        ],
-        "store_note": [
-            "Check in with DJ after (at Pewaukee)"
-        ],
-        "employee_list": {
-            "Kim": [
-                "1)",
-                "White Camry available, Equip",
-                "none"
-            ],
-            "Cynthia": [
-                "2)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Jun 27",
-        "meet_time": [
-            "6:00 AM MEET WATERTOWN PLANK\n(COURTESY MEET)"
-        ],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "CONDON OIL #195, THERESA"
-        ],
-        "address": [
-            "213 N MILWAUKEE"
-        ],
-        "link": [
-            "https://goo.gl/maps/dBrycqMgUwF2"
-        ],
-        "store_note": [
-            "Check in with DJ after (at Pewaukee)"
-        ],
-        "employee_list": {
-            "Katherine": [
-                "1)",
-                "Optima, Equip",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Sat, Jun 28",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {}
-    },
-    {
         "date": "Sun, Jun 29",
         "meet_time": [],
         "start_time": "Scan product if shelf tag won't scan.\nUse Category 000\nNo prices on DCs - QTY only\n\nFOR NOT ON FILES: force in with quantity, put one item in cart w/ price on a sticky note",
@@ -1600,6 +589,941 @@
     },
     {
         "date": "Sat, Jul 5",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {}
+    },
+    {
+        "date": "Sun, Jul 6",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {}
+    },
+    {
+        "date": "Mon, Jul 7",
+        "meet_time": [],
+        "start_time": "5:15 AM BAYSHORE",
+        "inv_type": [
+            "7:00 AM START",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "DC5-FINANCIAL",
+            "CONDON OIL #170, SEYMOUR"
+        ],
+        "address": [
+            "CONDON OIL #295, GREEN BAY",
+            "104 E HWY 54"
+        ],
+        "link": [
+            "3907 S WEBSTER AVE",
+            "https://goo.gl/maps/SeVvxS55USXdf3Nr5"
+        ],
+        "store_note": [
+            "https://goo.gl/maps/TtR77AqnwsJ2"
+        ],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Driver,\nAltima, Equip",
+                "none"
+            ],
+            "Kim": [
+                "2)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Jul 8",
+        "meet_time": [
+            "5:00 AM MEET RYAN RD PNR (HWY 100 & 94)"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "MARIANO'S #533 +RX, NORTHBROOK"
+        ],
+        "address": [
+            "784 SKOKIE BLVD"
+        ],
+        "link": [
+            "https://goo.gl/maps/uGSNdTAqPRw"
+        ],
+        "store_note": [
+            "SET UP ON REG BY TRAINING OFFICE <br><hr id=\"note_separator\">STORE RESET-REMAPPED"
+        ],
+        "employee_list": {
+            "Nate": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Caitlin": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Ian": [
+                "3)",
+                "Driver,\nRed Van",
+                "none"
+            ],
+            "Paul": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Sydney": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Angela": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Anisha": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Ashley P": [
+                "9)",
+                "@ Store,\nSupv Rx",
+                "Rockford"
+            ],
+            "Brianna": [
+                "10)",
+                "@ Store",
+                "none"
+            ],
+            "Eva": [
+                "11)",
+                "@ Store,\nRx",
+                "none"
+            ],
+            "Joseph": [
+                "12)",
+                "@ Store",
+                "none"
+            ],
+            "Justin Lee": [
+                "13)",
+                "@ Store",
+                "none"
+            ],
+            "Michael N": [
+                "14)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Qiana": [
+                "15)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Jul 8",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "METRO #892 +RX, MENOMONEE FALLS - \nCOUNTY LINE RD"
+        ],
+        "address": [
+            "N95 W18351 COUNTY LINE RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/KutaqrX9XEx"
+        ],
+        "store_note": [
+            "SET UP ON LAST REG BY SELF CHECKOUT <br><hr id=\"note_separator\">FEW RESETS-REMAPPED"
+        ],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Equip",
+                "none"
+            ],
+            "Carlie": [
+                "2)",
+                "Rx",
+                "none"
+            ],
+            "Cynthia": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "4)",
+                "",
+                "Milwaukee"
+            ],
+            "Katherine": [
+                "5)",
+                "Supv Rx",
+                "none"
+            ],
+            "Lexi": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Monica": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Jerry S": [
+                "9)",
+                "@ Store",
+                "Fox Valley"
+            ],
+            "Josie": [
+                "10)",
+                "@ Store",
+                "none"
+            ],
+            "Kirsten": [
+                "11)",
+                "@ Store",
+                "none"
+            ],
+            "Lori": [
+                "12)",
+                "@ Store",
+                "none"
+            ],
+            "Madison": [
+                "13)",
+                "@ Store",
+                "none"
+            ],
+            "Mai": [
+                "14)",
+                "@ Store",
+                "none"
+            ],
+            "Marcia": [
+                "15)",
+                "@ Store",
+                "none"
+            ],
+            "Sarah": [
+                "16)",
+                "@ Store",
+                "none"
+            ],
+            "Terri": [
+                "17)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Jul 8",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [
+            "Office"
+        ],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Jul 9",
+        "meet_time": [
+            "4:15 AM MEET RYAN RD PNR (HWY 100 & 94)"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "MARIANO'S #519 +RX, AURORA"
+        ],
+        "address": [
+            "3025 E NEW YORK ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/4LdNPuLeAJs"
+        ],
+        "store_note": [
+            "SET UP ON REG #4 <br><hr id=\"note_separator\">FEW RESETS-REMAPPED"
+        ],
+        "employee_list": {
+            "Nate": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Caitlin": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Ian": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "4)",
+                "Driver,\nRed Van",
+                "Milwaukee"
+            ],
+            "Paul": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Sydney": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Angela": [
+                "8)",
+                "@ Store,\nRx",
+                "none"
+            ],
+            "Anisha": [
+                "9)",
+                "@ Store",
+                "none"
+            ],
+            "Ashley P": [
+                "10)",
+                "@ Store,\nSupv Rx",
+                "Rockford"
+            ],
+            "Eva": [
+                "11)",
+                "@ Store",
+                "none"
+            ],
+            "Evelin": [
+                "12)",
+                "@ Store",
+                "none"
+            ],
+            "Joseph": [
+                "13)",
+                "@ Store",
+                "none"
+            ],
+            "Josh S": [
+                "14)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Justin Lee": [
+                "15)",
+                "@ Store",
+                "none"
+            ],
+            "Kayla": [
+                "16)",
+                "@ Store",
+                "none"
+            ],
+            "Qiana": [
+                "17)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Jul 9",
+        "meet_time": [
+            "5:15 AM MEET RYAN RD PNR (HWY 100 & 94)"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "PIGGLY WIGGLY #102, ZION"
+        ],
+        "address": [
+            "3341 SHERIDAN RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/RC9kMWnG1wn"
+        ],
+        "store_note": [
+            "*SALE INVENTORY",
+            "Grafton meet at 4:30 am.  Go to Ryan Rd meet to ride in"
+        ],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "Driver,\nSanta Fe, Equip",
+                "none"
+            ],
+            "Carlie": [
+                "2)",
+                "",
+                "none"
+            ],
+            "DJ": [
+                "3)",
+                "Driver,\nAltima",
+                "none"
+            ],
+            "Leyna": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Monica": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Tanner": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Trevor": [
+                "7)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Jul 9",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "PICK #867 +RX, BROWN DEER"
+        ],
+        "address": [
+            "9200 N GREEN BAY RD."
+        ],
+        "link": [
+            "https://goo.gl/maps/CW7zvhV8HSR2"
+        ],
+        "store_note": [
+            "SET UP ON REG #1"
+        ],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Cynthia": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Greg": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Katherine": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Lexi": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Pamela": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Annette": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Jerry S": [
+                "8)",
+                "@ Store",
+                "Fox Valley"
+            ],
+            "Kirsten": [
+                "9)",
+                "@ Store",
+                "none"
+            ],
+            "Lori": [
+                "10)",
+                "@ Store,\nRx",
+                "none"
+            ],
+            "Madison": [
+                "11)",
+                "@ Store",
+                "none"
+            ],
+            "Mai": [
+                "12)",
+                "@ Store",
+                "none"
+            ],
+            "Marcia": [
+                "13)",
+                "@ Store",
+                "none"
+            ],
+            "Sarah": [
+                "14)",
+                "@ Store,\nSupv Rx",
+                "none"
+            ],
+            "Taya": [
+                "15)",
+                "@ Store",
+                "none"
+            ],
+            "Terri": [
+                "16)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Jul 10",
+        "meet_time": [
+            "4:30 AM MEET RYAN RD PNR (HWY 100 & 94)"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "MARIANO'S #512, CHICAGO - 16TH & CLARK"
+        ],
+        "address": [
+            "1615 S CLARK ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/zdGiJWdca4F2"
+        ],
+        "store_note": [
+            "SET UP ON REG #1 <br><hr id=\"note_separator\">STORE RESET-REMAPPED"
+        ],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Anisha": [
+                "2)",
+                "@ Store",
+                "none"
+            ],
+            "Ashley P": [
+                "3)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Elijah": [
+                "4)",
+                "@ Store",
+                "none"
+            ],
+            "Eva": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Evelin": [
+                "6)",
+                "@ Store",
+                "none"
+            ],
+            "Joseph": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Josh S": [
+                "8)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Justin Lee": [
+                "9)",
+                "@ Store",
+                "none"
+            ],
+            "Kayla": [
+                "10)",
+                "@ Store",
+                "none"
+            ],
+            "Michael N": [
+                "11)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Nate": [
+                "12)",
+                "@ Store",
+                "none"
+            ],
+            "Qiana": [
+                "13)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Jul 10",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "PICK #348 +RX, OAK CREEK - 27TH ST"
+        ],
+        "address": [
+            "6462 S 27TH ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/Ya5hSzVYqX42"
+        ],
+        "store_note": [
+            "SET UP ON REG #1 (Register closest to offices)"
+        ],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "Santa Fe available, Equip",
+                "none"
+            ],
+            "Caitlin": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Carlie": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Cynthia": [
+                "4)",
+                "",
+                "none"
+            ],
+            "DJ": [
+                "5)",
+                "After Aurora",
+                "none"
+            ],
+            "Jerry D": [
+                "6)",
+                "Rx",
+                "Milwaukee"
+            ],
+            "Lexi": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Monica": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Paul": [
+                "10)",
+                "",
+                "none"
+            ],
+            "Sydney": [
+                "11)",
+                "",
+                "none"
+            ],
+            "Annette": [
+                "12)",
+                "@ Store",
+                "none"
+            ],
+            "Katie": [
+                "13)",
+                "@ Store",
+                "none"
+            ],
+            "Lori": [
+                "14)",
+                "@ Store",
+                "none"
+            ],
+            "Mai": [
+                "15)",
+                "@ Store",
+                "none"
+            ],
+            "Marcia": [
+                "16)",
+                "@ Store",
+                "none"
+            ],
+            "Sarah": [
+                "17)",
+                "@ Store,\nSupv Rx",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Jul 10",
+        "meet_time": [],
+        "start_time": "6:30 AM RYAN RD PNR (HWY 100 & 94)",
+        "inv_type": [
+            "8:30 AM START"
+        ],
+        "store_name": [
+            "DC5-ITEM LEVEL"
+        ],
+        "address": [
+            "AURORA OUTPATIENT RX #1512, CHICAGO"
+        ],
+        "link": [
+            "2320 E 93RD ST, SUITE 3735"
+        ],
+        "store_note": [
+            "*NEW AURORA RX FOR BADGER",
+            "https://maps.app.goo.gl/Z8QCVPn4uuWc6kgC9"
+        ],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Equip",
+                "none"
+            ],
+            "Ian": [
+                "2)",
+                "Driver,\nOptima",
+                "none"
+            ],
+            "Sonia": [
+                "3)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Jul 10",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1760, OAK CREEK"
+        ],
+        "address": [
+            "200 E RYAN ROAD, SUITE 101"
+        ],
+        "link": [
+            "https://goo.gl/maps/5XiBYxoT2sF2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Equip",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Jul 11",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "PICK #357 +RX, GERMANTOWN"
+        ],
+        "address": [
+            "N112 W16200 MEQUON RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/EHNPxYdtCp82"
+        ],
+        "store_note": [
+            "SET UP ON REG CLOSEST TOWARDS SERVICE COUNTER"
+        ],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Equip",
+                "none"
+            ],
+            "Caitlin": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Cynthia": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Greg": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Ian": [
+                "5)",
+                "Supv Rx",
+                "none"
+            ],
+            "Jerry D": [
+                "6)",
+                "Rx",
+                "Milwaukee"
+            ],
+            "Kim": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Lexi": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Monica": [
+                "10)",
+                "",
+                "none"
+            ],
+            "NasZire": [
+                "11)",
+                "",
+                "none"
+            ],
+            "Pamela": [
+                "12)",
+                "",
+                "none"
+            ],
+            "Paul": [
+                "13)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "14)",
+                "",
+                "none"
+            ],
+            "Sydney": [
+                "15)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Jul 11",
+        "meet_time": "4:30 AM OFFICE LEAVE TIME",
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1157, STURGEON BAY"
+        ],
+        "address": [
+            "1910 ALABAMA ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/PT62tX3aqSWcCC5G6"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Optima, Equip",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Sat, Jul 12",
         "meet_time": [],
         "start_time": null,
         "inv_type": [],
