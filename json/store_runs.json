@@ -446,19 +446,25 @@
     },
     {
         "date": "Tue, Jul 1",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [
-            "Office"
+        "meet_time": "5:30 AM OFFICE LEAVE TIME",
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
         ],
-        "address": [],
-        "link": [],
+        "store_name": [
+            "MARIANO'S #524 RX ONLY, NORTHFIELD"
+        ],
+        "address": [
+            "1822 WILLOW RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/jdSWvCFJ2cU2"
+        ],
         "store_note": [],
         "employee_list": {
             "Kim": [
-                "",
-                "",
+                "1)",
+                "White Camry, Equip",
                 "none"
             ]
         }
@@ -555,8 +561,27 @@
                 "Driver,\nAltima, Equip",
                 "none"
             ],
-            "Kim": [
+            "Katherine": [
                 "2)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Jul 3",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [
+            "Office"
+        ],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "",
                 "",
                 "none"
             ]
