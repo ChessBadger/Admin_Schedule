@@ -528,11 +528,6 @@
                 "2)",
                 "@ Store",
                 "Fox Valley"
-            ],
-            "Michelle": [
-                "3)",
-                "@ Store",
-                "none"
             ]
         }
     },
@@ -643,7 +638,7 @@
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "DC5-FINANCIAL",
+            "",
             "CONDON OIL #170, SEYMOUR"
         ],
         "address": [
@@ -664,6 +659,46 @@
                 "none"
             ],
             "Kim": [
+                "2)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Jul 7",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "CONTACT IS RAJ",
+            "BP, BROOKFIELD",
+            "BP, NEW BERLIN"
+        ],
+        "address": [
+            "WAUKESHA MARKET, WAUKESHA (OLD HOP IT MARKET)",
+            "14000 W. GREENFIELD AVE",
+            "16401 W. GREENFIELD AVE"
+        ],
+        "link": [
+            "1610 LINCOLN AVE",
+            "https://maps.app.goo.gl/etFts7K3YCs5tVMF8",
+            "https://maps.app.goo.gl/KYcA4pAXYNofBi62A"
+        ],
+        "store_note": [
+            "https://maps.app.goo.gl/u6HHsSLpCCxmF7H86"
+        ],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "",
+                "none"
+            ],
+            "Ian": [
                 "2)",
                 "",
                 "none"
