@@ -652,7 +652,7 @@
             "https://goo.gl/maps/Ya5hSzVYqX42"
         ],
         "store_note": [
-            "SET UP ON REG #1 (Register closest to offices) <br><hr id=\"note_separator\">5:15 am Grafton meet for Carlie and Trevor"
+            "SET UP ON REG #1 (Register closest to offices) <br><hr id=\"note_separator\">5:15 am Grafton meet for Grafton crew"
         ],
         "employee_list": {
             "Kim": [
@@ -700,38 +700,43 @@
                 "",
                 "none"
             ],
-            "Trevor": [
+            "Tanner": [
                 "10)",
                 "w/ Carlie",
                 "none"
             ],
-            "Annette": [
+            "Trevor": [
                 "11)",
-                "@ Store",
+                "w/ Carlie",
                 "none"
             ],
-            "Katie": [
+            "Annette": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Lori": [
+            "Katie": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Mai": [
+            "Lori": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Marcia": [
+            "Mai": [
                 "15)",
                 "@ Store",
                 "none"
             ],
-            "Sarah": [
+            "Marcia": [
                 "16)",
+                "@ Store",
+                "none"
+            ],
+            "Sarah": [
+                "17)",
                 "@ Store,\nSupv Rx",
                 "none"
             ]
@@ -1280,78 +1285,68 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Carlie": [
-                "2)",
-                "",
-                "none"
-            ],
-            "DJ": [
-                "3)",
-                "",
-                "none"
-            ],
             "Ian": [
-                "4)",
+                "2)",
                 "Driver,\nRed Van",
                 "none"
             ],
             "Jerry D": [
-                "5)",
+                "3)",
                 "Rx",
                 "Milwaukee"
             ],
             "Leyna": [
-                "6)",
+                "4)",
                 "",
                 "none"
             ],
             "Paul": [
-                "7)",
+                "5)",
                 "",
                 "none"
             ],
             "Anisha": [
-                "8)",
+                "6)",
                 "@ Store",
                 "none"
             ],
             "Ashley P": [
-                "9)",
+                "7)",
                 "@ Store",
                 "Rockford"
             ],
             "Brianna": [
-                "10)",
+                "8)",
                 "@ Store",
                 "none"
             ],
             "Eva": [
-                "11)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Evelin": [
-                "12)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Joseph": [
-                "13)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Justin Lee": [
-                "14)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Michael N": [
-                "15)",
+                "13)",
                 "@ Store",
                 "Rockford"
             ],
             "Qiana": [
-                "16)",
+                "14)",
                 "@ Store,\nSupv Rx",
                 "none"
             ]
@@ -1377,9 +1372,9 @@
             "ENTRANCE IS ON THE 27TH ST SIDE OF BUILDING"
         ],
         "employee_list": {
-            "Kim": [
+            "DJ": [
                 "1)",
-                "White Camry, Equip",
+                "Equip",
                 "none"
             ]
         }
@@ -1410,6 +1405,65 @@
             "Jeremiah": [
                 "2)",
                 "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Jul 16",
+        "meet_time": [
+            "5:15 AM MEET RYAN RD PNR"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "PIGGLY WIGGLY #102, ZION"
+        ],
+        "address": [
+            "3341 SHERIDAN RD"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/hRjwu3CvKTpq7kaP9"
+        ],
+        "store_note": [
+            "*SALE INVENTORY"
+        ],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "Driver,\nWhite Camry, Equip",
+                "none"
+            ],
+            "Caitlin": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Carlie": [
+                "3)",
+                "Driver\nRed Camry",
+                "none"
+            ],
+            "Cynthia": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Lexi": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Monica": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Pamela": [
+                "7)",
+                "",
                 "none"
             ]
         }
