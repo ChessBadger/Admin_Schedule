@@ -422,66 +422,6 @@
     },
     {
         "date": "Wed, Jul 9",
-        "meet_time": [
-            "5:15 AM MEET RYAN RD PNR (HWY 100 & 94)"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "PIGGLY WIGGLY #102, ZION"
-        ],
-        "address": [
-            "3341 SHERIDAN RD"
-        ],
-        "link": [
-            "https://goo.gl/maps/RC9kMWnG1wn"
-        ],
-        "store_note": [
-            "*SALE INVENTORY",
-            "Grafton meet at 4:30 am.  Go to Ryan Rd meet to ride in"
-        ],
-        "employee_list": {
-            "Kim": [
-                "1)",
-                "Driver,\nSanta Fe, Equip",
-                "none"
-            ],
-            "Carlie": [
-                "2)",
-                "",
-                "none"
-            ],
-            "DJ": [
-                "3)",
-                "Driver,\nAltima",
-                "none"
-            ],
-            "Lexi": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Leyna": [
-                "5)",
-                "",
-                "none"
-            ],
-            "Tanner": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Trevor": [
-                "7)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, Jul 9",
         "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
@@ -510,74 +450,98 @@
                 "",
                 "none"
             ],
-            "Greg": [
+            "DJ": [
                 "3)",
                 "",
                 "none"
             ],
-            "Katherine": [
+            "Greg": [
                 "4)",
                 "",
                 "none"
             ],
-            "Pamela": [
+            "Katherine": [
                 "5)",
                 "",
                 "none"
             ],
-            "Paul": [
+            "Pamela": [
                 "6)",
                 "",
                 "none"
             ],
-            "Annette": [
+            "Paul": [
                 "7)",
+                "",
+                "none"
+            ],
+            "Annette": [
+                "8)",
                 "@ Store",
                 "none"
             ],
             "Jerry S": [
-                "8)",
+                "9)",
                 "@ Store",
                 "Fox Valley"
             ],
             "Kirsten": [
-                "9)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Lori": [
-                "10)",
+                "11)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Madison": [
-                "11)",
-                "@ Store",
-                "none"
-            ],
-            "Mai": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Marcia": [
+            "Mai": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Sarah": [
+            "Marcia": [
                 "14)",
+                "@ Store",
+                "none"
+            ],
+            "Sarah": [
+                "15)",
                 "@ Store,\nSupv Rx",
                 "none"
             ],
             "Taya": [
-                "15)",
+                "16)",
                 "@ Store",
                 "none"
             ],
             "Terri": [
-                "16)",
+                "17)",
                 "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Jul 9",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [
+            "Office"
+        ],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "",
+                "",
                 "none"
             ]
         }
@@ -736,7 +700,7 @@
                 "",
                 "none"
             ],
-            "Sydney": [
+            "Trevor": [
                 "10)",
                 "",
                 "none"
@@ -922,13 +886,8 @@
                 "",
                 "none"
             ],
-            "Sydney": [
-                "14)",
-                "",
-                "none"
-            ],
             "Trevor": [
-                "15)",
+                "14)",
                 "",
                 "none"
             ]
