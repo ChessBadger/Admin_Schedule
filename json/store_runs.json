@@ -685,6 +685,31 @@
         }
     },
     {
+        "date": "Thu, Jul 17",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "PICK #879 RX ONLY, MILWAUKEE-35TH & NORTH"
+        ],
+        "address": [
+            "2355 N 35TH STREET"
+        ],
+        "link": [
+            "https://goo.gl/maps/6NcR4utzrJq"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "": [
+                "1)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
         "date": "Fri, Jul 18",
         "meet_time": [],
         "start_time": "6:00 AM START",
@@ -947,19 +972,15 @@
         "meet_time": [],
         "start_time": "7:00 AM START",
         "inv_type": [
-            "DC5-ITEM LEVEL",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "PICK #879 RX ONLY, MILWAUKEE-35TH & NORTH",
             "PICK #845 RX ONLY, MILWAUKEE-LOOMIS"
         ],
         "address": [
-            "2355 N 35TH STREET",
             "3701 S 27TH ST"
         ],
         "link": [
-            "https://goo.gl/maps/6NcR4utzrJq",
             "https://goo.gl/maps/BLy8vMxXBsA2"
         ],
         "store_note": [],
