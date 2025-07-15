@@ -573,52 +573,52 @@
                 "",
                 "none"
             ],
-            "Greg": [
-                "4)",
-                "",
-                "none"
-            ],
             "Jerry D": [
-                "5)",
+                "4)",
                 "Driver,\nSanta Fe,\nRx",
                 "Milwaukee"
             ],
             "Kim": [
-                "6)",
+                "5)",
                 "Driver,\nWhite Camry",
                 "none"
             ],
             "Leyna": [
-                "7)",
+                "6)",
                 "",
                 "none"
             ],
             "Paul": [
-                "8)",
+                "7)",
                 "",
                 "none"
             ],
             "Sonia": [
-                "9)",
+                "8)",
                 "",
                 "none"
             ],
             "Angela": [
-                "10)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Anisha": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Ashley P": [
-                "12)",
+                "11)",
                 "@ Store,\nSupv Rx",
                 "Rockford"
             ],
             "Brianna": [
+                "12)",
+                "@ Store",
+                "none"
+            ],
+            "Elijah": [
                 "13)",
                 "@ Store",
                 "none"
@@ -652,9 +652,7 @@
     },
     {
         "date": "Thu, Jul 17",
-        "meet_time": [
-            "7:00 AM OFFICE MEET"
-        ],
+        "meet_time": "7:00 AM OFFICE LEAVE TIME",
         "start_time": "8:30 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -674,12 +672,7 @@
         "employee_list": {
             "Katherine": [
                 "1)",
-                "Equip",
-                "none"
-            ],
-            "Ian": [
-                "2)",
-                "Driver,\nOptima",
+                "Optima, Equip",
                 "none"
             ]
         }
@@ -702,9 +695,9 @@
         ],
         "store_note": [],
         "employee_list": {
-            "": [
+            "Ian": [
                 "1)",
-                "",
+                "Red Van available, Equip",
                 "none"
             ]
         }
@@ -712,21 +705,21 @@
     {
         "date": "Fri, Jul 18",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "Red Van oil change scheduled this day",
         "inv_type": [
-            "DC5-ITEM LEVEL"
+            ""
         ],
         "store_name": [
-            "PICK #418 +RX, MILWAUKEE - GOOD HOPE RD"
+            "6:00 AM START"
         ],
         "address": [
-            "7401 WEST GOOD HOPE ROAD"
+            "DC5-ITEM LEVEL"
         ],
         "link": [
-            "https://goo.gl/maps/Jt3SUFRkx4bqYKL39"
+            "PICK #418 +RX, MILWAUKEE - GOOD HOPE RD"
         ],
         "store_note": [
-            "SET UP ON REG #9"
+            "7401 WEST GOOD HOPE ROAD <br><hr id=\"note_separator\">https://goo.gl/maps/Jt3SUFRkx4bqYKL39 <br><hr id=\"note_separator\">SET UP ON REG #9"
         ],
         "employee_list": {
             "Kim": [
