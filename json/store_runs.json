@@ -722,9 +722,9 @@
             "7401 WEST GOOD HOPE ROAD <br><hr id=\"note_separator\">https://goo.gl/maps/Jt3SUFRkx4bqYKL39 <br><hr id=\"note_separator\">SET UP ON REG #9"
         ],
         "employee_list": {
-            "Kim": [
+            "Nate": [
                 "1)",
-                "White Camry available, Equip",
+                "@ Store, Equip",
                 "none"
             ],
             "Caitlin": [
@@ -797,7 +797,7 @@
                 "@ Store",
                 "none"
             ],
-            "Nate": [
+            "Eva": [
                 "16)",
                 "@ Store",
                 "none"
@@ -843,6 +843,25 @@
                 "2)",
                 "",
                 "Milwaukee"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Jul 18",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [
+            "Office / Mapping"
+        ],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "",
+                "",
+                "none"
             ]
         }
     },
