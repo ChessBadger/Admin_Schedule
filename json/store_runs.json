@@ -1279,19 +1279,23 @@
         "meet_time": [],
         "start_time": "Katherine",
         "inv_type": [
-            ""
-        ],
-        "store_name": [
-            "4:45 AM MEET RYAN RD PNR (HWY 100 & 94)"
-        ],
-        "address": [
-            "6:00 AM START"
-        ],
-        "link": [
+            "The Altima will be going in for servicing this day, DJ taking White Camry",
             "DC5-ITEM LEVEL"
         ],
+        "store_name": [
+            "",
+            "MARIANO'S #531 +RX, SKOKIE"
+        ],
+        "address": [
+            "4:45 AM MEET RYAN RD PNR (HWY 100 & 94)",
+            "3358 W TOUHY AVE"
+        ],
+        "link": [
+            "6:00 AM START",
+            "https://goo.gl/maps/Dybn9qjgpUN2"
+        ],
         "store_note": [
-            "MARIANO'S #531 +RX, SKOKIE <br><hr id=\"note_separator\">3358 W TOUHY AVE <br><hr id=\"note_separator\">https://goo.gl/maps/Dybn9qjgpUN2 <br><hr id=\"note_separator\">SET UP ON REG #1 <br><hr id=\"note_separator\">4:00 am Carlie/Trevor meet.  Not needed at Ryan Rd meet"
+            "SET UP ON REG #1 <br><hr id=\"note_separator\">4:00 am Carlie/Trevor meet.  Not needed at Ryan Rd meet"
         ],
         "employee_list": {
             "Nate": [
@@ -1421,7 +1425,7 @@
         "employee_list": {
             "DJ": [
                 "1)",
-                "Equip",
+                "White Camry, Equip",
                 "none"
             ],
             "Leyna": [
@@ -1627,7 +1631,7 @@
         "employee_list": {
             "Kim": [
                 "1)",
-                "Driver,\nWhite Camry, Equip",
+                "Driver,\nSanta Fe, Equip",
                 "none"
             ],
             "Cynthia": [
@@ -1698,7 +1702,7 @@
         "employee_list": {
             "Kim": [
                 "1)",
-                "White Camry available, Equip",
+                "Santa Fe available, Equip",
                 "none"
             ],
             "Carlie": [
@@ -1867,7 +1871,7 @@
         "employee_list": {
             "Kim": [
                 "1)",
-                "White Camry available, Equip",
+                "Santa Fe available, Equip",
                 "none"
             ],
             "Caitlin": [
