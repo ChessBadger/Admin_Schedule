@@ -1540,43 +1540,38 @@
                 "",
                 "none"
             ],
-            "Kim": [
-                "8)",
-                "After Aurora",
-                "none"
-            ],
             "Lexi": [
-                "9)",
+                "8)",
                 "",
                 "none"
             ],
             "Monica": [
-                "10)",
+                "9)",
                 "",
                 "none"
             ],
             "Pamela": [
-                "11)",
+                "10)",
                 "",
                 "none"
             ],
             "Paul": [
-                "12)",
+                "11)",
                 "",
                 "none"
             ],
             "Sonia": [
-                "13)",
+                "12)",
                 "After Aurora",
                 "none"
             ],
             "Tanner": [
-                "14)",
+                "13)",
                 "w/ Carlie",
                 "none"
             ],
             "Trevor": [
-                "15)",
+                "14)",
                 "w/ Carlie",
                 "none"
             ]
@@ -1615,6 +1610,25 @@
             "Sonia": [
                 "3)",
                 "Training on CK's",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Aug 7",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [
+            "Office"
+        ],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "",
+                "After Aurora",
                 "none"
             ]
         }
