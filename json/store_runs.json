@@ -594,7 +594,7 @@
             "SCAN-ITEM LEVEL"
         ],
         "store_name": [
-            "PICK #360 +RX, FRANKLIN-76TH ST"
+            "PICK #360 (no RX count), FRANKLIN-76TH ST"
         ],
         "address": [
             "7201 S 76TH ST"
@@ -628,12 +628,12 @@
             ],
             "Ian": [
                 "5)",
-                "Rx",
+                "",
                 "none"
             ],
             "Jerry D": [
                 "6)",
-                "Supv Rx",
+                "",
                 "Milwaukee"
             ],
             "Katherine": [
