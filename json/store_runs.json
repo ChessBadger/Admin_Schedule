@@ -1,5 +1,553 @@
 [
     {
+        "date": "Sun, Aug 17",
+        "meet_time": [
+            "5:15 AM MEET BAYSHORE"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "PIGGLY WIGGLY #172, CEDAR GROVE"
+        ],
+        "address": [
+            "240 N COMMERCE ST"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/ybFrcvnSQUSJBEuk9"
+        ],
+        "store_note": [
+            "*SALE INVENTORY - NEW PIG FOR BADGER"
+        ],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Cynthia": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "3)",
+                "Driver,\nRed Van",
+                "Milwaukee"
+            ],
+            "Katherine": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Monica": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Paul": [
+                "6)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Aug 18",
+        "meet_time": [],
+        "start_time": "Kim",
+        "inv_type": [
+            ""
+        ],
+        "store_name": [
+            "5:30 AM MEET RYAN RD PNR (HWY 100 & 94)"
+        ],
+        "address": [
+            "7:00 AM START"
+        ],
+        "link": [
+            "SCAN-ITEM LEVEL"
+        ],
+        "store_note": [
+            "MARIANO'S #540 +RX ONLY, BLOOMINGDALE <br><hr id=\"note_separator\">144 GARY AVE <br><hr id=\"note_separator\">https://goo.gl/maps/nxd8dWUYoVH2"
+        ],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Optima, Equip",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Aug 18",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "MODAS-SCAN"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1120, FRANKLIN"
+        ],
+        "address": [
+            "9200 W LOOMIS RD SUITE 210"
+        ],
+        "link": [
+            "https://goo.gl/maps/PNn7y7HSYHT2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Equip",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Aug 18",
+        "meet_time": [
+            "6:30 AM MEET BAYSHORE"
+        ],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "MODAS-SCAN"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1264, PORT WASHINGTON"
+        ],
+        "address": [
+            "1475 W GRAND AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/eMESBveZrkcjkpYJ8"
+        ],
+        "store_note": [
+            "8:30 AM START <br><hr id=\"note_separator\">MODAS-SCAN <br><hr id=\"note_separator\">AURORA VISION #1167, PORT WASHINGTON <br><hr id=\"note_separator\">1475 W GRAND AVE <br><hr id=\"note_separator\">https://goo.gl/maps/zCaBSLnNiNJz1Gyv5"
+        ],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "Driver,\nSanta Fe, Equip",
+                "none"
+            ],
+            "Ian": [
+                "2)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Aug 19",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "MODAS-SCAN"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1085 MILWAUKEE"
+        ],
+        "address": [
+            "945 N 12TH ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/ocvCohDG8tChEG7r9"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Optima available, Equip",
+                "none"
+            ],
+            "Carlie": [
+                "2)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Aug 19",
+        "meet_time": "6:00 AM OFFICE LEAVE TIME",
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "MODAS-SCAN"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1222, CEDAR GROVE"
+        ],
+        "address": [
+            "313 SOUTH MAIN ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/Z3osjsSq666QtkPNA"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Ian": [
+                "1)",
+                "Santa Fe,\nTrain w/ Jeremiah on Modas ",
+                "none"
+            ],
+            "Jeremiah": [
+                "2)",
+                "@ Store, bring Modas Equip",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Aug 19",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [
+            "Office"
+        ],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Aug 20",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "MODAS-SCAN"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1012, CUDAHY"
+        ],
+        "address": [
+            "5900 S LAKE DRIVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/gJd9TeY5Upy"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Equip",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Aug 20",
+        "meet_time": [
+            "5:00 AM MEET SOUTH RACINE COURT (HWY 43 & Y)"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "MODAS-SCAN"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1072 TWIN LAKES"
+        ],
+        "address": [
+            "700 NORTH LAKE AVENUE SUITE 101"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/EJCh7QYTfkz4egwc8"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "Driver,\nWht Camry, Equip",
+                "none"
+            ],
+            "Jerry D": [
+                "2)",
+                "",
+                "Milwaukee"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Aug 21",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "SCAN-ITEM LEVEL"
+        ],
+        "store_name": [
+            "METRO #853 +RX, BROOKFIELD - 127TH"
+        ],
+        "address": [
+            "12735 W CAPITOL DR"
+        ],
+        "link": [
+            "https://goo.gl/maps/FqmpeGmA7cM2"
+        ],
+        "store_note": [
+            "5:15 am meet for Carlie/Trevor"
+        ],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "Red Van available, Equip",
+                "none"
+            ],
+            "Caitlin": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Carlie": [
+                "3)",
+                "w/ Trevor",
+                "none"
+            ],
+            "Cynthia": [
+                "4)",
+                "",
+                "none"
+            ],
+            "DJ": [
+                "5)",
+                "After Aurora",
+                "none"
+            ],
+            "Ian": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "7)",
+                "Supv Rx",
+                "Milwaukee"
+            ],
+            "Katherine": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Lexi": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "10)",
+                "After Aurora",
+                "none"
+            ],
+            "Monica": [
+                "11)",
+                "",
+                "none"
+            ],
+            "Pamela": [
+                "12)",
+                "",
+                "none"
+            ],
+            "Paul": [
+                "13)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "14)",
+                "",
+                "none"
+            ],
+            "Trevor": [
+                "15)",
+                "w/ Carlie",
+                "none"
+            ],
+            "Ashley P": [
+                "16)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Qiana": [
+                "17)",
+                "@ Store,\nRx",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Aug 21",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "MODAS-SCAN"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1105, BROOKFIELD"
+        ],
+        "address": [
+            "16985 W BLUEMOUND - SUITE 100"
+        ],
+        "link": [
+            "https://goo.gl/maps/jH8mU5GKz9qMkuhD8"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Equip",
+                "none"
+            ],
+            "Leyna": [
+                "2)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Aug 22",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "SCAN-ITEM LEVEL"
+        ],
+        "store_name": [
+            "METRO #380 +RX, SUSSEX"
+        ],
+        "address": [
+            "N65 W24838 MAIN ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/9vhkJiNzSVT2"
+        ],
+        "store_note": [
+            "SET UP ON REG #1"
+        ],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Equip",
+                "none"
+            ],
+            "Caitlin": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Carlie": [
+                "3)",
+                "Rx",
+                "none"
+            ],
+            "Cynthia": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Ian": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "6)",
+                "Supv Rx",
+                "Milwaukee"
+            ],
+            "Katherine": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Lexi": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Monica": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Pamela": [
+                "10)",
+                "",
+                "none"
+            ],
+            "Paul": [
+                "11)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "12)",
+                "",
+                "none"
+            ],
+            "Brianna": [
+                "13)",
+                "@ Store",
+                "none"
+            ],
+            "Nate": [
+                "14)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Aug 22",
+        "meet_time": [
+            "6:00 AM MEET WATERTOWN PLANK"
+        ],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "CONDON OIL #195, THERESA"
+        ],
+        "address": [
+            "213 N MILWAUKEE"
+        ],
+        "link": [
+            "https://goo.gl/maps/dBrycqMgUwF2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "Driver,\nSanta Fe, Equip",
+                "none"
+            ],
+            "Leyna": [
+                "2)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Sat, Aug 23",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {}
+    },
+    {
         "date": "Sun, Aug 24",
         "meet_time": [
             "4:30 AM MEET AT THE OFFICE"
