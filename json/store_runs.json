@@ -748,18 +748,26 @@
     },
     {
         "date": "Mon, Aug 25",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [
-            "Office"
+        "meet_time": [
+            "?? AM OFFICE MEET"
         ],
-        "address": [],
-        "link": [],
+        "start_time": "9:00 AM START",
+        "inv_type": [
+            "SCAN-ITEM LEVEL"
+        ],
+        "store_name": [
+            "CORK AND BOTTLE LIQUORS, JANESVILLE"
+        ],
+        "address": [
+            "1418 W. MEMORIAL DR"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/X4LfoEZLXvGDiMRi6"
+        ],
         "store_note": [],
         "employee_list": {
-            "Kim": [
-                "",
+            "Lashaun": [
+                "1)",
                 "",
                 "none"
             ]
