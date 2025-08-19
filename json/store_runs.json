@@ -749,7 +749,7 @@
     {
         "date": "Mon, Aug 25",
         "meet_time": [
-            "?? AM OFFICE MEET"
+            "7:30 AM OFFICE MEET"
         ],
         "start_time": "9:00 AM START",
         "inv_type": [
@@ -768,7 +768,41 @@
         "employee_list": {
             "Lashaun": [
                 "1)",
+                "Driver,\nWht Camry, Equip",
+                "none"
+            ],
+            "Kim": [
+                "2)",
                 "",
+                "none"
+            ],
+            "Jeremiah": [
+                "3)",
+                "@ Store",
+                "none"
+            ],
+            "Sarah": [
+                "4)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Aug 25",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [
+            "Office"
+        ],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "",
+                "A little after Liq store",
                 "none"
             ]
         }
