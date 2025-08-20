@@ -776,13 +776,8 @@
                 "",
                 "none"
             ],
-            "Jeremiah": [
-                "3)",
-                "@ Store",
-                "none"
-            ],
             "Sarah": [
-                "4)",
+                "3)",
                 "@ Store",
                 "none"
             ]
@@ -791,18 +786,51 @@
     {
         "date": "Mon, Aug 25",
         "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
+        "start_time": "9:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
         "store_name": [
+            "SALE INVENTORY"
+        ],
+        "address": [
+            "CONTCT IS RAJ (THE BUYER)"
+        ],
+        "link": [
+            "CLASS ONE LIQUOR, WEST ALLIS"
+        ],
+        "store_note": [
+            "8423 W. CLEVELAND AVE <br><hr id=\"note_separator\">https://maps.app.goo.gl/t8quKk5dqeQ7J11s7"
+        ],
+        "employee_list": {
+            "Jeremiah": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Aug 25",
+        "meet_time": [],
+        "start_time": "Annette",
+        "inv_type": [
+            ""
+        ],
+        "store_name": [
+            ""
+        ],
+        "address": [
             "Office"
         ],
-        "address": [],
-        "link": [],
+        "link": [
+            "Kim"
+        ],
         "store_note": [],
         "employee_list": {
-            "Kim": [
+            "": [
                 "",
-                "A little after Liq store",
+                "",
                 "none"
             ]
         }
