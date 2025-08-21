@@ -807,30 +807,34 @@
                 "1)",
                 "@ Store, Equip",
                 "none"
+            ],
+            "Paul": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Annette": [
+                "3)",
+                "@ Store",
+                "none"
             ]
         }
     },
     {
         "date": "Mon, Aug 25",
         "meet_time": [],
-        "start_time": "Annette",
-        "inv_type": [
-            ""
-        ],
+        "start_time": null,
+        "inv_type": [],
         "store_name": [
-            ""
-        ],
-        "address": [
             "Office"
         ],
-        "link": [
-            "Kim"
-        ],
+        "address": [],
+        "link": [],
         "store_note": [],
         "employee_list": {
-            "": [
+            "Kim": [
                 "",
-                "",
+                "A little after Liq store",
                 "none"
             ]
         }
