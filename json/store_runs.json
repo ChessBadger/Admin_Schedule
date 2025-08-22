@@ -970,14 +970,9 @@
             "https://maps.app.goo.gl/AhoCjas551Y24soH7"
         ],
         "store_note": [
-            "-Park in parking structure D\n-Enter using skywalk(level 2) and take elevator to ground floor"
+            "-Park in parking structure D <br><hr id=\"note_separator\">-Enter using skywalk(level 2) and take elevator to ground floor"
         ],
         "employee_list": {
-            "": [
-                "",
-                "",
-                "none"
-            ],
             "Ian": [
                 "1)",
                 "Driver,\nSanta Fe, Equip",
