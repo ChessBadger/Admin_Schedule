@@ -636,9 +636,9 @@
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Nick": [
                 "4)",
-                "",
+                "@ Store",
                 "none"
             ],
             "Brianna": [
@@ -801,8 +801,13 @@
                 "Driver,\nSanta Fe, Equip",
                 "none"
             ],
-            "Sue": [
+            "Sonia": [
                 "2)",
+                "",
+                "none"
+            ],
+            "Sue": [
+                "3)",
                 "",
                 "none"
             ]
@@ -918,6 +923,11 @@
             "Ian": [
                 "1)",
                 "Santa Fe available, Equip",
+                "none"
+            ],
+            "Lashaun": [
+                "2)",
+                "",
                 "none"
             ]
         }
