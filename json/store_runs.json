@@ -772,19 +772,23 @@
         ],
         "start_time": "6:00 AM START",
         "inv_type": [
-            "MODAS-SCAN"
+            "DC5-ITEM LEVEL",
+            "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "AURORA OUTPATIENT RX #1150, KENOSHA"
+            "AURORA OUTPATIENT RX #1150, KENOSHA",
+            "AURORA VISION #1150, KENOSHA"
         ],
         "address": [
-            "10400 75TH ST"
+            "10400 75TH ST",
+            "6815 118TH AVE"
         ],
         "link": [
-            "https://goo.gl/maps/K5ZSZyLo7jH2"
+            "https://goo.gl/maps/K5ZSZyLo7jH2",
+            "https://goo.gl/maps/zRYCmicZWfv"
         ],
         "store_note": [
-            "9:30 AM START <br><hr id=\"note_separator\">MODAS-SCAN <br><hr id=\"note_separator\">AURORA VISION #1150, KENOSHA <br><hr id=\"note_separator\">6815 118TH AVE <br><hr id=\"note_separator\">https://goo.gl/maps/zRYCmicZWfv"
+            "9:30 AM START"
         ],
         "employee_list": {
             "Ian": [
