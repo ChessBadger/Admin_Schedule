@@ -1646,6 +1646,83 @@
         }
     },
     {
+        "date": "Fri, Sep 5",
+        "meet_time": [],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "FESTIVAL #2691, WESTON - LIFO"
+        ],
+        "address": [
+            "6205 BUSINESS HWY 51"
+        ],
+        "link": [
+            "https://goo.gl/maps/6QpvpLFDTrh8njoi9"
+        ],
+        "store_note": [
+            "?? am meet for Trevor / Madison / Michelle / Terri"
+        ],
+        "employee_list": {
+            "Jeremiah": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Trevor": [
+                "2)",
+                "meet Michelle @ Point Target",
+                "none"
+            ],
+            "Jacqui": [
+                "3)",
+                "@ Store",
+                "none"
+            ],
+            "Jerry S": [
+                "4)",
+                "@ Store",
+                "Fox Valley"
+            ],
+            "Katie": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Kirsten": [
+                "6)",
+                "@ Store",
+                "none"
+            ],
+            "Madison": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Mai": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Marcia": [
+                "9)",
+                "@ Store",
+                "none"
+            ],
+            "Michelle": [
+                "10)",
+                "@ Store",
+                "none"
+            ],
+            "Terri": [
+                "11)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
         "date": "Sat, Sep 6",
         "meet_time": [],
         "start_time": "6:00 AM START",
