@@ -974,28 +974,30 @@
     {
         "date": "Fri, Aug 29",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "Optima at Lutters for service",
         "inv_type": [
-            "DC5-FINANCIAL",
+            "",
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "ROTE OIL #14 TREVOR (CITGO)",
+            "6:00 AM START",
             "ROTE OIL #13 TREVOR (BP)"
         ],
         "address": [
-            "12617 ANTIOCH RD",
+            "DC5-FINANCIAL",
             "12511 ANTIOCH RD"
         ],
         "link": [
-            "https://goo.gl/maps/xA9YMzPGc6Vhxi5r8",
+            "ROTE OIL #14 TREVOR (CITGO)",
             "https://goo.gl/maps/iu3xzNwgJ32esP5RA"
         ],
-        "store_note": [],
+        "store_note": [
+            "12617 ANTIOCH RD <br><hr id=\"note_separator\">https://goo.gl/maps/xA9YMzPGc6Vhxi5r8"
+        ],
         "employee_list": {
             "Katherine": [
                 "1)",
-                "Optima, Equip",
+                "Wht Camry, Equip",
                 "none"
             ]
         }
@@ -1123,7 +1125,7 @@
             ],
             "Sue": [
                 "3)",
-                "Driver,\nOptima",
+                "Driver,\nWht Camry",
                 "none"
             ]
         }
@@ -1261,7 +1263,7 @@
         "employee_list": {
             "Katherine": [
                 "1)",
-                "Optima available, Equip",
+                "Wht Camry available, Equip",
                 "none"
             ],
             "Paul": [
@@ -1630,7 +1632,7 @@
         "employee_list": {
             "Katherine": [
                 "1)",
-                "Optima available, Equip",
+                "Wht Camry available, Equip",
                 "none"
             ]
         }
@@ -1659,7 +1661,7 @@
         "employee_list": {
             "Kim": [
                 "1)",
-                "Driver,\nWht Camry, Equip",
+                "Driver,\nSanta Fe, Equip",
                 "none"
             ],
             "Jerry D": [
