@@ -1023,24 +1023,51 @@
         "employee_list": {}
     },
     {
+        "date": "Mon, Sep 1",
+        "meet_time": [],
+        "start_time": "Tuesday we will be using the local Pick n Save in Brookfield",
+        "inv_type": [
+            "for a couple meets.  They are doing work to the office parking lot over the weekend"
+        ],
+        "store_name": [
+            ""
+        ],
+        "address": [
+            ""
+        ],
+        "link": [
+            ""
+        ],
+        "store_note": [],
+        "employee_list": {
+            "": [
+                "",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
         "date": "Tue, Sep 2",
         "meet_time": [],
         "start_time": "DJ",
         "inv_type": [
-            ""
-        ],
-        "store_name": [
-            "6:30 AM MEET AT BROOKFIELD PICK N SAVE (GREENFIELD)"
-        ],
-        "address": [
-            "7:00 AM START"
-        ],
-        "link": [
+            "",
             "DC5-FINANCIAL"
         ],
-        "store_note": [
-            "RAPID MART HARTFORD <br><hr id=\"note_separator\">2712 E SUMNER ST <br><hr id=\"note_separator\">https://goo.gl/maps/5dpExsTUAgz"
+        "store_name": [
+            "6:30 AM MEET AT BROOKFIELD PICK N SAVE (GREENFIELD)",
+            "RAPID MART HARTFORD"
         ],
+        "address": [
+            "ADDRESS FOR PNS MEET\n15170 W GREENFIELD AVE, BROOKFIELD",
+            "2712 E SUMNER ST"
+        ],
+        "link": [
+            "7:00 AM START",
+            "https://goo.gl/maps/5dpExsTUAgz"
+        ],
+        "store_note": [],
         "employee_list": {
             "Ian": [
                 "1)",
@@ -1059,28 +1086,30 @@
         "meet_time": [
             "6:15 AM MEET AT BROOKFIELD PICK N SAVE (GREENFIELD)"
         ],
-        "start_time": "7:00 AM START",
+        "start_time": "ADDRESS FOR PNS MEET\n15170 W GREENFIELD AVE, BROOKFIELD",
         "inv_type": [
-            "DC5-FINANCIAL",
+            "7:00 AM START",
             "DC5-FINANCIAL",
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "KANSASVILLE CITGO QUICK MART",
+            "DC5-FINANCIAL",
             "TWIN LAKES CITGO, TWIN LAKES",
             "SALEM MINI MART"
         ],
         "address": [
-            "23010 DURAND AVE",
+            "KANSASVILLE CITGO QUICK MART",
             "410 N LAKE AVE",
             "8246 ANTIOCH RD"
         ],
         "link": [
-            "https://goo.gl/maps/QZs8ZSjv9eL2",
+            "23010 DURAND AVE",
             "https://goo.gl/maps/k9s2GwpMbH32",
             "https://maps.app.goo.gl/ZogqdPdZb8oiCNZXA"
         ],
-        "store_note": [],
+        "store_note": [
+            "https://goo.gl/maps/QZs8ZSjv9eL2"
+        ],
         "employee_list": {
             "Katherine": [
                 "1)",
