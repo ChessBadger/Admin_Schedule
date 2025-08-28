@@ -1552,7 +1552,7 @@
             "PICK #431, FRANKLIN - \nS LOVERS LANE RD"
         ],
         "store_note": [
-            "7780 S LOVERS LANE ROAD <br><hr id=\"note_separator\">https://goo.gl/maps/vq4QCMAV1rj <br><hr id=\"note_separator\">SET UP ON REG CLOSEST TOWARDS RESTROOMS <br><hr id=\"note_separator\">FEW RESETS-REMAPPED"
+            "7780 S LOVERS LANE ROAD <br><hr id=\"note_separator\">https://goo.gl/maps/vq4QCMAV1rj <br><hr id=\"note_separator\">SET UP ON REG CLOSEST TOWARDS RESTROOMS <br><hr id=\"note_separator\">FEW RESETS-REMAPPED <br><hr id=\"note_separator\">Kim & Jerry will check in after their C-Store"
         ],
         "employee_list": {
             "DJ": [
@@ -1575,38 +1575,43 @@
                 "",
                 "none"
             ],
-            "Lexi": [
+            "Katherine": [
                 "5)",
-                "",
+                "After Aurora",
                 "none"
             ],
-            "Leyna": [
+            "Lexi": [
                 "6)",
                 "",
                 "none"
             ],
-            "Monica": [
+            "Leyna": [
                 "7)",
-                "",
+                "After Aurora",
                 "none"
             ],
-            "Pamela": [
+            "Monica": [
                 "8)",
                 "",
                 "none"
             ],
-            "Paul": [
+            "Pamela": [
                 "9)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Paul": [
                 "10)",
                 "",
                 "none"
             ],
-            "Brianna": [
+            "Sonia": [
                 "11)",
+                "",
+                "none"
+            ],
+            "Brianna": [
+                "12)",
                 "@ Store",
                 "none"
             ]
@@ -1634,6 +1639,11 @@
                 "1)",
                 "Wht Camry available, Equip",
                 "none"
+            ],
+            "Leyna": [
+                "2)",
+                "",
+                "none"
             ]
         }
     },
@@ -1656,7 +1666,8 @@
             "https://maps.app.goo.gl/yHRRMXRkSnLcJJTt9"
         ],
         "store_note": [
-            "*Kim - Bring backup DC5's too"
+            "*Kim - Bring backup DC5's too",
+            "*Check in with DJ after the store"
         ],
         "employee_list": {
             "Kim": [
