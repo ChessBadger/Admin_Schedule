@@ -179,23 +179,23 @@
     },
     {
         "date": "Wed, Sep 3",
-        "meet_time": [
-            "6:00 AM MEET RYAN RD PNR (HWY 100 & 94)"
-        ],
-        "start_time": "6:30 AM START",
+        "meet_time": [],
+        "start_time": "Red Camry oil change",
         "inv_type": [
-            "DC5-FINANCIAL"
+            ""
         ],
         "store_name": [
-            "FESTIVAL #2728, SALEM - LIFO"
+            "6:00 AM MEET RYAN RD PNR (HWY 100 & 94)"
         ],
         "address": [
-            "25300 75TH ST"
+            "6:30 AM START"
         ],
         "link": [
-            "https://goo.gl/maps/fj81W3aDTcG2"
+            "DC5-FINANCIAL"
         ],
-        "store_note": [],
+        "store_note": [
+            "FESTIVAL #2728, SALEM - LIFO <br><hr id=\"note_separator\">25300 75TH ST <br><hr id=\"note_separator\">https://goo.gl/maps/fj81W3aDTcG2"
+        ],
         "employee_list": {
             "Kim": [
                 "1)",
