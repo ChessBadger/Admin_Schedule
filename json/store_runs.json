@@ -900,13 +900,18 @@
                 "@ Store,\nAfter Aurora",
                 "none"
             ],
-            "Pamela": [
+            "Monica": [
                 "7)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Pamela": [
                 "8)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "9)",
                 "@ Store,\nAfter Aurora",
                 "none"
             ]
@@ -1664,63 +1669,68 @@
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Monica": [
                 "6)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "7)",
                 "Ace Side",
                 "none"
             ],
             "Angela": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
-            "Anisha": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Ashley P": [
+            "Anisha": [
                 "9)",
+                "@ Store",
+                "none"
+            ],
+            "Ashley P": [
+                "10)",
                 "@ Store,\nAce Side",
                 "Rockford"
             ],
             "Elijah": [
-                "10)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Emily L": [
-                "11)",
+                "12)",
                 "@ Store",
                 "Rockford"
             ],
             "Eva": [
-                "12)",
-                "@ Store,\nAce Side",
-                "none"
-            ],
-            "Joseph": [
                 "13)",
                 "@ Store,\nAce Side",
                 "none"
             ],
-            "Josh S": [
+            "Joseph": [
                 "14)",
+                "@ Store,\nAce Side",
+                "none"
+            ],
+            "Josh S": [
+                "15)",
                 "@ Store",
                 "Rockford"
             ],
             "Justin Lee": [
-                "15)",
+                "16)",
                 "@ Store,\nAce Side",
                 "none"
             ],
             "Nate": [
-                "16)",
+                "17)",
                 "@ Store,\nAce Supv",
                 "none"
             ],
             "Qiana": [
-                "17)",
+                "18)",
                 "@ Store",
                 "none"
             ]
