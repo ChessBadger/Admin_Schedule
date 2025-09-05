@@ -1333,64 +1333,29 @@
                 "",
                 "none"
             ],
-            "Ian": [
-                "3)",
-                "Driver,\nRed Van",
-                "none"
-            ],
             "Jerry D": [
-                "4)",
-                "Driver,\nSanta Fe,\nRx",
+                "3)",
+                "Driver,\nRed Van,\nRx",
                 "Milwaukee"
             ],
             "Lexi": [
-                "5)",
+                "4)",
                 "",
                 "none"
             ],
             "Pamela": [
-                "6)",
+                "5)",
                 "",
                 "none"
             ],
             "Paul": [
-                "7)",
+                "6)",
                 "",
                 "none"
             ],
             "Sonia": [
-                "8)",
+                "7)",
                 "",
-                "none"
-            ],
-            "Anisha": [
-                "9)",
-                "@ Store",
-                "none"
-            ],
-            "Ashley P": [
-                "10)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Joseph": [
-                "11)",
-                "@ Store,\nRx",
-                "none"
-            ],
-            "Josh S": [
-                "12)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Justin Lee": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
-            "Qiana": [
-                "14)",
-                "@ Store,\nSupv Rx",
                 "none"
             ]
         }
@@ -1398,37 +1363,70 @@
     {
         "date": "Thu, Sep 11",
         "meet_time": [],
-        "start_time": "7:00 AM START",
+        "start_time": "Anisha",
         "inv_type": [
-            "MODAS-SCAN",
-            "MODAS-SCAN"
+            "Ashley P"
         ],
         "store_name": [
-            "ROETTGERS GLENDALE ARC",
-            "ROETTGERS PORT RD ARC"
+            "Joseph"
         ],
         "address": [
-            "525 W SILVER SPRING DR",
-            "7010 N PORT WASHINGTON RD"
+            "Josh S"
         ],
         "link": [
-            "https://maps.app.goo.gl/8jXd2GwteuVWVutZ6",
-            "https://maps.app.goo.gl/fYLJgajhv8Lie4Qw5"
+            "Justin Lee"
         ],
-        "store_note": [],
+        "store_note": [
+            "Qiana"
+        ],
         "employee_list": {
-            "Kim": [
-                "1)",
-                "Wht Camry available, Equip",
-                "none"
-            ],
-            "Cynthia": [
-                "2)",
+            "": [
+                "",
                 "",
                 "none"
             ],
-            "Monica": [
-                "3)",
+            "7:00 AM START": [
+                "",
+                "",
+                "none"
+            ],
+            "MODAS-SCAN": [
+                "",
+                "",
+                "none"
+            ],
+            "ROETTGERS GLENDALE ARC": [
+                "",
+                "",
+                "none"
+            ],
+            "525 W SILVER SPRING DR": [
+                "",
+                "",
+                "none"
+            ],
+            "https://maps.app.goo.gl/8jXd2GwteuVWVutZ6": [
+                "",
+                "",
+                "none"
+            ],
+            "TO FOLLOW": [
+                "",
+                "",
+                "none"
+            ],
+            "ROETTGERS PORT RD ARC": [
+                "",
+                "",
+                "none"
+            ],
+            "7010 N PORT WASHINGTON RD": [
+                "",
+                "",
+                "none"
+            ],
+            "https://maps.app.goo.gl/fYLJgajhv8Lie4Qw5": [
+                "",
                 "",
                 "none"
             ]
@@ -1436,23 +1434,23 @@
     },
     {
         "date": "Thu, Sep 11",
-        "meet_time": [
-            "5:00 AM MEET OFFICE"
-        ],
-        "start_time": "6:00 AM START",
+        "meet_time": [],
+        "start_time": "Kim",
         "inv_type": [
-            "MODAS-SCAN"
+            "Cynthia"
         ],
         "store_name": [
-            "DHILLON'S STATION HUSTIS"
+            "Monica"
         ],
         "address": [
-            "326 W JUNEAU ST"
+            ""
         ],
         "link": [
-            "https://goo.gl/maps/2MvPuCPioicrHiKc6"
+            ""
         ],
-        "store_note": [],
+        "store_note": [
+            "5:00 AM MEET OFFICE <br><hr id=\"note_separator\">6:00 AM START <br><hr id=\"note_separator\">MODAS-SCAN <br><hr id=\"note_separator\">DHILLON'S STATION HUSTIS <br><hr id=\"note_separator\">326 W JUNEAU ST <br><hr id=\"note_separator\">https://goo.gl/maps/2MvPuCPioicrHiKc6"
+        ],
         "employee_list": {
             "DJ": [
                 "1)",
@@ -1474,7 +1472,7 @@
     {
         "date": "Thu, Sep 11",
         "meet_time": [
-            "?? AM MEET"
+            "5:30 AM OFFICE MEET"
         ],
         "start_time": "7:00 AM START",
         "inv_type": [
@@ -1495,9 +1493,49 @@
         ],
         "store_note": [],
         "employee_list": {
-            "": [
+            "Katherine": [
                 "1)",
-                "",
+                "Equip",
+                "none"
+            ],
+            "Sue": [
+                "2)",
+                "Driver,\nOptima",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Sep 11",
+        "meet_time": "4:15 AM OFFICE LEAVE TIME",
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "MODAS-SCAN"
+        ],
+        "store_name": [
+            "DHILLON'S BP, MARKESAN"
+        ],
+        "address": [
+            "N1894 WI-44 (HWY 44 & 73)"
+        ],
+        "link": [
+            "https://goo.gl/maps/uRQ5w6AXAun5KEMW7"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Sarah": [
+                "1)",
+                "@ Store,\nEquip",
+                "none"
+            ],
+            "Ian": [
+                "2)",
+                "Santa Fe",
+                "none"
+            ],
+            "Lori": [
+                "3)",
+                "@ Store",
                 "none"
             ]
         }
