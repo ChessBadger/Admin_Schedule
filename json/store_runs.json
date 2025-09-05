@@ -1190,20 +1190,22 @@
     {
         "date": "Wed, Sep 10",
         "meet_time": [],
-        "start_time": "7:00 AM START",
+        "start_time": "Sante Fe oil change",
         "inv_type": [
-            "MODAS-SCAN"
+            ""
         ],
         "store_name": [
-            "ROETTGERS SHOREWOOD ARC"
+            "7:00 AM START"
         ],
         "address": [
-            "1513 E CAPITOL DRIVE"
+            "MODAS-SCAN"
         ],
         "link": [
-            "https://maps.app.goo.gl/JvTBo1JUL5gfYk126"
+            "ROETTGERS SHOREWOOD ARC"
         ],
-        "store_note": [],
+        "store_note": [
+            "1513 E CAPITOL DRIVE <br><hr id=\"note_separator\">https://maps.app.goo.gl/JvTBo1JUL5gfYk126"
+        ],
         "employee_list": {
             "Kim": [
                 "1)",
