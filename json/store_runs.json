@@ -864,118 +864,8 @@
     {
         "date": "Fri, Sep 12",
         "meet_time": [
-            "4:30 AM MEET SOUTH RACINE COURT (HWY 43 & Y)"
+            "4:15 AM MEET WATERTOWN PLANK"
         ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "SULLIVAN'S FOODS #295 +ACE, WINNEBAGO"
-        ],
-        "address": [
-            "703 N ELIDA STREET"
-        ],
-        "link": [
-            "https://goo.gl/maps/XJm8iLALryeWSpAZ6"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Brianna": [
-                "1)",
-                "@ Store, Equip,\nGroc Supv",
-                "none"
-            ],
-            "Caitlin": [
-                "2)",
-                "",
-                "none"
-            ],
-            "DJ": [
-                "3)",
-                "Driver,\nRed Van,\nAce Side",
-                "none"
-            ],
-            "Jerry D": [
-                "4)",
-                "Ace Side",
-                "Milwaukee"
-            ],
-            "Lexi": [
-                "5)",
-                "",
-                "none"
-            ],
-            "Monica": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "7)",
-                "Ace Side",
-                "none"
-            ],
-            "Angela": [
-                "8)",
-                "@ Store",
-                "none"
-            ],
-            "Anisha": [
-                "9)",
-                "@ Store",
-                "none"
-            ],
-            "Ashley P": [
-                "10)",
-                "@ Store,\nAce Side",
-                "Rockford"
-            ],
-            "Elijah": [
-                "11)",
-                "@ Store",
-                "none"
-            ],
-            "Emily L": [
-                "12)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Eva": [
-                "13)",
-                "@ Store,\nAce Side",
-                "none"
-            ],
-            "Joseph": [
-                "14)",
-                "@ Store,\nAce Side",
-                "none"
-            ],
-            "Josh S": [
-                "15)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Justin Lee": [
-                "16)",
-                "@ Store,\nAce Side",
-                "none"
-            ],
-            "Nate": [
-                "17)",
-                "@ Store,\nAce Supv",
-                "none"
-            ],
-            "Qiana": [
-                "18)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Sep 12",
-        "meet_time": [],
         "start_time": "6:30 AM START",
         "inv_type": [
             "DC5-FINANCIAL"
@@ -996,58 +886,68 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Annette": [
+            "DJ": [
                 "2)",
-                "@ Store",
+                "Driver, \nAltima",
                 "none"
             ],
-            "Ariel": [
+            "Jerry D": [
                 "3)",
-                "@ Store",
-                "none"
+                "help drive if needed",
+                "Milwaukee"
             ],
-            "Jacqui": [
+            "Annette": [
                 "4)",
                 "@ Store",
                 "none"
             ],
-            "Jerry S": [
+            "Ariel": [
                 "5)",
                 "@ Store",
-                "Fox Valley"
+                "none"
             ],
-            "Katie": [
+            "Jacqui": [
                 "6)",
                 "@ Store",
                 "none"
             ],
-            "Kirsten": [
+            "Jerry S": [
                 "7)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ],
-            "Madison": [
+            "Katie": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Mai": [
+            "Kirsten": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Marcia": [
+            "Madison": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Terri": [
+            "Mai": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Trevor": [
+            "Marcia": [
                 "12)",
+                "@ Store",
+                "none"
+            ],
+            "Terri": [
+                "13)",
+                "@ Store",
+                "none"
+            ],
+            "Trevor": [
+                "14)",
                 "@ Store,\nUntil noon",
                 "none"
             ]
