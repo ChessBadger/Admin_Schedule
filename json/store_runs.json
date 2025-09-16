@@ -358,7 +358,7 @@
             ],
             "Carlie": [
                 "3)",
-                "",
+                "Driver,\nRed Camry,\nTrainer",
                 "none"
             ],
             "Cynthia": [
@@ -371,33 +371,43 @@
                 "Driver,\nRed Van",
                 "Milwaukee"
             ],
-            "Katherine": [
+            "Katelyn": [
                 "6)",
+                "*1st Day, work w/ Leyna",
+                "none"
+            ],
+            "Katherine": [
+                "7)",
                 "Supv Rx",
                 "none"
             ],
             "Lexi": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Leyna": [
                 "8)",
                 "",
                 "none"
             ],
-            "Pamela": [
+            "Leyna": [
                 "9)",
-                "",
+                "Trainer",
                 "none"
             ],
-            "Sonia": [
+            "Pamela": [
                 "10)",
                 "",
                 "none"
             ],
-            "Sue": [
+            "Sonia": [
                 "11)",
+                "",
+                "none"
+            ],
+            "Sophia": [
+                "12)",
+                "*1st Day, work w/ Carlie",
+                "none"
+            ],
+            "Sue": [
+                "13)",
                 "Driver,\nOptima,\nRx",
                 "none"
             ]
@@ -618,7 +628,7 @@
             ],
             "Carlie": [
                 "3)",
-                "@ Store",
+                "@ Store,\nTrainer",
                 "none"
             ],
             "Cynthia": [
@@ -636,49 +646,59 @@
                 "Driver,\nSanta Fe,\nSupv Rx",
                 "Milwaukee"
             ],
-            "Katherine": [
+            "Katelyn": [
                 "7)",
+                "2nd Day, work w/ Leyna",
+                "none"
+            ],
+            "Katherine": [
+                "8)",
                 "@ Store,\nOptima",
                 "none"
             ],
             "Lexi": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Leyna": [
                 "9)",
                 "",
                 "none"
             ],
-            "Monica": [
+            "Leyna": [
                 "10)",
-                "",
+                "Trainer",
                 "none"
             ],
-            "Pamela": [
+            "Monica": [
                 "11)",
                 "",
                 "none"
             ],
-            "Paul": [
+            "Pamela": [
                 "12)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Paul": [
                 "13)",
                 "",
                 "none"
             ],
-            "Angela": [
+            "Sonia": [
                 "14)",
-                "@ Store,\nRx",
+                "",
+                "none"
+            ],
+            "Sophia": [
+                "15)",
+                "2nd Day, work w/ Carlie",
+                "none"
+            ],
+            "Joseph": [
+                "16)",
+                "@ Store",
                 "none"
             ],
             "Justin Lee": [
-                "15)",
-                "@ Store",
+                "17)",
+                "@ Store,\nRx",
                 "none"
             ]
         }
