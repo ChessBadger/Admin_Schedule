@@ -694,6 +694,11 @@
                 "9)",
                 "@ Store",
                 "none"
+            ],
+            "Terri": [
+                "10)",
+                "@ Store",
+                "none"
             ]
         }
     },
@@ -1812,7 +1817,7 @@
         ],
         "start_time": "6:00 AM START",
         "inv_type": [
-            "SCAN-ITEM LEVEL"
+            "MODAS"
         ],
         "store_name": [
             "FIRESIDE MARKET, SLINGER"
@@ -1838,6 +1843,11 @@
             "Paul": [
                 "3)",
                 "",
+                "none"
+            ],
+            "Palmer": [
+                "4)",
+                "@ Store, bring Modas Equip",
                 "none"
             ]
         }
