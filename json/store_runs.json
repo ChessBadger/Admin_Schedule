@@ -1704,22 +1704,24 @@
     {
         "date": "Thu, Oct 2",
         "meet_time": [
-            "5:00 AM MEET WATERTOWN PLANK"
+            "5:30 AM MEET AT BROWN DEER PARK AND RIDE"
         ],
-        "start_time": "6:30 AM START",
+        "start_time": "https://maps.app.goo.gl/JwjqtDcEqTGm1bTq5",
         "inv_type": [
-            "DC5-FINANCIAL"
+            "6:30 AM START"
         ],
         "store_name": [
-            "FESTIVAL #2702, MANITOWOC - LIFO"
+            "DC5-FINANCIAL"
         ],
         "address": [
-            "2151 S 42ND ST"
+            "FESTIVAL #2702, MANITOWOC - LIFO"
         ],
         "link": [
-            "https://goo.gl/maps/ynTuKFekbGQ2"
+            "2151 S 42ND ST"
         ],
-        "store_note": [],
+        "store_note": [
+            "https://goo.gl/maps/ynTuKFekbGQ2 <br><hr id=\"note_separator\">with the Silver Spring Rd under construction, we will be using the Brown Deer Rd Park n Ride"
+        ],
         "employee_list": {
             "Brianna": [
                 "1)",
@@ -1780,8 +1782,10 @@
     },
     {
         "date": "Thu, Oct 2",
-        "meet_time": [],
-        "start_time": "5:15 AM WATERTOWN PLANK",
+        "meet_time": [
+            "5:45 AM MEET AT BROWN DEER PARK AND RIDE"
+        ],
+        "start_time": "https://maps.app.goo.gl/JwjqtDcEqTGm1bTq5",
         "inv_type": [
             "7:00 AM START"
         ],
