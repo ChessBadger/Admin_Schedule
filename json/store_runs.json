@@ -114,7 +114,7 @@
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "PIGGLY WIGGLY #071, MILWAUKEE"
+            "PIGGLY WIGGLY #007, MILWAUKEE"
         ],
         "address": [
             "123 W OKLAHOMA AVE"
@@ -541,12 +541,12 @@
         "employee_list": {
             "Katherine": [
                 "1)",
-                "Optima, Equip",
+                "@ Store, Optima, Equip",
                 "none"
             ],
-            "Cynthia": [
+            "Carlie": [
                 "2)",
-                "",
+                "@ Store",
                 "none"
             ]
         }
@@ -583,9 +583,9 @@
                 "",
                 "none"
             ],
-            "Carlie": [
+            "Cynthia": [
                 "3)",
-                "@ Store",
+                "",
                 "none"
             ],
             "Ian": [
