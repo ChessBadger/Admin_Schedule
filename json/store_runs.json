@@ -519,7 +519,7 @@
     },
     {
         "date": "Thu, Sep 25",
-        "meet_time": [],
+        "meet_time": "5:00 AM OFFICE LEAVE TIME",
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL",
@@ -541,7 +541,7 @@
         "employee_list": {
             "Katherine": [
                 "1)",
-                "Optima available, Equip",
+                "Optima, Equip",
                 "none"
             ],
             "Cynthia": [
