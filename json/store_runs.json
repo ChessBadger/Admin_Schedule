@@ -1556,7 +1556,7 @@
             ],
             "Lori": [
                 "17)",
-                "@ Store",
+                "@ Store,\nRx",
                 "none"
             ],
             "Madison": [
@@ -1576,7 +1576,7 @@
             ],
             "Sarah": [
                 "21)",
-                "@ Store",
+                "@ Store,\nSupv Rx",
                 "none"
             ],
             "Savannah": [
@@ -1692,6 +1692,91 @@
             "Lexi": [
                 "3)",
                 "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Oct 1",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "SCAN-ITEM LEVEL"
+        ],
+        "store_name": [
+            "PICK #381, MUSKEGO"
+        ],
+        "address": [
+            "S74 W17005 JANESVILLE ROAD"
+        ],
+        "link": [
+            "https://goo.gl/maps/H8srKt8FVUp"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Brianna E": [
+                "2)",
+                "1st Day, work w/ Qiana",
+                "none"
+            ],
+            "Sara S": [
+                "3)",
+                "1st Day, work w/ Michael",
+                "none"
+            ],
+            "Anisha": [
+                "4)",
+                "@ Store",
+                "none"
+            ],
+            "Ashley P": [
+                "5)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Elijah": [
+                "6)",
+                "@ Store",
+                "none"
+            ],
+            "Emily L": [
+                "7)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Eva": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Joseph": [
+                "9)",
+                "@ Store",
+                "none"
+            ],
+            "Josh S": [
+                "10)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Justin Lee": [
+                "11)",
+                "@ Store",
+                "none"
+            ],
+            "Michael N": [
+                "12)",
+                "@ Store,\nTrainer",
+                "Rockford"
+            ],
+            "Qiana": [
+                "13)",
+                "@ Store,\nTrainer",
                 "none"
             ]
         }
@@ -1917,53 +2002,63 @@
                 "Equip",
                 "none"
             ],
-            "Caitlin": [
+            "Brianna E": [
                 "2)",
+                "2nd Day, work w/ Leyna",
+                "none"
+            ],
+            "Caitlin": [
+                "3)",
                 "",
                 "none"
             ],
             "Carlie": [
-                "3)",
+                "4)",
                 "Trainer",
                 "none"
             ],
             "Cynthia": [
-                "4)",
+                "5)",
                 "",
                 "none"
             ],
             "Greg": [
-                "5)",
-                "2nd week,\nwork w/ Carlie",
+                "6)",
+                "2nd week,\nwork w/ Leyna",
                 "none"
             ],
             "Jerry D": [
-                "6)",
+                "7)",
                 "Until 11:30,\nTrainer",
                 "Milwaukee"
             ],
             "Katelyn": [
-                "7)",
+                "8)",
                 "3rd week, work w/ Jerry",
                 "none"
             ],
             "Lexi": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Pamela": [
                 "9)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Leyna": [
                 "10)",
                 "",
                 "none"
             ],
-            "Sophia": [
+            "Sara S": [
                 "11)",
+                "2nd Day, work w/ Carlie",
+                "none"
+            ],
+            "Sonia": [
+                "12)",
+                "",
+                "none"
+            ],
+            "Sophia": [
+                "13)",
                 "3rd week, work w/ Jerry",
                 "none"
             ]
@@ -1999,12 +2094,12 @@
                 "",
                 "none"
             ],
-            "Leyna": [
+            "Monica": [
                 "3)",
                 "",
                 "none"
             ],
-            "Monica": [
+            "Pamela": [
                 "4)",
                 "",
                 "none"
