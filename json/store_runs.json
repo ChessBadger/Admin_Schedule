@@ -432,22 +432,23 @@
         "start_time": "Ian",
         "inv_type": [
             "",
-            "DC5-FINANCIAL"
+            "APPROX 8:45 AM - 9:00 AM START"
         ],
         "store_name": [
             "7:00 AM START",
-            "KARL'S COUNTRY MART GAS STATION, MENOMONEE FALLS"
+            "EXCEL FINANCIAL"
         ],
         "address": [
             "DC5-FINANCIAL",
-            "N56 W15654 SILVER SPRING DR"
+            "SALE INVENTORY"
         ],
         "link": [
-            "KARL'S COUNTRY MARKET, MENOMONEE FALLS",
-            "https://maps.app.goo.gl/eVhY1gyT1JDFaLmT9"
+            "KARL'S COUNTRY MART GAS STATION, MENOMONEE FALLS",
+            "BELGIUM PLAZA BP"
         ],
         "store_note": [
-            "W156 N5645 PILGRIM RD <br><hr id=\"note_separator\">https://goo.gl/maps/zL8HEmfSEtR2"
+            "N56 W15654 SILVER SPRING DR <br><hr id=\"note_separator\">https://maps.app.goo.gl/eVhY1gyT1JDFaLmT9",
+            "105 LAKE VIEW DR <br><hr id=\"note_separator\">https://maps.app.goo.gl/MKp7kkyQRVt8UT5Z6"
         ],
         "employee_list": {
             "Katherine": [
