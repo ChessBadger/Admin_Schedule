@@ -1371,51 +1371,38 @@
         "link": [
             "https://goo.gl/maps/HNNz6gdZ7vw"
         ],
-        "store_note": [],
+        "store_note": [
+            "USE PRICE LISTED ON SHELF TAGS <br><hr id=\"note_separator\">DJ <br><hr id=\"note_separator\">Leyna <br><hr id=\"note_separator\">Sara S <br><hr id=\"note_separator\">Sophia <br><hr id=\"note_separator\">Ashley P <br><hr id=\"note_separator\">Eva <br><hr id=\"note_separator\">Joseph <br><hr id=\"note_separator\">Michael N <br><hr id=\"note_separator\">Nate"
+        ],
         "employee_list": {
-            "DJ": [
-                "1)",
-                "Driver,\nAltima, Equip",
+            "": [
+                "",
+                "",
                 "none"
             ],
-            "Leyna": [
-                "2)",
-                "Trainer",
+            "6:00 AM START": [
+                "",
+                "",
                 "none"
             ],
-            "Sara S": [
-                "3)",
-                "1st Financial work w/ Leyna",
+            "MODAS-SCAN": [
+                "",
+                "",
                 "none"
             ],
-            "Sophia": [
-                "4)",
-                "4th week",
+            "AURORA OUTPATIENT RX #1068, WATERFORD": [
+                "",
+                "",
                 "none"
             ],
-            "Ashley P": [
-                "5)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Eva": [
-                "6)",
-                "@ Store",
+            "818 FORREST LANE, SUITE 101": [
+                "",
+                "",
                 "none"
             ],
-            "Joseph": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
-            "Michael N": [
-                "8)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Nate": [
-                "9)",
-                "@ Store,\nAfter Aurora",
+            "https://goo.gl/maps/34AqDr4Gxcn8xkqSA": [
+                "",
+                "",
                 "none"
             ]
         }
@@ -1423,44 +1410,21 @@
     {
         "date": "Mon, Oct 6",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "Nate",
         "inv_type": [
+            "",
             "MODAS-SCAN"
         ],
         "store_name": [
-            "AURORA OUTPATIENT RX #1068, WATERFORD"
-        ],
-        "address": [
-            "818 FORREST LANE, SUITE 101"
-        ],
-        "link": [
-            "https://goo.gl/maps/34AqDr4Gxcn8xkqSA"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Nate": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Oct 6",
-        "meet_time": [
-            "6:30 AM MEET RYAN RD PNR (HWY 100 & 94)"
-        ],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "MODAS-SCAN"
-        ],
-        "store_name": [
+            "",
             "OPEN PANTRY #493, RACINE"
         ],
         "address": [
+            "6:30 AM MEET RYAN RD PNR (HWY 100 & 94)",
             "3441 SPRING ST"
         ],
         "link": [
+            "7:00 AM START",
             "https://goo.gl/maps/8i7XHemjTpL2"
         ],
         "store_note": [],
