@@ -920,43 +920,58 @@
                 "@ Store, with Sonia\nTrainer",
                 "none"
             ],
-            "DJ": [
+            "Cynthia": [
                 "4)",
+                "",
+                "none"
+            ],
+            "DJ": [
+                "5)",
                 "@ Store, After Aurora",
                 "none"
             ],
             "Greg": [
-                "5)",
+                "6)",
                 "2nd week,\nwork w/ Carlie",
                 "none"
             ],
             "Jerry D": [
-                "6)",
+                "7)",
                 "Driver,\nRed Van",
                 "Milwaukee"
             ],
             "Katelyn": [
-                "7)",
+                "8)",
                 "3rd week,\nwork w/ Leyna",
                 "none"
             ],
+            "Kim": [
+                "9)",
+                "Driver,\nWht Camry",
+                "none"
+            ],
             "Leyna": [
-                "8)",
+                "10)",
                 "Trainer",
                 "none"
             ],
             "Monica": [
-                "9)",
+                "11)",
                 "@ Store, After Aurora",
                 "none"
             ],
             "Pamela": [
-                "10)",
+                "12)",
+                "",
+                "none"
+            ],
+            "Paul": [
+                "13)",
                 "",
                 "none"
             ],
             "Sonia": [
-                "11)",
+                "14)",
                 "@ Store, with Carlie",
                 "none"
             ]
@@ -992,48 +1007,6 @@
             "Monica": [
                 "2)",
                 "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Oct 2",
-        "meet_time": [
-            "5:30 AM WATERTOWN PLANK MEET"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "MODAS"
-        ],
-        "store_name": [
-            "FIRESIDE MARKET, SLINGER"
-        ],
-        "address": [
-            "820 HETZEL WY"
-        ],
-        "link": [
-            "https://maps.app.goo.gl/HRhwR9YjWUjm58db6"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Kim": [
-                "1)",
-                "Driver,\nWht Camry, Equip",
-                "none"
-            ],
-            "Cynthia": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Paul": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Palmer": [
-                "4)",
-                "@ Store, bring Modas Equip",
                 "none"
             ]
         }
@@ -1163,27 +1136,27 @@
     },
     {
         "date": "Fri, Oct 3",
-        "meet_time": [],
+        "meet_time": [
+            "5:30 AM WATERTOWN PLANK MEET"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
-            "SCAN-ITEM LEVEL"
+            "MODAS"
         ],
         "store_name": [
-            "STARK FOODS SUPER MARKET, MILWAUKEE"
+            "FIRESIDE MARKET, SLINGER"
         ],
         "address": [
-            "6315 W. FOND DU LAC AVENUE"
+            "820 HETZEL WY"
         ],
         "link": [
-            "https://maps.app.goo.gl/ixY6NaY5NrRjZXJw7"
+            "https://maps.app.goo.gl/HRhwR9YjWUjm58db6"
         ],
-        "store_note": [
-            "ALCOHOL COUNT ONLY"
-        ],
+        "store_note": [],
         "employee_list": {
             "Kim": [
                 "1)",
-                "Wht Camry available, Equip",
+                "Driver,\nWht Camry, Equip",
                 "none"
             ],
             "Lashaun": [
@@ -1357,37 +1330,52 @@
             "https://goo.gl/maps/HNNz6gdZ7vw"
         ],
         "store_note": [
-            "USE PRICE LISTED ON SHELF TAGS <br><hr id=\"note_separator\">DJ <br><hr id=\"note_separator\">Leyna <br><hr id=\"note_separator\">Sara S <br><hr id=\"note_separator\">Sophia <br><hr id=\"note_separator\">Ashley P <br><hr id=\"note_separator\">Eva <br><hr id=\"note_separator\">Joseph <br><hr id=\"note_separator\">Michael N <br><hr id=\"note_separator\">Nate"
+            "USE PRICE LISTED ON DIGITAL SHELF TAGS <br><hr id=\"note_separator\">WE WILL NOW BE USING PRICES AS LISTED. IF IT'S A SALE PRICE LISTED THEN TAKE THE SALE PRICE"
         ],
         "employee_list": {
-            "": [
-                "",
-                "",
+            "DJ": [
+                "1)",
+                "Driver,\nAltima, Equip",
                 "none"
             ],
-            "6:00 AM START": [
-                "",
-                "",
+            "Leyna": [
+                "2)",
+                "Trainer",
                 "none"
             ],
-            "MODAS-SCAN": [
-                "",
-                "",
+            "Sara S": [
+                "3)",
+                "1st Financial work w/ Leyna",
                 "none"
             ],
-            "AURORA OUTPATIENT RX #1068, WATERFORD": [
-                "",
-                "",
+            "Sophia": [
+                "4)",
+                "4th week",
                 "none"
             ],
-            "818 FORREST LANE, SUITE 101": [
-                "",
-                "",
+            "Ashley P": [
+                "5)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Eva": [
+                "6)",
+                "@ Store",
                 "none"
             ],
-            "https://goo.gl/maps/34AqDr4Gxcn8xkqSA": [
-                "",
-                "",
+            "Joseph": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Michael N": [
+                "8)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Nate": [
+                "9)",
+                "@ Store,\nAfter Aurora",
                 "none"
             ]
         }
@@ -1395,21 +1383,44 @@
     {
         "date": "Mon, Oct 6",
         "meet_time": [],
-        "start_time": "Nate",
+        "start_time": "6:00 AM START",
         "inv_type": [
-            "",
             "MODAS-SCAN"
         ],
         "store_name": [
-            "",
+            "AURORA OUTPATIENT RX #1068, WATERFORD"
+        ],
+        "address": [
+            "818 FORREST LANE, SUITE 101"
+        ],
+        "link": [
+            "https://goo.gl/maps/34AqDr4Gxcn8xkqSA"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Nate": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Oct 6",
+        "meet_time": [
+            "6:30 AM MEET RYAN RD PNR (HWY 100 & 94)"
+        ],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "MODAS-SCAN"
+        ],
+        "store_name": [
             "OPEN PANTRY #493, RACINE"
         ],
         "address": [
-            "6:30 AM MEET RYAN RD PNR (HWY 100 & 94)",
             "3441 SPRING ST"
         ],
         "link": [
-            "7:00 AM START",
             "https://goo.gl/maps/8i7XHemjTpL2"
         ],
         "store_note": [],
