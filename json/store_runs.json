@@ -1092,34 +1092,34 @@
                 "Trainer",
                 "none"
             ],
-            "Cynthia": [
-                "5)",
-                "",
-                "none"
-            ],
             "Greg": [
-                "6)",
+                "5)",
                 "2nd week,\nwork w/ Leyna",
                 "none"
             ],
             "Jerry D": [
-                "7)",
+                "6)",
                 "Until 11:30,\nTrainer",
                 "Milwaukee"
             ],
             "Katelyn": [
-                "8)",
+                "7)",
                 "3rd week, work w/ Leyna",
                 "none"
             ],
             "Lexi": [
-                "9)",
+                "8)",
                 "",
                 "none"
             ],
             "Leyna": [
-                "10)",
+                "9)",
                 "Trainer",
+                "none"
+            ],
+            "Pamela": [
+                "10)",
+                "",
                 "none"
             ],
             "Sonia": [
@@ -1159,17 +1159,17 @@
                 "Driver,\nWht Camry, Equip",
                 "none"
             ],
-            "Lashaun": [
+            "Cynthia": [
                 "2)",
                 "",
                 "none"
             ],
-            "Monica": [
+            "Lashaun": [
                 "3)",
                 "",
                 "none"
             ],
-            "Pamela": [
+            "Monica": [
                 "4)",
                 "",
                 "none"
@@ -1343,38 +1343,33 @@
                 "Trainer",
                 "none"
             ],
-            "Sara S": [
-                "3)",
-                "1st Financial work w/ Leyna",
-                "none"
-            ],
             "Sophia": [
-                "4)",
+                "3)",
                 "4th week",
                 "none"
             ],
             "Ashley P": [
-                "5)",
+                "4)",
                 "@ Store",
                 "Rockford"
             ],
             "Eva": [
-                "6)",
+                "5)",
                 "@ Store",
                 "none"
             ],
             "Joseph": [
-                "7)",
+                "6)",
                 "@ Store",
                 "none"
             ],
             "Michael N": [
-                "8)",
+                "7)",
                 "@ Store",
                 "Rockford"
             ],
             "Nate": [
-                "9)",
+                "8)",
                 "@ Store,\nAfter Aurora",
                 "none"
             ]
@@ -1579,33 +1574,28 @@
                 "",
                 "none"
             ],
-            "Sara S": [
-                "7)",
-                "2nd week, work w/ Anisha",
-                "none"
-            ],
             "Sonia": [
-                "8)",
+                "7)",
                 "",
                 "none"
             ],
             "Anisha": [
-                "9)",
-                "@ Store,\nTrainer",
+                "8)",
+                "@ Store",
                 "none"
             ],
             "Ashley P": [
-                "10)",
+                "9)",
                 "@ Store,\nSupv Rx",
                 "Rockford"
             ],
             "Joseph": [
-                "11)",
+                "10)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Josh S": [
-                "12)",
+                "11)",
                 "@ Store",
                 "Rockford"
             ]
@@ -1797,7 +1787,7 @@
             ],
             "Leyna": [
                 "9)",
-                "Trainer",
+                "",
                 "none"
             ],
             "Monica": [
@@ -1810,18 +1800,13 @@
                 "After Aurora",
                 "none"
             ],
-            "Sara S": [
-                "12)",
-                "2nd week, work w/ Leyna",
-                "none"
-            ],
             "Lori": [
-                "13)",
+                "12)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Sarah": [
-                "14)",
+                "13)",
                 "@ Store,\nSupv Rx",
                 "none"
             ]
@@ -2259,18 +2244,13 @@
                 "",
                 "none"
             ],
-            "Sara S": [
-                "13)",
-                "2nd week, work w/ Leyna",
-                "none"
-            ],
             "Sonia": [
-                "14)",
+                "13)",
                 "",
                 "none"
             ],
             "Sophia": [
-                "15)",
+                "14)",
                 "3rd week",
                 "none"
             ]
