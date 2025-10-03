@@ -1208,7 +1208,7 @@
             ],
             "Katherine": [
                 "3)",
-                "",
+                "@ Store,\nUntil 11:00",
                 "none"
             ],
             "Paul": [
@@ -1787,7 +1787,7 @@
             ],
             "Leyna": [
                 "9)",
-                "",
+                "After Aurora",
                 "none"
             ],
             "Monica": [
@@ -1797,7 +1797,7 @@
             ],
             "Paul": [
                 "11)",
-                "After Aurora",
+                "Until 9:00",
                 "none"
             ],
             "Lori": [
@@ -1835,12 +1835,12 @@
                 "Driver,\nWht Camry, Equip",
                 "none"
             ],
-            "Monica": [
+            "Leyna": [
                 "2)",
                 "",
                 "none"
             ],
-            "Paul": [
+            "Monica": [
                 "3)",
                 "",
                 "none"
