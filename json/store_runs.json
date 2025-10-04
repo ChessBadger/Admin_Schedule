@@ -1,1224 +1,5 @@
 [
     {
-        "date": "Sun, Sep 28",
-        "meet_time": [],
-        "start_time": "Scan product if shelf tag won't scan.\nUse Category 000\nNo prices on DCs - QTY only\n\nFOR NOT ON FILES: force in with quantity, put one item in cart w/ price on a sticky note",
-        "inv_type": [
-            ""
-        ],
-        "store_name": [
-            ""
-        ],
-        "address": [
-            ""
-        ],
-        "link": [
-            ""
-        ],
-        "store_note": [],
-        "employee_list": {
-            "5:00 AM START": [
-                "",
-                "",
-                "none"
-            ],
-            "SCAN-ITEM LEVEL": [
-                "",
-                "",
-                "none"
-            ],
-            "OUTPOST NATURAL FOODS, BAY VIEW": [
-                "",
-                "",
-                "none"
-            ],
-            "2826 S KINNICKINNIC AVE": [
-                "",
-                "",
-                "none"
-            ],
-            "https://goo.gl/maps/5hiyyxywjiH2": [
-                "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Sun, Sep 28",
-        "meet_time": [],
-        "start_time": "Katherine",
-        "inv_type": [
-            "Ian"
-        ],
-        "store_name": [
-            "Lexi"
-        ],
-        "address": [
-            "Pamela"
-        ],
-        "link": [
-            "Paul"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "": [
-                "",
-                "",
-                "none"
-            ],
-            "5:00 AM START": [
-                "",
-                "",
-                "none"
-            ],
-            "SCAN-ITEM LEVEL": [
-                "",
-                "",
-                "none"
-            ],
-            "OUTPOST NATURAL FOODS, MILWAUKEE": [
-                "",
-                "",
-                "none"
-            ],
-            "100 E CAPITOL DR": [
-                "",
-                "",
-                "none"
-            ],
-            "https://goo.gl/maps/n94xpFtHzvE2": [
-                "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Sun, Sep 28",
-        "meet_time": [],
-        "start_time": "Brianna",
-        "inv_type": [
-            "Anisha"
-        ],
-        "store_name": [
-            "Eva"
-        ],
-        "address": [
-            "Josh S"
-        ],
-        "link": [
-            "Qiana"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "": [
-                "",
-                "",
-                "none"
-            ],
-            "5:00 AM START": [
-                "",
-                "",
-                "none"
-            ],
-            "SCAN-ITEM LEVEL": [
-                "",
-                "",
-                "none"
-            ],
-            "OUTPOST NATURAL FOODS, WAUWATOSA": [
-                "",
-                "",
-                "none"
-            ],
-            "7000 W STATE ST": [
-                "",
-                "",
-                "none"
-            ],
-            "https://goo.gl/maps/9Apjjj8M6672": [
-                "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Sun, Sep 28",
-        "meet_time": [],
-        "start_time": "DJ",
-        "inv_type": [
-            "Leyna"
-        ],
-        "store_name": [
-            "Sonia"
-        ],
-        "address": [
-            "Emily L"
-        ],
-        "link": [
-            "Joseph"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "": [
-                "",
-                "",
-                "none"
-            ],
-            "5:00 AM START": [
-                "",
-                "",
-                "none"
-            ],
-            "SCAN-ITEM LEVEL": [
-                "",
-                "",
-                "none"
-            ],
-            "OUTPOST NATURAL FOODS, MEQUON": [
-                "",
-                "",
-                "none"
-            ],
-            "7590 W MEQUON RD": [
-                "",
-                "",
-                "none"
-            ],
-            "https://goo.gl/maps/do2xmdVUL8z": [
-                "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Sun, Sep 28",
-        "meet_time": [],
-        "start_time": "Jeremiah",
-        "inv_type": [
-            "Annette"
-        ],
-        "store_name": [
-            "Jerry S"
-        ],
-        "address": [
-            "Kirsten"
-        ],
-        "link": [
-            "Nagui"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "": [
-                "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Sep 29",
-        "meet_time": [],
-        "start_time": "DJ",
-        "inv_type": [
-            ""
-        ],
-        "store_name": [
-            "6:00 AM MEET RYAN RD PNR (HWY 100 & 94)"
-        ],
-        "address": [
-            "6:30 AM START"
-        ],
-        "link": [
-            "DC5-FINANCIAL"
-        ],
-        "store_note": [
-            "FESTIVAL #2705, KENOSHA - LIFO <br><hr id=\"note_separator\">3207 80TH ST <br><hr id=\"note_separator\">https://goo.gl/maps/zvVRztkrfs42 <br><hr id=\"note_separator\">Kim and Leyna - meet at 5:45"
-        ],
-        "employee_list": {
-            "Kim": [
-                "1)",
-                "@ Store, w/ Leyna\nWht Camry, Equip",
-                "none"
-            ],
-            "Jerry D": [
-                "2)",
-                "Driver,\nRed Van",
-                "Milwaukee"
-            ],
-            "Katelyn": [
-                "3)",
-                "3rd week,\nwork w/ Anisha",
-                "none"
-            ],
-            "Lexi": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Leyna": [
-                "5)",
-                "@ Store, w/ Kim,\nTrainer",
-                "none"
-            ],
-            "Paul": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
-            "Sophia": [
-                "8)",
-                "3rd week,\nwork w/ Leyna",
-                "none"
-            ],
-            "Anisha": [
-                "9)",
-                "@ Store,\nTrainer",
-                "none"
-            ],
-            "Brianna": [
-                "10)",
-                "@ Store",
-                "none"
-            ],
-            "Joseph": [
-                "11)",
-                "@ Store",
-                "none"
-            ],
-            "Josh S": [
-                "12)",
-                "@ Store",
-                "Rockford"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Sep 29",
-        "meet_time": [
-            "5:15 AM OFFICE MEET"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL",
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "KOHN'S FILLING STATION, KEWASKUM",
-            "KOHN'S FILLING STATION 259, CAMPBELLSPORT"
-        ],
-        "address": [
-            "890 FOND DU LAC AVE",
-            "259 N FOND DU LAC AVE"
-        ],
-        "link": [
-            "https://goo.gl/maps/CJnRNDyortw",
-            "https://goo.gl/maps/WCsZpx5SMsA2"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Katherine": [
-                "1)",
-                "Equip",
-                "none"
-            ],
-            "Sue": [
-                "2)",
-                "Driver,\nOptima",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Sep 29",
-        "meet_time": [
-            "6:30 AM MEET OFFICE"
-        ],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL",
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "GAUGERT'S BUSS STOP, SULLIVAN",
-            "CONTACT IS THE OWNER GARY WHO IS SELLING THE STORE TODAY"
-        ],
-        "address": [
-            "141 MAIN ST",
-            "WATERTOWN BP MART INC"
-        ],
-        "link": [
-            "https://goo.gl/maps/TEUfEX2J1AE2",
-            "330 SUMMIT AVE"
-        ],
-        "store_note": [
-            "*SALE INVENTORY",
-            "https://maps.app.goo.gl/ixqrWsSBrmsGF1Xc6"
-        ],
-        "employee_list": {
-            "Ian": [
-                "1)",
-                "Driver,\nSanta Fe, Equip",
-                "none"
-            ],
-            "Monica": [
-                "2)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Sep 29",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "GOOD HARVEST MARKET, PEWAUKEE"
-        ],
-        "address": [
-            "2205 SILVERNAIL RD"
-        ],
-        "link": [
-            "https://goo.gl/maps/dbog9UtxNWp"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "Equip",
-                "none"
-            ],
-            "Caitlin": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Carlie": [
-                "3)",
-                "Trainer",
-                "none"
-            ],
-            "Cynthia": [
-                "4)",
-                "*Until 11:00",
-                "none"
-            ],
-            "Greg": [
-                "5)",
-                "2nd week,\nwork w/ Carlie",
-                "none"
-            ],
-            "Pamela": [
-                "6)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Sep 30",
-        "meet_time": [],
-        "start_time": "Ian",
-        "inv_type": [
-            "",
-            "APPROX 9:30 AM START"
-        ],
-        "store_name": [
-            "6:30 AM MEET WATERTOWN PLANK (Katherine/Paul)",
-            "EXCEL FINANCIAL"
-        ],
-        "address": [
-            "7:00 AM START",
-            "SALE INVENTORY"
-        ],
-        "link": [
-            "DC5-FINANCIAL",
-            "BELGIUM PLAZA BP"
-        ],
-        "store_note": [
-            "KARL'S COUNTRY MART GAS STATION, MENOMONEE FALLS <br><hr id=\"note_separator\">N56 W15654 SILVER SPRING DR <br><hr id=\"note_separator\">https://maps.app.goo.gl/eVhY1gyT1JDFaLmT9",
-            "105 LAKE VIEW DR <br><hr id=\"note_separator\">https://maps.app.goo.gl/MKp7kkyQRVt8UT5Z6"
-        ],
-        "employee_list": {
-            "Katherine": [
-                "1)",
-                "Optima, Equip",
-                "none"
-            ],
-            "Carlie": [
-                "2)",
-                "@ Store",
-                "none"
-            ],
-            "Paul": [
-                "3)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Sep 30",
-        "meet_time": [],
-        "start_time": "6:30 AM SOUTH RACINE COURT (HWYS 43 & Y)",
-        "inv_type": [
-            "7:00 AM START"
-        ],
-        "store_name": [
-            "SCAN-ITEM LEVEL"
-        ],
-        "address": [
-            "MILLGATE GENERAL STORE, BURLINGTON"
-        ],
-        "link": [
-            "151 MILLGATE DR"
-        ],
-        "store_note": [
-            "https://goo.gl/maps/JmyTfGd26bD2FKyR8"
-        ],
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "Driver,\nAltima, Equip",
-                "none"
-            ],
-            "Cynthia": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Monica": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Pamela": [
-                "4)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Sep 30",
-        "meet_time": [
-            "5:00 AM MEET OFFICE"
-        ],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL",
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "MOBIL, ROCK SPRINGS",
-            "MOBIL, POYNETTE"
-        ],
-        "address": [
-            "103 W BROADWAY",
-            "523 N HWY 51"
-        ],
-        "link": [
-            "https://maps.app.goo.gl/fA4V6XRVvDiKtY9N7",
-            "https://maps.app.goo.gl/RayiKJXDarmQnuwC7"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Ian": [
-                "1)",
-                "Driver, 1/2\nSanta Fe, Equip",
-                "none"
-            ],
-            "Jerry D": [
-                "2)",
-                "Driver, 1/2",
-                "Milwaukee"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Sep 30",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [
-            "Office"
-        ],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {
-            "Kim": [
-                "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, Oct 1",
-        "meet_time": [],
-        "start_time": "DJ",
-        "inv_type": [
-            ""
-        ],
-        "store_name": [
-            "6:00 AM START"
-        ],
-        "address": [
-            "SCAN-ITEM LEVEL"
-        ],
-        "link": [
-            "PICK #889 +RX, MENOMONEE FALLS"
-        ],
-        "store_note": [
-            "N77 W14435 APPLETON AVE <br><hr id=\"note_separator\">https://goo.gl/maps/DRPXRoV3zNE2 <br><hr id=\"note_separator\">SET UP ON REG #8"
-        ],
-        "employee_list": {
-            "Nate": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Caitlin": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Greg": [
-                "3)",
-                "2nd week,\nwork w/ Jerry",
-                "none"
-            ],
-            "Jerry D": [
-                "4)",
-                "Trainer",
-                "Milwaukee"
-            ],
-            "Katelyn": [
-                "5)",
-                "3rd week,\nwork w/ Leyna",
-                "none"
-            ],
-            "Lashaun": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Leyna": [
-                "7)",
-                "Trainer",
-                "none"
-            ],
-            "Nick": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Pamela": [
-                "9)",
-                "",
-                "none"
-            ],
-            "Paul": [
-                "10)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "11)",
-                "",
-                "none"
-            ],
-            "Sophia": [
-                "12)",
-                "3rd week,\nwork w/ Leyna",
-                "none"
-            ],
-            "Annette": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
-            "Dan": [
-                "14)",
-                "@ Store",
-                "none"
-            ],
-            "Jerry S": [
-                "15)",
-                "@ Store",
-                "Fox Valley"
-            ],
-            "Kirsten": [
-                "16)",
-                "@ Store",
-                "none"
-            ],
-            "Lori": [
-                "17)",
-                "@ Store,\nRx",
-                "none"
-            ],
-            "Madison": [
-                "18)",
-                "@ Store",
-                "none"
-            ],
-            "Mai": [
-                "19)",
-                "@ Store",
-                "none"
-            ],
-            "Marcia": [
-                "20)",
-                "@ Store",
-                "none"
-            ],
-            "Sarah": [
-                "21)",
-                "@ Store,\nSupv Rx",
-                "none"
-            ],
-            "Savannah": [
-                "22)",
-                "@ Store",
-                "none"
-            ],
-            "Taya": [
-                "23)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, Oct 1",
-        "meet_time": [
-            "4:15 AM OFFICE MEET"
-        ],
-        "start_time": "6:30 AM START",
-        "inv_type": [
-            "SCAN-ITEM LEVEL"
-        ],
-        "store_name": [
-            "AURORA OUTPATIENT RX #1510, CHICAGO"
-        ],
-        "address": [
-            "836 W WELLINGTON AVE, SUITE 1801"
-        ],
-        "link": [
-            "https://maps.app.goo.gl/WtfYT8XRgDrGBKx88"
-        ],
-        "store_note": [
-            "HAS PAID PARKING.  PARK IN WELLINGTON STRUCTURE ENTER THROUGH MAIN ENTRANCE (NEAR EMERG) <br><hr id=\"note_separator\">Katherine/Sue please check with Nate at Men Falls if help is needed"
-        ],
-        "employee_list": {
-            "Katherine": [
-                "1)",
-                "Equip",
-                "none"
-            ],
-            "Sue": [
-                "2)",
-                "Driver,\nOptima",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, Oct 1",
-        "meet_time": [
-            "6:30 AM MEET WATERTOWN PLANK"
-        ],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL",
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "EAST SIDE MART, JACKSON",
-            "RAPID MART HARTFORD"
-        ],
-        "address": [
-            "N168 W1940 MAIN ST",
-            "2712 E SUMNER ST"
-        ],
-        "link": [
-            "https://goo.gl/maps/hgxGLx2srCs",
-            "https://goo.gl/maps/5dpExsTUAgz"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Kim": [
-                "1)",
-                "Driver,\nWht Camry, Equip",
-                "none"
-            ],
-            "Monica": [
-                "2)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, Oct 1",
-        "meet_time": [],
-        "start_time": "8:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "DISCOUNT LIQUOR INC, WAUKESHA"
-        ],
-        "address": [
-            "919 BARSTOW STREET"
-        ],
-        "link": [
-            "https://goo.gl/maps/RuwqvtzHkfSrHftD6"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "Equip",
-                "none"
-            ],
-            "Cynthia": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Lexi": [
-                "3)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, Oct 1",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "SCAN-ITEM LEVEL"
-        ],
-        "store_name": [
-            "PICK #381, MUSKEGO"
-        ],
-        "address": [
-            "S74 W17005 JANESVILLE ROAD"
-        ],
-        "link": [
-            "https://goo.gl/maps/H8srKt8FVUp"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Brianna": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Brianna E": [
-                "2)",
-                "1st Day, work w/ Qiana",
-                "none"
-            ],
-            "Anisha": [
-                "3)",
-                "@ Store",
-                "none"
-            ],
-            "Ashley P": [
-                "4)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Emily L": [
-                "5)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Eva": [
-                "6)",
-                "@ Store",
-                "none"
-            ],
-            "Joseph": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
-            "Josh S": [
-                "8)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Justin Lee": [
-                "9)",
-                "@ Store",
-                "none"
-            ],
-            "Michael N": [
-                "10)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Qiana": [
-                "11)",
-                "@ Store,\nTrainer",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Oct 2",
-        "meet_time": [
-            "5:30 AM MEET AT BROWN DEER PARK AND RIDE"
-        ],
-        "start_time": "https://maps.app.goo.gl/JwjqtDcEqTGm1bTq5",
-        "inv_type": [
-            "6:30 AM START"
-        ],
-        "store_name": [
-            "DC5-FINANCIAL"
-        ],
-        "address": [
-            "FESTIVAL #2702, MANITOWOC - LIFO"
-        ],
-        "link": [
-            "2151 S 42ND ST"
-        ],
-        "store_note": [
-            "https://goo.gl/maps/ynTuKFekbGQ2 <br><hr id=\"note_separator\">with the Silver Spring Rd under construction, we will be using the Brown Deer Rd Park n Ride",
-            "*Carlie and Sonia to meet at 5:30 am in Grafton"
-        ],
-        "employee_list": {
-            "Brianna": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Caitlin": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Carlie": [
-                "3)",
-                "@ Store, with Sonia\nTrainer",
-                "none"
-            ],
-            "Cynthia": [
-                "4)",
-                "",
-                "none"
-            ],
-            "DJ": [
-                "5)",
-                "@ Store, After Aurora",
-                "none"
-            ],
-            "Greg": [
-                "6)",
-                "2nd week,\nwork w/ Carlie",
-                "none"
-            ],
-            "Jerry D": [
-                "7)",
-                "Driver,\nRed Van",
-                "Milwaukee"
-            ],
-            "Katelyn": [
-                "8)",
-                "3rd week,\nwork w/ Leyna",
-                "none"
-            ],
-            "Kim": [
-                "9)",
-                "Driver,\nWht Camry",
-                "none"
-            ],
-            "Leyna": [
-                "10)",
-                "Trainer",
-                "none"
-            ],
-            "Monica": [
-                "11)",
-                "@ Store, After Aurora",
-                "none"
-            ],
-            "Pamela": [
-                "12)",
-                "",
-                "none"
-            ],
-            "Paul": [
-                "13)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "14)",
-                "@ Store, with Carlie",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Oct 2",
-        "meet_time": [
-            "5:45 AM MEET AT BROWN DEER PARK AND RIDE"
-        ],
-        "start_time": "https://maps.app.goo.gl/JwjqtDcEqTGm1bTq5",
-        "inv_type": [
-            "7:00 AM START"
-        ],
-        "store_name": [
-            "MODAS-SCAN"
-        ],
-        "address": [
-            "AURORA OUTPATIENT RX #1250, TWO RIVERS"
-        ],
-        "link": [
-            "2219 GARFIELD STREET"
-        ],
-        "store_note": [
-            "https://goo.gl/maps/S9a2S4Cm7JD2"
-        ],
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "Driver,\nAltima, Equip",
-                "none"
-            ],
-            "Monica": [
-                "2)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Oct 2",
-        "meet_time": [
-            "5:30 AM OFFICE MEET"
-        ],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL",
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "CONDON OIL #130, OSHKOSH",
-            "CONDON OIL #140, OSHKOSH"
-        ],
-        "address": [
-            "1424 S MAIN ST",
-            "811 MERRITT AVE"
-        ],
-        "link": [
-            "https://goo.gl/maps/d7jG6yoK1sz",
-            "https://goo.gl/maps/qn7QFZkshX32"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Katherine": [
-                "1)",
-                "Equip",
-                "none"
-            ],
-            "Lexi": [
-                "2)",
-                "1st Condon",
-                "none"
-            ],
-            "Sue": [
-                "3)",
-                "Driver,\nOptima",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Oct 3",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "SCAN-ITEM LEVEL"
-        ],
-        "store_name": [
-            "PICK #372, MILWAUKEE - BLUEMOUND"
-        ],
-        "address": [
-            "8151 W BLUEMOUND ROAD"
-        ],
-        "link": [
-            "https://goo.gl/maps/QEWZBbHDpV42"
-        ],
-        "store_note": [
-            "SET UP ON REG #1"
-        ],
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "Equip",
-                "none"
-            ],
-            "Brianna E": [
-                "2)",
-                "2nd Day, work w/ Carlie",
-                "none"
-            ],
-            "Caitlin": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Carlie": [
-                "4)",
-                "Trainer",
-                "none"
-            ],
-            "Greg": [
-                "5)",
-                "2nd week,\nwork w/ Leyna",
-                "none"
-            ],
-            "Jerry D": [
-                "6)",
-                "Until 11:30,\nTrainer",
-                "Milwaukee"
-            ],
-            "Katelyn": [
-                "7)",
-                "3rd week, work w/ Leyna",
-                "none"
-            ],
-            "Lexi": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Leyna": [
-                "9)",
-                "Trainer",
-                "none"
-            ],
-            "Pamela": [
-                "10)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "11)",
-                "",
-                "none"
-            ],
-            "Sophia": [
-                "12)",
-                "3rd week, work w/ Jerry",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Oct 3",
-        "meet_time": [
-            "5:30 AM WATERTOWN PLANK MEET"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "MODAS"
-        ],
-        "store_name": [
-            "FIRESIDE MARKET, SLINGER"
-        ],
-        "address": [
-            "820 HETZEL WY"
-        ],
-        "link": [
-            "https://maps.app.goo.gl/HRhwR9YjWUjm58db6"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Kim": [
-                "1)",
-                "Driver,\nWht Camry, Equip",
-                "none"
-            ],
-            "Cynthia": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Lashaun": [
-                "3)",
-                "@ Store",
-                "none"
-            ],
-            "Monica": [
-                "4)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Sat, Oct 4",
-        "meet_time": [
-            "5:00 AM MEET WATERTOWN PLANK"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "PIGGLY WIGGLY #213, CAMPBELLSPORT"
-        ],
-        "address": [
-            "450 GRANDVIEW AVE"
-        ],
-        "link": [
-            "https://goo.gl/maps/MMuxov4fCx22"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Kim": [
-                "1)",
-                "Driver,\nRed Van, Equip",
-                "none"
-            ],
-            "Caitlin": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Katherine": [
-                "3)",
-                "@ Store,\nUntil 11:00",
-                "none"
-            ],
-            "Paul": [
-                "4)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
         "date": "Sun, Oct 5",
         "meet_time": [],
         "start_time": null,
@@ -2400,6 +1181,1118 @@
     },
     {
         "date": "Sat, Oct 11",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {}
+    },
+    {
+        "date": "Sun, Oct 12",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "PIGGLY WIGGLY #364, MENOMONEE FALLS"
+        ],
+        "address": [
+            "N81 W15182 APPLETON AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/gqjVNncxKSq"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Bri": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Ian": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Katherine": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Paul": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Anisha": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Ashley P": [
+                "6)",
+                "@ Store",
+                "Rockford"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Oct 13",
+        "meet_time": [
+            "4:15 AM MEET WATERTOWN PLANK"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "PIGGLY WIGGLY #384, LITTLE CHUTE"
+        ],
+        "address": [
+            "1901 E MAIN ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/yANQoV7tJoQ2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Driver,\nAltima, Equip",
+                "none"
+            ],
+            "Cynthia": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Greg": [
+                "3)",
+                "work w/ Leyna",
+                "none"
+            ],
+            "Jerry D": [
+                "4)",
+                "Driver,\nSanta Fe",
+                "Milwaukee"
+            ],
+            "Lexi": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "6)",
+                "Trainer",
+                "none"
+            ],
+            "Monica": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Pamela": [
+                "8)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Oct 13",
+        "meet_time": [],
+        "start_time": "BROWN DEER PARK N RIDE:\n1189 W BROWN DEER RD, RIVER HILLS, WI",
+        "inv_type": [
+            "4:30 AM MEET AT BROWN DEER RD PARK AND RIDE"
+        ],
+        "store_name": [
+            "6:00 AM START"
+        ],
+        "address": [
+            "DC5-FINANCIAL"
+        ],
+        "link": [
+            "PIGGLY WIGGLY #383, DEPERE"
+        ],
+        "store_note": [
+            "575 SWAN ROAD <br><hr id=\"note_separator\">https://goo.gl/maps/YM5hDJLPMhE2 <br><hr id=\"note_separator\">BE AWARE THAT THE MEET IS AT BROWN DEER RD PARK N RIDE",
+            "*Carlie and Sonia to meet at 4:30 am in Grafton:\n1660 County Hwy W, Grafton"
+        ],
+        "employee_list": {
+            "Jeremiah": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Caitlin": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Carlie": [
+                "3)",
+                "@ Store w/ Sonia,\nTrainer",
+                "none"
+            ],
+            "Ian": [
+                "4)",
+                "Driver,\nRed Van",
+                "none"
+            ],
+            "Katelyn": [
+                "5)",
+                "work w/ Carlie",
+                "none"
+            ],
+            "Paul": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "7)",
+                "@ Store w/ Carlie",
+                "none"
+            ],
+            "Sue": [
+                "8)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Oct 14",
+        "meet_time": [
+            "5:45 AM MEET WATERTOWN PLANK"
+        ],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "FESTIVAL #2696, HARTFORD - LIFO"
+        ],
+        "address": [
+            "1275 BELL AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/PUKTG8ru54xUWw7d9"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Bri": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Cynthia": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "3)",
+                "Driver,\nRed Van",
+                "Milwaukee"
+            ],
+            "Leyna": [
+                "4)",
+                "Trainer",
+                "none"
+            ],
+            "Pamela": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Sophia": [
+                "6)",
+                "work w/ Leyna",
+                "none"
+            ],
+            "Anisha": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Ashley P": [
+                "8)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Josh S": [
+                "9)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Lori": [
+                "10)",
+                "@ Store",
+                "none"
+            ],
+            "Sarah": [
+                "11)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Oct 14",
+        "meet_time": [],
+        "start_time": "BROWN DEER PARK N RIDE:\n1189 W BROWN DEER RD, RIVER HILLS, WI",
+        "inv_type": [
+            "4:45 AM MEET AT BROWN DEER RD PARK AND RIDE"
+        ],
+        "store_name": [
+            "6:30 AM START"
+        ],
+        "address": [
+            "DC5-FINANCIAL"
+        ],
+        "link": [
+            "FESTIVAL #2740, GREEN BAY-WEST - LIFO"
+        ],
+        "store_note": [
+            "2250 W MASON ST <br><hr id=\"note_separator\">https://goo.gl/maps/XG5AR6enWZB2",
+            "*Carlie and Sonia to meet at 5:00 am in Grafton:\n1660 County Hwy W, Grafton"
+        ],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "@ Store,\nWht Camry,\nEquip",
+                "none"
+            ],
+            "Brianna E": [
+                "2)",
+                "work w/ Carlie",
+                "none"
+            ],
+            "Caitlin": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Carlie": [
+                "4)",
+                "@ Store w/ Sonia,\nTrainer",
+                "none"
+            ],
+            "DJ": [
+                "5)",
+                "Driver,\nAltima",
+                "none"
+            ],
+            "Monica": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "7)",
+                "@ Store w/ Carlie",
+                "none"
+            ],
+            "Jeremiah": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Jerry S": [
+                "9)",
+                "@ Store",
+                "Fox Valley"
+            ],
+            "Kirsten": [
+                "10)",
+                "@ Store",
+                "none"
+            ],
+            "Mai": [
+                "11)",
+                "@ Store",
+                "none"
+            ],
+            "Marcia": [
+                "12)",
+                "@ Store",
+                "none"
+            ],
+            "Nagui": [
+                "13)",
+                "@ Store",
+                "none"
+            ],
+            "Taya": [
+                "14)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Oct 14",
+        "meet_time": [
+            "6:00 AM OFFICE MEET"
+        ],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "CONDON OIL #195, THERESA"
+        ],
+        "address": [
+            "213 N MILWAUKEE"
+        ],
+        "link": [
+            "https://goo.gl/maps/dBrycqMgUwF2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Equip",
+                "none"
+            ],
+            "Sue": [
+                "2)",
+                "Driver,\nOptima",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Oct 15",
+        "meet_time": [
+            "4:45 AM MEET RYAN RD PNR (HWY 100 & 94)"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "SCAN-ITEM LEVEL"
+        ],
+        "store_name": [
+            "MARIANO'S #507 +RX, CHICAGO-N ELSTON"
+        ],
+        "address": [
+            "5353 NORTH ELSTON"
+        ],
+        "link": [
+            "https://goo.gl/maps/wZJz34jYPVB2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Nate": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Caitlin": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "3)",
+                "Driver,\nRed Van,\nSupv Rx",
+                "Milwaukee"
+            ],
+            "Katelyn": [
+                "4)",
+                "work w/ Leyna",
+                "none"
+            ],
+            "Katherine": [
+                "5)",
+                "@ Store, After Aurora",
+                "none"
+            ],
+            "Lexi": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "7)",
+                "Trainer",
+                "none"
+            ],
+            "Sue": [
+                "8)",
+                "@ Store, After Aurora",
+                "none"
+            ],
+            "Anisha": [
+                "9)",
+                "@ Store",
+                "none"
+            ],
+            "Ashley P": [
+                "10)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Bri": [
+                "11)",
+                "@ Store",
+                "none"
+            ],
+            "Elijah": [
+                "12)",
+                "@ Store",
+                "none"
+            ],
+            "Eva": [
+                "13)",
+                "@ Store",
+                "none"
+            ],
+            "Josh S": [
+                "14)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Justin Lee": [
+                "15)",
+                "@ Store",
+                "none"
+            ],
+            "Michael N": [
+                "16)",
+                "@ Store,\nRx",
+                "Rockford"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Oct 15",
+        "meet_time": [
+            "5:00 AM OFFICE MEET"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "SCAN-ITEM LEVEL"
+        ],
+        "store_name": [
+            "PICK #396, FORT ATKINSON"
+        ],
+        "address": [
+            "1505 MADISON AVENUE"
+        ],
+        "link": [
+            "https://goo.gl/maps/AXaUiQoEDp72"
+        ],
+        "store_note": [
+            "This manager is very recount happy, so just be prepared. You can set up on either Reg #1 or Reg #2 <br><hr id=\"note_separator\">FEW RESETS-REMAPPED"
+        ],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Brianna E": [
+                "2)",
+                "work w/ Carlie",
+                "none"
+            ],
+            "Carlie": [
+                "3)",
+                "Driver,\nRed Camry,\nTrainer",
+                "none"
+            ],
+            "Cynthia": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Greg": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Ian": [
+                "6)",
+                "Driver,\nWht Camry",
+                "none"
+            ],
+            "Kim": [
+                "7)",
+                "Driver,\nSanta Fe",
+                "none"
+            ],
+            "Monica": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Pamela": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Paul": [
+                "10)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "11)",
+                "",
+                "none"
+            ],
+            "Sophia": [
+                "12)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Oct 15",
+        "meet_time": [
+            "5:15 AM OFFICE MEET"
+        ],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "MODAS-SCAN"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1511, DOWNERS GROVE"
+        ],
+        "address": [
+            "3825 HIGHLAND AVE"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/GZ9Dc5auLrny8Qvo7"
+        ],
+        "store_note": [
+            "RX IS IN PHYSICIANS OFFICE BUILDING"
+        ],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Equip",
+                "none"
+            ],
+            "Sue": [
+                "2)",
+                "Driver,\nOptima",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Oct 16",
+        "meet_time": [
+            "5:00 AM MEET WATERTOWN PLANK"
+        ],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "FESTIVAL #2725, MENASHA - LIFO"
+        ],
+        "address": [
+            "1355 ONEIDA ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/i2zDN3asp132"
+        ],
+        "store_note": [
+            "*Carlie and Sonia to meet at 4:45 am in Grafton:\n1660 County Hwy W, Grafton"
+        ],
+        "employee_list": {
+            "Jeremiah": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Caitlin": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Carlie": [
+                "3)",
+                "@ Store w/ Sonia",
+                "none"
+            ],
+            "Cynthia": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "5)",
+                "Driver,\nRed Van",
+                "Milwaukee"
+            ],
+            "Lexi": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Pamela": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Paul": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "9)",
+                "@ Store w/ Carlie",
+                "none"
+            ],
+            "Annette": [
+                "10)",
+                "@ Store",
+                "none"
+            ],
+            "Dan": [
+                "11)",
+                "@ Store",
+                "none"
+            ],
+            "Katie": [
+                "12)",
+                "@ Store",
+                "none"
+            ],
+            "Kirsten": [
+                "13)",
+                "@ Store",
+                "none"
+            ],
+            "Mai": [
+                "14)",
+                "@ Store",
+                "none"
+            ],
+            "Nagui": [
+                "15)",
+                "@ Store",
+                "none"
+            ],
+            "Taya": [
+                "16)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Oct 16",
+        "meet_time": [
+            "4:30 AM OFFICE MEET"
+        ],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "FESTIVAL #2735, MAUSTON - LIFO"
+        ],
+        "address": [
+            "750 N UNION ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/8fV8TwF5DKH2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Sarah": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Brianna E": [
+                "2)",
+                "work w/ Qiana",
+                "none"
+            ],
+            "DJ": [
+                "3)",
+                "Driver,\nAltima",
+                "none"
+            ],
+            "Greg": [
+                "4)",
+                "work w/ Leyna",
+                "none"
+            ],
+            "Ian": [
+                "5)",
+                "Driver,\nWht Camry",
+                "none"
+            ],
+            "Katelyn": [
+                "6)",
+                "work w/ Michael",
+                "none"
+            ],
+            "Katherine": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "8)",
+                "Trainer",
+                "none"
+            ],
+            "Monica": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Ashley P": [
+                "10)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Bri": [
+                "11)",
+                "@ Store",
+                "none"
+            ],
+            "Joseph": [
+                "12)",
+                "@ Store",
+                "none"
+            ],
+            "Justin Lee": [
+                "13)",
+                "@ Store",
+                "none"
+            ],
+            "Lori": [
+                "14)",
+                "@ Store",
+                "none"
+            ],
+            "Michael N": [
+                "15)",
+                "@ Store,\nTrainer",
+                "Rockford"
+            ],
+            "Nate": [
+                "16)",
+                "@ Store",
+                "none"
+            ],
+            "Qiana": [
+                "17)",
+                "@ Store,\nTrainer",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Oct 16",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [
+            "Office"
+        ],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Oct 17",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "SCAN-ITEM LEVEL"
+        ],
+        "store_name": [
+            "PICK #407 +RX, WEST MILWAUKEE"
+        ],
+        "address": [
+            "2201 MILLER PARKWAY"
+        ],
+        "link": [
+            "https://goo.gl/maps/Wj6P3UJePS32"
+        ],
+        "store_note": [
+            "SET UP ON REG #1 OR 2 <br><hr id=\"note_separator\">FEW RESETS-REMAPPED"
+        ],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "Santa Fe available, Equip",
+                "none"
+            ],
+            "Brianna E": [
+                "2)",
+                "work w/ Carlie",
+                "none"
+            ],
+            "Caitlin": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Carlie": [
+                "4)",
+                "Trainer",
+                "none"
+            ],
+            "Cynthia": [
+                "5)",
+                "After Aurora",
+                "none"
+            ],
+            "DJ": [
+                "6)",
+                "After Aurora",
+                "none"
+            ],
+            "Greg": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "8)",
+                "Supv Rx",
+                "Milwaukee"
+            ],
+            "Lexi": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "10)",
+                "",
+                "none"
+            ],
+            "Pamela": [
+                "11)",
+                "",
+                "none"
+            ],
+            "Paul": [
+                "12)",
+                "Rx",
+                "none"
+            ],
+            "Sonia": [
+                "13)",
+                "After Aurora",
+                "none"
+            ],
+            "Sophia": [
+                "14)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Oct 17",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "MODAS-SCAN"
+        ],
+        "store_name": [
+            "AURORA OUTPATIENT RX #1297, GRAFTON"
+        ],
+        "address": [
+            "975 PORT WASHINGTON ROAD"
+        ],
+        "link": [
+            "https://goo.gl/maps/purV8U9cmmZG1H3R9"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Equip",
+                "none"
+            ],
+            "Cynthia": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "3)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Oct 17",
+        "meet_time": [
+            "5:30 AM OFFICE MEET"
+        ],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "FESTIVAL #2709, FORT ATKINSON"
+        ],
+        "address": [
+            "328 WASHINGTON ST - LIFO"
+        ],
+        "link": [
+            "https://goo.gl/maps/E1u3J2TBaJA2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Nate": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Ian": [
+                "2)",
+                "Driver,\nWht Camry",
+                "none"
+            ],
+            "Katelyn": [
+                "3)",
+                "work w/ Ashley",
+                "none"
+            ],
+            "Katherine": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Anisha": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Ashley P": [
+                "6)",
+                "@ Store,\nTrainer",
+                "Rockford"
+            ],
+            "Elijah": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Eva": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Joseph": [
+                "9)",
+                "@ Store",
+                "none"
+            ],
+            "Josh S": [
+                "10)",
+                "@ Store",
+                "Rockford"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Oct 17",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "THOMPSON'S COUNTY MARKET, OCONTO - LIFO"
+        ],
+        "address": [
+            "722 BRAZEAU AVE #41"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/1bZvUPkXTMixM99RA"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Jeremiah": [
+                "1)",
+                "Driver",
+                "none"
+            ],
+            "Dan": [
+                "2)",
+                "meet Michelle @ Point Target",
+                "none"
+            ],
+            "Jerry S": [
+                "3)",
+                "Driver, Van",
+                "Fox Valley"
+            ],
+            "Katie": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Kirsten": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Madison": [
+                "6)",
+                "meet Michelle @ Point Target",
+                "none"
+            ],
+            "Mai": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Marcia": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Michelle": [
+                "9)",
+                "Driver *(also pick up Trevor)",
+                "none"
+            ],
+            "Nagui": [
+                "10)",
+                "",
+                "none"
+            ],
+            "Trevor": [
+                "11)",
+                "meet Michelle @ Point Target",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Sat, Oct 18",
         "meet_time": [],
         "start_time": null,
         "inv_type": [],
