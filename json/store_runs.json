@@ -1304,8 +1304,18 @@
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Paul": [
                 "12)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "13)",
+                "",
+                "none"
+            ],
+            "Sue": [
+                "14)",
                 "",
                 "none"
             ]
@@ -1338,38 +1348,43 @@
                 "Driver,\nAltima, Equip",
                 "none"
             ],
-            "Leyna": [
+            "Katherine": [
                 "2)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "3)",
                 "Trainer",
                 "none"
             ],
             "Sophia": [
-                "3)",
+                "4)",
                 "4th week",
                 "none"
             ],
             "Ashley P": [
-                "4)",
+                "5)",
                 "@ Store",
                 "Rockford"
             ],
             "Eva": [
-                "5)",
-                "@ Store",
-                "none"
-            ],
-            "Joseph": [
                 "6)",
                 "@ Store",
                 "none"
             ],
-            "Michael N": [
+            "Joseph": [
                 "7)",
+                "@ Store",
+                "none"
+            ],
+            "Michael N": [
+                "8)",
                 "@ Store",
                 "Rockford"
             ],
             "Nate": [
-                "8)",
+                "9)",
                 "@ Store,\nAfter Aurora",
                 "none"
             ]
@@ -1396,43 +1411,6 @@
             "Nate": [
                 "1)",
                 "@ Store, Equip",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Oct 6",
-        "meet_time": [
-            "6:30 AM MEET RYAN RD PNR (HWY 100 & 94)"
-        ],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "MODAS-SCAN"
-        ],
-        "store_name": [
-            "OPEN PANTRY #493, RACINE"
-        ],
-        "address": [
-            "3441 SPRING ST"
-        ],
-        "link": [
-            "https://goo.gl/maps/8i7XHemjTpL2"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Katherine": [
-                "1)",
-                "Equip",
-                "none"
-            ],
-            "Paul": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Sue": [
-                "3)",
-                "Driver,\nOptima",
                 "none"
             ]
         }
@@ -1780,33 +1758,43 @@
                 "After Aurora",
                 "none"
             ],
-            "Lexi": [
+            "Katherine": [
                 "8)",
                 "",
                 "none"
             ],
-            "Leyna": [
+            "Lexi": [
                 "9)",
-                "After Aurora",
+                "",
                 "none"
             ],
-            "Monica": [
+            "Leyna": [
                 "10)",
                 "After Aurora",
                 "none"
             ],
-            "Paul": [
+            "Monica": [
                 "11)",
+                "After Aurora",
+                "none"
+            ],
+            "Paul": [
+                "12)",
                 "Until 9:00",
                 "none"
             ],
+            "Sue": [
+                "13)",
+                "",
+                "none"
+            ],
             "Lori": [
-                "12)",
+                "14)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Sarah": [
-                "13)",
+                "15)",
                 "@ Store,\nSupv Rx",
                 "none"
             ]
@@ -1843,38 +1831,6 @@
             "Monica": [
                 "3)",
                 "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, Oct 8",
-        "meet_time": [
-            "6:00 AM OFFICE MEET"
-        ],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "MODAS-SCAN"
-        ],
-        "store_name": [
-            "OPEN PANTRY #9570, RACINE"
-        ],
-        "address": [
-            "2731 DURAND AVE"
-        ],
-        "link": [
-            "https://goo.gl/maps/boUkpED44a62"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Katherine": [
-                "1)",
-                "Equip",
-                "none"
-            ],
-            "Sue": [
-                "2)",
-                "Driver,\nOptima",
                 "none"
             ]
         }
