@@ -754,36 +754,6 @@
     },
     {
         "date": "Thu, Oct 9",
-        "meet_time": [],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "MODAS-SCAN"
-        ],
-        "store_name": [
-            "OPEN PANTRY #605, BAYSIDE"
-        ],
-        "address": [
-            "501 W BROWN DEER RD"
-        ],
-        "link": [
-            "https://goo.gl/maps/pQaSRAn88Vh6DAQ58"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Katherine": [
-                "1)",
-                "Optima available, Equip",
-                "none"
-            ],
-            "Cynthia": [
-                "2)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Oct 9",
         "meet_time": [
             "3:30 AM OFFICE MEET"
         ],
@@ -2044,7 +2014,7 @@
             ],
             "Brianna E": [
                 "2)",
-                "work w/ Carlie",
+                "work w/ Leyna",
                 "none"
             ],
             "Caitlin": [
@@ -2054,12 +2024,12 @@
             ],
             "Carlie": [
                 "4)",
-                "Trainer",
+                "After Aurora",
                 "none"
             ],
             "Cynthia": [
                 "5)",
-                "After Aurora",
+                "",
                 "none"
             ],
             "DJ": [
@@ -2084,7 +2054,7 @@
             ],
             "Leyna": [
                 "10)",
-                "",
+                "Trainer",
                 "none"
             ],
             "Pamela": [
@@ -2132,7 +2102,7 @@
                 "Equip",
                 "none"
             ],
-            "Cynthia": [
+            "Carlie": [
                 "2)",
                 "",
                 "none"
