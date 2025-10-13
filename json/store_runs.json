@@ -262,8 +262,7 @@
             "FESTIVAL #2740, GREEN BAY-WEST - LIFO"
         ],
         "store_note": [
-            "2250 W MASON ST <br><hr id=\"note_separator\">https://goo.gl/maps/XG5AR6enWZB2",
-            "*Carlie and Sonia to meet at 5:00 am in Grafton:\n1660 County Hwy W, Grafton"
+            "2250 W MASON ST <br><hr id=\"note_separator\">https://goo.gl/maps/XG5AR6enWZB2"
         ],
         "employee_list": {
             "Kim": [
@@ -278,7 +277,7 @@
             ],
             "Carlie": [
                 "3)",
-                "@ Store w/ Sonia",
+                "@ Store",
                 "none"
             ],
             "DJ": [
@@ -293,7 +292,7 @@
             ],
             "Sonia": [
                 "6)",
-                "@ Store w/ Carlie",
+                "",
                 "none"
             ],
             "Ariel": [
