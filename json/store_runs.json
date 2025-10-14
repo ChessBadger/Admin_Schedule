@@ -483,9 +483,9 @@
             "This manager is very recount happy, so just be prepared. You can set up on either Reg #1 or Reg #2 <br><hr id=\"note_separator\">FEW RESETS-REMAPPED"
         ],
         "employee_list": {
-            "DJ": [
+            "Kim": [
                 "1)",
-                "@ Store, Equip",
+                "@ Store, Santa Fe, Equip",
                 "none"
             ],
             "Carlie": [
@@ -498,19 +498,19 @@
                 "",
                 "none"
             ],
-            "Greg": [
+            "DJ": [
                 "4)",
+                "Driver,\nAltima",
+                "none"
+            ],
+            "Greg": [
+                "5)",
                 "",
                 "none"
             ],
             "Ian": [
-                "5)",
-                "Driver,\nWht Camry",
-                "none"
-            ],
-            "Kim": [
                 "6)",
-                "Driver,\nSanta Fe",
+                "Driver,\nWht Camry",
                 "none"
             ],
             "Monica": [
