@@ -807,21 +807,21 @@
     {
         "date": "Fri, Oct 17",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "White Camry oil change this day",
         "inv_type": [
-            "SCAN-ITEM LEVEL"
+            ""
         ],
         "store_name": [
-            "PICK #407 +RX, WEST MILWAUKEE"
+            "6:00 AM START"
         ],
         "address": [
-            "2201 MILLER PARKWAY"
+            "SCAN-ITEM LEVEL"
         ],
         "link": [
-            "https://goo.gl/maps/Wj6P3UJePS32"
+            "PICK #407 +RX, WEST MILWAUKEE"
         ],
         "store_note": [
-            "SET UP ON REG #1 OR 2 <br><hr id=\"note_separator\">FEW RESETS-REMAPPED"
+            "2201 MILLER PARKWAY <br><hr id=\"note_separator\">https://goo.gl/maps/Wj6P3UJePS32 <br><hr id=\"note_separator\">SET UP ON REG #1 OR 2 <br><hr id=\"note_separator\">FEW RESETS-REMAPPED"
         ],
         "employee_list": {
             "Kim": [
@@ -953,7 +953,7 @@
             ],
             "Ian": [
                 "2)",
-                "Driver,\nWht Camry",
+                "Driver,\nOptima",
                 "none"
             ],
             "Katelyn": [
@@ -995,81 +995,6 @@
                 "10)",
                 "@ Store",
                 "Rockford"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Oct 17",
-        "meet_time": [],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "THOMPSON'S COUNTY MARKET, OCONTO - LIFO"
-        ],
-        "address": [
-            "722 BRAZEAU AVE #41"
-        ],
-        "link": [
-            "https://maps.app.goo.gl/1bZvUPkXTMixM99RA"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Jeremiah": [
-                "1)",
-                "Driver",
-                "none"
-            ],
-            "Dan": [
-                "2)",
-                "meet Michelle @ Point Target",
-                "none"
-            ],
-            "Jerry S": [
-                "3)",
-                "Driver, Van",
-                "Fox Valley"
-            ],
-            "Katie": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Kirsten": [
-                "5)",
-                "",
-                "none"
-            ],
-            "Madison": [
-                "6)",
-                "meet Michelle @ Point Target",
-                "none"
-            ],
-            "Mai": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Marcia": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Michelle": [
-                "9)",
-                "Driver *(also pick up Trevor)",
-                "none"
-            ],
-            "Nagui": [
-                "10)",
-                "",
-                "none"
-            ],
-            "Trevor": [
-                "11)",
-                "meet Michelle @ Point Target",
-                "none"
             ]
         }
     },
