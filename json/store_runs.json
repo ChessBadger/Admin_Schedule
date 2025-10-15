@@ -1023,20 +1023,22 @@
     {
         "date": "Mon, Oct 20",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "Kim",
         "inv_type": [
-            "MODAS-SCAN"
+            ""
         ],
         "store_name": [
-            "AURORA OUTPATIENT RX #1097, MEQUON"
+            "6:00 AM START"
         ],
         "address": [
-            "12203 CORPORATE PKWY, SUITE 100"
+            "MODAS-SCAN"
         ],
         "link": [
-            "https://goo.gl/maps/Vqume327kHc7sWLA9"
+            "AURORA OUTPATIENT RX #1097, MEQUON"
         ],
-        "store_note": [],
+        "store_note": [
+            "12203 CORPORATE PKWY, SUITE 100 <br><hr id=\"note_separator\">https://goo.gl/maps/Vqume327kHc7sWLA9"
+        ],
         "employee_list": {
             "Ian": [
                 "1)",
