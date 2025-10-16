@@ -834,63 +834,58 @@
                 "",
                 "none"
             ],
-            "Carlie": [
-                "4)",
-                "After Aurora",
-                "none"
-            ],
             "Cynthia": [
-                "5)",
+                "4)",
                 "",
                 "none"
             ],
             "DJ": [
-                "6)",
+                "5)",
                 "After Aurora",
                 "none"
             ],
             "Eric": [
-                "7)",
+                "6)",
                 "",
                 "none"
             ],
             "Greg": [
-                "8)",
+                "7)",
                 "",
                 "none"
             ],
             "Jerry D": [
-                "9)",
+                "8)",
                 "Supv Rx",
                 "Milwaukee"
             ],
             "Lexi": [
-                "10)",
+                "9)",
                 "",
                 "none"
             ],
             "Leyna": [
-                "11)",
+                "10)",
                 "Trainer",
                 "none"
             ],
             "Pamela": [
-                "12)",
+                "11)",
                 "",
                 "none"
             ],
             "Paul": [
-                "13)",
+                "12)",
                 "Rx",
                 "none"
             ],
             "Sonia": [
-                "14)",
+                "13)",
                 "After Aurora",
                 "none"
             ],
             "Sophia": [
-                "15)",
+                "14)",
                 "",
                 "none"
             ]
@@ -1572,58 +1567,63 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Caitlin": [
+            "Andrew": [
                 "2)",
+                "1st Scan, work w/ Leyna",
+                "none"
+            ],
+            "Caitlin": [
+                "3)",
                 "",
                 "none"
             ],
             "Carlie": [
-                "3)",
-                "Driver,\nRed Camry",
+                "4)",
+                "Driver,\nRed Camry,\nTrainer",
                 "none"
             ],
             "Cynthia": [
-                "4)",
+                "5)",
                 "",
                 "none"
             ],
             "DJ": [
-                "5)",
+                "6)",
                 "Driver,\nAltima",
                 "none"
             ],
-            "Leyna": [
-                "6)",
-                "",
+            "Eric": [
+                "7)",
+                "1st Scan, work w/ Carlie",
                 "none"
             ],
-            "Pamela": [
-                "7)",
-                "",
+            "Leyna": [
+                "8)",
+                "Trainer",
                 "none"
             ],
             "Paul": [
-                "8)",
+                "9)",
                 "",
                 "none"
             ],
             "Anisha": [
-                "9)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Ashley P": [
-                "10)",
+                "11)",
                 "@ Store,\nSupv Rx",
                 "Rockford"
             ],
             "Elijah": [
-                "11)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Eva": [
-                "12)",
+                "13)",
                 "@ Store,\nRx",
                 "none"
             ],
@@ -1633,22 +1633,22 @@
                 "Rockford"
             ],
             "Justin Lee": [
-                "13)",
+                "15)",
                 "@ Store",
                 "none"
             ],
             "Michael N": [
-                "15)",
+                "16)",
                 "@ Store",
                 "Rockford"
             ],
             "Nate": [
-                "16)",
+                "17)",
                 "@ Store",
                 "none"
             ],
             "Qiana": [
-                "17)",
+                "18)",
                 "@ Store",
                 "none"
             ]
@@ -1694,63 +1694,68 @@
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Pamela": [
                 "5)",
                 "",
                 "none"
             ],
-            "Ariel": [
+            "Sonia": [
                 "6)",
-                "@ Store",
+                "",
                 "none"
             ],
-            "Dan": [
+            "Ariel": [
                 "7)",
                 "@ Store",
                 "none"
             ],
-            "Jeremiah": [
+            "Dan": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Jerry S": [
+            "Jeremiah": [
                 "9)",
+                "@ Store",
+                "none"
+            ],
+            "Jerry S": [
+                "10)",
                 "@ Store",
                 "Fox Valley"
             ],
             "Katie": [
-                "10)",
-                "@ Store",
-                "none"
-            ],
-            "Kirsten": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Lori": [
+            "Kirsten": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Mai": [
+            "Lori": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Marcia": [
+            "Mai": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Nagui": [
+            "Marcia": [
                 "15)",
                 "@ Store",
                 "none"
             ],
-            "Sarah": [
+            "Nagui": [
                 "16)",
+                "@ Store",
+                "none"
+            ],
+            "Sarah": [
+                "17)",
                 "@ Store",
                 "none"
             ]
@@ -1828,43 +1833,48 @@
                 "",
                 "none"
             ],
-            "Greg": [
+            "Eric": [
                 "5)",
+                "2nd Scan, work w/ Jerry",
+                "none"
+            ],
+            "Greg": [
+                "6)",
                 "",
                 "none"
             ],
             "Jerry D": [
-                "6)",
-                "",
+                "7)",
+                "Trainer",
                 "Milwaukee"
             ],
             "Katherine": [
-                "7)",
+                "8)",
                 "@ Store, After Aurora",
                 "none"
             ],
             "Kim": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Lexi": [
                 "9)",
                 "",
                 "none"
             ],
-            "Monica": [
+            "Lexi": [
                 "10)",
                 "",
                 "none"
             ],
-            "Pamela": [
+            "Monica": [
                 "11)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Pamela": [
                 "12)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "13)",
                 "",
                 "none"
             ]
@@ -1893,7 +1903,7 @@
                 "Optima available, Equip",
                 "none"
             ],
-            "Carlie": [
+            "Monica": [
                 "2)",
                 "",
                 "none"
@@ -1925,73 +1935,78 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Ian": [
+            "Andrew": [
                 "2)",
+                "2nd Scan, work w/ Leyna",
+                "none"
+            ],
+            "Ian": [
+                "3)",
                 "Driver,\nRed Van",
                 "none"
             ],
             "Katelyn": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Leyna": [
                 "4)",
                 "",
                 "none"
             ],
-            "Sophia": [
+            "Leyna": [
                 "5)",
+                "Trainer",
+                "none"
+            ],
+            "Sophia": [
+                "6)",
                 "",
                 "none"
             ],
             "Anisha": [
-                "6)",
+                "7)",
                 "@ Store",
                 "none"
             ],
             "Ashley P": [
-                "7)",
+                "8)",
                 "@ Store",
                 "Rockford"
             ],
             "Elijah": [
-                "8)",
-                "@ Store",
-                "none"
-            ],
-            "Eva": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Joseph": [
+            "Eva": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Josh S": [
+            "Joseph": [
                 "11)",
+                "@ Store",
+                "none"
+            ],
+            "Josh S": [
+                "12)",
                 "@ Store",
                 "Rockford"
             ],
             "Justin Lee": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
-            "Lori": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Qiana": [
+            "Lori": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Sarah": [
+            "Qiana": [
                 "15)",
+                "@ Store",
+                "none"
+            ],
+            "Sarah": [
+                "16)",
                 "@ Store",
                 "none"
             ]
