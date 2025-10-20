@@ -431,46 +431,51 @@
             ],
             "Carlie": [
                 "2)",
-                "Driver,\nRed Camry",
+                "Driver,\nRed Camry,\nTrainer",
+                "none"
+            ],
+            "Celina": [
+                "3)",
+                "1st Store, \nwork w/ Carlie",
                 "none"
             ],
             "Cynthia": [
-                "3)",
+                "4)",
                 "",
                 "none"
             ],
             "Jerry D": [
-                "4)",
+                "5)",
                 "Driver,\nRed Van",
                 "Milwaukee"
             ],
             "Katelyn": [
-                "5)",
-                "",
-                "none"
-            ],
-            "Katherine": [
                 "6)",
                 "",
                 "none"
             ],
-            "Lexi": [
+            "Katherine": [
                 "7)",
                 "",
                 "none"
             ],
-            "Paul": [
+            "Lexi": [
                 "8)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Paul": [
                 "9)",
                 "",
                 "none"
             ],
-            "Bri": [
+            "Sonia": [
                 "10)",
+                "",
+                "none"
+            ],
+            "Bri": [
+                "11)",
                 "@ Store,\nUntil noon",
                 "none"
             ]
@@ -669,20 +674,20 @@
                 "@ Store,\nWht Camry, Equip",
                 "none"
             ],
-            "Greg": [
+            "Celina": [
                 "2)",
+                "2nd Festival, \nwork w/ Jerry D",
+                "none"
+            ],
+            "Greg": [
+                "3)",
                 "",
                 "none"
             ],
             "Jerry D": [
-                "3)",
-                "Driver,\nRed Van",
-                "Milwaukee"
-            ],
-            "Monica": [
                 "4)",
-                "",
-                "none"
+                "Driver,\nRed Van,\nTrainer",
+                "Milwaukee"
             ],
             "Pamela": [
                 "5)",
