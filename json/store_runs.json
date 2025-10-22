@@ -1439,14 +1439,14 @@
                 "work w/ Leyna",
                 "none"
             ],
-            "Caitlin": [
+            "Greg": [
                 "3)",
                 "",
                 "none"
             ],
-            "Greg": [
+            "Katherine": [
                 "4)",
-                "",
+                "@ Store, After cstore",
                 "none"
             ],
             "Leyna": [
@@ -1456,7 +1456,7 @@
             ],
             "Sue": [
                 "6)",
-                "Driver,\nRed Van",
+                "Driver,\nWht Camry",
                 "none"
             ],
             "Anisha": [
@@ -1565,63 +1565,68 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Cynthia": [
+            "Caitlin": [
                 "2)",
                 "",
                 "none"
             ],
-            "Kim": [
+            "Cynthia": [
                 "3)",
-                "Driver,\nWht Camry",
-                "none"
-            ],
-            "Monica": [
-                "4)",
                 "",
                 "none"
             ],
-            "Paul": [
+            "Kim": [
+                "4)",
+                "Driver,\nRed Van",
+                "none"
+            ],
+            "Monica": [
                 "5)",
                 "",
                 "none"
             ],
-            "Dan": [
+            "Paul": [
                 "6)",
-                "@ Store",
+                "",
                 "none"
             ],
-            "Jeremiah": [
+            "Dan": [
                 "7)",
                 "@ Store",
                 "none"
             ],
-            "Kirsten": [
+            "Jeremiah": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Lori": [
+            "Kirsten": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Madison": [
+            "Lori": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Mai": [
+            "Madison": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Nagui": [
+            "Mai": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Terri": [
+            "Nagui": [
                 "13)",
+                "@ Store",
+                "none"
+            ],
+            "Terri": [
+                "14)",
                 "@ Store",
                 "none"
             ]
@@ -1644,7 +1649,8 @@
             ""
         ],
         "store_note": [
-            "Ian <br><hr id=\"note_separator\">Jerry D"
+            "Ian <br><hr id=\"note_separator\">Jerry D",
+            "*Check in with Ashley after to see if needed at Pig Slinger"
         ],
         "employee_list": {
             "": [
