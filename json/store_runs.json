@@ -12,27 +12,27 @@
     },
     {
         "date": "Mon, Oct 27",
-        "meet_time": [
-            "5:15 AM OFFICE MEET"
-        ],
-        "start_time": "6:00 AM START",
+        "meet_time": [],
+        "start_time": "Kim",
         "inv_type": [
-            "DC5-FINANCIAL",
+            "",
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "KOHN'S FILLING STATION, KEWASKUM",
+            "5:15 AM OFFICE MEET",
             "KOHN'S FILLING STATION 259, CAMPBELLSPORT"
         ],
         "address": [
-            "890 FOND DU LAC AVE",
+            "6:00 AM START",
             "259 N FOND DU LAC AVE"
         ],
         "link": [
-            "https://goo.gl/maps/CJnRNDyortw",
+            "DC5-FINANCIAL",
             "https://goo.gl/maps/WCsZpx5SMsA2"
         ],
-        "store_note": [],
+        "store_note": [
+            "KOHN'S FILLING STATION, KEWASKUM <br><hr id=\"note_separator\">890 FOND DU LAC AVE <br><hr id=\"note_separator\">https://goo.gl/maps/CJnRNDyortw"
+        ],
         "employee_list": {
             "Katherine": [
                 "1)",
@@ -317,23 +317,23 @@
     },
     {
         "date": "Tue, Oct 28",
-        "meet_time": [
-            "5:30 AM MEET WATERTOWN PLANK"
-        ],
-        "start_time": "6:00 AM START",
+        "meet_time": [],
+        "start_time": "Katherine",
         "inv_type": [
-            "DC5-FINANCIAL"
+            ""
         ],
         "store_name": [
-            "FOX BROS PIGGLY WIGGLY #091, SLINGER"
+            "5:30 AM MEET WATERTOWN PLANK"
         ],
         "address": [
-            "1100 E COMMERCE BLVD"
+            "6:00 AM START"
         ],
         "link": [
-            "https://goo.gl/maps/WgMCr1tJCE12"
+            "DC5-FINANCIAL"
         ],
-        "store_note": [],
+        "store_note": [
+            "FOX BROS PIGGLY WIGGLY #091, SLINGER <br><hr id=\"note_separator\">1100 E COMMERCE BLVD <br><hr id=\"note_separator\">https://goo.gl/maps/WgMCr1tJCE12"
+        ],
         "employee_list": {
             "Ashley P": [
                 "1)",
@@ -936,21 +936,21 @@
     {
         "date": "Thu, Oct 30",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "Katherine",
         "inv_type": [
-            "DC5-FINANCIAL"
+            ""
         ],
         "store_name": [
-            "FOX BROS PIGGLY WIGGLY #092, HARTLAND"
+            "6:00 AM START"
         ],
         "address": [
-            "505 SOUTH COTTONWOOD"
+            "DC5-FINANCIAL"
         ],
         "link": [
-            "https://goo.gl/maps/3fKEhu9Q6Q52"
+            "FOX BROS PIGGLY WIGGLY #092, HARTLAND"
         ],
         "store_note": [
-            "PARTIAL RESET-REMAPPED"
+            "505 SOUTH COTTONWOOD <br><hr id=\"note_separator\">https://goo.gl/maps/3fKEhu9Q6Q52 <br><hr id=\"note_separator\">PARTIAL RESET-REMAPPED"
         ],
         "employee_list": {
             "DJ": [
@@ -1292,24 +1292,22 @@
     },
     {
         "date": "Fri, Oct 31",
-        "meet_time": [
-            "5:00 AM MEET WATERTOWN PLANK"
-        ],
-        "start_time": "6:30 AM START",
+        "meet_time": [],
+        "start_time": "Katherine",
         "inv_type": [
-            "DC5-FINANCIAL"
+            ""
         ],
         "store_name": [
-            "FESTIVAL #2707, NEENAH - LIFO"
+            "5:00 AM MEET WATERTOWN PLANK"
         ],
         "address": [
-            "647 S GREEN BAY RD"
+            "6:30 AM START"
         ],
         "link": [
-            "https://goo.gl/maps/RgXmUUZfEDQ2"
+            "DC5-FINANCIAL"
         ],
         "store_note": [
-            "PARTIAL RESET-REMAPPED"
+            "FESTIVAL #2707, NEENAH - LIFO <br><hr id=\"note_separator\">647 S GREEN BAY RD <br><hr id=\"note_separator\">https://goo.gl/maps/RgXmUUZfEDQ2 <br><hr id=\"note_separator\">PARTIAL RESET-REMAPPED"
         ],
         "employee_list": {
             "Kim": [
@@ -1601,20 +1599,22 @@
     {
         "date": "Mon, Nov 3",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "Katherine",
         "inv_type": [
-            "DC5-FINANCIAL"
+            ""
         ],
         "store_name": [
-            "FOX BROS PIGGLY WIGGLY #093, OCONOMOWOC"
+            "6:00 AM START"
         ],
         "address": [
-            "1300 BROWN ST"
+            "DC5-FINANCIAL"
         ],
         "link": [
-            "https://goo.gl/maps/2K5yALCcUdM2"
+            "FOX BROS PIGGLY WIGGLY #093, OCONOMOWOC"
         ],
-        "store_note": [],
+        "store_note": [
+            "1300 BROWN ST <br><hr id=\"note_separator\">https://goo.gl/maps/2K5yALCcUdM2"
+        ],
         "employee_list": {
             "Kim": [
                 "1)",
