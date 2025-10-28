@@ -1004,7 +1004,7 @@
             ],
             "Carlie": [
                 "2)",
-                "Trainer",
+                "",
                 "none"
             ],
             "Cynthia": [
@@ -2411,28 +2411,33 @@
                 "@ Store",
                 "Fox Valley"
             ],
-            "Kirsten": [
+            "Josie": [
                 "5)",
-                "@ Store",
+                "@ Store, Until 10",
                 "none"
             ],
-            "Lori": [
+            "Kirsten": [
                 "6)",
                 "@ Store",
                 "none"
             ],
-            "Mai": [
+            "Lori": [
                 "7)",
                 "@ Store",
                 "none"
             ],
-            "Marcia": [
+            "Mai": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Taya": [
+            "Marcia": [
                 "9)",
+                "@ Store",
+                "none"
+            ],
+            "Taya": [
+                "10)",
                 "@ Store",
                 "none"
             ]
