@@ -963,13 +963,18 @@
                 "Trainer",
                 "none"
             ],
-            "Lori": [
+            "Monica": [
                 "7)",
+                "",
+                "none"
+            ],
+            "Lori": [
+                "8)",
                 "@ Store",
                 "none"
             ],
             "Sarah": [
-                "8)",
+                "9)",
                 "@ Store",
                 "none"
             ]
@@ -1115,82 +1120,27 @@
                 "4)",
                 "",
                 "none"
-            ],
-            "Monica": [
-                "5)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "6)",
-                "w/ Kim",
-                "none"
-            ],
-            "Annette": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
-            "Dan": [
-                "8)",
-                "@ Store",
-                "none"
-            ],
-            "Jeremiah": [
-                "9)",
-                "@ Store",
-                "none"
-            ],
-            "Katie": [
-                "10)",
-                "@ Store",
-                "none"
-            ],
-            "Madison": [
-                "11)",
-                "@ Store",
-                "none"
-            ],
-            "Marcia": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
-            "Michelle": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
-            "Nagui": [
-                "14)",
-                "@ Store",
-                "none"
-            ],
-            "Taya": [
-                "15)",
-                "@ Store",
-                "none"
             ]
         }
     },
     {
         "date": "Thu, Oct 30",
         "meet_time": [],
-        "start_time": "7:00 AM START",
+        "start_time": "Sonia",
         "inv_type": [
-            "COCA-COLA, MILWAUKEE"
+            "Annette"
         ],
         "store_name": [
-            "11800 W BROWN DEER RD"
+            "Dan"
         ],
         "address": [
-            "https://goo.gl/maps/3qRtjQQ4gbR2"
+            "Jeremiah"
         ],
         "link": [
-            ""
+            "Katie"
         ],
         "store_note": [
-            "Ian"
+            "Madison <br><hr id=\"note_separator\">Marcia <br><hr id=\"note_separator\">Michelle <br><hr id=\"note_separator\">Nagui <br><hr id=\"note_separator\">Taya"
         ],
         "employee_list": {
             "": [
@@ -1198,52 +1148,22 @@
                 "",
                 "none"
             ],
-            "5:00 AM OFFICE LEAVE TIME": [
+            "7:00 AM START": [
                 "",
                 "",
                 "none"
             ],
-            "6:00 AM START": [
+            "COCA-COLA, MILWAUKEE": [
                 "",
                 "",
                 "none"
             ],
-            "DC5-FINANCIAL": [
+            "11800 W BROWN DEER RD": [
                 "",
                 "",
                 "none"
             ],
-            "ROTE OIL #1 PADDOCK LAKE- BRASS BALL": [
-                "",
-                "",
-                "none"
-            ],
-            "25406 75TH ST": [
-                "",
-                "",
-                "none"
-            ],
-            "https://goo.gl/maps/LTa4ckcczx5qc8269": [
-                "",
-                "",
-                "none"
-            ],
-            "TO FOLLOW": [
-                "",
-                "",
-                "none"
-            ],
-            "ROTE OIL #2 PADDOCK LAKE- 75TH ST": [
-                "",
-                "",
-                "none"
-            ],
-            "25555 75TH ST": [
-                "",
-                "",
-                "none"
-            ],
-            "https://goo.gl/maps/5UyWWXXbzXMaVnv99": [
+            "https://goo.gl/maps/3qRtjQQ4gbR2": [
                 "",
                 "",
                 "none"
@@ -1253,24 +1173,37 @@
     {
         "date": "Thu, Oct 30",
         "meet_time": [],
-        "start_time": "Katherine",
+        "start_time": "Ian",
         "inv_type": [
-            "Justin Lee"
+            "",
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
         ],
         "store_name": [
-            ""
+            "",
+            "ROTE OIL #1 PADDOCK LAKE- BRASS BALL",
+            "ROTE OIL #2 PADDOCK LAKE- 75TH ST"
         ],
         "address": [
-            ""
+            "5:00 AM OFFICE LEAVE TIME",
+            "25406 75TH ST",
+            "25555 75TH ST"
         ],
         "link": [
-            ""
+            "6:00 AM START",
+            "https://goo.gl/maps/LTa4ckcczx5qc8269",
+            "https://goo.gl/maps/5UyWWXXbzXMaVnv99"
         ],
         "store_note": [],
         "employee_list": {
-            "": [
-                "",
-                "",
+            "Katherine": [
+                "1)",
+                "Optima, Equip",
+                "none"
+            ],
+            "Justin Lee": [
+                "2)",
+                "@ Store",
                 "none"
             ]
         }
