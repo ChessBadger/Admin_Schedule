@@ -612,28 +612,23 @@
                 "",
                 "none"
             ],
-            "Monica": [
+            "Pamela": [
                 "8)",
                 "",
                 "none"
             ],
-            "Pamela": [
-                "9)",
-                "",
-                "none"
-            ],
             "Paul": [
-                "10)",
+                "9)",
                 "Rx",
                 "none"
             ],
             "Sophia": [
-                "11)",
+                "10)",
                 "",
                 "none"
             ],
             "Zakiyah": [
-                "12)",
+                "11)",
                 "work w/ Carlie",
                 "none"
             ]
@@ -980,14 +975,14 @@
                 "Driver,\nOptima",
                 "none"
             ],
-            "Zakiyah": [
+            "Monica": [
                 "3)",
-                "work w/ Justin",
+                "",
                 "none"
             ],
-            "Eva": [
+            "Zakiyah": [
                 "4)",
-                "@ Store",
+                "work w/ Justin",
                 "none"
             ],
             "Joseph": [
@@ -1027,8 +1022,9 @@
         "store_note": [
             "*ADDRESS TO THE MEET:\nW156N9277 TIPP ST, MENOMONEE FALLS, WI",
             "Area tickets are used here, Supv will need to arrive one hour early at 10:30 to post them",
-            "Make sure to bring folders for both sites - *notes* - Items over $1,000 count as tenths - Count big dollar sections 1st for auditing. <br><hr id=\"note_separator\">Make sure to tag each location when completed. Try to start large Drawer sections early - they take a lot of time. <br><hr id=\"note_separator\">9:30 AM START FOR DJ / MONICA",
-            "Need to go up a flight of stairs for this site <br><hr id=\"note_separator\">GIVE THEM COMP FILES INSTEAD OF PRINTOUTS AT END OF STORE - ALL 3 EXPORT FILES"
+            "Make sure to bring folders for both sites - *notes* - Items over $1,000 count as tenths - Count big dollar sections 1st for auditing.",
+            "Make sure to tag each location when completed. Try to start large Drawer sections early - they take a lot of time.\n**BRING BACKUP DC5S** <br><hr id=\"note_separator\">9:30 AM START FOR DJ / LEYNA",
+            "Need to go up a flight of stairs for this site <br><hr id=\"note_separator\">GIVE THEM COMP FILES INSTEAD OF PRINTOUTS AT END OF STORE - ALL 3 EXPORT FILES <br><hr id=\"note_separator\">DJ / LEYNA - MEET AT 9:15 AM AT TIPP ST PARK N RIDE"
         ],
         "employee_list": {
             "Kim": [
@@ -1048,7 +1044,7 @@
             ],
             "DJ": [
                 "4)",
-                "w/ Monica\nAltima,\nSupv 1143",
+                "w/ Leyna\nAltima,\nSupv 1143",
                 "none"
             ],
             "Lexi": [
@@ -1058,17 +1054,17 @@
             ],
             "Leyna": [
                 "6)",
-                "",
-                "none"
-            ],
-            "Monica": [
-                "7)",
-                "Early w/ DJ",
+                "w/ DJ",
                 "none"
             ],
             "Paul": [
-                "8)",
+                "7)",
                 "@ Store, until 4:30",
+                "none"
+            ],
+            "Eva": [
+                "8)",
+                "@ Store",
                 "none"
             ],
             "Nate": [
