@@ -326,7 +326,7 @@
         "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
-            "SCAN-ITEM LEVEL"
+            "MODAS-SCAN"
         ],
         "store_name": [
             "ASCENSION IP CSMO COLUMBIA ST MARY'S HOSP OZAUKEE CAMPUS"
@@ -337,7 +337,9 @@
         "link": [
             "https://goo.gl/maps/h68MdySxd6QHKPLu5"
         ],
-        "store_note": [],
+        "store_note": [
+            "**BRING BACKUP DC5S**"
+        ],
         "employee_list": {
             "Katherine": [
                 "1)",
@@ -1012,7 +1014,7 @@
         ],
         "start_time": "12:00 PM START",
         "inv_type": [
-            "DC5-ITEM LEVEL",
+            "MODAS-SCAN",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
@@ -2324,7 +2326,7 @@
         "meet_time": [],
         "start_time": "5:45 AM START",
         "inv_type": [
-            "SCAN-ITEM LEVEL"
+            "MODAS-SCAN"
         ],
         "store_name": [
             "ASCENSION IP CSMM COLUMBIA ST MARY'S WOMEN'S MEDICAL CENTER"
@@ -2336,7 +2338,8 @@
             "https://goo.gl/maps/86sUJVyjHnUKr7tv8"
         ],
         "store_note": [
-            "PARK IN PARKING STRUCTURE B AND MEET IN THE LOBBY <br><hr id=\"note_separator\">Timesheet totals - split Regular location total under Floor - Chemo under Backroom."
+            "PARK IN PARKING STRUCTURE B AND MEET IN THE LOBBY\n**BRING BACKUP DC5S**",
+            "Timesheet totals - split Regular location total under Floor - Chemo under Backroom."
         ],
         "employee_list": {
             "Katherine": [
