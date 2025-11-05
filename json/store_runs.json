@@ -1395,110 +1395,6 @@
     },
     {
         "date": "Tue, Nov 11",
-        "meet_time": [
-            "4:15 AM MEET RYAN RD PNR (HWY 100 & 94)"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "SCAN-ITEM LEVEL"
-        ],
-        "store_name": [
-            "MARIANO'S #535 +RX, \nORLAND PARK"
-        ],
-        "address": [
-            "9504 142ND ST"
-        ],
-        "link": [
-            "https://goo.gl/maps/x3S76RraqQ82"
-        ],
-        "store_note": [
-            "SET UP ON REG #1 OR 2"
-        ],
-        "employee_list": {
-            "Nate": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Andrew": [
-                "2)",
-                "work w/ Leyna",
-                "none"
-            ],
-            "Leyna": [
-                "3)",
-                "Trainer",
-                "none"
-            ],
-            "Sonia": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Sue": [
-                "5)",
-                "Driver,\nWht Camry",
-                "none"
-            ],
-            "Angela": [
-                "6)",
-                "@ Store",
-                "none"
-            ],
-            "Anisha": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
-            "Ashley P": [
-                "8)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Bri": [
-                "9)",
-                "@ Store",
-                "none"
-            ],
-            "Elijah": [
-                "10)",
-                "@ Store",
-                "none"
-            ],
-            "Emily L": [
-                "11)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Eva": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
-            "Joseph": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
-            "Justin Lee": [
-                "14)",
-                "@ Store,\nSupv Rx",
-                "none"
-            ],
-            "Michael N": [
-                "15)",
-                "@ Store,\nRx",
-                "Rockford"
-            ],
-            "Qiana": [
-                "16)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Nov 11",
         "meet_time": [],
         "start_time": "5:30 AM BROWN DEER RD PARK AND RIDE",
         "inv_type": [
@@ -1524,7 +1420,7 @@
             ],
             "Carlie": [
                 "2)",
-                "@ Store,\nTrainer",
+                "@ Store\nTrainer",
                 "none"
             ],
             "Celina": [
@@ -1537,34 +1433,39 @@
                 "",
                 "none"
             ],
-            "Greg": [
-                "5)",
-                "",
-                "none"
-            ],
             "Ian": [
-                "6)",
+                "5)",
                 "@ Store, After Aurora",
                 "none"
             ],
             "Jerry D": [
-                "7)",
-                "Driver,\nRed Van",
+                "6)",
+                "Driver,\nSanta Fe",
                 "Milwaukee"
             ],
             "Monica": [
-                "8)",
+                "7)",
                 "@ Store, After Aurora",
                 "none"
             ],
             "Paul": [
-                "9)",
+                "8)",
                 "@ Store,\nUntil 12:30",
                 "none"
             ],
             "Sophia": [
-                "10)",
+                "9)",
                 "work w/ Carlie",
+                "none"
+            ],
+            "Ashley P": [
+                "10)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Qiana": [
+                "11)",
+                "@ Store",
                 "none"
             ]
         }
@@ -1633,51 +1534,61 @@
             ],
             "Kim": [
                 "3)",
-                "Driver,\nSanta Fe",
+                "Driver,\nRed Van",
                 "none"
             ],
-            "Dan": [
+            "Leyna": [
                 "4)",
-                "@ Store",
+                "",
                 "none"
             ],
-            "Jerry S": [
+            "Sonia": [
                 "5)",
-                "@ Store",
-                "Fox Valley"
+                "",
+                "none"
             ],
-            "Kirsten": [
+            "Bri": [
                 "6)",
                 "@ Store",
                 "none"
             ],
-            "Madison": [
+            "Dan": [
                 "7)",
                 "@ Store",
                 "none"
             ],
-            "Mai": [
+            "Kirsten": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Marcia": [
+            "Madison": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Nagui": [
+            "Mai": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Taya": [
+            "Marcia": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Terri": [
+            "Nagui": [
                 "12)",
+                "@ Store",
+                "none"
+            ],
+            "Taya": [
+                "13)",
+                "@ Store",
+                "none"
+            ],
+            "Terri": [
+                "14)",
                 "@ Store",
                 "none"
             ]
@@ -1807,19 +1718,19 @@
                 "Driver,\nRed Camry,\nTrainer",
                 "none"
             ],
-            "Cynthia": [
+            "Monica": [
                 "3)",
                 "",
                 "none"
             ],
-            "Monica": [
+            "Zakiyah": [
                 "4)",
-                "",
+                "work w/ Carlie",
                 "none"
             ],
-            "Zakiyah": [
+            "Anisha": [
                 "5)",
-                "work w/ Carlie",
+                "@ Store",
                 "none"
             ],
             "Ashley P": [
@@ -1827,18 +1738,23 @@
                 "@ Store",
                 "Rockford"
             ],
-            "Anisha": [
+            "Elijah": [
                 "7)",
                 "@ Store",
                 "none"
             ],
-            "Elijah": [
+            "Joseph": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Joseph": [
+            "Justin Lee": [
                 "9)",
+                "@ Store",
+                "none"
+            ],
+            "Nate": [
+                "10)",
                 "@ Store",
                 "none"
             ]
