@@ -1440,7 +1440,7 @@
             ],
             "Jerry D": [
                 "6)",
-                "Driver,\nSanta Fe",
+                "Driver,\nRed Van",
                 "Milwaukee"
             ],
             "Monica": [
@@ -1534,7 +1534,7 @@
             ],
             "Kim": [
                 "3)",
-                "Driver,\nRed Van",
+                "Driver,\nSanta Fe",
                 "none"
             ],
             "Leyna": [
@@ -1781,24 +1781,22 @@
     },
     {
         "date": "Thu, Nov 13",
-        "meet_time": [
-            "4:45 AM MEET RYAN RD PNR (HWY 100 & 94)"
-        ],
-        "start_time": "6:00 AM START",
+        "meet_time": [],
+        "start_time": "Red Van oil change this day",
         "inv_type": [
-            "SCAN-ITEM LEVEL"
+            ""
         ],
         "store_name": [
-            "MARIANO'S #504, CHICAGO - WESTERN & ROSCOE"
+            "4:45 AM MEET RYAN RD PNR (HWY 100 & 94)"
         ],
         "address": [
-            "3350 NORTH WESTERN AVENUE"
+            "6:00 AM START"
         ],
         "link": [
-            "https://goo.gl/maps/Xmc51Y6udXw"
+            "SCAN-ITEM LEVEL"
         ],
         "store_note": [
-            "SET UP ON REG #1 OR 2"
+            "MARIANO'S #504, CHICAGO - WESTERN & ROSCOE <br><hr id=\"note_separator\">3350 NORTH WESTERN AVENUE <br><hr id=\"note_separator\">https://goo.gl/maps/Xmc51Y6udXw <br><hr id=\"note_separator\">SET UP ON REG #1 OR 2"
         ],
         "employee_list": {
             "Bri": [
