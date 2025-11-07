@@ -975,7 +975,7 @@
                 "Driver,\nOptima",
                 "none"
             ],
-            "Monica": [
+            "Lexi": [
                 "3)",
                 "",
                 "none"
@@ -1047,28 +1047,23 @@
                 "w/ Leyna\nAltima,\nSupv 1143",
                 "none"
             ],
-            "Lexi": [
-                "5)",
-                "",
-                "none"
-            ],
             "Leyna": [
-                "6)",
+                "5)",
                 "w/ DJ",
                 "none"
             ],
             "Paul": [
-                "7)",
+                "6)",
                 "@ Store, until 4:30",
                 "none"
             ],
             "Eva": [
-                "8)",
+                "7)",
                 "@ Store",
                 "none"
             ],
             "Nate": [
-                "9)",
+                "8)",
                 "@ Store",
                 "none"
             ]
@@ -2075,7 +2070,7 @@
             "SCAN-ITEM LEVEL"
         ],
         "store_name": [
-            "MARIANO'S #537 +RX, NAPERVILLE"
+            "MARIANO'S #537, NAPERVILLE"
         ],
         "address": [
             "1300 S NAPER BLVD"
@@ -2084,7 +2079,7 @@
             "https://goo.gl/maps/zEFY7puewEn"
         ],
         "store_note": [
-            "SET UP ON REG #1"
+            "SET UP ON REG #1 <br><hr id=\"note_separator\">NO RX COUNT FOR THIS INVENTORY"
         ],
         "employee_list": {
             "Nate": [
@@ -2129,7 +2124,7 @@
             ],
             "Eva": [
                 "9)",
-                "@ Store,\nRx",
+                "@ Store",
                 "none"
             ],
             "Joseph": [
@@ -2139,7 +2134,7 @@
             ],
             "Justin Lee": [
                 "11)",
-                "@ Store,\nSupv Rx",
+                "@ Store",
                 "none"
             ],
             "Qiana": [
