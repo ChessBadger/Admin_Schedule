@@ -170,7 +170,7 @@
         "meet_time": [],
         "start_time": "Kim",
         "inv_type": [
-            "White Camry oil change this day",
+            "",
             "DC5-FINANCIAL",
             "DC5-FINANCIAL",
             "DC5-FINANCIAL"
@@ -431,10 +431,10 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Leyna": [
+            "Jerry D": [
                 "2)",
                 "",
-                "none"
+                "Milwaukee"
             ]
         }
     },
@@ -516,7 +516,7 @@
         ],
         "store_note": [
             "*NEW ACCOUNT - CONTACT IS SONIA VELAZQUAZ",
-            "Kim <br><hr id=\"note_separator\">Caitlin <br><hr id=\"note_separator\">Jerry D <br><hr id=\"note_separator\">Paul <br><hr id=\"note_separator\">Sonia <br><hr id=\"note_separator\">Sophia <br><hr id=\"note_separator\">Zakiyah"
+            "Kim <br><hr id=\"note_separator\">Caitlin <br><hr id=\"note_separator\">Leyna <br><hr id=\"note_separator\">Paul <br><hr id=\"note_separator\">Sonia <br><hr id=\"note_separator\">Sophia <br><hr id=\"note_separator\">Zakiyah"
         ],
         "employee_list": {
             "": [
