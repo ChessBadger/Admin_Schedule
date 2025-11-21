@@ -922,9 +922,7 @@
     },
     {
         "date": "Fri, Nov 21",
-        "meet_time": [
-            "8:00 AM MEET RYAN RD PNR (HWY 100 & 94)"
-        ],
+        "meet_time": "7:45 AM OFFICE LEAVE TIME",
         "start_time": "8:30 AM START",
         "inv_type": [
             "MODAS-SCAN"
