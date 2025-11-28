@@ -293,22 +293,24 @@
     {
         "date": "Mon, Dec 1",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "Ian",
         "inv_type": [
-            "SALE INVENTORY"
-        ],
-        "store_name": [
-            "CONTACT IS THE BUYER - KYLE BEYER WHO OWNS THE 2 NORTH SHORE RX'S"
-        ],
-        "address": [
+            "",
             "DC5-FINANCIAL"
         ],
-        "link": [
+        "store_name": [
+            "6:00 AM START",
             "SERV-U PHARMACY, MILWAUKEE"
         ],
-        "store_note": [
-            "709 W OKLAHOMA AVE <br><hr id=\"note_separator\">https://maps.app.goo.gl/1wgWUQGPGees2cDQ8"
+        "address": [
+            "SALE INVENTORY",
+            "709 W OKLAHOMA AVE"
         ],
+        "link": [
+            "CONTACT IS THE BUYER - KYLE BEYER WHO OWNS THE 2 NORTH SHORE RX'S",
+            "https://maps.app.goo.gl/1wgWUQGPGees2cDQ8"
+        ],
+        "store_note": [],
         "employee_list": {
             "Katherine": [
                 "1)",
@@ -664,24 +666,22 @@
     },
     {
         "date": "Wed, Dec 3",
-        "meet_time": [
-            "5:30 AM MEET RYAN RD PNR (HWY 100 & 94)"
-        ],
-        "start_time": "6:00 AM START",
+        "meet_time": [],
+        "start_time": "Katherine",
         "inv_type": [
-            "SCAN-ITEM LEVEL"
+            ""
         ],
         "store_name": [
-            "PICK #856, RACINE-\nMT PLEASANT"
+            "5:30 AM MEET RYAN RD PNR (HWY 100 & 94)"
         ],
         "address": [
-            "1202 N GREENBAY RD"
+            "6:00 AM START"
         ],
         "link": [
-            "https://goo.gl/maps/gCMavYTDGoo"
+            "SCAN-ITEM LEVEL"
         ],
         "store_note": [
-            "SET UP ON REG #1 <br><hr id=\"note_separator\">FULL RESET-REMAPPED"
+            "PICK #856, RACINE-\nMT PLEASANT <br><hr id=\"note_separator\">1202 N GREENBAY RD <br><hr id=\"note_separator\">https://goo.gl/maps/gCMavYTDGoo <br><hr id=\"note_separator\">SET UP ON REG #1 <br><hr id=\"note_separator\">FULL RESET-REMAPPED"
         ],
         "employee_list": {
             "DJ": [
@@ -1142,21 +1142,21 @@
     {
         "date": "Fri, Dec 5",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "Kim",
         "inv_type": [
-            "SCAN-ITEM LEVEL"
+            ""
         ],
         "store_name": [
-            "PICK #867 +RX, BROWN DEER"
+            "6:00 AM START"
         ],
         "address": [
-            "9200 N GREEN BAY RD"
+            "SCAN-ITEM LEVEL"
         ],
         "link": [
-            "https://goo.gl/maps/CW7zvhV8HSR2"
+            "PICK #867 +RX, BROWN DEER"
         ],
         "store_note": [
-            "SET UP ON REG #1"
+            "9200 N GREEN BAY RD <br><hr id=\"note_separator\">https://goo.gl/maps/CW7zvhV8HSR2 <br><hr id=\"note_separator\">SET UP ON REG #1"
         ],
         "employee_list": {
             "DJ": [
