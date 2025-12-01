@@ -1163,7 +1163,7 @@
         ],
         "start_time": "8:00 AM START",
         "inv_type": [
-            "DC5-FINANCIAL"
+            "SCAN-ITEM LEVEL"
         ],
         "store_name": [
             "CHILDREN'S HOSPITAL OF WI, MILWAUKEE"
@@ -1490,7 +1490,7 @@
             ],
             "Cynthia": [
                 "3)",
-                "Rx",
+                "Until 10:30",
                 "none"
             ],
             "DJ": [
@@ -1510,7 +1510,7 @@
             ],
             "Leyna": [
                 "7)",
-                "",
+                "Rx",
                 "none"
             ],
             "Pamela": [
@@ -1634,21 +1634,21 @@
     {
         "date": "Thu, Dec 11",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "Katherine",
         "inv_type": [
-            "SCAN-ITEM LEVEL"
+            ""
         ],
         "store_name": [
-            "METRO #876, GLENDALE - GREEN TREE"
+            "6:00 AM START"
         ],
         "address": [
-            "6969 N PORT WASHINGTON RD"
+            "SCAN-ITEM LEVEL"
         ],
         "link": [
-            "https://goo.gl/maps/ho2n746veYC2"
+            "METRO #876, GLENDALE - GREEN TREE"
         ],
         "store_note": [
-            "SET UP ON REG #1"
+            "6969 N PORT WASHINGTON RD <br><hr id=\"note_separator\">https://goo.gl/maps/ho2n746veYC2 <br><hr id=\"note_separator\">SET UP ON REG #1"
         ],
         "employee_list": {
             "DJ": [
