@@ -117,12 +117,14 @@
             "SENDIK'S, ELM GROVE"
         ],
         "address": [
-            "13425 W WATERTOWN PLANK RD"
+            ""
         ],
         "link": [
+            "13425 W WATERTOWN PLANK RD"
+        ],
+        "store_note": [
             "https://goo.gl/maps/3hkzePSppuz"
         ],
-        "store_note": [],
         "employee_list": {
             "Kim": [
                 "1)",
@@ -318,6 +320,11 @@
         ],
         "store_note": [],
         "employee_list": {
+            "": [
+                "",
+                "",
+                "none"
+            ],
             "DJ": [
                 "1)",
                 "Equip",
@@ -498,75 +505,57 @@
                 "3)",
                 "",
                 "none"
-            ],
-            "Pamela": [
-                "4)",
+            ]
+        }
+    },
+    {
+        "date": "Wed, Dec 3",
+        "meet_time": [],
+        "start_time": "Pamela",
+        "inv_type": [
+            "Sophia"
+        ],
+        "store_name": [
+            "Zakiyah"
+        ],
+        "address": [
+            "Angela"
+        ],
+        "link": [
+            "Anisha"
+        ],
+        "store_note": [
+            "Ashley P <br><hr id=\"note_separator\">Emily L <br><hr id=\"note_separator\">Eva <br><hr id=\"note_separator\">Joseph <br><hr id=\"note_separator\">Justin Lee <br><hr id=\"note_separator\">Michael N <br><hr id=\"note_separator\">Nate <br><hr id=\"note_separator\">Qiana <br><hr id=\"note_separator\">Sarah"
+        ],
+        "employee_list": {
+            "": [
+                "",
                 "",
                 "none"
             ],
-            "Sophia": [
-                "5)",
-                "work w/ Lashaun",
+            "6:00 AM START": [
+                "",
+                "",
                 "none"
             ],
-            "Zakiyah": [
-                "6)",
-                "work w/ Michael",
+            "DC5-FINANCIAL": [
+                "",
+                "",
                 "none"
             ],
-            "Angela": [
-                "7)",
-                "@ Store,\nRx",
+            "SENDIK'S, WAUKESHA": [
+                "",
+                "",
                 "none"
             ],
-            "Anisha": [
-                "8)",
-                "@ Store",
+            "701 MEADOWBROOK RD": [
+                "",
+                "",
                 "none"
             ],
-            "Ashley P": [
-                "9)",
-                "@ Store,\nSupv Rx",
-                "Rockford"
-            ],
-            "Emily L": [
-                "10)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Eva": [
-                "11)",
-                "@ Store",
-                "none"
-            ],
-            "Joseph": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
-            "Justin Lee": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
-            "Michael N": [
-                "14)",
-                "@ Store,\nTrainer",
-                "Rockford"
-            ],
-            "Nate": [
-                "15)",
-                "@ Store",
-                "none"
-            ],
-            "Qiana": [
-                "16)",
-                "@ Store",
-                "none"
-            ],
-            "Sarah": [
-                "17)",
-                "@ Store",
+            "https://goo.gl/maps/nTzjcbrWXSU2": [
+                "",
+                "",
                 "none"
             ]
         }
@@ -574,59 +563,51 @@
     {
         "date": "Wed, Dec 3",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "Kim",
         "inv_type": [
-            "DC5-FINANCIAL"
+            "Dan"
         ],
         "store_name": [
-            "SENDIK'S, WAUKESHA"
+            "Jeremiah"
         ],
         "address": [
-            "701 MEADOWBROOK RD"
+            "Jerry S"
         ],
         "link": [
-            "https://goo.gl/maps/nTzjcbrWXSU2"
+            "Kirsten"
         ],
-        "store_note": [],
+        "store_note": [
+            "Mai <br><hr id=\"note_separator\">Michelle <br><hr id=\"note_separator\">Taya"
+        ],
         "employee_list": {
-            "Kim": [
-                "1)",
-                "Santa Fe available, Equip",
+            "": [
+                "",
+                "",
                 "none"
             ],
-            "Dan": [
-                "2)",
-                "@ Store",
+            "7:00 AM START": [
+                "",
+                "",
                 "none"
             ],
-            "Jeremiah": [
-                "3)",
-                "@ Store",
+            "DC5-FINANCIAL": [
+                "",
+                "",
                 "none"
             ],
-            "Jerry S": [
-                "4)",
-                "@ Store",
-                "Fox Valley"
-            ],
-            "Kirsten": [
-                "5)",
-                "@ Store",
+            "DAYBREAK, DELAFIELD": [
+                "",
+                "",
                 "none"
             ],
-            "Mai": [
-                "6)",
-                "@ Store",
+            "622 GENESEE ST": [
+                "",
+                "",
                 "none"
             ],
-            "Michelle": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
-            "Taya": [
-                "8)",
-                "@ Store",
+            "https://goo.gl/maps/dNtyDnuiw6J2": [
+                "",
+                "",
                 "none"
             ]
         }
@@ -634,28 +615,23 @@
     {
         "date": "Wed, Dec 3",
         "meet_time": [],
-        "start_time": "7:00 AM START",
+        "start_time": "Katherine",
         "inv_type": [
-            "DC5-FINANCIAL"
+            "Sue"
         ],
         "store_name": [
-            "DAYBREAK, DELAFIELD"
+            ""
         ],
         "address": [
-            "622 GENESEE ST"
+            ""
         ],
         "link": [
-            "https://goo.gl/maps/dNtyDnuiw6J2"
+            ""
         ],
         "store_note": [],
         "employee_list": {
-            "Katherine": [
-                "1)",
-                "Optima available, Equip",
-                "none"
-            ],
-            "Sue": [
-                "2)",
+            "": [
+                "",
                 "",
                 "none"
             ]
@@ -770,41 +746,58 @@
         "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
-            "SCAN-ITEM LEVEL",
-            "SCAN-ITEM LEVEL",
             "SCAN-ITEM LEVEL"
         ],
         "store_name": [
-            "ASCENSION ST JOSEPH RX-CHAMBERS #1103, MILW",
-            "ASCENSION ST FRANCIS RX #1107, MILWAUKEE",
-            "ASCENSION RX #1105, FRANKLIN-27TH ST"
+            "ASCENSION ST JOSEPH RX-CHAMBERS #1103, MILW"
         ],
         "address": [
-            "5000 W CHAMBERS  ROOM 1801",
-            "3237 S 16TH ST    ROOM 121",
-            "10101 S 27TH ST    ROOM 1005"
+            "5000 W CHAMBERS  ROOM 1801"
         ],
         "link": [
-            "ENTER THROUGH MATERNITY(3RD LEVEL) VISITOR ENTRY                         RX IS IN THE LOBBY",
-            "https://goo.gl/maps/ckXW882eGXp",
-            "https://goo.gl/maps/fQ4V9q61NUS2"
+            "ENTER THROUGH MATERNITY(3RD LEVEL) VISITOR ENTRY                         RX IS IN THE LOBBY"
         ],
         "store_note": [
             "https://goo.gl/maps/gRgCFNfwBUy"
         ],
         "employee_list": {
-            "Katherine": [
-                "1)",
-                "Optima available, Equip",
-                "none"
-            ],
-            "Cynthia": [
-                "2)",
+            "TO FOLLOW": [
+                "",
                 "",
                 "none"
             ],
-            "DJ": [
-                "3)",
+            "SCAN-ITEM LEVEL": [
+                "",
+                "",
+                "none"
+            ],
+            "ASCENSION ST FRANCIS RX #1107, MILWAUKEE": [
+                "",
+                "",
+                "none"
+            ],
+            "3237 S 16TH ST    ROOM 121": [
+                "",
+                "",
+                "none"
+            ],
+            "https://goo.gl/maps/ckXW882eGXp": [
+                "",
+                "",
+                "none"
+            ],
+            "ASCENSION RX #1105, FRANKLIN-27TH ST": [
+                "",
+                "",
+                "none"
+            ],
+            "10101 S 27TH ST    ROOM 1005": [
+                "",
+                "",
+                "none"
+            ],
+            "https://goo.gl/maps/fQ4V9q61NUS2": [
+                "",
                 "",
                 "none"
             ]
@@ -813,24 +806,26 @@
     {
         "date": "Thu, Dec 4",
         "meet_time": [],
-        "start_time": "7:00 AM START",
+        "start_time": "Katherine",
         "inv_type": [
-            "SCAN-ITEM LEVEL",
+            "Cynthia",
             "SCAN-ITEM LEVEL"
         ],
         "store_name": [
-            "ASCENSION SETON RX #1112, MILWAUKEE",
+            "DJ",
             "ASCENSION CSM OZAUKEE RETAIL RX #1109, MEQUON"
         ],
         "address": [
-            "2301 N LAKE DR",
+            "",
             "13133 N PORT WASHINGTON RD SUITE G1"
         ],
         "link": [
-            "https://goo.gl/maps/fovW5S1B5ZD2",
+            "",
             "https://goo.gl/maps/ZV1UXpiCr4u"
         ],
-        "store_note": [],
+        "store_note": [
+            "7:00 AM START <br><hr id=\"note_separator\">SCAN-ITEM LEVEL <br><hr id=\"note_separator\">ASCENSION SETON RX #1112, MILWAUKEE <br><hr id=\"note_separator\">2301 N LAKE DR <br><hr id=\"note_separator\">https://goo.gl/maps/fovW5S1B5ZD2"
+        ],
         "employee_list": {
             "Kim": [
                 "1)",
@@ -970,33 +965,28 @@
                 "1)",
                 "Equip",
                 "none"
-            ],
-            "Carlie": [
-                "2)",
-                "Driver,\nRed Camry",
-                "none"
             ]
         }
     },
     {
         "date": "Fri, Dec 5",
-        "meet_time": [
-            "6:30 AM MEET RACINE COURT (HWY 43 & Y)\n(COURTESY MEET)"
-        ],
-        "start_time": "7:00 AM START",
+        "meet_time": [],
+        "start_time": "Carlie",
         "inv_type": [
-            "MODAS-SCAN"
+            ""
         ],
         "store_name": [
-            "ROETTGERS EAST TROY ARC"
+            ""
         ],
         "address": [
-            "2097 DIVISION STREET"
+            "COURTESY MEET"
         ],
         "link": [
-            "https://maps.app.goo.gl/yHRRMXRkSnLcJJTt9"
+            "6:30 AM MEET RACINE COURT (HWY 43 & Y)"
         ],
-        "store_note": [],
+        "store_note": [
+            "7:00 AM START <br><hr id=\"note_separator\">MODAS-SCAN <br><hr id=\"note_separator\">ROETTGERS EAST TROY ARC <br><hr id=\"note_separator\">2097 DIVISION STREET <br><hr id=\"note_separator\">https://maps.app.goo.gl/yHRRMXRkSnLcJJTt9"
+        ],
         "employee_list": {
             "Kim": [
                 "1)",
@@ -1013,7 +1003,7 @@
     {
         "date": "Fri, Dec 5",
         "meet_time": [
-            "4:45 AM OFFICE MEET\n(COURTESY MEET)"
+            "4:45 AM OFFICE MEET"
         ],
         "start_time": "6:00 AM START",
         "inv_type": [
