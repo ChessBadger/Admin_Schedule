@@ -896,46 +896,51 @@
             ],
             "Leyna": [
                 "7)",
-                "",
+                "Trainer",
+                "none"
+            ],
+            "Mariah": [
+                "8)",
+                "1st Day, work w/ Leyna",
                 "none"
             ],
             "Pamela": [
-                "8)",
+                "9)",
                 "",
                 "none"
             ],
             "Paul": [
-                "9)",
+                "10)",
                 "Rx",
                 "none"
             ],
             "Sonia": [
-                "10)",
+                "11)",
                 "",
                 "none"
             ],
             "Annette": [
-                "11)",
-                "@ Store",
-                "none"
-            ],
-            "Dan": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Kirsten": [
+            "Dan": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Madison": [
+            "Kirsten": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Trevor": [
+            "Madison": [
                 "15)",
+                "@ Store",
+                "none"
+            ],
+            "Trevor": [
+                "16)",
                 "@ Store",
                 "none"
             ]
@@ -1451,7 +1456,7 @@
             "SCAN-ITEM LEVEL"
         ],
         "store_name": [
-            "METRO #890 +RX, MEQUON"
+            "METRO #890, MEQUON (NO RX COUNT PER KROGER)"
         ],
         "address": [
             "11558 N PORT WASHINGTON"
@@ -1490,51 +1495,56 @@
             ],
             "Jerry D": [
                 "6)",
-                "Supv Rx",
+                "",
                 "Milwaukee"
             ],
             "Leyna": [
                 "7)",
-                "Rx",
+                "Trainer",
+                "none"
+            ],
+            "Mariah": [
+                "8)",
+                "2nd Day, work w/ Leyna",
                 "none"
             ],
             "Pamela": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Sonia": [
                 "9)",
                 "",
                 "none"
             ],
-            "Sophia": [
+            "Sonia": [
                 "10)",
                 "",
                 "none"
             ],
-            "Zakiyah": [
+            "Sophia": [
                 "11)",
                 "",
                 "none"
             ],
-            "Annette": [
+            "Zakiyah": [
                 "12)",
-                "@ Store",
+                "",
                 "none"
             ],
-            "Dan": [
+            "Annette": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Madison": [
+            "Dan": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Taya": [
+            "Madison": [
                 "15)",
+                "@ Store",
+                "none"
+            ],
+            "Taya": [
+                "16)",
                 "@ Store",
                 "none"
             ]
@@ -1673,21 +1683,26 @@
             ],
             "Leyna": [
                 "8)",
-                "",
+                "Trainer",
+                "none"
+            ],
+            "Mariah": [
+                "9)",
+                "3rd Day, work w/ Leyna",
                 "none"
             ],
             "Paul": [
-                "9)",
-                "",
-                "none"
-            ],
-            "Sonia": [
                 "10)",
                 "",
                 "none"
             ],
-            "Zakiyah": [
+            "Sonia": [
                 "11)",
+                "",
+                "none"
+            ],
+            "Zakiyah": [
+                "12)",
                 "",
                 "none"
             ]
@@ -1891,36 +1906,41 @@
             ],
             "Leyna": [
                 "10)",
-                "",
+                "Trainer",
+                "none"
+            ],
+            "Mariah": [
+                "11)",
+                "4th Day, work w/ Leyna",
                 "none"
             ],
             "Pamela": [
-                "11)",
-                "",
-                "none"
-            ],
-            "Sonia": [
                 "12)",
                 "",
                 "none"
             ],
-            "Sophia": [
+            "Sonia": [
                 "13)",
                 "",
                 "none"
             ],
-            "Zakiyah": [
+            "Sophia": [
                 "14)",
                 "",
                 "none"
             ],
-            "Jerry S": [
+            "Zakiyah": [
                 "15)",
+                "",
+                "none"
+            ],
+            "Jerry S": [
+                "16)",
                 "@ Store",
                 "Fox Valley"
             ],
             "Marcia": [
-                "16)",
+                "17)",
                 "@ Store",
                 "none"
             ]
