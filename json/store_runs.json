@@ -970,28 +970,33 @@
                 "1)",
                 "Equip",
                 "none"
+            ],
+            "Carlie": [
+                "2)",
+                "Driver,\nRed Camry",
+                "none"
             ]
         }
     },
     {
         "date": "Fri, Dec 5",
-        "meet_time": [],
-        "start_time": "Carlie",
+        "meet_time": [
+            "6:30 AM MEET RACINE COURT (HWY 43 & Y)\n(COURTESY MEET)"
+        ],
+        "start_time": "7:00 AM START",
         "inv_type": [
-            ""
+            "MODAS-SCAN"
         ],
         "store_name": [
-            ""
+            "ROETTGERS EAST TROY ARC"
         ],
         "address": [
-            "COURTESY MEET"
+            "2097 DIVISION STREET"
         ],
         "link": [
-            "6:30 AM MEET RACINE COURT (HWY 43 & Y)"
+            "https://maps.app.goo.gl/yHRRMXRkSnLcJJTt9"
         ],
-        "store_note": [
-            "7:00 AM START <br><hr id=\"note_separator\">MODAS-SCAN <br><hr id=\"note_separator\">ROETTGERS EAST TROY ARC <br><hr id=\"note_separator\">2097 DIVISION STREET <br><hr id=\"note_separator\">https://maps.app.goo.gl/yHRRMXRkSnLcJJTt9"
-        ],
+        "store_note": [],
         "employee_list": {
             "Kim": [
                 "1)",
@@ -1008,7 +1013,7 @@
     {
         "date": "Fri, Dec 5",
         "meet_time": [
-            "4:45 AM OFFICE MEET"
+            "4:45 AM OFFICE MEET\n(COURTESY MEET)"
         ],
         "start_time": "6:00 AM START",
         "inv_type": [
