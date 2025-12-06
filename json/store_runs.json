@@ -1778,7 +1778,7 @@
     {
         "date": "Thu, Dec 11",
         "meet_time": [
-            "?? AM OFFICE MEET"
+            "5:45 AM OFFICE MEET"
         ],
         "start_time": "7:00 AM START",
         "inv_type": [
@@ -1931,63 +1931,53 @@
                 "",
                 "none"
             ],
-            "Greg": [
-                "6)",
-                "",
-                "none"
-            ],
             "Ian": [
-                "7)",
+                "6)",
                 "Supv Rx",
                 "none"
             ],
             "Jerry D": [
-                "8)",
+                "7)",
                 "Rx",
                 "Milwaukee"
             ],
             "Lexi": [
-                "9)",
+                "8)",
                 "",
                 "none"
             ],
             "Leyna": [
-                "10)",
+                "9)",
                 "Trainer",
                 "none"
             ],
             "Mariah": [
-                "11)",
-                "4th Day, work w/ Leyna",
+                "10)",
+                "3rd Day, work w/ Leyna",
                 "none"
             ],
             "Pamela": [
-                "12)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "13)",
+                "11)",
                 "",
                 "none"
             ],
             "Sophia": [
-                "14)",
+                "12)",
                 "",
                 "none"
             ],
             "Zakiyah": [
-                "15)",
+                "13)",
                 "",
                 "none"
             ],
             "Jerry S": [
-                "16)",
+                "14)",
                 "@ Store",
                 "Fox Valley"
             ],
             "Marcia": [
-                "17)",
+                "15)",
                 "@ Store",
                 "none"
             ]
@@ -2039,6 +2029,70 @@
             "Trevor": [
                 "6)",
                 "meet Madison @ Point Target",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Dec 12",
+        "meet_time": [
+            "4:30 AM OFFICE MEET"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "SULLIVAN'S FOODS #295, WINNEBAGO"
+        ],
+        "address": [
+            "703 N ELIDA STREET"
+        ],
+        "link": [
+            "https://goo.gl/maps/XJm8iLALryeWSpAZ6"
+        ],
+        "store_note": [
+            "GROCERY SIDE ONLY"
+        ],
+        "employee_list": {
+            "Bri": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Greg": [
+                "2)",
+                "Driver,\nWht Camry",
+                "none"
+            ],
+            "Sonia": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Ashley P": [
+                "4)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Elijah": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Justin Lee": [
+                "6)",
+                "@ Store",
+                "none"
+            ],
+            "Nate": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Qiana": [
+                "8)",
+                "@ Store",
                 "none"
             ]
         }
