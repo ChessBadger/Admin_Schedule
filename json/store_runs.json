@@ -411,7 +411,7 @@
             ],
             "Jerry D": [
                 "6)",
-                "",
+                "Bring Red Van (stools)",
                 "Milwaukee"
             ],
             "Leyna": [
@@ -429,38 +429,43 @@
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Paul": [
                 "10)",
                 "",
                 "none"
             ],
-            "Sophia": [
+            "Sonia": [
                 "11)",
                 "",
                 "none"
             ],
-            "Zakiyah": [
+            "Sophia": [
                 "12)",
                 "",
                 "none"
             ],
-            "Annette": [
+            "Zakiyah": [
                 "13)",
-                "@ Store",
+                "",
                 "none"
             ],
-            "Dan": [
+            "Annette": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Madison": [
+            "Dan": [
                 "15)",
                 "@ Store",
                 "none"
             ],
-            "Taya": [
+            "Madison": [
                 "16)",
+                "@ Store",
+                "none"
+            ],
+            "Taya": [
+                "17)",
                 "@ Store",
                 "none"
             ]
@@ -533,11 +538,6 @@
             "Ian": [
                 "2)",
                 "Driver,\nOptima",
-                "none"
-            ],
-            "Paul": [
-                "3)",
-                "",
                 "none"
             ]
         }
