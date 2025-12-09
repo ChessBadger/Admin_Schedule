@@ -745,68 +745,73 @@
                 "Santa Fe available, Equip",
                 "none"
             ],
-            "Andrew": [
+            "Anamaria": [
                 "2)",
-                "",
+                "1st Day",
                 "none"
             ],
-            "Caitlin": [
+            "Andrew": [
                 "3)",
                 "",
                 "none"
             ],
-            "Celina": [
+            "Caitlin": [
                 "4)",
                 "",
                 "none"
             ],
-            "Cynthia": [
+            "Celina": [
                 "5)",
                 "",
                 "none"
             ],
-            "Ian": [
+            "Cynthia": [
                 "6)",
+                "",
+                "none"
+            ],
+            "Ian": [
+                "7)",
                 "Supv Rx",
                 "none"
             ],
             "Jerry D": [
-                "7)",
+                "8)",
                 "Rx",
                 "Milwaukee"
             ],
             "Lexi": [
-                "8)",
+                "9)",
                 "",
                 "none"
             ],
             "Leyna": [
-                "9)",
+                "10)",
                 "Trainer",
                 "none"
             ],
             "Mariah": [
-                "10)",
+                "11)",
                 "3rd Day, work w/ Leyna",
                 "none"
             ],
             "Sophia": [
-                "11)",
-                "",
-                "none"
-            ],
-            "Zakiyah": [
                 "12)",
                 "",
                 "none"
             ],
-            "Jerry S": [
+            "Zakiyah": [
                 "13)",
+                "",
+                "none"
+            ],
+            "Jerry S": [
+                "14)",
                 "@ Store",
                 "Fox Valley"
             ],
             "Marcia": [
-                "14)",
+                "15)",
                 "@ Store",
                 "none"
             ]
@@ -1158,25 +1163,25 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Celina": [
+            "Anamaria": [
                 "2)",
-                "",
+                "1st Financial",
                 "none"
             ],
-            "Greg": [
+            "Celina": [
                 "3)",
                 "",
                 "none"
             ],
-            "Jerry D": [
+            "Greg": [
                 "4)",
-                "Driver,\nRed Van",
-                "Milwaukee"
-            ],
-            "Pamela": [
-                "5)",
                 "",
                 "none"
+            ],
+            "Jerry D": [
+                "5)",
+                "Driver,\nRed Van",
+                "Milwaukee"
             ],
             "Zakiyah": [
                 "6)",
@@ -1205,7 +1210,7 @@
             ],
             "Qiana": [
                 "11)",
-                "@ Store",
+                "@ Store,\nTrainer",
                 "none"
             ]
         }
