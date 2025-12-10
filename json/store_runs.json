@@ -324,9 +324,9 @@
     {
         "date": "Wed, Dec 10",
         "meet_time": [
-            "5:30 AM MEET RYAN RD PNR (HWY 100 & 94)"
+            "6:30 AM MEET RYAN RD PNR (HWY 100 & 94)"
         ],
-        "start_time": "6:00 AM START",
+        "start_time": "7:00 AM START",
         "inv_type": [
             "SCAN-ITEM LEVEL",
             "SCAN-ITEM LEVEL"
@@ -1259,7 +1259,7 @@
             ],
             "Monica": [
                 "3)",
-                "",
+                "Until 11:00",
                 "none"
             ]
         }
