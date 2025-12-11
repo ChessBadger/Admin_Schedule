@@ -1385,31 +1385,6 @@
     },
     {
         "date": "Tue, Dec 16",
-        "meet_time": "6:00 AM OFFICE LEAVE TIME",
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "DARIEN CORNER MART"
-        ],
-        "address": [
-            "101 W. BELOIT ST"
-        ],
-        "link": [
-            "https://maps.app.goo.gl/HdtENWJTJYvu2nF69"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Ian": [
-                "1)",
-                "Wht Camry, Equip",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Dec 16",
         "meet_time": [
             "4:00 AM MEET AT S RACINE COURT (HWYS 43 & Y)"
         ],
