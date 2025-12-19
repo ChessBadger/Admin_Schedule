@@ -1417,55 +1417,114 @@
                 "@ Store, Equip",
                 "none"
             ],
+            "Greg": [
+                "2)",
+                "Driver,\nSanta Fe",
+                "none"
+            ],
+            "Leyna": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Trevor": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Angela": [
+                "6)",
+                "@ Store",
+                "none"
+            ],
+            "Anisha": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Elijah": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Emily L": [
+                "9)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Eva": [
+                "10)",
+                "@ Store",
+                "none"
+            ],
+            "Joseph": [
+                "11)",
+                "@ Store",
+                "none"
+            ],
+            "Justin Lee": [
+                "12)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Dec 26",
+        "meet_time": [
+            "4:45 AM OFFICE MEET"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "CAPITOL CENTRE MARKET, MADISON"
+        ],
+        "address": [
+            "111 N BROOM ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/dNaovNNmnMG2"
+        ],
+        "store_note": [
+            "SETUP IN UPSTAIRS BACKROOM BY BREAKROOM"
+        ],
+        "employee_list": {
+            "Qiana": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
             "Celina": [
                 "2)",
                 "",
                 "none"
             ],
-            "Greg": [
-                "3)",
-                "Driver,\nSanta Fe",
-                "none"
-            ],
             "Jerry D": [
-                "4)",
+                "3)",
                 "Driver,\nRed Van",
                 "Milwaukee"
             ],
-            "Leyna": [
-                "5)",
-                "",
-                "none"
-            ],
             "Mariah": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Trevor": [
-                "8)",
+                "4)",
                 "",
                 "none"
             ],
             "Zakiyah": [
-                "9)",
+                "5)",
                 "",
                 "none"
             ],
-            "Emily L": [
-                "10)",
+            "Ashley P": [
+                "6)",
                 "@ Store",
                 "Rockford"
-            ],
-            "Justin Lee": [
-                "11)",
-                "@ Store",
-                "none"
             ]
         }
     },
