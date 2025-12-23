@@ -481,223 +481,214 @@
     {
         "date": "Sun, Dec 28",
         "meet_time": [],
-        "start_time": "Scan product if shelf tag won\u2019t scan.\nUse Category 000\nNo prices on DCs\u2014Qty only\n\nFor Not On File: force in with qty, put one in cart with price on a sticky note.+",
-        "inv_type": [
-            ""
-        ],
-        "store_name": [
-            ""
-        ],
-        "address": [
-            ""
-        ],
-        "link": [
-            ""
-        ],
-        "store_note": [],
-        "employee_list": {
-            "5:00 AM START": [
-                "",
-                "",
-                "none"
-            ],
-            "DC5-ITEM LEVEL": [
-                "",
-                "",
-                "none"
-            ],
-            "OUTPOST NATURAL FOODS, BAY VIEW": [
-                "",
-                "",
-                "none"
-            ],
-            "2826 S KINNICKINNC AVE": [
-                "",
-                "",
-                "none"
-            ],
-            "https://goo.gl/maps/5hiyyxywjiH2": [
-                "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Sun, Dec 28",
-        "meet_time": [],
-        "start_time": "Katherine",
-        "inv_type": [
-            "Paul"
-        ],
-        "store_name": [
-            "Angela"
-        ],
-        "address": [
-            "Ashley P"
-        ],
-        "link": [
-            "Eva"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "": [
-                "",
-                "",
-                "none"
-            ],
-            "5:00 AM START": [
-                "",
-                "",
-                "none"
-            ],
-            "DC5-ITEM LEVEL": [
-                "",
-                "",
-                "none"
-            ],
-            "OUTPOST NATURAL FOODS, MEQUON": [
-                "",
-                "",
-                "none"
-            ],
-            "7590 W MEQUON RD": [
-                "",
-                "",
-                "none"
-            ],
-            "https://goo.gl/maps/do2xmdVUL8z": [
-                "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Sun, Dec 28",
-        "meet_time": [],
-        "start_time": "Kim",
-        "inv_type": [
-            "Sonia"
-        ],
-        "store_name": [
-            "Dan"
-        ],
-        "address": [
-            "Jeremiah"
-        ],
-        "link": [
-            "Kirsten"
-        ],
-        "store_note": [
-            "Louisa"
-        ],
-        "employee_list": {
-            "": [
-                "",
-                "",
-                "none"
-            ],
-            "5:00 AM START": [
-                "",
-                "",
-                "none"
-            ],
-            "DC5-ITEM LEVEL": [
-                "",
-                "",
-                "none"
-            ],
-            "OUTPOST NATURAL FOODS, MILWAUKEE": [
-                "",
-                "",
-                "none"
-            ],
-            "100 E CAPITOL DR": [
-                "",
-                "",
-                "none"
-            ],
-            "https://goo.gl/maps/n94xpFtHzvE2": [
-                "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Sun, Dec 28",
-        "meet_time": [],
-        "start_time": "Bri",
-        "inv_type": [
-            "Cynthia"
-        ],
-        "store_name": [
-            "Jerry D"
-        ],
-        "address": [
-            "Lexi"
-        ],
-        "link": [
-            "Trevor"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "": [
-                "",
-                "",
-                "none"
-            ],
-            "5:00 AM START": [
-                "",
-                "",
-                "none"
-            ],
-            "DC5-ITEM LEVEL": [
-                "",
-                "",
-                "none"
-            ],
-            "OUTPOST NATURAL FOODS, WAUWATOSA": [
-                "",
-                "",
-                "none"
-            ],
-            "7000 W STATE ST": [
-                "",
-                "",
-                "none"
-            ],
-            "https://goo.gl/maps/9Apjjj8M6672": [
-                "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Sun, Dec 28",
-        "meet_time": [],
         "start_time": "DJ",
         "inv_type": [
-            "Anamaria"
+            ""
         ],
         "store_name": [
-            "Ian"
+            "Scan product if shelf tag won\u2019t scan.\nUse Category 000\nNo prices on DCs\u2014Qty only\n\nFor Not On File: force in with qty, put one in cart with price on a sticky note.+"
         ],
         "address": [
-            "Anisha"
+            ""
         ],
         "link": [
-            "Joseph"
+            ""
         ],
-        "store_note": [
-            "Qiana"
-        ],
+        "store_note": [],
         "employee_list": {
             "": [
                 "",
                 "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Sun, Dec 28",
+        "meet_time": [],
+        "start_time": "5:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "OUTPOST NATURAL FOODS, BAY VIEW"
+        ],
+        "address": [
+            "2826 S KINNICKINNC AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/5hiyyxywjiH2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "Optima available, Equip",
+                "none"
+            ],
+            "Paul": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Angela": [
+                "3)",
+                "@ Store",
+                "none"
+            ],
+            "Ashley P": [
+                "4)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Eva": [
+                "5)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Sun, Dec 28",
+        "meet_time": [],
+        "start_time": "5:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "OUTPOST NATURAL FOODS, MEQUON"
+        ],
+        "address": [
+            "7590 W MEQUON RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/do2xmdVUL8z"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "Santa Fe available, Equip",
+                "none"
+            ],
+            "Sonia": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Dan": [
+                "3)",
+                "@ Store",
+                "none"
+            ],
+            "Jeremiah": [
+                "4)",
+                "@ Store",
+                "none"
+            ],
+            "Kirsten": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Louisa": [
+                "6)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Sun, Dec 28",
+        "meet_time": [],
+        "start_time": "5:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "OUTPOST NATURAL FOODS, MILWAUKEE"
+        ],
+        "address": [
+            "100 E CAPITOL DR"
+        ],
+        "link": [
+            "https://goo.gl/maps/n94xpFtHzvE2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Bri": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Cynthia": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "3)",
+                "",
+                "Milwaukee"
+            ],
+            "Lexi": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Trevor": [
+                "5)",
+                "Red Camry bring in 1 stool",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Sun, Dec 28",
+        "meet_time": [],
+        "start_time": "5:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "OUTPOST NATURAL FOODS, WAUWATOSA"
+        ],
+        "address": [
+            "7000 W STATE ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/9Apjjj8M6672"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "Equip",
+                "none"
+            ],
+            "Anamaria": [
+                "2)",
+                "work w/ Qiana",
+                "none"
+            ],
+            "Ian": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Anisha": [
+                "4)",
+                "@ Store",
+                "none"
+            ],
+            "Joseph": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Qiana": [
+                "6)",
+                "@ Store,\nTrainer",
                 "none"
             ]
         }
@@ -831,7 +822,7 @@
             "Katherine"
         ],
         "store_note": [
-            "Leyna <br><hr id=\"note_separator\">Mariah <br><hr id=\"note_separator\">Matthew <br><hr id=\"note_separator\">Sonia <br><hr id=\"note_separator\">Zakiyah <br><hr id=\"note_separator\">Annette <br><hr id=\"note_separator\">Jeremiah <br><hr id=\"note_separator\">Jerry S <br><hr id=\"note_separator\">Justin Lee <br><hr id=\"note_separator\">Katie <br><hr id=\"note_separator\">Kirsten <br><hr id=\"note_separator\">Louisa <br><hr id=\"note_separator\">Marcia"
+            "Leyna <br><hr id=\"note_separator\">Mariah <br><hr id=\"note_separator\">Matthew <br><hr id=\"note_separator\">Sonia <br><hr id=\"note_separator\">Zakiyah <br><hr id=\"note_separator\">Annette <br><hr id=\"note_separator\">Jeremiah <br><hr id=\"note_separator\">Jerry S <br><hr id=\"note_separator\">Justin Lee <br><hr id=\"note_separator\">Katie <br><hr id=\"note_separator\">Kirsten <br><hr id=\"note_separator\">Louisa <br><hr id=\"note_separator\">Marcia <br><hr id=\"note_separator\">Trey"
         ],
         "employee_list": {
             "": [
@@ -854,24 +845,26 @@
     {
         "date": "Tue, Dec 30",
         "meet_time": [],
-        "start_time": "7:00 AM START",
+        "start_time": "Ian",
         "inv_type": [
-            "DC5-FINANCIAL",
+            "",
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "KARL'S COUNTRY MARKET, MENOMONEE FALLS",
+            "7:00 AM START",
             "KARL'S COUNTRY MART GAS STATION, MENOMONEE FALLS"
         ],
         "address": [
-            "W156 N5645 PILGRIM RD",
+            "DC5-FINANCIAL",
             "N56 W15654 SILVER SPRING DR"
         ],
         "link": [
-            "https://goo.gl/maps/zL8HEmfSEtR2",
+            "KARL'S COUNTRY MARKET, MENOMONEE FALLS",
             "https://maps.app.goo.gl/eVhY1gyT1JDFaLmT9"
         ],
-        "store_note": [],
+        "store_note": [
+            "W156 N5645 PILGRIM RD <br><hr id=\"note_separator\">https://goo.gl/maps/zL8HEmfSEtR2"
+        ],
         "employee_list": {
             "Katherine": [
                 "1)",
@@ -985,20 +978,22 @@
     {
         "date": "Wed, Dec 31",
         "meet_time": [],
-        "start_time": "7:00 AM START",
+        "start_time": "Katherine",
         "inv_type": [
-            "SCAN-ITEM LEVEL"
+            ""
         ],
         "store_name": [
-            "WI HEALTH FUND, MILWAUKEE"
+            "7:00 AM START"
         ],
         "address": [
-            "6118 W BLUEMOUND RD"
+            "SCAN-ITEM LEVEL"
         ],
         "link": [
-            "https://goo.gl/maps/obe9aWcnusE2"
+            "WI HEALTH FUND, MILWAUKEE"
         ],
-        "store_note": [],
+        "store_note": [
+            "6118 W BLUEMOUND RD <br><hr id=\"note_separator\">https://goo.gl/maps/obe9aWcnusE2"
+        ],
         "employee_list": {
             "Kim": [
                 "1)",
