@@ -471,27 +471,48 @@
     },
     {
         "date": "Tue, Dec 30",
-        "meet_time": [],
+        "meet_time": "5:15 AM OFFICE LEAVE TIME",
         "start_time": "7:00 AM START",
         "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL",
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "AMOCO, GREENFIELD"
+            "WEBER OIL, WHITELAW",
+            "WEBER OIL, KIEL",
+            "WEBER OIL, NEW HOLSTEIN"
         ],
         "address": [
-            "5030 W LOOMIS RD"
+            "138 E MENASHA AVE",
+            "206 FREMONT ST",
+            "2305 CALUMET DR"
         ],
         "link": [
-            "https://maps.app.goo.gl/FkrbNHMzSHcrU1kc7"
+            "https://goo.gl/maps/w7LKm7QZ1CxrpcUv5",
+            "https://goo.gl/maps/p3aroENsuduq7BKH8",
+            "https://goo.gl/maps/RgcVCFqCdQ8xDzQX7"
         ],
-        "store_note": [
-            "*RAJ SAME OWNER AS ABOVE STORES"
-        ],
+        "store_note": [],
         "employee_list": {
-            "Ian": [
+            "Jerry S": [
                 "1)",
-                "Wht Camry available, Equip",
+                "@ Store, Equip",
+                "Fox Valley"
+            ],
+            "Ian": [
+                "2)",
+                "Wht Camry",
+                "none"
+            ],
+            "Kirsten": [
+                "3)",
+                "@ Store",
+                "none"
+            ],
+            "Dan": [
+                "4)",
+                "@ Store",
                 "none"
             ]
         }
