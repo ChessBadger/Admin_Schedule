@@ -1616,14 +1616,9 @@
         ],
         "store_note": [
             "*NEW LOCATION",
-            "5:30 am meet for Carlie and Trevor in Grafton"
+            "5:30 am meet for Carlie and Trevor in Grafton <br><hr id=\"note_separator\">MAPPED"
         ],
         "employee_list": {
-            "": [
-                "",
-                "",
-                "none"
-            ],
             "Kim": [
                 "1)",
                 "Red Van available, Equip",
