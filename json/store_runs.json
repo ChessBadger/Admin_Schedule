@@ -618,6 +618,11 @@
                 "2)",
                 "",
                 "none"
+            ],
+            "Leyna": [
+                "3)",
+                "",
+                "none"
             ]
         }
     },
@@ -646,7 +651,8 @@
             "https://maps.app.goo.gl/ZogqdPdZb8oiCNZXA"
         ],
         "store_note": [
-            "https://goo.gl/maps/QZs8ZSjv9eL2"
+            "https://goo.gl/maps/QZs8ZSjv9eL2",
+            "Carlie and Trevor meet at 5:45 am in Grafton before going to Racine Court Park n Ride"
         ],
         "employee_list": {
             "Katherine": [
@@ -659,7 +665,7 @@
                 "Driver,\nRed Camry",
                 "none"
             ],
-            "Leyna": [
+            "Trevor": [
                 "3)",
                 "",
                 "none"
@@ -1663,30 +1669,15 @@
                 "4)",
                 "",
                 "none"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Jan 9",
-        "meet_time": [],
-        "start_time": "Zakiyah",
-        "inv_type": [
-            ""
-        ],
-        "store_name": [
-            ""
-        ],
-        "address": [
-            ""
-        ],
-        "link": [
-            ""
-        ],
-        "store_note": [],
-        "employee_list": {
-            "": [
+            ],
+            "Zakiyah": [
+                "5)",
                 "",
-                "",
+                "none"
+            ],
+            "Bri": [
+                "6)",
+                "@ Store",
                 "none"
             ]
         }
