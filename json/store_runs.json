@@ -590,16 +590,20 @@
         "meet_time": [],
         "start_time": "8:00 AM START",
         "inv_type": [
+            "DC5-FINANCIAL",
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "ALI'S OIL MART, MILWAUKEE (OLD SAI MART)"
+            "ALI'S OIL MART, MILWAUKEE (OLD SAI MART)",
+            "SAI MART, CALEDONIA"
         ],
         "address": [
-            "4715 S 27TH ST"
+            "4715 S 27TH ST",
+            "13600 7 MILE RD"
         ],
         "link": [
-            "https://maps.app.goo.gl/NDVQyzaksBz7wb3C8"
+            "https://maps.app.goo.gl/NDVQyzaksBz7wb3C8",
+            "https://maps.app.goo.gl/PJ1zkc8GEH1Q3B4G7"
         ],
         "store_note": [
             "*SALE INVENTORY"
@@ -1637,7 +1641,7 @@
         ],
         "store_note": [
             "*NEW LOCATION",
-            "5:30 am meet for Carlie and Trevor in Grafton <br><hr id=\"note_separator\">MAPPED"
+            "MAPPED"
         ],
         "employee_list": {
             "Kim": [
@@ -1659,14 +1663,29 @@
                 "4)",
                 "",
                 "none"
-            ],
-            "Trevor": [
-                "5)",
+            ]
+        }
+    },
+    {
+        "date": "Fri, Jan 9",
+        "meet_time": [],
+        "start_time": "Zakiyah",
+        "inv_type": [
+            ""
+        ],
+        "store_name": [
+            ""
+        ],
+        "address": [
+            ""
+        ],
+        "link": [
+            ""
+        ],
+        "store_note": [],
+        "employee_list": {
+            "": [
                 "",
-                "none"
-            ],
-            "Zakiyah": [
-                "6)",
                 "",
                 "none"
             ]
