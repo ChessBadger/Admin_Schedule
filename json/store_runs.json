@@ -1155,20 +1155,22 @@
     {
         "date": "Tue, Jan 6",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "Katherine",
         "inv_type": [
-            "DC5-FINANCIAL"
+            ""
         ],
         "store_name": [
-            "SENDIK'S, OCONOMOWOC"
+            "6:00 AM START"
         ],
         "address": [
-            "1450 OLYMPIA FIELDS DRIVE"
+            "DC5-FINANCIAL"
         ],
         "link": [
-            "https://goo.gl/maps/fGkbRfEuC1Cuvpzp6"
+            "SENDIK'S, OCONOMOWOC"
         ],
-        "store_note": [],
+        "store_note": [
+            "1450 OLYMPIA FIELDS DRIVE <br><hr id=\"note_separator\">https://goo.gl/maps/fGkbRfEuC1Cuvpzp6"
+        ],
         "employee_list": {
             "DJ": [
                 "1)",
