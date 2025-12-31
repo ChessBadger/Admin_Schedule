@@ -721,58 +721,53 @@
                 "Santa Fe available, Equip",
                 "none"
             ],
-            "Andrew": [
-                "2)",
-                "work w/ Leyna",
-                "none"
-            ],
             "Carlie": [
-                "3)",
+                "2)",
                 "Red Camry stools,\nTrainer",
                 "none"
             ],
             "DJ": [
-                "4)",
+                "3)",
                 "Altima Stools",
                 "none"
             ],
             "Greg": [
-                "5)",
+                "4)",
                 "",
                 "none"
             ],
             "Jerry D": [
-                "6)",
+                "5)",
                 "",
                 "Milwaukee"
             ],
             "Katherine": [
-                "7)",
+                "6)",
                 "",
                 "none"
             ],
             "Lexi": [
-                "8)",
+                "7)",
                 "",
                 "none"
             ],
             "Leyna": [
-                "9)",
-                "Trainer",
+                "8)",
+                "",
                 "none"
             ],
             "Monica": [
-                "10)",
+                "9)",
                 "",
                 "none"
             ],
             "Sonia": [
-                "11)",
+                "10)",
                 "",
                 "none"
             ],
             "Zakiyah": [
-                "12)",
+                "11)",
                 "work w/ Carlie",
                 "none"
             ]
@@ -1172,53 +1167,58 @@
                 "Equip",
                 "none"
             ],
-            "Celina": [
+            "Andrew": [
                 "2)",
+                "",
+                "none"
+            ],
+            "Celina": [
+                "3)",
                 "work w/ Leyna",
                 "none"
             ],
             "Cynthia": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Ian": [
                 "4)",
                 "",
                 "none"
             ],
-            "Jerry D": [
+            "Ian": [
                 "5)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "6)",
                 "Until 12:30",
                 "Milwaukee"
             ],
             "Katherine": [
-                "6)",
+                "7)",
                 "Until 9:00",
                 "none"
             ],
             "Lexi": [
-                "7)",
+                "8)",
                 "",
                 "none"
             ],
             "Leyna": [
-                "8)",
+                "9)",
                 "Trainer",
                 "none"
             ],
             "Monica": [
-                "9)",
-                "",
-                "none"
-            ],
-            "Paul": [
                 "10)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Paul": [
                 "11)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "12)",
                 "",
                 "none"
             ]
@@ -1328,53 +1328,58 @@
                 "work w/ Carlie",
                 "none"
             ],
-            "Carlie": [
+            "Andrew": [
                 "3)",
+                "",
+                "none"
+            ],
+            "Carlie": [
+                "4)",
                 "@ Store,\nTrainer",
                 "none"
             ],
             "Greg": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Ian": [
                 "5)",
                 "",
                 "none"
             ],
-            "Leyna": [
+            "Ian": [
                 "6)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "7)",
                 "Trainer",
                 "none"
             ],
             "Monica": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Paul": [
                 "8)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Paul": [
                 "9)",
                 "",
                 "none"
             ],
-            "Sue": [
+            "Sonia": [
                 "10)",
                 "",
                 "none"
             ],
-            "Trevor": [
+            "Sue": [
                 "11)",
+                "",
+                "none"
+            ],
+            "Trevor": [
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Zakiyah": [
-                "12)",
+                "13)",
                 "work w/ Leyna",
                 "none"
             ]
@@ -1588,33 +1593,38 @@
                 "Equip",
                 "none"
             ],
-            "Ian": [
+            "Andrew": [
                 "2)",
                 "",
                 "none"
             ],
-            "Katherine": [
+            "Ian": [
                 "3)",
                 "",
                 "none"
             ],
-            "Lexi": [
+            "Katherine": [
                 "4)",
                 "",
                 "none"
             ],
-            "Leyna": [
+            "Lexi": [
                 "5)",
                 "",
                 "none"
             ],
-            "Monica": [
+            "Leyna": [
                 "6)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Monica": [
                 "7)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "8)",
                 "",
                 "none"
             ]
