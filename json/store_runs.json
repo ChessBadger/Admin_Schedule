@@ -501,7 +501,7 @@
             "https://goo.gl/maps/Ya5hSzVYqX42"
         ],
         "store_note": [
-            "SET UP ON REG #1 (Register closest to offices) <br><hr id=\"note_separator\">PARTIAL RESET-REMAPPED <br><hr id=\"note_separator\">Carlie and Trevor meet at 5:15 am in Grafton"
+            "SET UP ON REG #1 (Register closest to offices) <br><hr id=\"note_separator\">PARTIAL RESET-REMAPPED"
         ],
         "employee_list": {
             "Kim": [
@@ -554,38 +554,33 @@
                 "",
                 "none"
             ],
-            "Trevor": [
-                "11)",
-                "w/ Carlie",
-                "none"
-            ],
             "Bri": [
-                "12)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Justin Lee": [
-                "13)",
+                "12)",
                 "@ Store,\nSupv Rx",
                 "none"
             ],
             "Kirsten": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Marcia": [
-                "15)",
+                "14)",
                 "@ Store",
                 "none"
             ],
             "Michael N": [
-                "16)",
+                "15)",
                 "@ Store,\nRx",
                 "Rockford"
             ],
             "Taya": [
-                "17)",
+                "16)",
                 "@ Store",
                 "none"
             ]
