@@ -501,13 +501,12 @@
             "https://goo.gl/maps/Ya5hSzVYqX42"
         ],
         "store_note": [
-            "SET UP ON REG #1 (Register closest to offices) <br><hr id=\"note_separator\">PARTIAL RESET-REMAPPED <br><hr id=\"note_separator\">Carlie and Trevor meet at 5:15 am in Grafton",
-            "**Kim - bring Red Camry to store to swap with Carlie"
+            "SET UP ON REG #1 (Register closest to offices) <br><hr id=\"note_separator\">PARTIAL RESET-REMAPPED <br><hr id=\"note_separator\">Carlie and Trevor meet at 5:15 am in Grafton"
         ],
         "employee_list": {
             "Kim": [
                 "1)",
-                "Red Camry to store, Equip",
+                "Red Van available, Equip",
                 "none"
             ],
             "Carlie": [
@@ -811,7 +810,9 @@
         "link": [
             "https://goo.gl/maps/3u9XfxmppXs"
         ],
-        "store_note": [],
+        "store_note": [
+            "Carlie will bring the white camry to the office in the morning. <br><hr id=\"note_separator\">Can then take back the red camry after the store"
+        ],
         "employee_list": {
             "Nate": [
                 "1)",
@@ -820,7 +821,7 @@
             ],
             "Carlie": [
                 "2)",
-                "",
+                "*bring wht Camry",
                 "none"
             ],
             "DJ": [
