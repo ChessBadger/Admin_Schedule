@@ -816,7 +816,7 @@
             ],
             "Carlie": [
                 "2)",
-                "*bring wht Camry",
+                "Driver,\nWht Camry",
                 "none"
             ],
             "DJ": [
@@ -833,56 +833,33 @@
                 "5)",
                 "Driver,\nRed Van",
                 "none"
-            ],
-            "Jerry D": [
-                "6)",
-                "Driver,\nWht Camry",
-                "Milwaukee"
-            ],
-            "Katherine": [
-                "7)",
+            ]
+        }
+    },
+    {
+        "date": "Mon, Jan 19",
+        "meet_time": [],
+        "start_time": "Katherine",
+        "inv_type": [
+            "Leyna"
+        ],
+        "store_name": [
+            "Monica"
+        ],
+        "address": [
+            "Paul"
+        ],
+        "link": [
+            "Sonia"
+        ],
+        "store_note": [
+            "Sue <br><hr id=\"note_separator\">Bri <br><hr id=\"note_separator\">Elijah <br><hr id=\"note_separator\">Michael N"
+        ],
+        "employee_list": {
+            "": [
+                " ",
                 "",
                 "none"
-            ],
-            "Leyna": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Monica": [
-                "9)",
-                "",
-                "none"
-            ],
-            "Paul": [
-                "10)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "11)",
-                "",
-                "none"
-            ],
-            "Sue": [
-                "12)",
-                "",
-                "none"
-            ],
-            "Bri": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
-            "Elijah": [
-                "14)",
-                "@ Store",
-                "none"
-            ],
-            "Michael N": [
-                "15)",
-                "@ Store",
-                "Rockford"
             ]
         }
     },
