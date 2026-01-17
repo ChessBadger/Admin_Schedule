@@ -816,45 +816,73 @@
             ],
             "Carlie": [
                 "2)",
-                "*Bring Wht Camry to office",
+                "Driver,\nWht Camry",
+                "none"
+            ],
+            "Cynthia": [
+                "3)",
+                "",
                 "none"
             ],
             "DJ": [
-                "3)",
+                "4)",
                 "Driver,\nAltima",
                 "none"
             ],
             "Greg": [
-                "4)",
+                "5)",
                 "Driver,\nRed Van",
                 "none"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Jan 19",
-        "meet_time": [],
-        "start_time": "Katherine",
-        "inv_type": [
-            "Leyna"
-        ],
-        "store_name": [
-            "Monica"
-        ],
-        "address": [
-            "Paul"
-        ],
-        "link": [
-            "Sonia"
-        ],
-        "store_note": [
-            "Sue <br><hr id=\"note_separator\">Bri <br><hr id=\"note_separator\">Elijah <br><hr id=\"note_separator\">Michael N"
-        ],
-        "employee_list": {
-            "": [
-                " ",
+            ],
+            "Katherine": [
+                "6)",
                 "",
                 "none"
+            ],
+            "Leyna": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Monica": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Paul": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Sonia": [
+                "10)",
+                "",
+                "none"
+            ],
+            "Sue": [
+                "11)",
+                "",
+                "none"
+            ],
+            "Zakiyah": [
+                "12)",
+                "",
+                "none"
+            ],
+            "Bri": [
+                "13)",
+                "@ Store",
+                "none"
+            ],
+            "Elijah": [
+                "14)",
+                "@ Store",
+                "none"
+            ],
+            "Michael N": [
+                "15)",
+                "@ Store",
+                "Rockford"
             ]
         }
     },
