@@ -826,58 +826,35 @@
             ],
             "Greg": [
                 "4)",
-                "",
-                "none"
-            ],
-            "Ian": [
-                "5)",
                 "Driver,\nRed Van",
                 "none"
-            ],
-            "Katherine": [
-                "6)",
+            ]
+        }
+    },
+    {
+        "date": "Mon, Jan 19",
+        "meet_time": [],
+        "start_time": "Katherine",
+        "inv_type": [
+            "Leyna"
+        ],
+        "store_name": [
+            "Monica"
+        ],
+        "address": [
+            "Paul"
+        ],
+        "link": [
+            "Sonia"
+        ],
+        "store_note": [
+            "Sue <br><hr id=\"note_separator\">Bri <br><hr id=\"note_separator\">Elijah <br><hr id=\"note_separator\">Michael N"
+        ],
+        "employee_list": {
+            "": [
+                " ",
                 "",
                 "none"
-            ],
-            "Leyna": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Monica": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Paul": [
-                "9)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "10)",
-                "",
-                "none"
-            ],
-            "Sue": [
-                "11)",
-                "",
-                "none"
-            ],
-            "Bri": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
-            "Elijah": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
-            "Michael N": [
-                "14)",
-                "@ Store",
-                "Rockford"
             ]
         }
     },
