@@ -414,53 +414,58 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Celina": [
+            "Carlie": [
                 "2)",
                 "",
                 "none"
             ],
-            "Jerry D": [
+            "Celina": [
                 "3)",
+                "",
+                "none"
+            ],
+            "Jerry D": [
+                "4)",
                 "Driver,\nRed Van",
                 "Milwaukee"
             ],
             "Matthew": [
-                "4)",
+                "5)",
                 "work w/ Michael",
                 "none"
             ],
             "Sue": [
-                "5)",
+                "6)",
                 "",
                 "none"
             ],
             "Anisha": [
-                "6)",
+                "7)",
                 "@ Store",
                 "none"
             ],
             "Ashley P": [
-                "7)",
+                "8)",
                 "@ Store",
                 "Rockford"
             ],
             "Joseph": [
-                "8)",
-                "@ Store",
-                "none"
-            ],
-            "Justin Lee": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Michael N": [
+            "Justin Lee": [
                 "10)",
+                "@ Store",
+                "none"
+            ],
+            "Michael N": [
+                "11)",
                 "@ Store,\nTrainer",
                 "Rockford"
             ],
             "Nate": [
-                "11)",
+                "12)",
                 "@ Store",
                 "none"
             ]
