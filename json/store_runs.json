@@ -488,12 +488,13 @@
             "https://goo.gl/maps/G4vnZ7jFLF1ooLXD8"
         ],
         "store_note": [
-            "SET UP ON REG #6; FUEL CENTER USUALLY DBS, BUT ASK"
+            "SET UP ON REG #6; FUEL CENTER USUALLY DBS, BUT ASK",
+            "*Greg bringing Red van + Santa Fe stools to store"
         ],
         "employee_list": {
-            "Kim": [
+            "Bri": [
                 "1)",
-                "Santa Fe available, Equip",
+                "@ Store, Equip",
                 "none"
             ],
             "Andrew": [
@@ -518,7 +519,7 @@
             ],
             "Greg": [
                 "6)",
-                "",
+                "Red Van (stools)",
                 "none"
             ],
             "Jerry D": [
@@ -646,6 +647,25 @@
         }
     },
     {
+        "date": "Thu, Jan 22",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [
+            "Office"
+        ],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
         "date": "Fri, Jan 23",
         "meet_time": [
             "4:45 AM MEET RYAN RD PNR (HWY 100 & 94)"
@@ -692,53 +712,58 @@
                 "Driver,\nSanta Fe",
                 "none"
             ],
-            "Leyna": [
+            "Kim": [
                 "6)",
+                "",
+                "none"
+            ],
+            "Leyna": [
+                "7)",
                 "Trainer",
                 "none"
             ],
             "Mariah": [
-                "7)",
+                "8)",
                 "work w/ Justin",
                 "none"
             ],
             "Matthew": [
-                "8)",
+                "9)",
                 "work w/ Leyna",
                 "none"
             ],
             "Paul": [
-                "9)",
+                "10)",
                 "",
                 "none"
             ],
             "Anisha": [
-                "10)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Ashley P": [
-                "11)",
+                "12)",
                 "@ Store,\nSupv Rx",
                 "Rockford"
             ],
             "Elijah": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
-            "Eva": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Joseph": [
+            "Eva": [
                 "14)",
+                "@ Store",
+                "none"
+            ],
+            "Joseph": [
+                "15)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Justin Lee": [
-                "15)",
+                "16)",
                 "@ Store,\nTrainer",
                 "none"
             ]
@@ -814,25 +839,6 @@
             "Madison": [
                 "10)",
                 "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Jan 23",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [
-            "Office"
-        ],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {
-            "Kim": [
-                "",
-                "",
                 "none"
             ]
         }
