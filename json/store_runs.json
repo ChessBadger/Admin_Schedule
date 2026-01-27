@@ -437,7 +437,7 @@
                 "Optima available, Equip",
                 "none"
             ],
-            "Monica": [
+            "Cynthia": [
                 "2)",
                 "",
                 "none"
@@ -489,108 +489,103 @@
                 "1st Day, work w/ Leyna",
                 "none"
             ],
-            "Cynthia": [
+            "Greg": [
                 "6)",
                 "",
                 "none"
             ],
-            "Greg": [
-                "7)",
-                "",
-                "none"
-            ],
             "Ian": [
-                "8)",
+                "7)",
                 "Supv Rx",
                 "none"
             ],
             "Jerry D": [
-                "9)",
+                "8)",
                 "",
                 "Milwaukee"
             ],
             "Leyna": [
-                "10)",
+                "9)",
                 "Trainer",
                 "none"
             ],
             "Mariah": [
-                "11)",
+                "10)",
                 "",
                 "none"
             ],
             "Matthew": [
-                "12)",
+                "11)",
                 "",
                 "none"
             ],
             "Missy": [
-                "13)",
+                "12)",
                 "2nd Day, work w/ Jeremiah",
                 "none"
             ],
             "Paul": [
-                "14)",
+                "13)",
                 "Rx,\nuntil 11:00",
                 "none"
             ],
             "Sonia": [
-                "15)",
+                "14)",
                 "",
                 "none"
             ],
             "Sue": [
-                "16)",
+                "15)",
                 "",
                 "none"
             ],
             "Zakiyah": [
-                "17)",
+                "16)",
                 "",
                 "none"
             ],
             "Dan": [
-                "18)",
+                "17)",
                 "@ Store",
                 "none"
             ],
             "Jeremiah": [
-                "19)",
+                "18)",
                 "@ Store,\nTrainer",
                 "none"
             ],
             "Jerry S": [
-                "20)",
+                "19)",
                 "@ Store",
                 "Fox Valley"
             ],
             "Kirsten": [
-                "21)",
+                "20)",
                 "@ Store",
                 "none"
             ],
             "Madison": [
-                "22)",
+                "21)",
                 "@ Store",
                 "none"
             ],
             "Mai": [
-                "23)",
+                "22)",
                 "@ Store",
                 "none"
             ],
             "Marcia": [
-                "24)",
+                "23)",
                 "@ Store",
                 "none"
             ],
             "Michelle": [
-                "25)",
+                "24)",
                 "@ Store",
                 "none"
             ],
             "Taya": [
-                "26)",
+                "25)",
                 "@ Store",
                 "none"
             ]
@@ -702,28 +697,23 @@
                 "",
                 "none"
             ],
-            "Monica": [
+            "Paul": [
                 "11)",
                 "",
                 "none"
             ],
-            "Paul": [
+            "Sonia": [
                 "12)",
                 "",
                 "none"
             ],
-            "Sonia": [
-                "13)",
-                "",
-                "none"
-            ],
             "Sue": [
-                "14)",
+                "13)",
                 "Rx",
                 "none"
             ],
             "Zakiyah": [
-                "15)",
+                "14)",
                 "",
                 "none"
             ]
@@ -836,88 +826,93 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Ian": [
+            "Charletta": [
                 "2)",
+                "2nd day work w/ Angela",
+                "none"
+            ],
+            "Ian": [
+                "3)",
                 "@ Store, after c-store",
                 "none"
             ],
             "Mariah": [
-                "3)",
+                "4)",
                 "",
                 "none"
             ],
             "Missy": [
-                "4)",
+                "5)",
                 "3rd day, \nwork w/ Nate",
                 "none"
             ],
             "Paul": [
-                "5)",
+                "6)",
                 "@ Store, after c-store",
                 "none"
             ],
             "Angela": [
-                "6)",
-                "@ Store",
+                "7)",
+                "@ Store,\nTrainer",
                 "none"
             ],
             "Ashley P": [
-                "7)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Emily L": [
                 "8)",
                 "@ Store",
                 "Rockford"
             ],
-            "Jerry S": [
+            "Emily L": [
                 "9)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Jerry S": [
+                "10)",
                 "@ Store",
                 "Fox Valley"
             ],
             "Joseph": [
-                "10)",
-                "@ Store",
-                "none"
-            ],
-            "Josie": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Justin Lee": [
+            "Josie": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Kirsten": [
+            "Justin Lee": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Lori": [
+            "Kirsten": [
                 "14)",
+                "@ Store",
+                "none"
+            ],
+            "Lori": [
+                "15)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Mai": [
-                "15)",
-                "@ Store",
-                "none"
-            ],
-            "Marcia": [
                 "16)",
                 "@ Store",
                 "none"
             ],
-            "Nate": [
+            "Marcia": [
                 "17)",
+                "@ Store",
+                "none"
+            ],
+            "Nate": [
+                "18)",
                 "@ Store,\nTrainer",
                 "none"
             ],
             "Sarah": [
-                "18)",
+                "19)",
                 "@ Store,\nSupv Rx",
                 "none"
             ]
@@ -963,7 +958,7 @@
             ],
             "Cynthia": [
                 "5)",
-                "",
+                "Until 10:30",
                 "none"
             ],
             "Greg": [
@@ -1977,21 +1972,21 @@
     {
         "date": "Fri, Feb 6",
         "meet_time": [],
-        "start_time": "6:30 AM RYAN RD PNR (HWY 100 & 94)",
+        "start_time": "Kim",
         "inv_type": [
-            "7:00 AM START"
+            ""
         ],
         "store_name": [
-            "MODAS-SCAN"
+            "6:30 AM RYAN RD PNR (HWY 100 & 94)"
         ],
         "address": [
-            "OPEN PANTRY #493, RACINE"
+            "7:00 AM START"
         ],
         "link": [
-            "3441 SPRING ST"
+            "MODAS-SCAN"
         ],
         "store_note": [
-            "https://goo.gl/maps/8i7XHemjTpL2"
+            "OPEN PANTRY #493, RACINE <br><hr id=\"note_separator\">3441 SPRING ST <br><hr id=\"note_separator\">https://goo.gl/maps/8i7XHemjTpL2"
         ],
         "employee_list": {
             "Katherine": [
