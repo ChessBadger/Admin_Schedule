@@ -476,7 +476,7 @@
             ],
             "Carlie": [
                 "3)",
-                "Trainer",
+                "",
                 "none"
             ],
             "Celina": [
@@ -526,7 +526,7 @@
             ],
             "Missy": [
                 "13)",
-                "2nd Day, work w/ Carlie",
+                "2nd Day, work w/ Jeremiah",
                 "none"
             ],
             "Paul": [
@@ -556,7 +556,7 @@
             ],
             "Jeremiah": [
                 "19)",
-                "@ Store",
+                "@ Store,\nTrainer",
                 "none"
             ],
             "Jerry S": [
@@ -846,73 +846,78 @@
                 "",
                 "none"
             ],
-            "Paul": [
+            "Missy": [
                 "4)",
+                "3rd day, \nwork w/ Nate",
+                "none"
+            ],
+            "Paul": [
+                "5)",
                 "@ Store, after c-store",
                 "none"
             ],
             "Angela": [
-                "5)",
+                "6)",
                 "@ Store",
                 "none"
             ],
             "Ashley P": [
-                "6)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Emily L": [
                 "7)",
                 "@ Store",
                 "Rockford"
             ],
-            "Jerry S": [
+            "Emily L": [
                 "8)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Jerry S": [
+                "9)",
                 "@ Store",
                 "Fox Valley"
             ],
             "Joseph": [
-                "9)",
-                "@ Store",
-                "none"
-            ],
-            "Josie": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Justin Lee": [
+            "Josie": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Kirsten": [
+            "Justin Lee": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Lori": [
+            "Kirsten": [
                 "13)",
+                "@ Store",
+                "none"
+            ],
+            "Lori": [
+                "14)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Mai": [
-                "14)",
-                "@ Store",
-                "none"
-            ],
-            "Marcia": [
                 "15)",
                 "@ Store",
                 "none"
             ],
-            "Nate": [
+            "Marcia": [
                 "16)",
                 "@ Store",
                 "none"
             ],
-            "Sarah": [
+            "Nate": [
                 "17)",
+                "@ Store,\nTrainer",
+                "none"
+            ],
+            "Sarah": [
+                "18)",
                 "@ Store,\nSupv Rx",
                 "none"
             ]
@@ -1185,20 +1190,24 @@
     {
         "date": "Mon, Feb 2",
         "meet_time": [
-            "5:15 AM MEET SOUTH RACINE COURT (HWY 42 & Y)"
+            "5:15 AM MEET RYAN RD PNR (HWY 100 & 94)"
         ],
         "start_time": "6:00 AM START",
         "inv_type": [
-            "MODAS-SCAN"
+            "MODAS-SCAN",
+            "DC5-FINANCIAL"
         ],
         "store_name": [
-            "AURORA OUTPATIENT RX #1140, BURLINGTON"
+            "AURORA OUTPATIENT RX #1140, BURLINGTON",
+            "BP- CUDAHY"
         ],
         "address": [
-            "250 MCHENRY ST"
+            "250 MCHENRY ST",
+            "5606 S PACKARD AVE"
         ],
         "link": [
-            "https://goo.gl/maps/BhwydvAxRam"
+            "https://goo.gl/maps/BhwydvAxRam",
+            "https://maps.app.goo.gl/r27WkC5fJxakWMxN7"
         ],
         "store_note": [],
         "employee_list": {
@@ -1501,58 +1510,63 @@
                 "",
                 "none"
             ],
-            "Paul": [
+            "Missy": [
                 "6)",
+                "work w/ Nate",
+                "none"
+            ],
+            "Paul": [
+                "7)",
                 "After Aurora",
                 "none"
             ],
             "Angela": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
-            "Anisha": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Ashley P": [
+            "Anisha": [
                 "9)",
+                "@ Store",
+                "none"
+            ],
+            "Ashley P": [
+                "10)",
                 "@ Store,\nSupv Rx",
                 "Rockford"
             ],
             "Eva": [
-                "10)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Joseph": [
-                "11)",
+                "12)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Justin Lee": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
-            "Lori": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Michael N": [
+            "Lori": [
                 "14)",
+                "@ Store",
+                "none"
+            ],
+            "Michael N": [
+                "15)",
                 "@ Store",
                 "Rockford"
             ],
             "Nate": [
-                "15)",
-                "@ Store",
+                "16)",
+                "@ Store,\nTrainer",
                 "none"
             ],
             "Sarah": [
-                "16)",
+                "17)",
                 "@ Store",
                 "none"
             ]
@@ -1818,7 +1832,7 @@
             ],
             "Missy": [
                 "6)",
-                "",
+                "work w/ Michael",
                 "none"
             ],
             "Angela": [
@@ -1858,7 +1872,7 @@
             ],
             "Michael N": [
                 "14)",
-                "@ Store",
+                "@ Store,\nTrainer",
                 "Rockford"
             ],
             "Qiana": [
