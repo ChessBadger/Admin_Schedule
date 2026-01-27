@@ -476,7 +476,7 @@
             ],
             "Carlie": [
                 "3)",
-                "",
+                "Trainer",
                 "none"
             ],
             "Celina": [
@@ -484,103 +484,113 @@
                 "",
                 "none"
             ],
-            "Cynthia": [
+            "Charletta": [
                 "5)",
-                "",
+                "1st Day, work w/ Leyna",
                 "none"
             ],
-            "Greg": [
+            "Cynthia": [
                 "6)",
                 "",
                 "none"
             ],
-            "Ian": [
+            "Greg": [
                 "7)",
+                "",
+                "none"
+            ],
+            "Ian": [
+                "8)",
                 "Supv Rx",
                 "none"
             ],
             "Jerry D": [
-                "8)",
+                "9)",
                 "",
                 "Milwaukee"
             ],
             "Leyna": [
-                "9)",
-                "",
+                "10)",
+                "Trainer",
                 "none"
             ],
             "Mariah": [
-                "10)",
-                "",
-                "none"
-            ],
-            "Matthew": [
                 "11)",
                 "",
                 "none"
             ],
-            "Paul": [
+            "Matthew": [
                 "12)",
+                "",
+                "none"
+            ],
+            "Missy": [
+                "13)",
+                "2nd Day, work w/ Carlie",
+                "none"
+            ],
+            "Paul": [
+                "14)",
                 "Rx,\nuntil 11:00",
                 "none"
             ],
             "Sonia": [
-                "13)",
-                "",
-                "none"
-            ],
-            "Sue": [
-                "14)",
-                "",
-                "none"
-            ],
-            "Zakiyah": [
                 "15)",
                 "",
                 "none"
             ],
-            "Dan": [
+            "Sue": [
                 "16)",
+                "",
+                "none"
+            ],
+            "Zakiyah": [
+                "17)",
+                "",
+                "none"
+            ],
+            "Dan": [
+                "18)",
                 "@ Store",
                 "none"
             ],
             "Jeremiah": [
-                "17)",
-                "@ Store",
-                "none"
-            ],
-            "Jerry S": [
-                "18)",
-                "@ Store",
-                "Fox Valley"
-            ],
-            "Kirsten": [
                 "19)",
                 "@ Store",
                 "none"
             ],
-            "Madison": [
+            "Jerry S": [
                 "20)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ],
-            "Mai": [
+            "Kirsten": [
                 "21)",
                 "@ Store",
                 "none"
             ],
-            "Marcia": [
+            "Madison": [
                 "22)",
                 "@ Store",
                 "none"
             ],
-            "Michelle": [
+            "Mai": [
                 "23)",
                 "@ Store",
                 "none"
             ],
-            "Taya": [
+            "Marcia": [
                 "24)",
+                "@ Store",
+                "none"
+            ],
+            "Michelle": [
+                "25)",
+                "@ Store",
+                "none"
+            ],
+            "Taya": [
+                "26)",
                 "@ Store",
                 "none"
             ]
