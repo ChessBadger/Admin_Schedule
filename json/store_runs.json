@@ -933,7 +933,7 @@
         "employee_list": {
             "Kim": [
                 "1)",
-                "Red Van available, Equip",
+                "Wht Camry available, Equip",
                 "none"
             ],
             "Andrew": [
@@ -1100,7 +1100,7 @@
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "FESTIVAL #2732, APPLETON-NORTHLAND - LIFO"
+            "FESTIVAL #2732, APPLETON - NORTHLAND - LIFO"
         ],
         "address": [
             "1200 W NORTHLAND AVE"
@@ -1596,7 +1596,7 @@
             ],
             "Carlie": [
                 "3)",
-                "",
+                "Driver,\nRed Camry",
                 "none"
             ],
             "Celina": [
@@ -1606,7 +1606,7 @@
             ],
             "Ian": [
                 "5)",
-                "Driver,\nRed Van",
+                "Driver,\nWht Camry",
                 "none"
             ],
             "Jerry D": [
@@ -1807,7 +1807,7 @@
             ],
             "Jerry D": [
                 "3)",
-                "Driver,\nRed Van,\nSupv Rx",
+                "Driver,\nOptima,\nSupv Rx",
                 "Milwaukee"
             ],
             "Mariah": [
@@ -1820,53 +1820,48 @@
                 "",
                 "none"
             ],
-            "Missy": [
-                "6)",
-                "work w/ Michael",
-                "none"
-            ],
             "Angela": [
-                "7)",
+                "6)",
                 "@ Store",
                 "none"
             ],
             "Anisha": [
-                "8)",
+                "7)",
                 "@ Store",
                 "none"
             ],
             "Ashley P": [
-                "9)",
+                "8)",
                 "@ Store",
                 "Rockford"
             ],
             "Bri": [
-                "10)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Eva": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Joseph": [
-                "12)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Justin Lee": [
-                "13)",
+                "12)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Michael N": [
-                "14)",
+                "13)",
                 "@ Store,\nTrainer",
                 "Rockford"
             ],
             "Qiana": [
-                "15)",
+                "14)",
                 "@ Store",
                 "none"
             ]
