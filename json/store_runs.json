@@ -448,21 +448,21 @@
     {
         "date": "Wed, Feb 4",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "Red Van appointment at Lutters",
         "inv_type": [
-            "SCAN-ITEM LEVEL"
+            "6:00 AM START"
         ],
         "store_name": [
-            "PICK #368 +RX, BROOKFIELD CAL-CAP"
+            "SCAN-ITEM LEVEL"
         ],
         "address": [
-            "17295 WEST CAPITOL DR"
+            "PICK #368 +RX, BROOKFIELD CAL-CAP"
         ],
         "link": [
-            "https://goo.gl/maps/33rm1Fc6q4o"
+            "17295 WEST CAPITOL DR"
         ],
         "store_note": [
-            "SET UP REG #1 <br><hr id=\"note_separator\">PARTIAL RESET-REMAPPED"
+            "https://goo.gl/maps/33rm1Fc6q4o <br><hr id=\"note_separator\">SET UP REG #1 <br><hr id=\"note_separator\">PARTIAL RESET-REMAPPED"
         ],
         "employee_list": {
             "Bri": [
