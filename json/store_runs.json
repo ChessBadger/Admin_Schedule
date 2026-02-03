@@ -1312,23 +1312,23 @@
     },
     {
         "date": "Tue, Feb 10",
-        "meet_time": [
-            "5:15 AM MEET WATERTOWN PLANK"
-        ],
-        "start_time": "6:30 AM START",
+        "meet_time": [],
+        "start_time": "DJ",
         "inv_type": [
-            "DC5-FINANCIAL"
+            ""
         ],
         "store_name": [
-            "FESTIVAL #2708, OSHKOSH - LIFO"
+            "5:15 AM MEET WATERTOWN PLANK"
         ],
         "address": [
-            "2415 WESTOWNE AVE"
+            "6:30 AM START"
         ],
         "link": [
-            "https://goo.gl/maps/SYenrFArvdC2"
+            "DC5-FINANCIAL"
         ],
-        "store_note": [],
+        "store_note": [
+            "FESTIVAL #2708, OSHKOSH - LIFO <br><hr id=\"note_separator\">2415 WESTOWNE AVE <br><hr id=\"note_separator\">https://goo.gl/maps/SYenrFArvdC2"
+        ],
         "employee_list": {
             "Kim": [
                 "1)",
@@ -1556,23 +1556,23 @@
     },
     {
         "date": "Thu, Feb 12",
-        "meet_time": [
-            "6:00 AM MEET RYAN RD PNR (HWY 100 & 94)"
-        ],
-        "start_time": "6:30 AM START",
+        "meet_time": [],
+        "start_time": "Kim",
         "inv_type": [
-            "DC5-FINANCIAL"
+            ""
         ],
         "store_name": [
-            "FESTIVAL #2711, SOMERS - LIFO"
+            "6:00 AM MEET RYAN RD PNR (HWY 100 & 94)"
         ],
         "address": [
-            "6000 31ST ST"
+            "6:30 AM START"
         ],
         "link": [
-            "https://goo.gl/maps/iRwyhRYcWJk"
+            "DC5-FINANCIAL"
         ],
-        "store_note": [],
+        "store_note": [
+            "FESTIVAL #2711, SOMERS - LIFO <br><hr id=\"note_separator\">6000 31ST ST <br><hr id=\"note_separator\">https://goo.gl/maps/iRwyhRYcWJk"
+        ],
         "employee_list": {
             "DJ": [
                 "1)",
@@ -1776,21 +1776,21 @@
     {
         "date": "Fri, Feb 13",
         "meet_time": [],
-        "start_time": "6:30 AM RYAN RD PNR (HWY 100 & 94)",
+        "start_time": "Ian",
         "inv_type": [
-            "7:00 AM START"
+            ""
         ],
         "store_name": [
-            "MODAS-SCAN"
+            "6:30 AM RYAN RD PNR (HWY 100 & 94)"
         ],
         "address": [
-            "OPEN PANTRY #9570, RACINE"
+            "7:00 AM START"
         ],
         "link": [
-            "2731 DURAND AVE"
+            "MODAS-SCAN"
         ],
         "store_note": [
-            "https://goo.gl/maps/boUkpED44a62"
+            "OPEN PANTRY #9570, RACINE <br><hr id=\"note_separator\">2731 DURAND AVE <br><hr id=\"note_separator\">https://goo.gl/maps/boUkpED44a62"
         ],
         "employee_list": {
             "Katherine": [
