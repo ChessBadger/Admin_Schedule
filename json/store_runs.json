@@ -888,21 +888,21 @@
     {
         "date": "Tue, Feb 17",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "White Camry Oil Change",
         "inv_type": [
-            "SCAN-ITEM LEVEL"
+            ""
         ],
         "store_name": [
-            "PICK #365, MILWAUKEE - MIDTOWN"
+            "6:00 AM START"
         ],
         "address": [
-            "5700 WEST CAPITOL DR"
+            "SCAN-ITEM LEVEL"
         ],
         "link": [
-            "https://goo.gl/maps/W4WAvaTk74U2"
+            "PICK #365, MILWAUKEE - MIDTOWN"
         ],
         "store_note": [
-            "SET UP ON REG #1"
+            "5700 WEST CAPITOL DR <br><hr id=\"note_separator\">https://goo.gl/maps/W4WAvaTk74U2 <br><hr id=\"note_separator\">SET UP ON REG #1"
         ],
         "employee_list": {
             "Bri": [
@@ -1187,7 +1187,7 @@
             ],
             "Carlie": [
                 "3)",
-                "",
+                "Until 11:00",
                 "none"
             ],
             "Cynthia": [
