@@ -30,7 +30,7 @@
             "2414 10TH AVENUE <br><hr id=\"note_separator\">https://goo.gl/maps/RKFe5ejXrhF2"
         ],
         "employee_list": {
-            "Lashaun": [
+            "DJ": [
                 "1)",
                 "Equip",
                 "none"
@@ -44,38 +44,6 @@
                 "3)",
                 "",
                 "none"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Feb 16",
-        "meet_time": [
-            "4:30 AM MEET WATERTOWN PLANK"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "MODAS-SCAN"
-        ],
-        "store_name": [
-            "AURORA OUTPATIENT RX #1030, OSHKOSH"
-        ],
-        "address": [
-            "414 DOCTORS COURT SUITE 100"
-        ],
-        "link": [
-            "https://goo.gl/maps/7jsxtRm7nJ82"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "Driver,\nAltima, Equip",
-                "none"
-            ],
-            "Jerry D": [
-                "2)",
-                "",
-                "Milwaukee"
             ]
         }
     },
