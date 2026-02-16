@@ -920,23 +920,23 @@
     },
     {
         "date": "Mon, Feb 23",
-        "meet_time": [
-            "5:00 AM MEET BAYSHORE"
-        ],
-        "start_time": "6:00 AM START",
+        "meet_time": [],
+        "start_time": "Katherine",
         "inv_type": [
-            "DC5-FINANCIAL"
+            ""
         ],
         "store_name": [
-            "TIETZ'S PIGGLY WIGGLY #331, SHEBOYGAN"
+            "5:00 AM MEET BAYSHORE"
         ],
         "address": [
-            "2905 NORTH 15TH ST"
+            "6:00 AM START"
         ],
         "link": [
-            "https://goo.gl/maps/kL2YHbXaKw32"
+            "DC5-FINANCIAL"
         ],
-        "store_note": [],
+        "store_note": [
+            "TIETZ'S PIGGLY WIGGLY #331, SHEBOYGAN <br><hr id=\"note_separator\">2905 NORTH 15TH ST <br><hr id=\"note_separator\">https://goo.gl/maps/kL2YHbXaKw32"
+        ],
         "employee_list": {
             "Kim": [
                 "1)",
@@ -1182,23 +1182,23 @@
     },
     {
         "date": "Tue, Feb 24",
-        "meet_time": [
-            "5:15 AM MEET BAYSHORE"
-        ],
-        "start_time": "6:00 AM START",
+        "meet_time": [],
+        "start_time": "Katherine",
         "inv_type": [
-            "SCAN-ITEM LEVEL"
+            ""
         ],
         "store_name": [
-            "PICK #343, PLYMOUTH"
+            "5:15 AM MEET BAYSHORE"
         ],
         "address": [
-            "2643 EASTERN AVE"
+            "6:00 AM START"
         ],
         "link": [
-            "https://goo.gl/maps/uM51wiLfFCA2"
+            "SCAN-ITEM LEVEL"
         ],
-        "store_note": [],
+        "store_note": [
+            "PICK #343, PLYMOUTH <br><hr id=\"note_separator\">2643 EASTERN AVE <br><hr id=\"note_separator\">https://goo.gl/maps/uM51wiLfFCA2"
+        ],
         "employee_list": {
             "DJ": [
                 "1)",
@@ -1433,21 +1433,21 @@
     {
         "date": "Wed, Feb 25",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "Katherine",
         "inv_type": [
-            "SCAN-ITEM LEVEL"
+            ""
         ],
         "store_name": [
-            "PICK #366 +RX, HALES CORNERS"
+            "6:00 AM START"
         ],
         "address": [
-            "5800 S 108TH ST"
+            "SCAN-ITEM LEVEL"
         ],
         "link": [
-            "https://goo.gl/maps/zX1XvNMo8SU2"
+            "PICK #366 +RX, HALES CORNERS"
         ],
         "store_note": [
-            "SET UP ON REG #1"
+            "5800 S 108TH ST <br><hr id=\"note_separator\">https://goo.gl/maps/zX1XvNMo8SU2 <br><hr id=\"note_separator\">SET UP ON REG #1"
         ],
         "employee_list": {
             "Kim": [
@@ -1898,23 +1898,22 @@
     },
     {
         "date": "Fri, Feb 27",
-        "meet_time": [
-            "6:00 AM MEET RYAN RD PNR (HWYY 100 & 94)"
-        ],
-        "start_time": "6:30 AM START",
+        "meet_time": [],
+        "start_time": "Katherine",
         "inv_type": [
-            "DC5-FINANCIAL"
+            ""
         ],
         "store_name": [
-            "FESTIVAL #2710, \nMT PLEASANT - LIFO"
+            "6:00 AM MEET RYAN RD PNR (HWYY 100 & 94)"
         ],
         "address": [
-            "5740 WASHINGTON AVE"
+            "6:30 AM START"
         ],
         "link": [
-            "https://goo.gl/maps/PRSb1wjmEbn"
+            "DC5-FINANCIAL"
         ],
         "store_note": [
+            "FESTIVAL #2710, \nMT PLEASANT - LIFO <br><hr id=\"note_separator\">5740 WASHINGTON AVE <br><hr id=\"note_separator\">https://goo.gl/maps/PRSb1wjmEbn",
             "*Early meet for Kim/Greg/Sonia is 5:30 am at Ryan Rd PNR"
         ],
         "employee_list": {
