@@ -714,30 +714,30 @@
                 "8)",
                 "",
                 "none"
-            ],
-            "Joseph": [
-                "9)",
-                "@ Store",
-                "none"
-            ],
-            "Justin Lee": [
-                "10)",
-                "@ Store",
-                "none"
-            ],
-            "Lori": [
-                "11)",
-                "@ Store",
-                "none"
-            ],
-            "Sarah": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
-            "Savannah": [
-                "13)",
-                "@ Store",
+            ]
+        }
+    },
+    {
+        "date": "Thu, Feb 19",
+        "meet_time": [],
+        "start_time": "Justin Lee",
+        "inv_type": [
+            "Sarah"
+        ],
+        "store_name": [
+            "Savannah"
+        ],
+        "address": [
+            ""
+        ],
+        "link": [
+            ""
+        ],
+        "store_note": [],
+        "employee_list": {
+            "": [
+                "",
+                "",
                 "none"
             ]
         }
