@@ -680,29 +680,29 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Ian": [
+            "Celina": [
                 "2)",
+                "",
+                "none"
+            ],
+            "Ian": [
+                "3)",
                 "Driver,\nWht Camry",
                 "none"
             ],
             "Jerry D": [
-                "3)",
+                "4)",
                 "",
                 "Milwaukee"
             ],
             "Katherine": [
-                "4)",
+                "5)",
                 "",
                 "none"
             ],
             "Kim": [
-                "5)",
-                "Driver,\nSanta Fe",
-                "none"
-            ],
-            "Leyna": [
                 "6)",
-                "",
+                "Driver,\nSanta Fe",
                 "none"
             ],
             "Monica": [
@@ -720,18 +720,28 @@
                 "@ Store",
                 "none"
             ],
-            "Justin Lee": [
+            "Josie": [
                 "10)",
-                "@ Store",
+                "@ Store, until 10:00",
                 "none"
             ],
-            "Sarah": [
+            "Justin Lee": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Savannah": [
+            "Michael N": [
                 "12)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Sarah": [
+                "13)",
+                "@ Store",
+                "none"
+            ],
+            "Savannah": [
+                "14)",
                 "@ Store",
                 "none"
             ]
