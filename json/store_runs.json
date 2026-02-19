@@ -1212,7 +1212,7 @@
             ],
             "Celina": [
                 "2)",
-                "",
+                "@ Store",
                 "none"
             ],
             "Cynthia": [
@@ -1227,7 +1227,7 @@
             ],
             "Jerry D": [
                 "5)",
-                "Driver,\nSanta Fe",
+                "@ Store",
                 "Milwaukee"
             ],
             "Matthew": [
@@ -1364,7 +1364,7 @@
         "employee_list": {
             "Ian": [
                 "1)",
-                "No cars available, Equip",
+                "Santa Fe available, Equip",
                 "none"
             ]
         }
