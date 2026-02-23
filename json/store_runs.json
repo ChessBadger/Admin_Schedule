@@ -374,7 +374,7 @@
                 "Driver,\nRed Camry",
                 "none"
             ],
-            "Charletta": [
+            "Kim": [
                 "4)",
                 "",
                 "none"
@@ -489,25 +489,6 @@
             "Nate": [
                 "3)",
                 "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Feb 24",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [
-            "Office"
-        ],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {
-            "Kim": [
-                "",
-                "",
                 "none"
             ]
         }
