@@ -528,52 +528,52 @@
                 "Rx",
                 "none"
             ],
-            "Charletta": [
-                "4)",
-                "",
-                "none"
-            ],
             "DJ": [
-                "5)",
+                "4)",
                 "Supv Rx",
                 "none"
             ],
             "Greg": [
-                "6)",
+                "5)",
                 "",
                 "none"
             ],
             "Ian": [
-                "7)",
+                "6)",
                 "After Aurora",
                 "none"
             ],
             "Leyna": [
-                "8)",
+                "7)",
                 "",
                 "none"
             ],
             "Mariah": [
-                "9)",
+                "8)",
                 "",
                 "none"
             ],
             "Matthew": [
-                "10)",
+                "9)",
                 "",
                 "none"
             ],
             "Monica": [
-                "11)",
+                "10)",
                 "",
                 "none"
             ],
             "Paul": [
-                "12)",
+                "11)",
                 "Until 11:30",
                 "none"
             ],
             "Sonia": [
+                "12)",
+                "",
+                "none"
+            ],
+            "Sue": [
                 "13)",
                 "",
                 "none"
@@ -683,58 +683,53 @@
                 "Driver,\nSanta Fe",
                 "Milwaukee"
             ],
-            "Sue": [
-                "4)",
-                "",
-                "none"
-            ],
             "Angela": [
-                "5)",
+                "4)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Ashley P": [
-                "6)",
+                "5)",
                 "@ Store,\nSupv Rx",
                 "Rockford"
             ],
             "Eva": [
-                "7)",
+                "6)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Joseph": [
-                "8)",
+                "7)",
                 "@ Store",
                 "none"
             ],
             "Justin Lee": [
-                "9)",
+                "8)",
                 "@ Store",
                 "none"
             ],
             "Lori": [
-                "10)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Michael N": [
-                "11)",
+                "10)",
                 "@ Store",
                 "Rockford"
             ],
             "Nate": [
-                "12)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Qiana": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Sarah": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ]
@@ -854,48 +849,43 @@
                 "",
                 "none"
             ],
-            "Charletta": [
-                "4)",
-                "work w/ Jerry",
-                "none"
-            ],
             "Jerry D": [
-                "5)",
-                "Driver,\nRed Van,\nTrainer",
+                "4)",
+                "Driver,\nRed Van",
                 "Milwaukee"
             ],
             "Leyna": [
-                "6)",
+                "5)",
                 "",
                 "none"
             ],
             "Paul": [
-                "7)",
+                "6)",
                 "",
                 "none"
             ],
             "Dan": [
-                "8)",
+                "7)",
                 "@ Store",
                 "none"
             ],
             "Kirsten": [
-                "9)",
+                "8)",
                 "@ Store",
                 "none"
             ],
             "Mai": [
-                "10)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Marcia": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Taya": [
-                "12)",
+                "11)",
                 "@ Store",
                 "none"
             ]
@@ -972,7 +962,7 @@
         ],
         "store_note": [
             "FESTIVAL #2710, \nMT PLEASANT - LIFO <br><hr id=\"note_separator\">5740 WASHINGTON AVE <br><hr id=\"note_separator\">https://goo.gl/maps/PRSb1wjmEbn",
-            "*Early meet for Kim/Greg/Sonia is 5:30 am at Ryan Rd PNR"
+            "*Early meet for Kim/Sonia is 5:30 am at Ryan Rd PNR"
         ],
         "employee_list": {
             "Kim": [
@@ -987,7 +977,7 @@
             ],
             "Carlie": [
                 "3)",
-                "Driver,\nRed Camry,\nTrainer",
+                "Driver,\nRed Camry",
                 "none"
             ],
             "Celina": [
@@ -995,48 +985,43 @@
                 "",
                 "none"
             ],
-            "Charletta": [
-                "5)",
-                "work w/ Carlie",
-                "none"
-            ],
             "Cynthia": [
-                "6)",
+                "5)",
                 "",
                 "none"
             ],
             "Greg": [
-                "7)",
-                "Early w/ Kim",
+                "6)",
+                "",
                 "none"
             ],
             "Jerry D": [
-                "8)",
+                "7)",
                 "Driver,\nRed Van",
                 "Milwaukee"
             ],
             "Leyna": [
-                "9)",
+                "8)",
                 "",
                 "none"
             ],
             "Mariah": [
-                "10)",
+                "9)",
                 "",
                 "none"
             ],
             "Monica": [
-                "11)",
+                "10)",
                 "",
                 "none"
             ],
             "Sonia": [
-                "12)",
+                "11)",
                 "Early w/ Kim",
                 "none"
             ],
             "Zakiyah": [
-                "13)",
+                "12)",
                 "",
                 "none"
             ]
@@ -1094,7 +1079,9 @@
             "https://goo.gl/maps/xA9YMzPGc6Vhxi5r8",
             "https://goo.gl/maps/iu3xzNwgJ32esP5RA"
         ],
-        "store_note": [],
+        "store_note": [
+            "*Check in with Mt Pleasant after if done in decent timing"
+        ],
         "employee_list": {
             "Katherine": [
                 "1)",
