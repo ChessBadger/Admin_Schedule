@@ -297,34 +297,34 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Celina": [
+            "Andrew": [
                 "2)",
                 "@ Store",
                 "none"
             ],
-            "Cynthia": [
+            "Celina": [
                 "3)",
+                "@ Store",
+                "none"
+            ],
+            "Cynthia": [
+                "4)",
                 "",
                 "none"
             ],
             "Greg": [
-                "4)",
+                "5)",
                 "Driver,\nRed Van",
                 "none"
             ],
             "Jerry D": [
-                "5)",
+                "6)",
                 "@ Store",
                 "Milwaukee"
             ],
-            "Matthew": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Sonia": [
+            "Leyna": [
                 "7)",
-                "",
+                "@ Store",
                 "none"
             ],
             "Bri": [
@@ -364,27 +364,27 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Andrew": [
-                "2)",
-                "work w/ Leyna",
-                "none"
-            ],
             "Carlie": [
-                "3)",
+                "2)",
                 "Driver,\nRed Camry",
                 "none"
             ],
             "Kim": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Matthew": [
                 "4)",
                 "",
                 "none"
             ],
-            "Leyna": [
+            "Paul": [
                 "5)",
-                "Trainer",
+                "",
                 "none"
             ],
-            "Paul": [
+            "Sonia": [
                 "6)",
                 "",
                 "none"
