@@ -553,28 +553,23 @@
                 "",
                 "none"
             ],
-            "Monica": [
-                "10)",
-                "",
-                "none"
-            ],
             "Paul": [
-                "11)",
+                "10)",
                 "Until 11:30",
                 "none"
             ],
             "Sonia": [
-                "12)",
+                "11)",
                 "",
                 "none"
             ],
             "Sue": [
-                "13)",
+                "12)",
                 "",
                 "none"
             ],
             "Zakiyah": [
-                "14)",
+                "13)",
                 "",
                 "none"
             ]
@@ -683,48 +678,43 @@
                 "@ Store,\nRx",
                 "none"
             ],
-            "Ashley P": [
-                "5)",
-                "@ Store,\nSupv Rx",
-                "Rockford"
-            ],
             "Eva": [
-                "6)",
+                "5)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Joseph": [
-                "7)",
+                "6)",
                 "@ Store",
                 "none"
             ],
             "Justin Lee": [
+                "7)",
+                "@ Store,\nSupv Rx",
+                "none"
+            ],
+            "Lori": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Lori": [
-                "9)",
-                "@ Store",
-                "none"
-            ],
             "Michael N": [
-                "10)",
+                "9)",
                 "@ Store",
                 "Rockford"
             ],
             "Nate": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Qiana": [
-                "12)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Sarah": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ]
@@ -1125,38 +1115,33 @@
                 "@ Store",
                 "none"
             ],
-            "Ashley P": [
+            "Emily L": [
                 "5)",
                 "@ Store",
                 "Rockford"
             ],
-            "Emily L": [
-                "6)",
-                "@ Store",
-                "Rockford"
-            ],
             "Eva": [
-                "7)",
+                "6)",
                 "@ Store",
                 "none"
             ],
             "Joseph": [
-                "8)",
+                "7)",
                 "@ Store",
                 "none"
             ],
             "Justin Lee": [
-                "9)",
+                "8)",
                 "@ Store,\nUntil 9:00",
                 "none"
             ],
             "Nate": [
-                "10)",
+                "9)",
                 "@ Store,\nUntil 9:00",
                 "none"
             ],
             "Qiana": [
-                "11)",
+                "10)",
                 "@ Store,\nTrainer",
                 "none"
             ]
