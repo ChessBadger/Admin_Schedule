@@ -1478,27 +1478,27 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Celina": [
+            "Greg": [
                 "2)",
                 "",
                 "none"
             ],
-            "Greg": [
+            "Matthew": [
                 "3)",
                 "",
                 "none"
             ],
-            "Jerry D": [
-                "4)",
-                "Driver,\nRed Van,\nSupv Rx",
-                "Milwaukee"
-            ],
             "Sonia": [
-                "5)",
+                "4)",
                 "",
                 "none"
             ],
             "Sue": [
+                "5)",
+                "Driver,\nRed Van",
+                "none"
+            ],
+            "Zakiyah": [
                 "6)",
                 "",
                 "none"
@@ -1515,7 +1515,7 @@
             ],
             "Ashley P": [
                 "9)",
-                "@ Store",
+                "@ Store,\nSupv Rx",
                 "Rockford"
             ],
             "Bri": [
@@ -1575,37 +1575,37 @@
                 "",
                 "none"
             ],
-            "Cynthia": [
+            "Celina": [
                 "4)",
                 "",
                 "none"
             ],
-            "Leyna": [
+            "Cynthia": [
                 "5)",
                 "",
                 "none"
             ],
-            "Mariah": [
+            "Jerry D": [
                 "6)",
                 "",
-                "none"
+                "Milwaukee"
             ],
-            "Matthew": [
+            "Leyna": [
                 "7)",
                 "",
                 "none"
             ],
-            "Monica": [
+            "Mariah": [
                 "8)",
                 "",
                 "none"
             ],
-            "Paul": [
+            "Monica": [
                 "9)",
                 "",
                 "none"
             ],
-            "Zakiyah": [
+            "Paul": [
                 "10)",
                 "",
                 "none"
